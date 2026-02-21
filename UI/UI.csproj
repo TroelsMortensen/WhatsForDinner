@@ -13,7 +13,6 @@
 
     <ItemGroup>
       <Folder Include="wwwroot\images\recipe-images\" />
-      <Folder Include="wwwroot\recipes\" />
     </ItemGroup>
 
 </Project>
