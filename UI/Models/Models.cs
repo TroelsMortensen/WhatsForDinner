@@ -1,8 +1,9 @@
 using Microsoft.AspNetCore.Components;
+using System.Text.Json.Serialization;
 
 namespace UI.Models;
 
-record Recipe(
+public record Recipe(
     int Id,
     string Title,
     string? SubHeader,
@@ -16,24 +17,24 @@ record Recipe(
     List<Keyword> Keywords
 );
 
-record RecipeGroup(
+public record RecipeGroup(
     string Title,
-    List<Ingredient> Ingredients,
-    MarkupString Instructions
+    List<Ingredient> Ingredients
 );
 
-record Ingredient(
+public record Ingredient(
     double? Quantity,
     string? Unit,
     string Name,
     string? PreparationNote
 );
 
-class Keyword
+public class Keyword
 {
     public string Value { get; private set; }
     
-    private Keyword(string value) => Value = value;
+    [JsonConstructor]
+    public Keyword(string value) => Value = value;
     
     public static Keyword MOROCCAN { get; } = new ("Marokkansk");
     public static Keyword SPANISH { get; } = new ("Spansk");
