@@ -63,7 +63,7 @@ public class RecipeJsonToModelsTests
         Recipe recipe = DeserializeRecipe(RecipeWithKeywordsJson);
 
         Assert.Equal(2, recipe.Keywords.Count);
-        Assert.Equal("Suppe", recipe.Keywords[0].Value);
+        Assert.Equal("Suppe", recipe.Keywords[0]);
     }
 
     [Fact]
@@ -213,8 +213,8 @@ public class RecipeJsonToModelsTests
                                                     "Note": "",
                                                     "ImageUrl": null,
                                                     "Keywords": [
-                                                      { "Value": "Suppe" },
-                                                      { "Value": "Vegetar" }
+                                                      "Suppe",
+                                                      "Vegetar"
                                                     ]
                                                   }
                                                   """;
@@ -268,8 +268,8 @@ public class RecipeJsonToModelsTests
                                             "Note": "Grøntsagerne skal ikke skæres fint.",
                                             "ImageUrl": null,
                                             "Keywords": [
-                                              { "Value": "Suppe" },
-                                              { "Value": "Vegetar" }
+                                              "Suppe",
+                                              "Vegetar"
                                             ]
                                           }
                                           """;

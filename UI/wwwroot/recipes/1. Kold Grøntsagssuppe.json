@@ -50,7 +50,7 @@
     "Note": "Grøntsagerne skal ikke skæres fint, for de skal blot i blenderen. Derfor er retten også temmelig hurtig at tilberede, men husk, at den gerne skal stå på køl i halvanden time før servering. Er du utålmodig, så blend et par isterninger i og server den med det samme.",
     "ImageUrl": null,
     "Keywords": [
-      { "Value": "Suppe" },
-      { "Value": "Vegetar" }
+      "Suppe",
+      "Vegetar"
     ]
   }

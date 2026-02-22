@@ -1,0 +1,75 @@
+@page "/recipe/{Id:int}"
+
+<PageTitle>@PageTitle</PageTitle>
+
+@if (IsLoading)
+{
+    <p class="recipe-status">Indlæser opskrift...</p>
+}
+else if (!string.IsNullOrWhiteSpace(ErrorMessage))
+{
+    <p class="recipe-status recipe-error">@ErrorMessage</p>
+}
+else if (RecipeData is null)
+{
+    <p class="recipe-status">Opskriften blev ikke fundet.</p>
+}
+else
+{
+    <article class="recipe-page">
+        <header class="recipe-header">
+            <h1>@RecipeData.Title</h1>
+            <div class="recipe-meta">
+                @if (RecipeData.NumberOfPersons is not null)
+                {
+                    <span>👤 @RecipeData.NumberOfPersons PERS.</span>
+                }
+                @if (RecipeData.MinutesOfPreparation is not null)
+                {
+                    <span>🥣 @FormatMinutes(RecipeData.MinutesOfPreparation.Value)</span>
+                }
+                @if (RecipeData.TotalMinutes is not null)
+                {
+                    <span>🕒 @FormatMinutes(RecipeData.TotalMinutes.Value)</span>
+                }
+            </div>
+            @if (!string.IsNullOrWhiteSpace(RecipeData.SubHeader))
+            {
+                <p class="intro-text">@RecipeData.SubHeader</p>
+            }
+        </header>
+
+        <div class="container">
+            <section class="ingredients">
+                <h2>Ingredienser</h2>
+                @foreach (var group in RecipeData.RecipeGroups)
+                {
+                    <h3>@group.Title</h3>
+                    <ul class="ingredients-list">
+                        @foreach (var ingredient in group.Ingredients)
+                        {
+                            <li>@FormatIngredient(ingredient)</li>
+                        }
+                    </ul>
+                }
+            </section>
+
+            <section class="instructions">
+                <h2>Fremgangsmåde</h2>
+                @RecipeData.Instructions
+
+                @if (!string.IsNullOrWhiteSpace(RecipeData.Note))
+                {
+                    <div class="note">
+                        <span class="note-star">☆</span>@RecipeData.Note
+                    </div>
+                }
+
+                @if (!string.IsNullOrWhiteSpace(RecipeData.ImageUrl))
+                {
+                    <img class="recipe-image" src="@RecipeData.ImageUrl" alt="@RecipeData.Title" />
+                }
+            </section>
+        </div>
+    </article>
+}

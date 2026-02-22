@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Components;
-using System.Text.Json.Serialization;
+using System.Reflection;
 
 namespace UI.Models;
 
@@ -13,8 +13,8 @@ public record Recipe(
     List<RecipeGroup> RecipeGroups,
     MarkupString Instructions,
     string Note,
-    string? ImageUrl, 
-    List<Keyword> Keywords
+    string? ImageUrl,
+    List<string> Keywords
 );
 
 public record RecipeGroup(
@@ -29,24 +29,29 @@ public record Ingredient(
     string? PreparationNote
 );
 
-public class Keyword
+public static class Keyword
 {
-    public string Value { get; private set; }
-    
-    [JsonConstructor]
-    public Keyword(string value) => Value = value;
-    
-    public static Keyword MOROCCAN { get; } = new ("Marokkansk");
-    public static Keyword SPANISH { get; } = new ("Spansk");
-    public static Keyword FRENCH { get; } = new ("Fransk");
-    public static Keyword ITALIAN { get; } = new ("Italiensk");
-    public static Keyword ONE_POT { get; } = new ("One Pot");
-    public static Keyword SLOW_COOKER { get; } = new ("Slow Cooker");
-    public static Keyword VEGETARIAN { get; } = new ("Vegetar");
-    public static Keyword FISH { get; } = new ("Fisk");
-    public static Keyword CHICKEN { get; } = new ("Kylling");
-    public static Keyword BEEF { get; } = new ("Oksekød");
-    public static Keyword SOUP { get; } = new ("Suppe");
-    public static Keyword PASTA { get; } = new ("Pasta");
-    public static Keyword ASIAN { get; } = new ("Asiatisk");
+    public static IReadOnlyList<string> All { get; } = typeof(Keyword)
+        .GetProperties(BindingFlags.Public | BindingFlags.Static)
+        .Where(p => p.PropertyType == typeof(string) && p.Name != nameof(All))
+        .Select(p => p.GetValue(null) as string)
+        .Where(v => !string.IsNullOrWhiteSpace(v))
+        .Cast<string>()
+        .ToList()
+        .AsReadOnly();
+
+    public static string MOROCCAN { get; } = "Marokkansk";
+    public static string SPANISH { get; } = "Spansk";
+    public static string FRENCH { get; } = "Fransk";
+    public static string ITALIAN { get; } = "Italiensk";
+    public static string ONE_POT { get; } = "One Pot";
+    public static string SLOW_COOKER { get; } = "Slow Cooker";
+    public static string VEGETARIAN { get; } = "Vegetar";
+    public static string FISH { get; } = "Fisk";
+    public static string CHICKEN { get; } = "Kylling";
+    public static string BEEF { get; } = "Oksekød";
+    public static string SOUP { get; } = "Suppe";
+    public static string PASTA { get; } = "Pasta";
+    public static string ASIAN { get; } = "Asiatisk";
+    public static string AIRFRYER { get; } = "Air Fryer";
 }
