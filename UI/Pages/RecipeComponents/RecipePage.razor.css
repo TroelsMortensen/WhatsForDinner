@@ -1,0 +1,128 @@
+.recipe-page {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: #fcfcfc;
+}
+
+.recipe-header {
+    text-align: center;
+    margin-bottom: 40px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.recipe-header h1 {
+    font-weight: 300;
+    font-size: 2.2em;
+    margin-bottom: 10px;
+}
+
+.recipe-meta {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 0.9em;
+    color: #666;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+    padding: 10px 0;
+}
+
+.intro-text {
+    margin: 20px auto 0;
+    max-width: 800px;
+    text-align: center;
+    text-transform: none;
+    letter-spacing: normal;
+    font-style: italic;
+    color: #555;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1.5fr;
+    gap: 40px;
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 1.1em;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+    font-weight: 400;
+    color: #555;
+}
+
+h3 {
+    font-size: 0.9em;
+    text-transform: uppercase;
+    color: #888;
+    margin: 25px 0 10px;
+    border-bottom: 1px solid #eee;
+}
+
+.ingredients-list {
+    list-style: none;
+    padding: 0;
+}
+
+.ingredients-list li {
+    margin-bottom: 5px;
+    font-style: italic;
+}
+
+.instructions {
+    border-left: 1px solid #ddd;
+    padding-left: 40px;
+}
+
+.note {
+    margin-top: 40px;
+    font-size: 0.95em;
+    color: #444;
+}
+
+.note-star {
+    font-size: 1.2em;
+    margin-right: 5px;
+}
+
+.recipe-image {
+    display: block;
+    width: 100%;
+    max-width: 500px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+.recipe-status {
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 12px 20px;
+}
+
+.recipe-error {
+    color: #9f1f1f;
+}
+
+@media (max-width: 900px) {
+    .recipe-page {
+        margin: 20px auto;
+        padding: 14px;
+    }
+
+    .container {
+        grid-template-columns: 1fr;
+        gap: 20px;
+    }
+
+    .instructions {
+        border-left: none;
+        padding-left: 0;
+    }
+}
