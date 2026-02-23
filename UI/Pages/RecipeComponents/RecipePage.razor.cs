@@ -42,10 +42,8 @@ public partial class RecipePage : ComponentBase
         {
             ErrorMessage = "Der opstod en fejl ved indlæsning af opskriften.";
         }
-        finally
-        {
-            IsLoading = false;
-        }
+
+        IsLoading = false;
     }
 
     private static string FormatMinutes(int minutes)
