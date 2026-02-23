@@ -29,6 +29,8 @@ public record Ingredient(
     string? PreparationNote
 );
 
+public record RecipeIndex(string Id, List<string> Keywords);
+
 public static class Keyword
 {
     public static IReadOnlyList<string> All { get; } = typeof(Keyword)

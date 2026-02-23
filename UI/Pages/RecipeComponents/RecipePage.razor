@@ -2,35 +2,38 @@
 
 <PageTitle>@PageTitle</PageTitle>
 
-@if (IsLoading)
-{
-    <p class="recipe-status">Indlæser opskrift...</p>
-}
-else if (!string.IsNullOrWhiteSpace(ErrorMessage))
-{
-    <p class="recipe-status recipe-error">@ErrorMessage</p>
-}
-else if (RecipeData is null)
-{
-    <p class="recipe-status">Opskriften blev ikke fundet.</p>
-}
-else
-{
-    <article class="recipe-page">
+<div class="recipe-page-shell">
+    <NavLink class="home-link" href="/" Match="NavLinkMatch.All">⌂ Home</NavLink>
+
+    @if (IsLoading)
+    {
+        <p class="recipe-status">Indlæser opskrift...</p>
+    }
+    else if (!string.IsNullOrWhiteSpace(ErrorMessage))
+    {
+        <p class="recipe-status recipe-error">@ErrorMessage</p>
+    }
+    else if (RecipeData is null)
+    {
+        <p class="recipe-status">Opskriften blev ikke fundet.</p>
+    }
+    else
+    {
+        <article class="recipe-page">
         <header class="recipe-header">
             <h1>@RecipeData.Title</h1>
             <div class="recipe-meta">
                 @if (RecipeData.NumberOfPersons is not null)
                 {
-                    <span>👤 @RecipeData.NumberOfPersons PERS.</span>
+                    <span><span class="recipe-icon">👤</span> @RecipeData.NumberOfPersons PERS.</span>
                 }
                 @if (RecipeData.MinutesOfPreparation is not null)
                 {
-                    <span>🥣 @FormatMinutes(RecipeData.MinutesOfPreparation.Value)</span>
+                    <span><span class="recipe-icon">🥣</span> @FormatMinutes(RecipeData.MinutesOfPreparation.Value)</span>
                 }
                 @if (RecipeData.TotalMinutes is not null)
                 {
-                    <span>🕒 @FormatMinutes(RecipeData.TotalMinutes.Value)</span>
+                    <span><span class="recipe-icon">🕒</span> @FormatMinutes(RecipeData.TotalMinutes.Value)</span>
                 }
             </div>
             @if (!string.IsNullOrWhiteSpace(RecipeData.SubHeader))
@@ -55,7 +58,6 @@ else
             </section>
 
             <section class="instructions">
-                <h2>Fremgangsmåde</h2>
                 @RecipeData.Instructions
 
                 @if (!string.IsNullOrWhiteSpace(RecipeData.Note))
@@ -72,4 +74,5 @@ else
             </section>
         </div>
     </article>
-}
+    }
+</div>

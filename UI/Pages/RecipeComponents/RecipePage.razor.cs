@@ -8,7 +8,7 @@ namespace UI.Pages.RecipeComponents;
 
 public partial class RecipePage : ComponentBase
 {
-    private static IReadOnlyList<string> recipeFileNames = [];
+    private static IReadOnlyList<RecipeIndex> recipeFileNames = [];
 
     [Parameter] public int Id { get; set; }
 
@@ -29,13 +29,13 @@ public partial class RecipePage : ComponentBase
 
         try
         {
-            string? recipeFileName = await FindRecipeFileNameAsync(Id);
+            RecipeIndex? recipeFileName = await FindRecipeFileNameAsync(Id);
             if (recipeFileName is null)
             {
                 return;
             }
 
-            string recipePath = $"recipes/{Uri.EscapeDataString(recipeFileName)}";
+            string recipePath = $"recipes/{Uri.EscapeDataString(recipeFileName.Id)}";
             RecipeData = await HttpClient.GetFromJsonAsync<Recipe>(recipePath, JsonSerializerOptions);
         }
         catch
@@ -80,24 +80,24 @@ public partial class RecipePage : ComponentBase
         return $"{quantity}{unitPart} {ingredient.Name}{notePart}";
     }
 
-    private async Task<string?> FindRecipeFileNameAsync(int recipeId)
+    private async Task<RecipeIndex?> FindRecipeFileNameAsync(int recipeId)
     {
-        IReadOnlyList<string> fileNames = await GetAllRecipeFileNamesAsync();
+        IReadOnlyList<RecipeIndex> indices = await GetAllRecipeFileNamesAsync();
         string expectedPrefix = recipeId.ToString(CultureInfo.InvariantCulture) + ".";
 
-        return fileNames.FirstOrDefault(fileName =>
-            fileName.EndsWith(".json", StringComparison.OrdinalIgnoreCase) &&
-            fileName.StartsWith(expectedPrefix, StringComparison.Ordinal));
+        return indices.FirstOrDefault(fileName =>
+            fileName.Id.EndsWith(".json", StringComparison.OrdinalIgnoreCase) &&
+            fileName.Id.StartsWith(expectedPrefix, StringComparison.Ordinal));
     }
 
-    private async Task<IReadOnlyList<string>> GetAllRecipeFileNamesAsync()
+    private async Task<IReadOnlyList<RecipeIndex>> GetAllRecipeFileNamesAsync()
     {
         if (recipeFileNames.Any())
         {
             return recipeFileNames;
         }
 
-        List<string>? fileNames = await HttpClient.GetFromJsonAsync<List<string>>("recipes/index.json");
+        List<RecipeIndex>? fileNames = await HttpClient.GetFromJsonAsync<List<RecipeIndex>>("recipes/index.json");
         recipeFileNames = fileNames ?? [];
         return recipeFileNames;
     }
