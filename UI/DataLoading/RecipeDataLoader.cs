@@ -1,4 +1,3 @@
-using System.Globalization;
 using System.Net.Http.Json;
 using System.Text.Json;
 using UI.Models;
@@ -10,7 +9,7 @@ public class RecipeDataLoader(HttpClient httpClient, JsonSerializerOptions jsonS
     private const int RecipeCacheLimit = 5;
 
     private IReadOnlyList<RecipeIndex> _recipeIndices = [];
-    private readonly Queue<Recipe> recipeCacheQueue = new();
+    private readonly Queue<Recipe> _recipeCacheQueue = new();
 
     public async Task<IReadOnlyList<RecipeIndex>> GetAllRecipeIndicesAsync()
     {
@@ -29,22 +28,12 @@ public class RecipeDataLoader(HttpClient httpClient, JsonSerializerOptions jsonS
     public async Task<RecipeIndex?> FindRecipeIndexAsync(int recipeId)
     {
         IReadOnlyList<RecipeIndex> indices = await GetAllRecipeIndicesAsync();
-        string expectedPrefix = recipeId.ToString(CultureInfo.InvariantCulture) + ".";
-
-        return indices.FirstOrDefault(index =>
-            index.Id.EndsWith(".json", StringComparison.OrdinalIgnoreCase) &&
-            index.Id.StartsWith(expectedPrefix, StringComparison.Ordinal));
+        return indices.FirstOrDefault(index => index.Id == recipeId);
     }
 
     public async Task<Recipe?> LoadRecipeAsync(RecipeIndex recipeIndex)
     {
-        int? requestedRecipeId = TryGetRecipeIdFromIndexFileName(recipeIndex.Id);
-        if (!requestedRecipeId.HasValue)
-        {
-            return null;
-        }
-
-        Recipe? recipe = TryGetFromCache(requestedRecipeId.Value);
+        Recipe? recipe = TryGetFromCache(recipeIndex.Id);
         if (recipe is not null)
         {
             return recipe;
@@ -63,37 +52,24 @@ public class RecipeDataLoader(HttpClient httpClient, JsonSerializerOptions jsonS
 
     private void CacheRecipe(Recipe loadedRecipe)
     {
-        recipeCacheQueue.Enqueue(loadedRecipe);
+        _recipeCacheQueue.Enqueue(loadedRecipe);
 
-        while (recipeCacheQueue.Count > RecipeCacheLimit)
+        while (_recipeCacheQueue.Count > RecipeCacheLimit)
         {
-            _ = recipeCacheQueue.Dequeue();
+            _ = _recipeCacheQueue.Dequeue();
         }
     }
 
     private async Task<Recipe?> TryLoadRecipe(RecipeIndex recipeIndex)
     {
-        string recipePath = $"recipes/{Uri.EscapeDataString(recipeIndex.Id)}";
+        string fileName = $"{recipeIndex.Id}. {recipeIndex.Title}.json";
+        string recipePath = $"recipes/{Uri.EscapeDataString(fileName)}";
         Recipe? loadedRecipe = await httpClient.GetFromJsonAsync<Recipe>(recipePath, jsonSerializerOptions);
         return loadedRecipe;
     }
 
     private Recipe? TryGetFromCache(int requestedRecipeId)
     {
-        return recipeCacheQueue.FirstOrDefault(recipe => recipe.Id == requestedRecipeId);
-    }
-
-    private static int? TryGetRecipeIdFromIndexFileName(string indexFileName)
-    {
-        int separator = indexFileName.IndexOf('.');
-        if (separator <= 0)
-        {
-            return null;
-        }
-
-        string prefix = indexFileName[..separator];
-        return int.TryParse(prefix, NumberStyles.Integer, CultureInfo.InvariantCulture, out int recipeId)
-            ? recipeId
-            : null;
+        return _recipeCacheQueue.FirstOrDefault(recipe => recipe.Id == requestedRecipeId);
     }
 }

@@ -1,13 +1,22 @@
 [
   {
-    "Id": "1. Kold Grøntsagssuppe.json",
+    "Id": 1,
+    "Title": "Kold Grøntsagssuppe",
     "Keywords": [
       "Suppe",
       "Vegetar"
     ]
   },
   {
-    "Id": "2. Pita med snyde falafel.json",
+    "Id": 2,
+    "Title": "Pita med snyde falafel",
+    "Keywords": [
+      "Vegetar"
+    ]
+  },
+  {
+    "Id": 3,
+    "Title": "Bagt gnocchi med tomater i bradepande",
     "Keywords": [
       "Vegetar"
     ]
