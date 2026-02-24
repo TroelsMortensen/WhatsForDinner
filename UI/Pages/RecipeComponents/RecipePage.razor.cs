@@ -32,6 +32,8 @@ public partial class RecipePage : ComponentBase
             RecipeIndex? recipeFileName = await FindRecipeFileNameAsync(Id);
             if (recipeFileName is null)
             {
+                ErrorMessage = "Opskriften blev ikke fundet.";
+                IsLoading = false;
                 return;
             }
 

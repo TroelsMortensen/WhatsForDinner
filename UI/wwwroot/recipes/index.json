@@ -1,6 +1,15 @@
 [
   {
     "Id": "1. Kold Grøntsagssuppe.json",
-    "Keywords": []
+    "Keywords": [
+      "Suppe",
+      "Vegetar"
+    ]
+  },
+  {
+    "Id": "2. Pita med snyde falafel.json",
+    "Keywords": [
+      "Vegetar"
+    ]
   }
 ]
