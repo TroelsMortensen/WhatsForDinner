@@ -1,0 +1,40 @@
+{
+    "Id": 3,
+    "Title": "Bagt gnocchi med tomater i bradepande",
+    "SubHeader": "Det bliver ikke meget nemmere, for her køber jeg et par poser friske, færdiglavede gnocchi fra køledisken og kommer dem direkte i en bradepande sammen med tomater, løg, krydderier og smuldret Gammel Knas samt pinjekerner. Mens maden passer sig selv i ovnen, kan man både nå at dække bord og tage sig en rar lille pause.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+      {
+        "Title": "Ingredienser",
+        "Ingredients": [
+          { "Quantity": 800, "Unit": "g", "Name": "gnocchi", "PreparationNote": null },
+          { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "i både" },
+          { "Quantity": 500, "Unit": "g", "Name": "tomater", "PreparationNote": "i halve" },
+          { "Quantity": 30, "Unit": "g", "Name": "soltørrede tomater i olie", "PreparationNote": "finthakkede" },
+          { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fintrevne" },
+          { "Quantity": 0.5, "Unit": "tsk", "Name": "tørret rosmarin", "PreparationNote": null },
+          { "Quantity": 1, "Unit": "tsk", "Name": "timian", "PreparationNote": null },
+          { "Quantity": 40, "Unit": "g", "Name": "pinjekerner", "PreparationNote": null },
+          { "Quantity": 50, "Unit": "g", "Name": "Gammel Knas", "PreparationNote": "smuldret" },
+          { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+          { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+        ]
+      },
+      {
+        "Title": "Til servering",
+        "Ingredients": [
+          { "Quantity": 75, "Unit": "g", "Name": "rucola", "PreparationNote": null },
+          { "Quantity": 1, "Unit": "håndfuld", "Name": "basilikum", "PreparationNote": null },
+          { "Quantity": 150, "Unit": "g", "Name": "burrata", "PreparationNote": null }
+        ]
+      }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom gnocchi, løg og tomater i et smurt ovnfast fad.</p><p>Rør soltørrede tomater, hvidløg, rosmarin og timian sammen i en skål med olivenolie, salt og peber. Hæld krydderolien over fadet og vend det hele godt sammen.</p><p>Drys med pinjekerner og Gammel Knas.</p><p>Bag i en forvarmet ovn ved 190 grader varmluft i 30-40 minutter.</p><p>Tag fadet ud og top med rucola, basilikum og burrata. Server straks.</p>",
+    "Note": "Gammel Knas er en virkelig lækker hård ost med saltkrystaller. Den kan erstattes af andre lignende hårde oste, som fx parmesan eller vesterhavsost.",
+    "ImageUrl": null,
+    "Keywords": [
+      "Vegetar"
+    ]
+  }
