@@ -1,0 +1,93 @@
+{
+  "Id": 43,
+  "Title": "One Pot kylling og pasta",
+  "SubHeader": null,
+  "TotalMinutes": 10,
+  "MinutesOfPreparation": 10,
+  "NumberOfPersons": null,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "gpasta",
+          "PreparationNote": "fxpastaror"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tsk.torret oregano",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "kyllingebryst",
+          "PreparationNote": "i strimler"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "bundter forarslog i1 cm skra skiver - kan erstattes af",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "spinat - gerne den gode grove ellers sa 150 g",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "spinat fra frost",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Salt og peber",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "/dl vand",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "PYNT:",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Olivenmic, men ogsa parmesan og den helt fraekke",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "sprgdstegtbacon i tern",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 52.0,
+          "Unit": null,
+          "Name": "52",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>TID I GRYDEN:2O MINUTTER</p><p>IGRYDEN</p><p>1.</p><p>2-3 fed hvidlog, finthakket</p><p>2. Kog i 10 minutters tid, til pastaen er al dente.</p><p>1 dusk frisk timian</p><p>Ror sammen, og smag til med salt og peber.</p><p>3.</p><p>4.Server med olivenmix.</p><p>terning honsebouillon</p><p>1 dl piskeflode</p><p>250 g friske gronne bonner</p><p>et par gode store porrer</p><p>ONE POTMED PASTA</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/43. One Pot kylling og pasta.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

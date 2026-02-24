@@ -1,0 +1,134 @@
+{
+  "Id": 5,
+  "Title": "Beluga bolognese",
+  "SubHeader": null,
+  "TotalMinutes": 60,
+  "MinutesOfPreparation": 1,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": null,
+          "Name": "ggulerodder",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": null,
+          "Name": "gsquash",
+          "PreparationNote": "groftrevet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidlog",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tsktorret timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "tsk torretrosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "ghakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 30.0,
+          "Unit": null,
+          "Name": "gsoltorredetomater",
+          "PreparationNote": "meget"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "finthakkede",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": null,
+          "Name": "gbelugalinser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "piskeflode",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "rodvin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "gpasta",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie og smor til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 75.0,
+          "Unit": null,
+          "Name": "gvesterhavsostellerparmesan",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld basilikum",
+          "PreparationNote": "finthakket"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>de er blode.Kom gulerodder,squash, hvidlog,timian og</p><p>rosmarinigryden og sauter videreica.1 minut.</p><p>Tilfoj dehakkedetomater,soltorrede tomater,gront-</p><p>sagsbouillon,belugalinser,piskeflode og rodvin.Ror</p><p>det hele godt sammen, laeglag pa og lad det simrei30</p><p>minutter.</p><p>Smag til med salt og peber og lad retten simreiyder-</p><p>ligere 15-20 minutter.</p><p>Kog imens pastaen efter pakkens anvisninger.Server</p><p>bolognesen med friskkogt pasta og et drys friskrevet ost</p><p>samt lidt finthakket basilikum.</p><p>★ Skal der endnu flere grontsageri din vegetar-</p><p>bolognese, sa supplergerne opmed ekstra tomater,</p><p>groftrevne gulerodder, aubergine og bladselleri.</p><p>friskrevet</p><p>Pasta,gnocchi,risottomed</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/5. Beluga bolognese.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

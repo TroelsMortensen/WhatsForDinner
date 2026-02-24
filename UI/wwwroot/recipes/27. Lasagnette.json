@@ -1,0 +1,153 @@
+{
+  "Id": 27,
+  "Title": "Lasagnette",
+  "SubHeader": null,
+  "TotalMinutes": 60,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidlog",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": null,
+          "Name": "ggulerodder",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "staenglerbladselleri",
+          "PreparationNote": "ismd tern"
+        },
+        {
+          "Quantity": 175.0,
+          "Unit": "g",
+          "Name": "belugalinser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "torret oregano",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "torret timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "tsk torret rosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 800.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "koncentreret tomatpuré",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "soltorrede tomateriolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "piskeflode",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "spskmajsstivelse",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "mcelk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "pasta",
+          "PreparationNote": "fx mafalda corta eller"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "paciocche",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": null,
+          "Name": "gfrisk mozzarella",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": null,
+          "Name": "gvesterhavsostellerparmesan",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "friskrevet",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm olie op i en gryde og sauter log, hvidlog, gulerod-</p><p>der og bladselleri, til logene er blode. Tilsaet beluga-</p><p>linser, krydderier, hakkede tomater, tomatpureé,</p><p>soltorrede tomater, grontsagsbouillon, piskeflode og</p><p>majsstivelse rort ud i maelk. Bring i kog under omroring,</p><p>laeg lag pa og lad det simre i ca. 30 minutter. Ror godt</p><p>igennem og smag til med salt og friskkvaernet peber.</p><p>Ror pastaen i gryden og kom derefter retten i et smurt</p><p>ovnfast fad. Fordel mozzarella over og kom fadet i en</p><p>forvarmet ovn ved 175 grader varmluft og bag i ca. 25</p><p>minutter, til pastaen er perfekt mor med lidt bid. Drys</p><p>finthakkede</p><p>lidt ost over inden servering.</p><p>koger ikke ud pa samme made som fx rode linser. Man</p><p>kan erstatte belugalinser med Le Puy delikatesselinser</p><p>eller med gronne linser.</p><p>Madifad</p>",
+  "Note": "Belugalinser holder formen under tilberedningen og",
+  "ImageUrl": "/images/recipe-images/27. Lasagnette.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

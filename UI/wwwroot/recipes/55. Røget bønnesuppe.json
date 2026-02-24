@@ -1,0 +1,141 @@
+{
+  "Id": 55,
+  "Title": "Røget bønnesuppe",
+  "SubHeader": null,
+  "TotalMinutes": 20,
+  "MinutesOfPreparation": 20,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidlog",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": null,
+          "Name": "gsoltorredetomateriolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "ghakkedetomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rod peberfrugt",
+          "PreparationNote": "ismd tern"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "stilkebladselleri",
+          "PreparationNote": "ismdtern"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "gulerodder",
+          "PreparationNote": "ismdtern"
+        },
+        {
+          "Quantity": 7.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "/2 tsk roget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tsksodpaprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "knivspids stodt safran",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "tskknustefennikelfrg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "torret timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "dase sorte bgnner",
+          "PreparationNote": "draenede og"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "dase butterbeans",
+          "PreparationNote": "draenede og"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld persille",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "skivergodt brod",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log, hvidlog og soltorrede tomateri en stor gryde</p><p>med olie, til logene er blode. Tilsaet hakkede tomater,</p><p>peberfrugt, bladselleri, gulerodder, grontsagsbouillon</p><p>og krydderier. Lad det koge op under omroring.</p><p>finthakkede</p><p>Laeg lag pa gryden og lad suppen simre i 15-20 minut-</p><p>ter. Tilsaet bonner, varm dem godt igennem og smag</p><p>suppen godt til med salt og peber. Server suppen i dybe</p><p>tallerkener eller skale med et drys persille og ristet</p><p>brod.</p><p>tomater i olie, kan man sagtens bruge den olie, der er</p><p>ved tomaterne - den giver rigtig dejlig smag til suppen.</p><p>skyllede</p><p>skyllede</p><p>ddns</p>",
+  "Note": "Nar man sauterer log og hvidlog med de soltorrede",
+  "ImageUrl": "/images/recipe-images/55. Røget bønnesuppe.jpg",
+  "Keywords": [
+    "Suppe",
+    "Vegetar"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "Id": 10,
+  "Title": "Chili gryde med kartofler",
+  "SubHeader": null,
+  "TotalMinutes": 20,
+  "MinutesOfPreparation": 20,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "fedhvidlog",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "gkartofler",
+          "PreparationNote": "itern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "roget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "tskstodtspidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "y2tskchiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "spskkoncentreret tomatpure",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 5.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "ghakkedetomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "daser sortebonner",
+          "PreparationNote": "drcenede"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "ris",
+          "PreparationNote": "kogte"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lillehandfuldkoriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Vztsk chiliflager",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log og hvidlog ved middelvarmei en gryde med</p><p>olie,til logene er blode.Kom kartofler og krydderieri</p><p>gryden og ror det godt sammen iet par minutter.Tilsaet</p><p>tomatpure,grontsagsbouillon oghakkede tomater,laeg</p><p>lag pa gryden og lad det simrei20 minutter.</p><p>Kom derefter bonneriog smag godt til med salt ogpe-</p><p>ber. Kog videre et par minutter, til kartoflerne er perfekt</p><p>more.</p><p>Server den dampende varme gryderetiskale med de</p><p>og skyllede</p><p>kogte ris og et drys koriander og chiliflager.</p><p>finthakket</p><p>Tex</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/10. Chili gryde med kartofler.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

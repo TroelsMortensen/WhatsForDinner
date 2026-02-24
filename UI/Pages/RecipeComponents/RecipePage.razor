@@ -24,9 +24,15 @@
         <header class="recipe-header">
             <h1>@RecipeData.Title</h1>
             <div class="recipe-meta">
-                @if (RecipeData.NumberOfPersons is not null)
+                @if (RecipeData.NumberOfPersons is > 0)
                 {
-                    <span><span class="recipe-icon">👤</span> @RecipeData.NumberOfPersons PERS.</span>
+                    <span class="servings-control">
+                        <span class="recipe-icon">👤</span>
+                        <button class="servings-button" type="button" @onclick="DecrementPersons" disabled="@(CurrentPersons() <= 1)">-</button>
+                        <span class="servings-value">@CurrentPersons()</span>
+                        <button class="servings-button" type="button" @onclick="IncrementPersons">+</button>
+                        <span class="servings-label">PERS.</span>
+                    </span>
                 }
                 @if (RecipeData.MinutesOfPreparation is not null)
                 {

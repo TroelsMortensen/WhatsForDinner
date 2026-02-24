@@ -1,0 +1,152 @@
+{
+  "Id": 25,
+  "Title": "Kikærtevafler med bagte tomater",
+  "SubHeader": null,
+  "TotalMinutes": 25,
+  "MinutesOfPreparation": 25,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 500.0,
+          "Unit": null,
+          "Name": "gblommetomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "fedhvidlog",
+          "PreparationNote": "knuste"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "torretrosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "V2tsk torret timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "spsk",
+          "Name": "olivenolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvoernet peber",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "KIKARTEVAFLER",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": null,
+          "Name": "gkartofler",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "daserkikaerter",
+          "PreparationNote": "drcenede og"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuldpersille",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "fedhvidlog",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Y tsktorretrosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "oeg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": null,
+          "Name": "grasp",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "smor til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "saltogfriskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld basilikum",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 75.0,
+          "Unit": null,
+          "Name": "grucola",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": null,
+          "Name": "gburrata",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>OVNBAGTE TOMATER</p><p>OVNBAGTETOMATER</p><p>Kom tomater og hvidlog iet smurt ovnfastfad.Dryp</p><p>med olie og drys krydderier,salt og friskkvaernet peber</p><p>over.Bag i en forvarmet ovn ved 200 grader varmluft i</p><p>ca.20-25 minutter.</p><p>KIKERTEVAFLER</p><p>Kom de groftrevne kartofler,kikaerterne og de ovrige</p><p>ingredienseri en foodprocessor ogkor, til farsen er</p><p>grofthakket. Varm vaffeljernet op og kom smor pa. Bag</p><p>kikaertevaflerne en ad gangen, til de er gyldne og spro-</p><p>de. Laeg dem pa en rist, mens resten af vaflerne bages</p><p>skyllede</p><p>- sa holder de sig sprode.</p><p>SERVERING</p><p>Serverkikaertevaflerne med et par skefulde ricotta-</p><p>creme,toppet med bagte tomater,rucola ogbasilikum</p><p>samt burrata.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/25. Kikærtevafler med bagte tomater.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

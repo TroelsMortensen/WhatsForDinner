@@ -1,0 +1,146 @@
+{
+  "Id": 14,
+  "Title": "Gryderet med blomkål og kikærter",
+  "SubHeader": null,
+  "TotalMinutes": 10,
+  "MinutesOfPreparation": 10,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "tskkarry",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "tskstodtspidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskstodtkoriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskstgdtkardemomme",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "tskgaram masala",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": null,
+          "Name": "grode linser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "ghakkedetomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": null,
+          "Name": "gkartofler",
+          "PreparationNote": "ismd tern"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "mlkokosmcelk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "sguash",
+          "PreparationNote": "itern"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "blomkal",
+          "PreparationNote": "isma buketter"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "disekikcerter",
+          "PreparationNote": "drcenede og"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "basmatiris",
+          "PreparationNote": "kogt efteranvisning"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "cremefraiche 18 %",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskhampefrg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "V2 tsk chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld koriander",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>INGREDIENSER</p><p>Sauter log,hvidlog,karry,spidskommen,koriander,</p><p>2 log,finthakkede</p><p>4fedhvidlog,finthakkede</p><p>kardemomme og garam masala iolie ved middelvarme</p><p>til logene er blode. Kom linser, grontsagsbouillon,</p><p>hakkede tomater,kartofler ogkokosmaelkigryden og</p><p>lad det simre i15 minutter under lag.Tilsaet squash,</p><p>blomkal og kikaerter og lad retten simrei10 minutter.</p><p>Smag til med salt og friskkvaernet sort peber.</p><p>Serveri dybe tallerkener med kogte ris, en skefuld</p><p>cremefraiche og et drys hampefro, chiliflager efter</p><p>smag og lidt koriander.</p><p>skyllede</p><p>Gryderette</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/14. Gryderet med blomkål og kikærter.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

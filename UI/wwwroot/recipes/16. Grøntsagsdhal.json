@@ -1,0 +1,147 @@
+{
+  "Id": 16,
+  "Title": "Grøntsagsdhal",
+  "SubHeader": null,
+  "TotalMinutes": 1,
+  "MinutesOfPreparation": 1,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "tskkarry",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "tsk chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskstodtspidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stodtkoriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": null,
+          "Name": "grode linser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": null,
+          "Name": "ggulerodder",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": null,
+          "Name": "gsquash",
+          "PreparationNote": "groftrevet"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "fedhvidlog",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "ingefaer",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "mlkokosmoelk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "blomkal",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "saltogfriskkvoernet peber",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "TILBEHOR",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "ris",
+          "PreparationNote": "kogt efteranvisning"
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": null,
+          "Name": "gsaltedemandler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "grcesk yoghurt",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld koriander",
+          "PreparationNote": "finthakket"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter logiolieien storgryde ved middelvarme,</p><p>til logene er blode.Tilsaet herefter karry,chiliflager,</p><p>spidskommen og koriander og varm krydderierne godt</p><p>igennem i ca.1 minut under omroring.</p><p>Skyl linserneien sigte ogkom dem igryden sammen</p><p>med gulerodder,squash,hvidlog,ingefaer,grontsags-</p><p>bouillon,kokosmaelk og de hakkede tomater.Lad det</p><p>simre under lag i 20 minutter og kog imens risene efter</p><p>anvisning pa pakken.</p><p>Kom finthakket blomkaligryden med grontsagsdhal og</p><p>ror retten godt igennem. Laeg lag pa og lad retten simre</p><p>videre i yderligere 10-15 minutter.Tilsaet evt. lidt ekstra</p><p>grontsagsbouillon, hvis den bliver for fast. Smag til med</p><p>salt og friskkvaernet peber.</p><p>Server retten i dybe skale med kogte ris,saltede mand-</p><p>ler,graeskyoghurt og et dryskoriander.</p><p>★ Lyst til mere eller andet gront i suppen? Prov med</p><p>sma tern af kartofler eller sode kartofler,porreriskiver</p><p>ellerknoldselleri,pastinakker eller lignendeisma tern.</p><p>Jordskokker i tynde skiver er ogsa laekre i retten.Det er</p><p>en god mulighed for at fa ryddet opi grontsagsskuffen.</p><p>Indisk</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/16. Grøntsagsdhal.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

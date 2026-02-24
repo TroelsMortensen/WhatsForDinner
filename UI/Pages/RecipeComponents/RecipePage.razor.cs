@@ -14,6 +14,7 @@ public partial class RecipePage : ComponentBase
     private Recipe? RecipeData { get; set; }
     private bool IsLoading { get; set; }
     private string? ErrorMessage { get; set; }
+    private int? SelectedPersons { get; set; }
     private string PageTitle => RecipeData is null ? "Opskrift" : RecipeData.Title;
 
     protected override async Task OnParametersSetAsync()
@@ -21,6 +22,7 @@ public partial class RecipePage : ComponentBase
         IsLoading = true;
         ErrorMessage = null;
         RecipeData = null;
+        SelectedPersons = null;
 
         try
         {
@@ -32,6 +34,10 @@ public partial class RecipePage : ComponentBase
             }
 
             RecipeData = await RecipeDataLoader.LoadRecipeAsync(recipeIndex);
+            if (RecipeData?.NumberOfPersons is > 0)
+            {
+                SelectedPersons = RecipeData.NumberOfPersons;
+            }
         }
         catch
         {
@@ -61,14 +67,62 @@ public partial class RecipePage : ComponentBase
         return $"{wholeHours} T {remainingMinutes} MIN.";
     }
 
-    private static string FormatIngredient(Ingredient ingredient)
+    private void IncrementPersons()
+    {
+        if (!CanAdjustPersons())
+        {
+            return;
+        }
+
+        SelectedPersons = CurrentPersons() + 1;
+    }
+
+    private void DecrementPersons()
+    {
+        if (!CanAdjustPersons())
+        {
+            return;
+        }
+
+        SelectedPersons = Math.Max(1, CurrentPersons() - 1);
+    }
+
+    private bool CanAdjustPersons()
+    {
+        return RecipeData?.NumberOfPersons is > 0;
+    }
+
+    private int CurrentPersons()
+    {
+        if (SelectedPersons is > 0)
+        {
+            return SelectedPersons.Value;
+        }
+
+        return RecipeData?.NumberOfPersons is > 0 ? RecipeData.NumberOfPersons.Value : 1;
+    }
+
+    private double ScaleQuantity(double baseQuantity)
+    {
+        if (!CanAdjustPersons())
+        {
+            return baseQuantity;
+        }
+
+        int basePersons = RecipeData!.NumberOfPersons!.Value;
+        int selectedPersons = CurrentPersons();
+        return baseQuantity * selectedPersons / basePersons;
+    }
+
+    private string FormatIngredient(Ingredient ingredient)
     {
         if (ingredient.Quantity is null)
         {
             return ingredient.Name;
         }
 
-        string quantity = ingredient.Quantity.Value.ToString("0.##", CultureInfo.InvariantCulture);
+        double scaledQuantity = ScaleQuantity(ingredient.Quantity.Value);
+        string quantity = scaledQuantity.ToString("0.##", CultureInfo.InvariantCulture);
         string unitPart = string.IsNullOrWhiteSpace(ingredient.Unit) ? string.Empty : $" {ingredient.Unit}";
         string notePart = string.IsNullOrWhiteSpace(ingredient.PreparationNote) ? string.Empty : $", {ingredient.PreparationNote}";
 
