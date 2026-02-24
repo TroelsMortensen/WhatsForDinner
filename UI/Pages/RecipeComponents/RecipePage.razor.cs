@@ -1,20 +1,15 @@
 using System.Globalization;
-using System.Net.Http.Json;
-using System.Text.Json;
 using Microsoft.AspNetCore.Components;
+using UI.DataLoading;
 using UI.Models;
 
 namespace UI.Pages.RecipeComponents;
 
 public partial class RecipePage : ComponentBase
 {
-    private static IReadOnlyList<RecipeIndex> recipeFileNames = [];
-
     [Parameter] public int Id { get; set; }
 
-    [Inject] private HttpClient HttpClient { get; set; } = default!;
-
-    [Inject] private JsonSerializerOptions JsonSerializerOptions { get; set; } = default!;
+    [Inject] private RecipeDataLoader RecipeDataLoader { get; set; } = default!;
 
     private Recipe? RecipeData { get; set; }
     private bool IsLoading { get; set; }
@@ -29,23 +24,23 @@ public partial class RecipePage : ComponentBase
 
         try
         {
-            RecipeIndex? recipeFileName = await FindRecipeFileNameAsync(Id);
-            if (recipeFileName is null)
+            RecipeIndex? recipeIndex = await RecipeDataLoader.FindRecipeIndexAsync(Id);
+            if (recipeIndex is null)
             {
                 ErrorMessage = "Opskriften blev ikke fundet.";
-                IsLoading = false;
                 return;
             }
 
-            string recipePath = $"recipes/{Uri.EscapeDataString(recipeFileName.Id)}";
-            RecipeData = await HttpClient.GetFromJsonAsync<Recipe>(recipePath, JsonSerializerOptions);
+            RecipeData = await RecipeDataLoader.LoadRecipeAsync(recipeIndex);
         }
         catch
         {
             ErrorMessage = "Der opstod en fejl ved indlæsning af opskriften.";
         }
-
-        IsLoading = false;
+        finally
+        {
+            IsLoading = false;
+        }
     }
 
     private static string FormatMinutes(int minutes)
@@ -78,27 +73,5 @@ public partial class RecipePage : ComponentBase
         string notePart = string.IsNullOrWhiteSpace(ingredient.PreparationNote) ? string.Empty : $", {ingredient.PreparationNote}";
 
         return $"{quantity}{unitPart} {ingredient.Name}{notePart}";
-    }
-
-    private async Task<RecipeIndex?> FindRecipeFileNameAsync(int recipeId)
-    {
-        IReadOnlyList<RecipeIndex> indices = await GetAllRecipeFileNamesAsync();
-        string expectedPrefix = recipeId.ToString(CultureInfo.InvariantCulture) + ".";
-
-        return indices.FirstOrDefault(fileName =>
-            fileName.Id.EndsWith(".json", StringComparison.OrdinalIgnoreCase) &&
-            fileName.Id.StartsWith(expectedPrefix, StringComparison.Ordinal));
-    }
-
-    private async Task<IReadOnlyList<RecipeIndex>> GetAllRecipeFileNamesAsync()
-    {
-        if (recipeFileNames.Any())
-        {
-            return recipeFileNames;
-        }
-
-        List<RecipeIndex>? fileNames = await HttpClient.GetFromJsonAsync<List<RecipeIndex>>("recipes/index.json");
-        recipeFileNames = fileNames ?? [];
-        return recipeFileNames;
     }
 }
