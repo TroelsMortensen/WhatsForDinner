@@ -1,0 +1,37 @@
+{
+  "Id": 69,
+  "Title": "Cremet kikærtecurry med spinat og kokos",
+  "SubHeader": "Cremet karrysauce med kokosmælk, kikærter og spinat toppet med ristede kokoschips og lime",
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 25,
+  "NumberOfPersons": 3,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        { "Quantity": 1, "Unit": "pose", "Name": "ris", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+        { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+        { "Quantity": 1, "Unit": "pk", "Name": "grønne bønner", "PreparationNote": "snittet i mundrette stykker" },
+        { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "øko, skal og saft" },
+        { "Quantity": 1.5, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænet og skyllet" },
+        { "Quantity": 0.5, "Unit": "pose", "Name": "babyspinat", "PreparationNote": "skyllet" },
+        { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+        { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "tsk", "Name": "hønsebouillon", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "spsk", "Name": "sød chilisauce", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "pose", "Name": "kokoschips", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Skyl ris grundigt under koldt vand i en si.</p><p>Kom de skyllede ris i en gryde med rigeligt friskt vand (minimum 4 dele vand for hver del ris) og lidt salt. Kog risene i ca. 9 min.</p><p>Sluk for blusset, si det overskydende vand fra risene og lad risene hvile i gryden i ca. 9 min. under låg.</p><h3>Forberedelse</h3><p>Pil og hak løg og hvidløg fint. Nip enderne af bønnerne og snit dem i mundrette stykker. Riv skallen af lime og sæt til side. Skær lime i både og sæt til side til servering.</p><p>Dræn kikærter i en si og skyl godt. Hvis spinaten ikke er skyllet på forhånd (læs på pakningen), så skylles den under koldt vand i en si og rystes fri for vand.</p><h3>Kikærte-curry</h3><p>Varm en gryde op med lidt olie og en klat smør. Steg løg, hvidløg og karry i et par minutter til det dufter. Tilsæt så kikærter, kokosmælk, vand og bouillon, og lad det hele simre i ca. 5 min.</p><p>Tilføj grønne bønner, limeskal og sød chilisauce og lad retten simre videre i ca. 5 min. mere. I det sidste minut tilsættes spinat, og retten smages til med salt, peber og evt. lidt mere sød chilisauce.</p><h3>Servering</h3><p>Server cremet kikærtecurry oven på ris og top med sprøde kokoschips. Dryp med limesaft og drys eventuelt med lidt friske koriander, hvis I har noget på lager.</p>",
+  "Note": "",
+  "ImageUrl": null,
+  "Keywords": ["Asiatisk"]
+}

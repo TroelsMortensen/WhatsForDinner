@@ -1,0 +1,51 @@
+{
+  "Id": 68,
+  "Title": "Boller i karry med ris og blomkålssalat",
+  "SubHeader": "Lækker boller i karry serveret med ris og en frisk blomkålssalat med valnødder",
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 35,
+  "NumberOfPersons": 3,
+  "RecipeGroups": [
+    {
+      "Title": "Ris",
+      "Ingredients": [
+        { "Quantity": 1, "Unit": "pose", "Name": "ris", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Kødboller",
+      "Ingredients": [
+        { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "pk", "Name": "hakket grisekød", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Blomkålssalat",
+      "Ingredients": [
+        { "Quantity": 0.5, "Unit": null, "Name": "blomkål", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "pose", "Name": "valnødder", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "smør og madolie", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "sukker", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Karrysauce",
+      "Ingredients": [
+        { "Quantity": 2, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+        { "Quantity": 4, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "tsk", "Name": "hønsebouillon", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Skyl ris grundigt under koldt vand i en si. Kom dem i en gryde med friskt vand og lidt salt. Beregn dobbelt så meget vand som ris. Bring gryden i kog, læg låg på og lad risene simre i 10 min. Sluk for blusset og lad risene hvile i 10 min.</p><h3>Kødboller</h3><p>Hak løgen og gem halvdelen til karrysaucen. Bland hakket grisekød med salt. Tilsæt den ene halvdel af løgen, æg, hvedemel og peber. Lad farsen hvile et øjeblik. Form små kødboller og kog dem i en gryde med let kogende vand. Gem kogevandet!</p><h3>Blomkålssalat</h3><p>Skyl og skær blomkålen i passende buketter. Hak valnødderne. Steg blomkål og valnødder i smør og madolie på en pande. Krydr med salt, peber og et drys sukker. Anret blomkålssalaten på et serveringsfad.</p><h3>Karrysauce</h3><p>Smelt smør i en gryde. Tilsæt karry og den gemte løg. Rør hvedemel i og lad det brune let. Tilsæt kogevandet fra bollerne og hønsebouillon. Lad saucen simre til den er jævn. Kom kødbollerne i saucen og vend dem forsigtigt.</p><p>Server boller i karry med ris og varm blomkålssalat. Evt. pynt med frisk persille.</p>",
+  "Note": "",
+  "ImageUrl": null,
+  "Keywords": ["Asiatisk"]
+}
