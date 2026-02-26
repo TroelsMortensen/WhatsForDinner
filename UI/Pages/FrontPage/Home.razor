@@ -3,34 +3,76 @@
 <PageTitle>What's For Dinner?</PageTitle>
 
 <section class="home-page">
-    <h1>What's For Dinner?</h1>
+    <h1>Hvad skal vi spise?</h1>
 
-    <p>Vælg en opskrift for at komme i gang.</p>
+    <div class="home-content">
+        <aside class="frontpage-image-block">
+            <img src="/images/Frontpage.png" alt="Familie som planlægger ugens mad" />
+        </aside>
 
-    <div class="search-block">
-        <label for="recipe-search">Søg opskrifter</label>
-        <input id="recipe-search" type="search" placeholder="Søg opskrifter (kommer senere)" />
+        <div class="home-sections">
+            <section class="home-card planner-card">
+                <details>
+                    <summary>Generer en madplan</summary>
+
+                    <div class="card-content">
+                        <div class="planner-controls">
+                            <label for="planner-count">Antal opskrifter</label>
+                            <input id="planner-count" type="number" min="1" step="1" @bind="PlannerRecipeCount" />
+                            <button type="button" @onclick="GenerateWeeklyPlan">Lav madplan</button>
+                        </div>
+
+                        @if (!string.IsNullOrWhiteSpace(WeeklyPlanErrorMessage))
+                        {
+                            <p class="error-message">@WeeklyPlanErrorMessage</p>
+                        }
+                        else if (WeeklyPlanItems.Any())
+                        {
+                            <ul class="weekly-plan-list">
+                                @foreach (var recipe in WeeklyPlanItems)
+                                {
+                                    <li><a href="/recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
+                                }
+                            </ul>
+                        }
+                    </div>
+                </details>
+            </section>
+
+            <section class="home-card search-card">
+                <details>
+                    <summary>Søgning og opskrifter</summary>
+
+                    <div class="card-content">
+                        <div class="search-block">
+                            <label for="recipe-search">Søg opskrifter</label>
+                            <input id="recipe-search" type="search" placeholder="Søg opskrifter (kommer senere)" />
+                        </div>
+
+                        @if (IsLoading)
+                        {
+                            <p>Indlæser opskrifter...</p>
+                        }
+                        else if (!string.IsNullOrWhiteSpace(ErrorMessage))
+                        {
+                            <p class="error-message">@ErrorMessage</p>
+                        }
+                        else if (!RecipeItems.Any())
+                        {
+                            <p>Ingen opskrifter fundet.</p>
+                        }
+                        else
+                        {
+                            <ul class="recipe-list">
+                                @foreach (var recipe in RecipeItems)
+                                {
+                                    <li><a href="/recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
+                                }
+                            </ul>
+                        }
+                    </div>
+                </details>
+            </section>
+        </div>
     </div>
-
-    @if (IsLoading)
-    {
-        <p>Indlæser opskrifter...</p>
-    }
-    else if (!string.IsNullOrWhiteSpace(ErrorMessage))
-    {
-        <p class="error-message">@ErrorMessage</p>
-    }
-    else if (!RecipeItems.Any())
-    {
-        <p>Ingen opskrifter fundet.</p>
-    }
-    else
-    {
-        <ul class="recipe-list">
-            @foreach (var recipe in RecipeItems)
-            {
-                <li><a href="/recipe/@recipe.Id">@recipe.Title</a></li>
-            }
-        </ul>
-    }
 </section>

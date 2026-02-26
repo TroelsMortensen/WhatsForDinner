@@ -11,3 +11,4 @@ riderModule.iml
 /.idea/.idea.WhatsForDinner/.idea/vcs.xml
 /WhatsForDinner.sln.DotSettings.user
 /RawDataExtracted/
+scripts/repair_recipes_from_images.py
