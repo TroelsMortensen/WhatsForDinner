@@ -1,0 +1,177 @@
+{
+  "Id": 8,
+  "Title": "Bowl med spicy blomkål",
+  "SubHeader": null,
+  "TotalMinutes": 10,
+  "MinutesOfPreparation": 10,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "HVIDLOGSRIS",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "fedhvidlog",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 5.0,
+          "Unit": null,
+          "Name": "dlvand",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "basmatiris",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "hdndfuld persille",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "SPICY BLOMKAL",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "blomkal",
+          "PreparationNote": "ibuketter"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "dasekikcerter",
+          "PreparationNote": "drcenede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "roget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stodt gurkemeje",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskstgdtspidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Vztsk chiliflager,efter smag",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "fedhvidlog",
+          "PreparationNote": "pressede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt ogfriskkvcernet peber",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "INGEFER-OG LIMEDRESSING",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 30.0,
+          "Unit": null,
+          "Name": "gmayonnaise",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "cremefraiche18%",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "fed",
+          "Name": "hvidlog",
+          "PreparationNote": "presset"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ingefcer",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "oko lime",
+          "PreparationNote": "saft og fintrevet skal"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvcernet peber",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Valdemarsro-vegetaraftensmad",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>HVIDLOGSRIS MED PERSILLE</p><p>Varm en gryde op med olie og sauter hvidlogene ved</p><p>middel-lav varme, til det dufter.Tilsaet vand, basmatiris</p><p>og salt.Ror det godt igennem, laeg lag pa gryden og lad</p><p>det koge op.Kog ved svag varmei 10 minutter.</p><p>Tag gryden af varmen og lad derefter risene hvile i yder-</p><p>ligere 10 minutteri gryden med laget pa.Vend finthak-</p><p>ket persille i risene lige inden servering.</p><p>SPICY BLOMKAL</p><p>og skyllede</p><p>Vend blomkalsbuketterne og kikaerter med olie og</p><p>vend dem derefter godt i krydderierne.Fordel dem pa</p><p>en bradepande med log og hvidlog og bag demien</p><p>forvarmet ovn ved 180 grader varmlufti15-20 minutter,</p><p>til blomkalen er mor og saftig.</p><p>INGEFER- OGLIMEDRESSING</p><p>Ror mayonnaise og cremefraiche sammenien skal med</p><p>hvidlog, ingefaer og smag til med limesaft, limeskal, salt</p><p>og peber.</p><p>SERVERING</p><p>Rist sesamfroene pa en tor varme pande. Anret risene</p><p>i dybe tallerkener,top med babyspinat,mango,spicy</p><p>til sidst med sesamfro,forarslog, chiliflager og persille.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/8. Bowl med spicy blomkål.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

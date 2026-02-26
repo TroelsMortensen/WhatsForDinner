@@ -1,6 +1,6 @@
 {
   "Id": 17,
-  "Title": "Grøntsagssuppe",
+  "Title": "Kold grøntsagssuppe",
   "SubHeader": null,
   "TotalMinutes": 120,
   "MinutesOfPreparation": 15,
@@ -10,75 +10,75 @@
       "Title": "Ingredienser",
       "Ingredients": [
         {
-          "Quantity": null,
+          "Quantity": 0.5,
           "Unit": null,
-          "Name": "rodleg,finthakket",
-          "PreparationNote": null
+          "Name": "rødløg",
+          "PreparationNote": "finthakket"
         },
         {
           "Quantity": 1.0,
           "Unit": "fed",
-          "Name": "hvidlog",
+          "Name": "hvidløg",
           "PreparationNote": null
         },
         {
           "Quantity": 700.0,
           "Unit": "g",
           "Name": "tomater",
-          "PreparationNote": "ikvarte"
+          "PreparationNote": "i kvarte"
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "stilke bladselleri",
-          "PreparationNote": "igrove tern"
+          "Unit": "stilke",
+          "Name": "bladselleri",
+          "PreparationNote": "i grove tern"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "rod peberfrugt",
-          "PreparationNote": "igrove tern"
+          "Name": "rød peberfrugt",
+          "PreparationNote": "i grove tern"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
           "Name": "agurk",
-          "PreparationNote": "igrove tern"
+          "PreparationNote": "i grove tern"
         },
         {
           "Quantity": 25.0,
           "Unit": "g",
-          "Name": "soltorredetomater",
+          "Name": "soltørrede tomater",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskfennikelfro",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "fennikelfrø",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tsktorretrosmarin",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "tørret rosmarin",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "knivspids chiliflager",
+          "Unit": "knivspids",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
-          "PreparationNote": "afkolet"
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": "afkølet"
         },
         {
-          "Quantity": 12.0,
-          "Unit": null,
-          "Name": "oko citron",
+          "Quantity": 0.5,
+          "Unit": "øko",
+          "Name": "citron",
           "PreparationNote": "fintrevet skal"
         },
         {
@@ -96,19 +96,18 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvaernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "CROUTONER",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Croutoner",
+      "Ingredients": [
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "skiverhvedebrod",
+          "Unit": "skiver",
+          "Name": "hvedebrød",
           "PreparationNote": null
         },
         {
@@ -120,13 +119,13 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "smgor eller olivenolie til stegning",
+          "Name": "smør eller olivenolie til stegning",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -144,31 +143,31 @@
           "Quantity": 1.0,
           "Unit": null,
           "Name": "tomat",
-          "PreparationNote": "ismd tern"
+          "PreparationNote": "i små tern"
         },
         {
-          "Quantity": null,
+          "Quantity": 0.5,
           "Unit": null,
-          "Name": "/2 agurk,ismd tern",
-          "PreparationNote": null
+          "Name": "agurk",
+          "PreparationNote": "i små tern"
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "stcengler frisk timian",
+          "Unit": "stængler",
+          "Name": "frisk timian",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "friskkvcernet peber",
+          "Name": "friskkværnet peber",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log og hvidlog pa en pande med olie, til logene</p><p>er blode. Kom de sauterede log samt alle grontsagerne,</p><p>krydderierne og grontsagsbouillon i en blender og kor,</p><p>til det er cremet og laekkert. Smag til med citronskal,</p><p>sukker, salt og friskkvaernet peber. Blend igen kort og</p><p>saet derefter pa koli halvanden time.</p><p>CROUTONER</p><p>Skaer brodet ud i sma tern og vend dem med timian,</p><p>olivenolie, salt og peber. Rist brodternene sprode pa en</p><p>varm pande med smeltet smor eller olie under hyppig</p><p>omroring, eller vend dem med olie og bag dem i en</p><p>forvarmet ovn ved 175 grader varmluft i 15 minutter, til</p><p>de er sprode.</p><p>SERVERING</p><p>Server den laekre kolde grontsagssuppe med sprode</p><p>croutoner, tomat- og agurketern, et dryp olie, frisk</p><p>timian og friskkvaernet peber.</p><p>i blenderen. Derfor er retten ogsa temmelig hurtig at</p><p>tilberede, men husk, at den gerne skal sta pa kolihalv</p><p>anden time for servering. Er du utalmodig, sa blend et</p><p>par isterninger i og server den med det samme.</p><p>Supper</p>",
-  "Note": "Grontsagerne skal ikke skaeres fint, for de skal blot",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg og hvidløg på en pande med olie, til løgene er bløde. Kom de sauterede løg samt alle grøntsagerne, krydderierne og grøntsagsbouillon i en blender og kør, til det er cremet og lækkert. Smag til med citronskal, sukker, salt og friskkværnet peber. Blend igen kort og sæt derefter på køl i halvanden time.</p><p>Skær brødet ud i små tern og vend dem med timian, olivenolie, salt og peber. Rist brødternene sprøde på en varm pande med smeltet smør eller olie under hyppig omrøring, eller vend dem med olie og bag dem i en forvarmet ovn ved 175 grader varmluft i 15 minutter, til de er sprøde.</p><p>Server den lækre kolde grøntsagssuppe med sprøde croutoner, tomat- og agurketern, et dryp olie, frisk timian og friskkværnet peber.</p>",
+  "Note": "Grøntsagerne skal ikke skæres fint, for de skal blot i blenderen. Derfor er retten også temmelig hurtig at tilberede, men husk, at den gerne skal stå på køl i halvanden time før servering. Er du utålmodig, så blend et par isterninger i og server den med det samme.",
   "ImageUrl": "/images/recipe-images/17. Grøntsagssuppe.jpg",
   "Keywords": [
     "Suppe",

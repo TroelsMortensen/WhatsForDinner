@@ -1,171 +1,159 @@
 {
   "Id": 36,
-  "Title": "One Pot chili con carne",
-  "SubHeader": null,
-  "TotalMinutes": 30,
-  "MinutesOfPreparation": 30,
+  "Title": "One Pot Chili Con Carne",
+  "SubHeader": "Eller kong Bjarne, som det hed dengang på Roskilde Festival. Uanset navn er det en solid grydeklassiker med masser af smag.",
+  "TotalMinutes": 90,
+  "MinutesOfPreparation": 90,
   "NumberOfPersons": null,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
         {
-          "Quantity": 102.0,
-          "Unit": null,
-          "Name": "102",
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "oksebov",
+          "PreparationNote": "i 2 cm tern"
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "hakket oksekød, 8-10 % fedt",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "ogsanoget",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Gremolata ellerraita-frisk korianderi ri maengderkan",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "PYNT:",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tsk.kanel",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tsk. stodt spidskom-",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "men",
+          "Name": "olivenolie til stegning",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "spsk.tomatpuré",
-          "PreparationNote": null
+          "Name": "løg",
+          "PreparationNote": "finthakket"
         },
         {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "friskhakket chili -",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 2.0,
+          "Quantity": 2.5,
           "Unit": "fed",
-          "Name": "hvidlog",
-          "PreparationNote": "finthak-"
+          "Name": "hvidløg",
+          "PreparationNote": "i tynde skiver"
         },
         {
-          "Quantity": null,
+          "Quantity": 3.0,
+          "Unit": "stængler",
+          "Name": "bladselleri",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "balsamico eller sherryeddike",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "tomatpuré",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "kanel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
           "Unit": null,
-          "Name": "styrken bestemmer du",
+          "Name": "friskhakket chili",
+          "PreparationNote": "styrken bestemmer du selv"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "terning",
+          "Name": "oksebouillon",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "selv",
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "hakkede tomater",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "ket",
+          "Quantity": 6.0,
+          "Unit": "dl",
+          "Name": "vand",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "ONEPOT MED BAELGFRUGTER,BONNER,KIKAERTEROG LINSER",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 40.0,
-          "Unit": "g",
-          "Name": "mork chokolade",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Salt og peber",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 300.0,
-          "Unit": "g",
-          "Name": "af dine yndlings-",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "rodfrugter i grove tern",
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "Jack Daniel's bourbon",
           "PreparationNote": null
         },
         {
           "Quantity": 250.0,
           "Unit": "g",
-          "Name": "rode bonner (tor",
+          "Name": "røde bønner (tør vægt)",
+          "PreparationNote": "udblødt over nat"
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "rodfrugter",
+          "PreparationNote": "i grove tern"
+        },
+        {
+          "Quantity": 40.0,
+          "Unit": "g",
+          "Name": "mørk chokolade",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "chokolade",
+          "Name": "salt og peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "gremolata eller raita",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "vaegt) - udblodt over",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "eller kakao - men helst",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "nat",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Server med raita og en skive godt brod.",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "de sidste 30 minutter.",
-          "PreparationNote": null
+          "Name": "frisk koriander",
+          "PreparationNote": "i valgfri mængde"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>nu ikke var taget. Nar vi siger bonner, sa kommer vi ikke uden om denne ret.</p><p>TIDIGRYDEN:90 MINUTTER</p><p>Eller chili kong Bjarne, som det hed dengang pa Roskilde Festival, mens cyklingens uskyld end-</p><p>CHILI CON CARNE</p><p>INGREDIENSER</p><p>250goksebovi2cm</p><p>2 log, finthakket</p><p>Olivenolie til stegning</p><p>250 g hakket oksekod</p><p>8-10%fedt</p><p>tern</p><p>1 tsk. stodt koriander</p><p>1 terning oksebouillon</p><p>1 dase hakkede tomater</p><p>6 dl vand</p><p>2 dl Jack Daniel's</p><p>Bourbon</p><p>IGRYDEN</p><p>Brun okseboven afi olivenolie, og tilsaet sa det hakkede</p><p>Sa skal der tomater, vand, bouillon, bonner, chokolade</p><p>Kom log, hvidlog, chili, tomatpure og krydderier i sam-</p><p>Lad det simre, til boven er mor. Rodfrugterne tilsaettes</p><p>og salt og peber i.</p><p>oksekod, og steg videre.</p><p>men Jack D., antaend og flamber.</p>",
+  "Instructions": "<h2>I gryden</h2><p>Brun okseboven af i olivenolie, og tilsæt så det hakkede oksekød, og steg videre.</p><p>Kom løg, hvidløg, chili, tomatpuré og krydderier i sammen med Jack D., antænd og flambér.</p><p>Tilsæt tomater, vand, bouillon, bønner, chokolade og salt og peber i.</p><p>Lad det simre, til boven er mør. Rodfrugterne tilsættes de sidste 30 minutter.</p><p>Server straks som one pot med godt brød.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/36. One Pot chili con carne.jpg",
   "Keywords": [
-    "Vegetar"
+    "One Pot",
+    "Oksekød"
   ]
 }

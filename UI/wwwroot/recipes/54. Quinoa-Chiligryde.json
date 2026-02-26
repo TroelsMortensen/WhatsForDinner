@@ -2,23 +2,41 @@
   "Id": 54,
   "Title": "Quinoa-chiligryde",
   "SubHeader": null,
-  "TotalMinutes": 5,
-  "MinutesOfPreparation": 5,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
         {
-          "Quantity": 2.0,
+          "Quantity": 1.0,
           "Unit": null,
-          "Name": "staenglerbladselleri",
-          "PreparationNote": "ismdtern"
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "squash",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "stængler",
+          "Name": "bladselleri",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "gulerødder",
+          "PreparationNote": "i små tern"
         },
         {
           "Quantity": 2.0,
           "Unit": "fed",
-          "Name": "hvidlog",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
@@ -30,67 +48,67 @@
         {
           "Quantity": 200.0,
           "Unit": "g",
-          "Name": "sortquinoa",
+          "Name": "sort quinoa",
           "PreparationNote": null
         },
         {
           "Quantity": 5.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Y2tsk torrede chiliflager",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "tørrede chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spskspidskommen",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskkanel",
+          "Unit": "spsk",
+          "Name": "spidskommen",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "roget paprika",
+          "Name": "kanel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
           "PreparationNote": null
         },
         {
           "Quantity": 250.0,
-          "Unit": null,
-          "Name": "gblomkal",
-          "PreparationNote": "ibuketter"
+          "Unit": "g",
+          "Name": "blomkål",
+          "PreparationNote": "i buketter"
         },
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "daserkidneybonner",
-          "PreparationNote": "drcenede"
+          "Name": "dåser kidneybønner",
+          "PreparationNote": "drænede og skyllede"
         },
         {
-          "Quantity": 2.0,
+          "Quantity": 0.5,
           "Unit": null,
-          "Name": "oko lime",
-          "PreparationNote": "lidt saftog fintrevet skal"
+          "Name": "øko lime",
+          "PreparationNote": "lidt saft og fintrevet skal"
         },
         {
           "Quantity": 30.0,
           "Unit": "g",
-          "Name": "mork chokolade",
+          "Name": "mørk chokolade",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -101,52 +119,47 @@
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "cremefraiche 18%",
+          "Name": "cremefraiche 18 %",
           "PreparationNote": null
         },
         {
           "Quantity": 75.0,
-          "Unit": null,
-          "Name": "gcheddar",
+          "Unit": "g",
+          "Name": "cheddar",
           "PreparationNote": "friskrevet"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
           "Name": "avocado",
-          "PreparationNote": "iskiver"
+          "PreparationNote": "i skiver"
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Vz tsk chiliflager",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "lille handfuld koriander",
-          "PreparationNote": null
+          "Name": "lille håndfuld koriander",
+          "PreparationNote": "grofthakket"
         },
         {
-          "Quantity": null,
+          "Quantity": 0.5,
           "Unit": null,
-          "Name": "zoko lime,ibade",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Valdemarsro-vegetar aftensmad",
-          "PreparationNote": null
+          "Name": "øko lime",
+          "PreparationNote": "i både"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>INGREDIENSER</p><p>Varm en gryde op med olie og sauter lag, squash, blad-</p><p>1 log,finthakket</p><p>selleri og gulerodderi 4-5minutter ved middelvarme.</p><p>1sguash,ismdtern</p><p>Tilsaet hvidlog, hakkede tomater,quinoa,grantsags-</p><p>150ggulerodder,ismdtern</p><p>bouillon og krydderier.Ror det godt igennem og kog</p><p>Tilsaet blomkalsbuketter og lad retten simre viderei15</p><p>minutter, til blomkalen er mor,men stadig har lidt bid.</p><p>Kom kidneybonneri gryden, varm godt igennem og</p><p>smag til med limesaft, limeskal, mork chokolade, salt og</p><p>peber.</p><p>Serveri dybe tallerkener og top med cremefraiche,</p><p>cheddar,avocado,chiliflager,koriander og limebade til</p><p>og skyllede</p><p>at dryppe over retten.</p><p>grofthakket</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en gryde op med olie og sautér løg, squash, bladselleri og gulerødder i 4-5 minutter ved middelvarme.</p><p>Tilsæt hvidløg, hakkede tomater, quinoa, grøntsagsbouillon og krydderier. Rør det godt igennem og kog det langsomt op. Lad det simre i 15 minutter under låg.</p><p>Tilsæt blomkålsbuketter og lad retten simre videre i 15 minutter, til blomkålen er mør, men stadig har lidt bid. Kom kidneybønner i gryden, varm godt igennem og smag til med limesaft, limeskal, mørk chokolade, salt og peber.</p><p>Server i dybe tallerkener og top med cremefraiche, cheddar, avocado, chiliflager, koriander og limebåde til at dryppe over retten.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/54. Quinoa-chiligryde.jpg",
   "Keywords": [
-    "Vegetar"
+    "Vegetar",
+    "Quinoa"
   ]
 }

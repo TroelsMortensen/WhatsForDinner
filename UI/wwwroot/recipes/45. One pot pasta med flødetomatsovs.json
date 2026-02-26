@@ -1,8 +1,8 @@
 {
   "Id": 45,
   "Title": "One Pot pasta med flødetomatsovs",
-  "SubHeader": null,
-  "TotalMinutes": 15,
+  "SubHeader": "One pot pasta er altid lidt af en hverdagsredning med stor smag i én gryde.",
+  "TotalMinutes": 30,
   "MinutesOfPreparation": 15,
   "NumberOfPersons": 4,
   "RecipeGroups": [
@@ -11,8 +11,8 @@
       "Ingredients": [
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "gpasta",
+          "Unit": "g",
+          "Name": "pasta",
           "PreparationNote": null
         },
         {
@@ -23,21 +23,21 @@
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld friskbasilikum",
+          "Unit": "håndfuld",
+          "Name": "frisk basilikum",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakket"
         },
         {
           "Quantity": 4.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
-          "PreparationNote": "fintrevne"
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevet"
         },
         {
           "Quantity": 200.0,
@@ -48,43 +48,43 @@
         {
           "Quantity": 40.0,
           "Unit": "g",
-          "Name": "soltorrede tomateriolie",
-          "PreparationNote": null
+          "Name": "soltørrede tomater i olie",
+          "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tsktorret timian",
+          "Unit": "tsk",
+          "Name": "tørret timian",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tsktorretrosmarin",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "tørret rosmarin",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "tskknustefennikelfrg",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "knuste fennikelfrø",
           "PreparationNote": null
         },
         {
           "Quantity": 4.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "piskeflade",
+          "Name": "piskefløde",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -96,27 +96,29 @@
           "Quantity": 50.0,
           "Unit": "g",
           "Name": "vesterhavsost eller parmesan",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "friskrevet",
-          "PreparationNote": null
+          "PreparationNote": "friskrevet"
         },
         {
           "Quantity": 70.0,
           "Unit": "g",
           "Name": "rucola",
           "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "friske basilikumblade",
+          "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom alle ingredienserneien stor gryde ogror det godt</p><p>sammen.Laeg lag pa gryden og varm op, til det simre-</p><p>koger. Ror en ekstra gangigryden og lad det simrei</p><p>10-15 minutter,eller til pastaen er perfekt mor.Server</p><p>med friskrevet ost, rucola og basilikum.</p><p>★ Maengden pa bouillon imine opskrifter er altid</p><p>angivet med faerdigblandet mal.Kig pa pakken og bland</p><p>finthakkede</p><p>op med vand efter anvisning,til du har den maengde</p><p>faerdigblandet bouillon, du skal bruge.</p><p>Pasta,gnocchi,risottomedmer</p>",
-  "Note": "",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom alle ingredienserne i en stor gryde og rør det godt sammen.</p><p>Læg låg på gryden og varm op, til det simrekoger. Rør en ekstra gang i gryden og lad det simre i 10-15 minutter, eller til pastaen er perfekt mør.</p><p>Server med friskrevet ost, rucola og basilikum.</p>",
+  "Note": "Mængden på bouillon i opskrifterne er altid angivet med færdigblandet mål. Kig på pakken og bland op med vand efter anvisning, til du har den mængde færdigblandet bouillon, du skal bruge.",
   "ImageUrl": "/images/recipe-images/45. One Pot pasta med flødetomatsovs.jpg",
   "Keywords": [
-    "Vegetar"
+    "One Pot",
+    "Vegetar",
+    "Pasta"
   ]
 }

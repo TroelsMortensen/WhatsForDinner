@@ -1,96 +1,48 @@
 {
   "Id": 47,
   "Title": "One Pot tikka masala",
-  "SubHeader": null,
-  "TotalMinutes": 60,
-  "MinutesOfPreparation": 45,
+  "SubHeader": "Fyld på krydderierne - har du kun de klassiske karrykrydderier, kan retten stadig få masser af varme.",
+  "TotalMinutes": 70,
+  "MinutesOfPreparation": 70,
   "NumberOfPersons": null,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "vendes i lige for servering.Det er et fedt gront pust til retten.",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Slut retten af med et par store handfulde babyspinat, der",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 114.0,
-          "Unit": null,
-          "Name": "114",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "TIP:",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Mangomia",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "PYNT:",
-          "PreparationNote": null
+          "Quantity": 1000.0,
+          "Unit": "g",
+          "Name": "lammekød",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 2.0,
-          "Unit": "dl",
-          "Name": "draenet yoghurt",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 5.0,
-          "Unit": "dl",
-          "Name": "vand",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 250.0,
-          "Unit": "g",
-          "Name": "kikaerter (tor vaegt) - udblodt i vand over nat",
+          "Unit": "spsk",
+          "Name": "sød paprika",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "dase kokosmaelk",
-          "PreparationNote": "almindelig storrelse"
-        },
-        {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spsk.tomatpure",
+          "Unit": "spsk",
+          "Name": "stødt koriander",
           "PreparationNote": null
         },
         {
-          "Quantity": 3.0,
-          "Unit": "fed",
-          "Name": "hvidlog",
-          "PreparationNote": "hakket"
-        },
-        {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "logitern",
+          "Unit": "spsk",
+          "Name": "garam masala",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "Salt og peber",
+          "Name": "evt. lidt kanel",
+          "PreparationNote": "pas på med mængden"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "kardemomme",
           "PreparationNote": null
         },
         {
@@ -100,24 +52,73 @@
           "PreparationNote": null
         },
         {
-          "Quantity": 1.0,
+          "Quantity": null,
           "Unit": null,
-          "Name": "tsk.kardemomme",
+          "Name": "salt og peber",
           "PreparationNote": null
         },
         {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "i tern"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "hakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "tomatpuré",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "kikærter (tør vægt)",
+          "PreparationNote": "udblødt i vand over nat"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kokosmælk",
+          "PreparationNote": "almindelig størrelse"
+        },
+        {
+          "Quantity": 5.0,
+          "Unit": "dl",
+          "Name": "vand",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "drænet yoghurt",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
+        {
           "Quantity": null,
           "Unit": null,
-          "Name": "saet mangomix pa bordet.",
+          "Name": "mangomix",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>INGREDIENSER</p><p>TIKKA ONE POT MASALA</p><p>TIDIGRYDEN:7O MINUTTER</p><p>Evt. lidt kanel - pas pa, vi ikke kommer til nissebal -</p><p>endelig med made</p><p>2 spsk. garam masala</p><p>1 spsk.stodtkoriander</p><p>2 spsk.stodt spidskommen</p><p>800 g lammekod i tern</p><p>4.Vend retten med spinat og yoghurt, nar du serverer, og</p><p>1. Brun lammekodet af.</p><p>IGRYDEN</p><p>Tilsaet krydderier, log, hvidlog og tomatpure. Det skal</p><p>Tilsaet nu kikaerter, kokosmaelk og vand, og sa er det</p><p>simretid de naeste 45 minutter til 1 time, til kikerterne</p><p>er more. Du bestemmer selv, hvor meget bid de</p><p>skal have.</p>",
-  "Note": "",
+  "Instructions": "<h2>I gryden</h2><p>Brun lammekødet af.</p><p>Tilsæt krydderier, løg, hvidløg og tomatpuré, og lad det lige varme kort af.</p><p>Tilsæt nu kikærter, kokosmælk og vand, og så er det simretid de næste 45 minutter til 1 time, til kikærterne er møre. Du bestemmer selv, hvor meget bid de skal have.</p><p>Vend retten med yoghurt, når du serverer, og sæt mangomix på bordet.</p>",
+  "Note": "Slut retten af med et par store håndfulde babyspinat, der vendes i lige før servering. Det er et fedt grønt pust til retten.",
   "ImageUrl": "/images/recipe-images/47. One Pot tikka masala.jpg",
   "Keywords": [
-    "Vegetar"
+    "One Pot",
+    "Lam",
+    "Kikærter"
   ]
 }

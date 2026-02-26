@@ -2,8 +2,8 @@
   "Id": 62,
   "Title": "Tandoori blomkål",
   "SubHeader": null,
-  "TotalMinutes": 20,
-  "MinutesOfPreparation": 20,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 25,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
@@ -12,97 +12,114 @@
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "blomkal",
-          "PreparationNote": "iskiver"
+          "Name": "blomkål",
+          "PreparationNote": "i skiver"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "ddsekikaerter",
-          "PreparationNote": "draenede"
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": 25.0,
-          "Unit": null,
-          "Name": "gsmor",
+          "Unit": "g",
+          "Name": "smør",
           "PreparationNote": "smeltet"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "TANDORIMARINADE",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Tandoorimarinade",
+      "Ingredients": [
         {
           "Quantity": 2.0,
           "Unit": "dl",
-          "Name": "graesk yoghurt 10 %",
+          "Name": "græsk yoghurt 10 %",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Vztsk stodtnellike",
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt kardemomme",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt kanel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "stødt nellike",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spskstodtspidskommen",
+          "Unit": "spsk",
+          "Name": "stødt spidskommen",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spskstodtkoriander",
+          "Unit": "spsk",
+          "Name": "stødt koriander",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spsksodpaprika",
+          "Unit": "spsk",
+          "Name": "sød paprika",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskstodtgurkemeje",
+          "Unit": "tsk",
+          "Name": "stødt gurkemeje",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spskingefoer",
+          "Unit": "tsk",
+          "Name": "sukker",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ingefær",
           "PreparationNote": "fintrevet"
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "fedhvidleg",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "pressede"
         },
         {
           "Quantity": 50.0,
-          "Unit": null,
-          "Name": "gkoncentrerettomatpure",
+          "Unit": "g",
+          "Name": "koncentreret tomatpuré",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskmajsstivelse",
+          "Unit": "tsk",
+          "Name": "majsstivelse",
           "PreparationNote": null
         },
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "mlkokosmcelk",
+          "Unit": "ml",
+          "Name": "kokosmælk",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -119,31 +136,25 @@
         {
           "Quantity": 70.0,
           "Unit": "g",
-          "Name": "cashewngdder",
+          "Name": "cashewnødder",
           "PreparationNote": "ristede"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "handfuldkoriander",
+          "Name": "håndfuld koriander",
           "PreparationNote": "finthakket"
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Yztsk chiliflager",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Valdemarsro-vegetar aftensmad",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Komblomkal ogkikaerter iet stort smurt ovnfast fad,</p><p>pensl med smeltet smor og drys salt og peber over.</p><p>Bag ien forvarmet ovn ved180gradervarmlufti10</p><p>ogskyllede</p><p>minutter.</p><p>Kog imens risene efter anvisning pa pakken</p><p>1tskstodtkardemomme</p><p>TANDORIMARINADE</p><p>Rortandoori-marinaden sammen af graesk yoghurt</p><p>1tskstodtkanel</p><p>krydderier,sukker,ingefaer,hvidlog,tomatpureog</p><p>majsstivelse.Ror derefterkokosmaelk, salt ogpeber i.</p><p>Tag fadet med blomkal og kikaerter ud afovnen,haeld</p><p>marinaden over og bag viderei20 minutter.</p><p>1tsksukker</p><p>Server risene med tandoori-blomkal og drys med cas-</p><p>hewnodder,korianderog chiliflager.</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom blomkål og kikærter i et stort smurt ovnfast fad, pensl med smeltet smør og drys salt og peber over. Bag i en forvarmet ovn ved 180 grader varmluft i 10 minutter.</p><p>Kog imens risene efter anvisning på pakken.</p><p><strong>Tandoorimarinade:</strong> Rør tandoori-marinaden sammen af græsk yoghurt, krydderier, sukker, ingefær, hvidløg, tomatpuré og majsstivelse. Rør derefter kokosmælk, salt og peber i.</p><p>Tag fadet med blomkål og kikærter ud af ovnen, hæld marinaden over og bag videre i 20 minutter.</p><p>Server risene med tandoori-blomkål og drys med cashewnødder, koriander og chiliflager.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/62. Tandoori blomkål.jpg",
   "Keywords": [

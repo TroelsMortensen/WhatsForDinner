@@ -2,7 +2,7 @@
   "Id": 52,
   "Title": "Porresuppe",
   "SubHeader": null,
-  "TotalMinutes": 20,
+  "TotalMinutes": 30,
   "MinutesOfPreparation": 20,
   "NumberOfPersons": 4,
   "RecipeGroups": [
@@ -11,51 +11,45 @@
       "Ingredients": [
         {
           "Quantity": 500.0,
-          "Unit": null,
-          "Name": "gporrer",
-          "PreparationNote": "iringe"
+          "Unit": "g",
+          "Name": "porrer",
+          "PreparationNote": "i ringe"
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 2.0,
           "Unit": "tsk",
-          "Name": "torret timian",
+          "Name": "tørret timian",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "dase gronne linser",
-          "PreparationNote": "drcenede og"
+          "Name": "dåse grønne linser",
+          "PreparationNote": "drænede og skyllede"
         },
         {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "/2/grontsagsbouillon",
+          "Quantity": 1.5,
+          "Unit": "l",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 75.0,
           "Unit": "g",
-          "Name": "hvidlogsflodeost",
+          "Name": "hvidløgsflødeost",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
+          "Quantity": 0.5,
           "Unit": null,
-          "Name": "oko citron",
-          "PreparationNote": "lidt saft og fintrevet"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "skal",
-          "PreparationNote": null
+          "Name": "øko citron",
+          "PreparationNote": "lidt saft og fintrevet skal"
         },
         {
           "Quantity": null,
@@ -66,37 +60,36 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt ogfriskkvaernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "SERVERING",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Servering",
+      "Ingredients": [
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "cremefraiche 18%",
+          "Name": "cremefraiche 18 %",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "handfuldpurlog",
+          "Name": "håndfuld purløg",
           "PreparationNote": "finthakket"
         },
         {
           "Quantity": 4.0,
           "Unit": "skiver",
-          "Name": "ristet rugbrod",
+          "Name": "ristet rugbrød",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en gryde op med olie og sauter porrer og hvidlog,</p><p>til porrerne er blevet blode. Tilsaet timian, linser og</p><p>grontsagsbouillon. Laeg lag pa og lad det simrei 15 mi-</p><p>nutter.</p><p>skyllede</p><p>Blend suppen med hvidlogsflodeost og smag godt til</p><p>med lidt citronsaft, fintrevet citronskal, salt og peber.</p><p>Server i dybe tallerkener med en klat cremefraiche,</p><p>purlog og ristet rugbrod</p><p>Suppe</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en gryde op med olie og sautér porrer og hvidløg, til porrerne er blevet bløde. Tilsæt timian, linser og grøntsagsbouillon. Læg låg på og lad det simre i 15 minutter.</p><p>Blend suppen med hvidløgsflødeost og smag godt til med lidt citronsaft, fintrevet citronskal, salt og peber.</p><p>Server i dybe tallerkener med en klat cremefraiche, purløg og ristet rugbrød.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/52. Porresuppe.jpg",
   "Keywords": [

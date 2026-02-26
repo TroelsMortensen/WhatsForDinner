@@ -1,66 +1,66 @@
 {
   "Id": 37,
-  "Title": "One Pot dhal på grøn karry",
-  "SubHeader": null,
-  "TotalMinutes": 3,
-  "MinutesOfPreparation": 3,
+  "Title": "One Pot Dhal på grøn karry",
+  "SubHeader": "Smæk på det veganske køkken.",
+  "TotalMinutes": 40,
+  "MinutesOfPreparation": 40,
   "NumberOfPersons": null,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
         {
-          "Quantity": null,
+          "Quantity": 1.0,
           "Unit": null,
-          "Name": "Raita og ert.hackede salte peanuts eller cashewmodder",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "PYNT:",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 124.0,
-          "Unit": null,
-          "Name": "124",
-          "PreparationNote": null
+          "Name": "aubergine",
+          "PreparationNote": "skåret i tern, let saltet og afdryppet i 20 minutter"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "oko lime",
-          "PreparationNote": null
+          "Unit": "spsk",
+          "Name": "ristet sesamolie",
+          "PreparationNote": "til stegning"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "rapsolie",
+          "PreparationNote": "til stegning"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tommel",
+          "Name": "frisk ingefær",
+          "PreparationNote": "revet"
         },
         {
           "Quantity": 3.0,
           "Unit": "fed",
-          "Name": "hvidlog",
+          "Name": "hvidløg",
           "PreparationNote": "hakket"
         },
         {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "grøn karrypasta",
+          "PreparationNote": null
+        },
+        {
           "Quantity": 300.0,
-          "Unit": null,
-          "Name": "ggronne linser",
+          "Unit": "g",
+          "Name": "grønne linser",
           "PreparationNote": "skyllede"
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spsk.gronkarrypasta",
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "flåede tomater",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "citrongraes",
-          "PreparationNote": "banket godt aben med bagsiden af"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Salt og peber",
+          "Unit": "dåse",
+          "Name": "kokosmælk",
           "PreparationNote": null
         },
         {
@@ -72,52 +72,52 @@
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "dase flaede tomater",
+          "Name": "citrongræs",
+          "PreparationNote": "banket godt åben med bagsiden af kokkekniven"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "bundt",
+          "Name": "forårsløg",
+          "PreparationNote": "skåret i grove skiver på skrå"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "øko lime",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "Ibundt forarslog, skareti grove skiver pa skra",
+          "Name": "raita",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "Idasekokosmaelk",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "kokkekniven",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "ONEPOTMED BELGFRUGTER,BONNER,KIKERTER OG LINSER",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 4.0,
-          "Unit": null,
-          "Name": ".",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Smagtil med salt,peberoglime,ogserver med pynt.",
+          "Name": "hakkede salte peanuts eller cashewnødder",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>DHAL PA GRON</p><p>AUBERGINE OG KOKOS</p><p>TIDIGRYDEN:4O MINUTTER</p><p>Smaek pa det veganske kokken.</p><p>INGREDIENSER</p><p>1 aubergine, skareti tern-let saltet og afdryppet i</p><p>1 spsk.ristet sesamolie til stegning</p><p>2 spsk.rapsolie til stegning</p><p>1tommel frisk ingefaer,revet</p><p>20minutter</p><p>KARRY</p><p>IGRYDEN</p><p>Vend forarslog iretten, og lad dem dampe med pa efer-</p><p>Ingefaer, hvidog,kary, linser,flaede tomater, som du</p><p>Auberginen steges hardt afiolierne.</p><p>varmeni3minutter.</p><p>linserne er kogt more.</p>",
+  "Instructions": "<h2>I gryden</h2><p>Aubergine steges hårdt af i olierne.</p><p>Herefter tilsættes ingefær, hvidløg, karry, linser, flåede tomater, kokosmælk, vand og citrongræs. Retten simrer med låg på i cirka 30 minutter, til linserne er møre.</p><p>Vend forårsløg i retten, og lad dem dampe med på eftervarmen i 3 minutter.</p><p>Smag til med salt, peber og lime, og server med pynt.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/37. One Pot dhal på grøn karry.jpg",
   "Keywords": [
+    "One Pot",
     "Vegetar"
   ]
 }

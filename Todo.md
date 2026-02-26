@@ -1,6 +1,7 @@
-* move recipe loading and caching to separate class, so it can be shared with the recipe page and the home page.
-  * cache initially the index file. Cache recipes as they are loaded. Maybe dropout cache..?
-* Change recipe to fit other number of persons
-* Add more recipes
+
 * Randomly select x recipes from the index file.
-* Images
+* Noget søg efter ingredienser. Den skal stream een recipe af gangen, og løbende opdatere resultaterne. Vis en progress bar. Det skal være muligt at stoppe. 
+  * Flere ingredienser
+  * ingen caching her, det skalerer ikke.
+* Søgning efter keyword. Det skal være sådan en liste af buttons, man kan slå til og fra
+* søgning ud fra tid.

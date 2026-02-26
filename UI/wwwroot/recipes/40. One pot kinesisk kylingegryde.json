@@ -1,66 +1,54 @@
 {
   "Id": 40,
-  "Title": "One Pot kinesisk kylingegryde",
-  "SubHeader": null,
-  "TotalMinutes": 10,
-  "MinutesOfPreparation": 10,
+  "Title": "One Pot kinesisk kyllingegryde",
+  "SubHeader": "Kinesisk-inspireret one pot med ris, broccoli og soja.",
+  "TotalMinutes": 55,
+  "MinutesOfPreparation": 55,
   "NumberOfPersons": null,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Mangomia",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "PYNT:",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "MARINADE:",
-          "PreparationNote": null
+          "Quantity": 500.0,
+          "Unit": "g",
+          "Name": "kyllingeoverlår uden skind",
+          "PreparationNote": "halveret på langs af benet"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "terning honsebouillon",
-          "PreparationNote": null
+          "Name": "løg",
+          "PreparationNote": "fint hakket"
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spsk.soja",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "V4 dl sodlig hvidvin eller mirin",
+          "Name": "peber",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "dl osterssauce",
+          "Name": "olivenolie til stegning",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "spsk. friskrevet ingefaer",
-          "PreparationNote": null
+          "Name": "broccoli",
+          "PreparationNote": "i mindre buketter, stokken i 2 cm tern"
         },
         {
-          "Quantity": 5.0,
-          "Unit": "dl",
-          "Name": "vand",
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "finthakket ingefær",
           "PreparationNote": null
         },
         {
@@ -70,60 +58,60 @@
           "PreparationNote": null
         },
         {
+          "Quantity": 5.0,
+          "Unit": "dl",
+          "Name": "vand",
+          "PreparationNote": null
+        },
+        {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "broccolii mindre buketter",
-          "PreparationNote": "stokken i 2 cm tern"
-        },
+          "Unit": "terning",
+          "Name": "hønsebouillon",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Marinade",
+      "Ingredients": [
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "ONE POT MED RIS",
+          "Quantity": 0.25,
+          "Unit": "dl",
+          "Name": "sødlig hvidvin eller mirin",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Kom broccoli i gryden, laeg lag pa, og lad det dampe",
+          "Quantity": 0.25,
+          "Unit": "dl",
+          "Name": "østerssauce",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Haeld vand og resten af marinaden ved, tilsaet bouillon",
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "soja",
           "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "og lad det simre i 10 minutter, til der naesten ikke er",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "mere vaeske.",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Server evt. med mangomix.",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "faerdig pa eftervarmen.",
+          "Name": "mangomix",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>KYLLINGEGRYDE</p><p>INGREDIENSER</p><p>TIDIGRYDEN:35 MINUTTER</p><p>KINESISK-INSPIRERET</p><p>1 log, fint hakket</p><p>2 fed hvidlog</p><p>Peber</p><p>Olivenolie til stegning</p><p>500 g kyllingeoverlar uden skind, halveret pa langs</p><p>afbenet</p><p>IGRYDEN</p><p>Dryp kyllingen af for marinade, og gem marinaden.</p><p>Kom nu log, hvidlog, broccolistok og ingefer ved, og</p><p>den traekke et par timer.</p><p>Steg kyllingen gylden iolien.</p><p>Tilsaet ris, og ror rundt.</p><p>vend rundt et par gange.</p>",
+  "Instructions": "<h2>I gryden</h2><p>Vend kylling i marinaden, og marinér en halv time eller lad den trække et par timer.</p><p>Dryp kyllingen af for marinaden, og gem marinaden.</p><p>Steg kyllingen gylden i olien.</p><p>Kom løg, hvidløg, broccolistok og ingefær ved, og vend rundt et par gange.</p><p>Tilsæt ris, og rør rundt.</p><p>Hæld vand og resten af marinaden ved, tilsæt bouillon, og lad det simre i 10 minutter, til der næsten ikke er mere væske.</p><p>Kom broccoli i gryden, læg låg på, og lad det dampe færdig på eftervarmen.</p><p>Server evt. med mangomix.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/40. One Pot kinesisk kylingegryde.jpg",
   "Keywords": [
-    "Vegetar"
+    "One Pot",
+    "Kylling",
+    "Ris"
   ]
 }

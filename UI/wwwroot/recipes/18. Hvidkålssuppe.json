@@ -1,7 +1,7 @@
 {
   "Id": 18,
   "Title": "Hvidkålssuppe",
-  "SubHeader": null,
+  "SubHeader": "En nærende, mættende og budgetvenlig suppe, som smager virkelig lækkert. Vælg frit, om du vil servere og nyde den med de hele stykker grønt og kål, eller om du heller vil blende den til en cremet suppe, som ofte er et hit hos børn - og så er det jo virkelig en genial måde at få børnene til at spise en masse gode grøntsager.",
   "TotalMinutes": 30,
   "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
@@ -12,55 +12,55 @@
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 4.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "gkartofler",
-          "PreparationNote": "itern"
+          "Unit": "g",
+          "Name": "kartofler",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 500.0,
           "Unit": "g",
-          "Name": "hvidkal",
+          "Name": "hvidkål",
           "PreparationNote": "fintsnittet"
         },
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "gulergdder",
-          "PreparationNote": "itynde skiver"
+          "Name": "gulerødder",
+          "PreparationNote": "i tynde skiver"
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskknustefennikelfrg",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "knuste fennikelfrø",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "/grontsagsbouillon",
+          "Unit": "l",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spsksoja",
+          "Unit": "spsk",
+          "Name": "soja",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "piskeflode",
+          "Name": "piskefløde",
           "PreparationNote": null
         },
         {
@@ -72,7 +72,7 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -83,31 +83,31 @@
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "ceble",
-          "PreparationNote": "ismatern"
+          "Name": "æble",
+          "PreparationNote": "i små tern"
         },
         {
           "Quantity": 40.0,
-          "Unit": null,
-          "Name": "gvalngdder",
+          "Unit": "g",
+          "Name": "valnødder",
           "PreparationNote": "grofthakkede"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld persille",
+          "Unit": "håndfuld",
+          "Name": "persille",
           "PreparationNote": "finthakket"
         },
         {
           "Quantity": 4.0,
           "Unit": "skiver",
-          "Name": "rugbrod",
+          "Name": "rugbrød",
           "PreparationNote": "ristet"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log og hvidlog i en gryde med olie, til logene er</p><p>blode. Tilsaet kartofler, hvidkal og gulerodder samt</p><p>fennikelfro og grontsagsbouillon. Lad det koge op, laeg</p><p>lag pa og lad suppen simre, til kartoflerne er more.</p><p>Smag til med soja, piskeflode, salt og peber. Blend</p><p>at blende og server den dampende varme suppe idybe</p><p>tallerkener med de hele grontsager.</p><p>Kom aebletern,valnodder ogpersilleisma skale,sa</p><p>man selv kan forsyne sig med topping ved bordet og</p><p>server ristet rugbrod til som tilbehor.</p><p>ddns</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg og hvidløg i en gryde med olie, til løgene er bløde. Tilsæt kartofler, hvidkål og gulerødder samt fennikelfrø og grøntsagsbouillon. Lad det koge op, læg låg på og lad suppen simre, til kartoflerne er møre. Smag til med soja, piskefløde, salt og peber.</p><p>Blend suppen, til den er helt cremet og ensartet, eller undlad at blende og server den dampende varme suppe i dybe tallerkener med de hele grøntsager.</p><p>Kom æbletern, valnødder og persille i små skåle, så man selv kan forsyne sig med topping ved bordet, og server ristet rugbrød til som tilbehør.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/18. Hvidkålssuppe.jpg",
   "Keywords": [

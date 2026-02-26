@@ -1,123 +1,118 @@
 {
   "Id": 44,
   "Title": "One Pot middelhavsratatouille og kikærter",
-  "SubHeader": null,
-  "TotalMinutes": 15,
-  "MinutesOfPreparation": 15,
+  "SubHeader": "Som ret i sig selv og som mega nemt tilbehør til stegt kød.",
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": null,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
         {
-          "Quantity": null,
+          "Quantity": 1.0,
           "Unit": null,
-          "Name": "Olivenmix og cremefraiche38%",
+          "Name": "aubergine",
+          "PreparationNote": "skåret i tern, let saltet og afdryppet i 30 minutter"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "rødløg",
+          "PreparationNote": "hakket"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "søde røde peberfrugter",
+          "PreparationNote": "skåret i tern, evt. snackpeber"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "bøftomater",
+          "PreparationNote": "eller en masse blommetomater, skåret i tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dusk",
+          "Name": "timian",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "PYNT:",
+          "Quantity": 1.0,
+          "Unit": "stilk",
+          "Name": "frisk rosmarin",
+          "PreparationNote": "plukket af stilken"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "paprika",
+          "PreparationNote": "gerne stærk, hvis du har"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "rødvin",
           "PreparationNote": null
         },
         {
-          "Quantity": 300.0,
-          "Unit": "g",
-          "Name": "savojkal",
-          "PreparationNote": "skareti grove strimler"
-        },
-        {
-          "Quantity": null,
+          "Quantity": 2.0,
           "Unit": null,
-          "Name": "Salt og peber",
+          "Name": "dåser kikærter",
           "PreparationNote": null
         },
         {
           "Quantity": 3.0,
           "Unit": "dl",
-          "Name": "kikaertevandfradasen",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "daserkikaerter",
+          "Name": "kikærtevand fra dåsen",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "I tsk. paprika- gerne staerk, hvis du har",
+          "Name": "salt og peber",
           "PreparationNote": null
         },
         {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "stilk frisk rosmarin",
-          "PreparationNote": "plukket af stilken."
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "dusk timian",
-          "PreparationNote": null
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "savojkål",
+          "PreparationNote": "skåret i grove strimler"
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "I dl rodvin",
+          "Name": "olivenolie til stegning",
           "PreparationNote": null
-        },
-        {
-          "Quantity": 4.0,
-          "Unit": null,
-          "Name": "boftomater eller en masse blommetomater",
-          "PreparationNote": "skaret"
-        },
-        {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "sode rode peberfrugter",
-          "PreparationNote": "skaret i tern - evt. snackpeber"
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "itern",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 4.0,
-          "Unit": "fed",
-          "Name": "hvidlog",
-          "PreparationNote": "finthakket"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Serveres evt. med olivenmix og en klat fed cremefraiche.",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Smag til med salt og peber.",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Lag kalen pa toppen, og lad det simrei15 minutter.",
+          "Name": "olivenmix og cremefraiche 38 %",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Som ret og som mega nemt og laekkert tilbehor til stegt kod.</p><p>INGREDIENSER</p><p>OG KIKERTER</p><p>MIDDELHAVS-RATATOUILLE</p><p>TTIDIGRYDEN:3O MINUTTER</p><p>1 aubergine, skaret itern-let saltetog afdryppet</p><p>2 rodlog, hakket</p><p>1 squash, skareti tern-let saltet og afdryppet i</p><p>1 stor spsk.tomatpure</p><p>30minutter</p><p>Olivenolie til stegning</p><p>i30minutter</p><p>IGRYDEN</p><p>Vend det rundt, og giv det lidt salt og peber.</p><p>Steg auberginen gylden irigeligt olivenolie.</p><p>Sa skal der log, hvidlog, peberfrugt, boftomater, kryd</p><p>med tomatpure.</p>",
+  "Instructions": "<h2>I gryden</h2><p>Steg auberginen gylden i rigeligt olivenolie.</p><p>Tilsæt løg, hvidløg, peberfrugt, tomater, krydderier og timian, og steg med i 3-4 minutter.</p><p>Sæt ild til rødvinen.</p><p>Hæld kikærter og kikærtevand i gryden.</p><p>Vend det rundt, og giv det lidt salt og peber.</p><p>Læg kålen på toppen, og lad det simre i 15 minutter.</p><p>Serveres evt. med olivenmix og en klat fed cremefraiche.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/44. One Pot middelhavsratatouille og kikærter.jpg",
   "Keywords": [
-    "Vegetar"
+    "One Pot",
+    "Vegetar",
+    "Kikærter"
   ]
 }

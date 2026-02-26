@@ -2,47 +2,41 @@
   "Id": 29,
   "Title": "Linsekarry med ris",
   "SubHeader": null,
-  "TotalMinutes": 10,
-  "MinutesOfPreparation": 10,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
-      "Title": "Ingredienser",
+      "Title": "Linsekarry",
       "Ingredients": [
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "LINSEKARRY",
-          "PreparationNote": null
-        },
-        {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spskkarry",
+          "Unit": "spsk",
+          "Name": "karry",
           "PreparationNote": null
         },
         {
           "Quantity": 3.0,
           "Unit": "fed",
-          "Name": "hvidlog",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakket"
         },
         {
           "Quantity": 1.0,
           "Unit": "spsk",
-          "Name": "ingefaer",
+          "Name": "ingefær",
           "PreparationNote": "fintrevet"
         },
         {
           "Quantity": 150.0,
-          "Unit": null,
-          "Name": "ggronne linser",
+          "Unit": "g",
+          "Name": "grønne linser",
           "PreparationNote": null
         },
         {
@@ -59,8 +53,8 @@
         },
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "mlkokosmcelk",
+          "Unit": "ml",
+          "Name": "kokosmælk",
           "PreparationNote": null
         },
         {
@@ -72,31 +66,30 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt ogfriskkvoernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "RIS MEDINGEFER",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Ris med ingefær og hvidløg",
+      "Ingredients": [
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spskingefoer",
+          "Unit": "spsk",
+          "Name": "ingefær",
           "PreparationNote": "fintrevet"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "presset"
         },
         {
           "Quantity": 5.0,
-          "Unit": null,
-          "Name": "dlvand",
+          "Unit": "dl",
+          "Name": "vand",
           "PreparationNote": null
         },
         {
@@ -112,9 +105,9 @@
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tsksalt",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "salt",
           "PreparationNote": null
         }
       ]
@@ -125,31 +118,37 @@
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "groesk yoghurt 10 %",
+          "Name": "græsk yoghurt 10 %",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld frisk koriander",
+          "Unit": "håndfuld",
+          "Name": "frisk koriander",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "øko",
+          "Name": "citron",
+          "PreparationNote": "saft og fintrevet skal"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "V2oko citron, saft og fintrevet skal",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Valdemarsro-vegetar aftensm",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom olie, hvidlog, log og ingefaer i og sauter under</p><p>omroring, til logene er blode. Kom linser, squash, hak-</p><p>kede tomater og kokosmaelk i gryden og ror det godt</p><p>igennem. Lad det simre under lag i 30-40 minutter, til</p><p>linserne er more. Smag til med salt og peber.</p><p>RIS MED INGEFER OG HVIDLOG</p><p>Kom olie, ingefaer og hvidlog i en gryde og sauter ved</p><p>lav varme, til det dufter let, men ikke tager farve. Tilsaet</p><p>vand, basmatiris og salt. Ror det godt igennem, laeg lag</p><p>pa og bring langsomt op til kogepunktet. Kog under</p><p>lag ved svag varme i 10 minutter. Tag af varmen og lad</p><p>derefter risene hvile i yderligere 10 minutteri gryden</p><p>med laget pa.</p><p>Ror graesk yoghurt med koriander, lidt citronsaft, citron</p><p>skal, salt og friskkvaernet peber.</p><p>Server risene i dybe tallerkener, toppet med linsekarry</p><p>og korianderdressing samt et drys chiliflager.</p><p>finthakket</p><p>1 tsk chiliflager</p><p>salt og friskkvcernet peber</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Rist karry i en tør gryde ved middelvarme, til det dufter. Kom olie, hvidløg, løg og ingefær i og sautér under omrøring, til løgene er bløde. Kom linser, squash, hakkede tomater og kokosmælk i gryden og rør det godt igennem. Lad det simre under låg i 30-40 minutter, til linserne er møre. Smag til med salt og peber.</p><p>Kom olie, ingefær og hvidløg i en gryde og sautér ved lav varme, til det dufter let, men ikke tager farve. Tilsæt vand, basmatiris og salt. Rør det godt igennem, læg låg på og bring langsomt op til kogepunktet. Kog under låg ved svag varme i 10 minutter. Tag af varmen og lad derefter risene hvile i yderligere 10 minutter i gryden med låget på.</p><p>Rør græsk yoghurt med koriander, lidt citronsaft, citronskal, salt og friskkværnet peber. Server risene i dybe tallerkener, toppet med linsekarry og korianderdressing samt et drys chiliflager.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/29. Linsekarry med ris.jpg",
   "Keywords": [

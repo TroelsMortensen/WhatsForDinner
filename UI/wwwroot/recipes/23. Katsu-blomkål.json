@@ -2,23 +2,23 @@
   "Id": 23,
   "Title": "Katsu-blomkål",
   "SubHeader": null,
-  "TotalMinutes": 20,
-  "MinutesOfPreparation": 20,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 45,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
-      "Title": "Ingredienser",
+      "Title": "Bagt blomkål",
       "Ingredients": [
         {
-          "Quantity": null,
+          "Quantity": 1.0,
           "Unit": null,
-          "Name": "BAGT BLOMKAL",
-          "PreparationNote": null
+          "Name": "blomkål",
+          "PreparationNote": "i skiver"
         },
         {
           "Quantity": 30.0,
-          "Unit": null,
-          "Name": "gsmor",
+          "Unit": "g",
+          "Name": "smør",
           "PreparationNote": "smeltet"
         },
         {
@@ -29,22 +29,21 @@
         },
         {
           "Quantity": 50.0,
-          "Unit": null,
-          "Name": "gpankorasp",
+          "Unit": "g",
+          "Name": "pankorasp",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "friskkvaernet peber",
+          "Name": "friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "KARRYSAUCE",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Karrysauce",
+      "Ingredients": [
         {
           "Quantity": 2.0,
           "Unit": "spsk",
@@ -53,50 +52,50 @@
         },
         {
           "Quantity": 300.0,
-          "Unit": null,
-          "Name": "gsquash",
-          "PreparationNote": "itern"
+          "Unit": "g",
+          "Name": "squash",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 3.0,
           "Unit": null,
-          "Name": "gulergdder",
-          "PreparationNote": "itern"
+          "Name": "gulerødder",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 4.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "ceble",
-          "PreparationNote": "itern"
+          "Name": "æble",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "stodt gurkemeje",
+          "Name": "stødt gurkemeje",
           "PreparationNote": null
         },
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "mlkokosmcelk",
+          "Unit": "ml",
+          "Name": "kokosmælk",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
@@ -114,7 +113,7 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "friskkvcernet peber",
+          "Name": "friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -126,43 +125,31 @@
           "Quantity": 3.0,
           "Unit": "dl",
           "Name": "basmatiris",
-          "PreparationNote": "kogt efter anvisning"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "pa pakken",
-          "PreparationNote": null
+          "PreparationNote": "kogt efter anvisning på pakken"
         },
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "forarslog",
+          "Name": "forårsløg",
           "PreparationNote": "fintsnittede"
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "sesamfro",
+          "Name": "sesamfrø",
           "PreparationNote": "ristede"
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "V2tsk chiliflager",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Valdemarsro-vegetaraftensmad",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>INGREDIENSER</p><p>BAGT BLOMKAL</p><p>Fordel blomkal pa en bradepande med bagepapir.</p><p>1blomkal,iskiver</p><p>Pensl med smeltet smor og drys med peber. Smuldr</p><p>halloumi over og derefter rasp. Bag i en forvarmet ovn</p><p>ved 175 grader varmluft i ca. 20 minutter.</p><p>KARRYSAUCE</p><p>Rist karry i en tor gryde, til det dufter dejligt. Tilfoj olie,</p><p>squash, gulerodder, log, hvidlog, aeble og gurkemeje og</p><p>Tilfoj kokosmaelk. Laeg lag pa og lad det simre i ca. 15</p><p>minutter, eller til gulerodderne er more.</p><p>Blend saucen, til den er helt cremet. Juster konsistensen</p><p>med grontsagsbouillon og smag godt til med soja og</p><p>peber.</p><p>Server med ris, forarslog og et drys sesamfro og chilifla</p><p>ger.</p><p>i en japanskinspireret opskrift, men da jeg ikke selv er</p><p>sa begejstret for tofu, bruger jeg i stedet halloumi. Men</p><p>du kan frit bruge tofu eller halloumi, alt efter hvad du</p><p>synes bedst om!</p>",
-  "Note": "",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Fordel blomkål på en bradepande med bagepapir. Pensl med smeltet smør og drys med peber. Smuldr halloumi over og derefter rasp. Bag i en forvarmet ovn ved 175 grader varmluft i ca. 20 minutter.</p><p>Rist karry i en tør gryde, til det dufter dejligt. Tilføj olie, squash, gulerødder, løg, hvidløg, æble og gurkemeje og rør det hele godt sammen i et par minutter i gryden. Tilføj kokosmælk. Læg låg på og lad det simre i ca. 15 minutter, eller til gulerødderne er møre.</p><p>Blend saucen, til den er helt cremet. Juster konsistensen med grøntsagsbouillon og smag godt til med soja og peber. Server med ris, forårsløg og et drys sesamfrø og chiliflager.</p>",
+  "Note": "Det vil naturligvis være mere korrekt at bruge tofu i en japanskinspireret opskrift, men da jeg ikke selv er så begejstret for tofu, bruger jeg i stedet halloumi. Men du kan frit bruge tofu eller halloumi, alt efter hvad du synes bedst om!",
   "ImageUrl": "/images/recipe-images/23. Katsu-blomkål.jpg",
   "Keywords": [
     "Vegetar"

@@ -1,72 +1,54 @@
 {
   "Id": 53,
-  "Title": "Quesadillas med stegt bønner og cheddar",
-  "SubHeader": null,
-  "TotalMinutes": 3,
-  "MinutesOfPreparation": 3,
+  "Title": "Quesadillas med stegte bønner og cheddar",
+  "SubHeader": "Her tilføjer jeg lidt hakkede tomater til mine refried beans, stegte bønner. Det er ikke helt traditionelt, men giver en god og saftig smag til de sprøde quesadillas.",
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
-      "Title": "Ingredienser",
+      "Title": "Stegte bønner med tomater",
       "Ingredients": [
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "STEGTE BONNER",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "MED TOMATER",
-          "PreparationNote": null
-        },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakket"
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "fintrevne"
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "tsk chiliflager",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskstodtspidskommen",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "torret oregano",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "tørret oregano",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "dasesortebonner",
-          "PreparationNote": "draenede"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "og skyllede",
-          "PreparationNote": null
+          "Name": "dåse sorte bønner",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": 150.0,
-          "Unit": null,
-          "Name": "ghakkedetomater",
+          "Unit": "g",
+          "Name": "hakkede tomater",
           "PreparationNote": null
         },
         {
@@ -78,15 +60,14 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "saltogfriskkvaernetpeber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "DERUDOVER",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Derudover",
+      "Ingredients": [
         {
           "Quantity": 8.0,
           "Unit": null,
@@ -108,14 +89,8 @@
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "handfuld friskkoriander",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "finthakket",
-          "PreparationNote": null
+          "Name": "håndfuld frisk koriander",
+          "PreparationNote": "finthakket"
         },
         {
           "Quantity": null,
@@ -126,10 +101,11 @@
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>STEGTE BONNER MED TOMATER</p><p>Sauter log i en gryde med olie, til de er blode.Tilsaet</p><p>hvidlog,chiliflager,spidskommen og oregano sammen</p><p>med de sorte bonner og hakkede tomater og ror det</p><p>godt sammen i nogle minutter.Varm op,til det simrer</p><p>og koger lidt ind.</p><p>Blend hurtigt med en stavblenderi gryden, til bonnerne</p><p>er grofthakkede.Smag godt til med salt og peber.</p><p>Fordel de stegte bonner pa halvdelen af hver tortilla,</p><p>drys med cheddar, spinat og frisk koriander. Luk den</p><p>anden halvdel over og steg dem pa en varm pande med</p><p>lidt oliei2-3 minutter pa hver side, til de ergyldne og</p><p>sprode.</p><p>Serverstraks.</p><p>lerkidneybonner,og de stegte bonner kan holde sig 2-3</p><p>dage i koleskabet, sa man kan fint lave en storre portion</p><p>og spise det til en bowl eller som dip eller tilbehor til</p><p>andre retter.</p><p>Tex Mex</p>",
-  "Note": "",
+  "Instructions": "<h2>Fremgangsmåde</h2><p><strong>Stegte bønner med tomater:</strong> Sautér løg i en gryde med olie, til de er bløde. Tilsæt hvidløg, chiliflager, spidskommen og oregano sammen med de sorte bønner og hakkede tomater og rør det godt sammen i nogle minutter. Varm op, til det simrer og koger lidt ind.</p><p>Blend hurtigt med en stavblender i gryden, til bønnerne er grofthakkede. Smag godt til med salt og peber.</p><p>Fordel de stegte bønner på halvdelen af hver tortilla, drys med cheddar, spinat og frisk koriander. Luk den anden halvdel over og steg dem på en varm pande med lidt olie i 2-3 minutter på hver side, til de er gyldne og sprøde.</p><p>Server straks.</p>",
+  "Note": "Til de stegte bønner kan man bruge sorte bønner eller kidneybønner, og de stegte bønner kan holde sig 2-3 dage i køleskabet, så man kan fint lave en større portion og spise det til en bowl eller som dip eller tilbehør til andre retter.",
   "ImageUrl": "/images/recipe-images/53. Quesadillas med stegt bønner og cheddar.jpg",
   "Keywords": [
-    "Vegetar"
+    "Vegetar",
+    "Tex Mex"
   ]
 }

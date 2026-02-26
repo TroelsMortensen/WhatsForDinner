@@ -12,17 +12,17 @@
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "log",
-          "PreparationNote": "ityndebade"
+          "Name": "løg",
+          "PreparationNote": "i tynde både"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spskgarammasala",
+          "Unit": "spsk",
+          "Name": "garam masala",
           "PreparationNote": null
         },
         {
-          "Quantity": 12.0,
+          "Quantity": 0.5,
           "Unit": "tsk",
           "Name": "chiliflager",
           "PreparationNote": null
@@ -30,19 +30,19 @@
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "stodtgurkemeje",
+          "Name": "stødt gurkemeje",
           "PreparationNote": null
         },
         {
           "Quantity": 4.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spskingefaer",
+          "Unit": "spsk",
+          "Name": "ingefær",
           "PreparationNote": "fintrevet"
         },
         {
@@ -53,50 +53,50 @@
         },
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "mlkokosmcelk",
+          "Unit": "ml",
+          "Name": "kokosmælk",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "blomkal",
-          "PreparationNote": "ibuketter"
+          "Name": "blomkål",
+          "PreparationNote": "i buketter"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "ddsekikcerter",
-          "PreparationNote": "drcenede"
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": 75.0,
-          "Unit": null,
-          "Name": "gkoncentreret tomatpure",
+          "Unit": "g",
+          "Name": "koncentreret tomatpuré",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "grcesk yoghurt 10 %",
+          "Name": "græsk yoghurt 10 %",
           "PreparationNote": null
         },
         {
           "Quantity": 75.0,
-          "Unit": null,
-          "Name": "gmandler",
-          "PreparationNote": "smuttedeoggroft-"
+          "Unit": "g",
+          "Name": "mandler",
+          "PreparationNote": "smuttede og grofthakkede"
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "olietil stegning",
+          "Name": "olie til stegning",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt ogfriskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -112,14 +112,14 @@
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld frisk koriander",
-          "PreparationNote": "groft-"
+          "Unit": "håndfuld",
+          "Name": "frisk koriander",
+          "PreparationNote": "grofthakket"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisning pa pakken.</p><p>Varm olie pa en pande og sauter logene, til de er blevet</p><p>blode.Tilsaet garam masala, chiliflager,gurke-</p><p>meje, hvidlog, ingefaer og limesaft. Ror det godt igen-</p><p>nem og tilsaet derefter kokosmaelken.</p><p>Varm op til kogepunktet og kom blomkal, kikaerter og</p><p>tomatpureigryden.Laeg lag pa og lad det simrei 10-15</p><p>minutter, til blomkalen er mor.</p><p>og skyllede</p><p>Ror graesk yoghurt og halvdelen af de hakkede mandler</p><p>i gryden inden servering og smag til med salt og frisk-</p><p>kvaernet peber. Server retten idybe tallerkener med ris</p><p>hakkede</p><p>og drys med resten af mandlerne samt koriander over.</p><p>hakket</p><p>marsro-vegetaraftensmad</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisning på pakken.</p><p>Varm olie på en pande og sautér løgene, til de er blevet bløde. Tilsæt garam masala, chiliflager, gurkemeje, hvidløg, ingefær og limesaft. Rør det godt igennem og tilsæt derefter kokosmælken.</p><p>Varm op til kogepunktet og kom blomkål, kikærter og tomatpuré i gryden. Læg låg på og lad det simre i 10-15 minutter, til blomkålen er mør.</p><p>Rør græsk yoghurt og halvdelen af de hakkede mandler i gryden inden servering og smag til med salt og friskkværnet peber. Server retten i dybe tallerkener med ris og drys med resten af mandlerne samt koriander over.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/26. Korma med blomkål og kikærter.jpg",
   "Keywords": [

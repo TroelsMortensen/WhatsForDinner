@@ -23,6 +23,10 @@
         <article class="recipe-page">
         <header class="recipe-header">
             <h1>@RecipeData.Title</h1>
+            @if (!string.IsNullOrWhiteSpace(RecipeData.ImageUrl))
+            {
+                <img class="recipe-image" src="@RecipeData.ImageUrl" alt="@RecipeData.Title" />
+            }
             <div class="recipe-meta">
                 @if (RecipeData.NumberOfPersons is > 0)
                 {
@@ -72,11 +76,6 @@
                     <div class="note">
                         <span class="note-star">☆</span>@RecipeData.Note
                     </div>
-                }
-
-                @if (!string.IsNullOrWhiteSpace(RecipeData.ImageUrl))
-                {
-                    <img class="recipe-image" src="@RecipeData.ImageUrl" alt="@RecipeData.Title" />
                 }
             </section>
         </div>

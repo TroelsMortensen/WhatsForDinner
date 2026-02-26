@@ -2,8 +2,8 @@
   "Id": 22,
   "Title": "Karrysuppe med kikærter",
   "SubHeader": null,
-  "TotalMinutes": 1,
-  "MinutesOfPreparation": 1,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
@@ -17,75 +17,69 @@
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskstodtspidskommen",
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakket"
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 2.0,
           "Unit": null,
           "Name": "porrer",
-          "PreparationNote": "itynde skiver"
+          "PreparationNote": "i tynde skiver"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
           "Name": "broccoli",
-          "PreparationNote": "ibuketter"
+          "PreparationNote": "i buketter"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "dasekikaerter",
-          "PreparationNote": "draenede"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "og skyllede",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "rodpeberfrugt",
-          "PreparationNote": "itern"
+          "Name": "rød peberfrugt",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 8.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskmajsstivelse",
+          "Unit": "tsk",
+          "Name": "majsstivelse",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "/2 dl piskeflode",
+          "Quantity": 2.5,
+          "Unit": "dl",
+          "Name": "piskefløde",
           "PreparationNote": null
         },
         {
           "Quantity": 200.0,
           "Unit": "g",
           "Name": "cherrytomater",
-          "PreparationNote": "ikvarte"
+          "PreparationNote": "i kvarte"
         },
         {
           "Quantity": null,
@@ -96,7 +90,7 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt ogfriskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -112,9 +106,9 @@
         },
         {
           "Quantity": 250.0,
-          "Unit": null,
-          "Name": "ghalloumi",
-          "PreparationNote": "iskiver"
+          "Unit": "g",
+          "Name": "halloumi",
+          "PreparationNote": "i skiver"
         },
         {
           "Quantity": 1.0,
@@ -124,9 +118,9 @@
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuldbredbladetpersille",
-          "PreparationNote": null
+          "Unit": "håndfuld",
+          "Name": "bredbladet persille",
+          "PreparationNote": "grofthakket"
         },
         {
           "Quantity": null,
@@ -137,7 +131,7 @@
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en stor gryde op ved middelvarme,kom karry og</p><p>spidskommen igryden og ror ica.1 minut, til det dufter</p><p>dejligt.</p><p>Kom olie, log, hvidlog og porrerigryden til krydderierne</p><p>og sauter, til logene er blode. Kom broccoli, kikaerter,</p><p>peberfrugt og grontsagsbouillonigryden.Ror majs-</p><p>stivelse sammen med piskeflode og ror detisuppen.</p><p>Kog suppen op under omroringinogle minutter.Skru</p><p>ned til lav varme,kom tomaterneisuppen oglaeg lag</p><p>pa, sa suppen holder sig varm. Smag karrysuppen godt</p><p>til med salt og friskkvaernet peber.</p><p>Kog ris efter anvisning pa pakken.Rist halloumi pa en</p><p>pande med lidt olie, til halloumi-skiverne har en smuk</p><p>gylden stegeskorpe.</p><p>Serveridybe tallerkenermed ris,halloumi,chiliflager</p><p>og et dryspersille</p><p>grofthakket</p><p>Indisk</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en stor gryde op ved middelvarme, kom karry og spidskommen i gryden og rør i ca. 1 minut, til det dufter dejligt.</p><p>Kom olie, løg, hvidløg og porrer i gryden til krydderierne og sautér, til løgene er bløde. Kom broccoli, kikærter, peberfrugt og grøntsagsbouillon i gryden. Rør majsstivelse sammen med piskefløde og rør det i suppen. Kog suppen op under omrøring i nogle minutter. Skru ned til lav varme, kom tomaterne i suppen og læg låg på, så suppen holder sig varm. Smag karrysuppen godt til med salt og friskkværnet peber.</p><p>Kog ris efter anvisning på pakken. Rist halloumi på en pande med lidt olie, til halloumi-skiverne har en smuk gylden stegeskorpe.</p><p>Server i dybe tallerkener med ris, halloumi, chiliflager og et drys persille.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/22. Karrysuppe med kikærter.jpg",
   "Keywords": [

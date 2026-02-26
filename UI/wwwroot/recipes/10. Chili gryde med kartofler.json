@@ -2,8 +2,8 @@
   "Id": 10,
   "Title": "Chili gryde med kartofler",
   "SubHeader": null,
-  "TotalMinutes": 20,
-  "MinutesOfPreparation": 20,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
@@ -12,62 +12,62 @@
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "gkartofler",
-          "PreparationNote": "itern"
+          "Unit": "g",
+          "Name": "kartofler",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "roget paprika",
+          "Name": "røget paprika",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskstodtspidskommen",
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "y2tskchiliflager",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spskkoncentreret tomatpure",
+          "Unit": "spsk",
+          "Name": "koncentreret tomatpuré",
           "PreparationNote": null
         },
         {
           "Quantity": 5.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "ghakkedetomater",
+          "Unit": "g",
+          "Name": "hakkede tomater",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "daser sortebonner",
-          "PreparationNote": "drcenede"
+          "Unit": "dåser",
+          "Name": "sorte bønner",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": null,
@@ -78,7 +78,7 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -94,20 +94,20 @@
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "lillehandfuldkoriander",
-          "PreparationNote": null
+          "Unit": "lille håndfuld",
+          "Name": "koriander",
+          "PreparationNote": "finthakket"
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Vztsk chiliflager",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log og hvidlog ved middelvarmei en gryde med</p><p>olie,til logene er blode.Kom kartofler og krydderieri</p><p>gryden og ror det godt sammen iet par minutter.Tilsaet</p><p>tomatpure,grontsagsbouillon oghakkede tomater,laeg</p><p>lag pa gryden og lad det simrei20 minutter.</p><p>Kom derefter bonneriog smag godt til med salt ogpe-</p><p>ber. Kog videre et par minutter, til kartoflerne er perfekt</p><p>more.</p><p>Server den dampende varme gryderetiskale med de</p><p>og skyllede</p><p>kogte ris og et drys koriander og chiliflager.</p><p>finthakket</p><p>Tex</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg og hvidløg ved middelvarme i en gryde med olie, til løgene er bløde. Kom kartofler og krydderier i gryden og rør det godt sammen i et par minutter. Tilsæt tomatpuré, grøntsagsbouillon og hakkede tomater, læg låg på gryden og lad det simre i 20 minutter.</p><p>Kom derefter bønner i og smag godt til med salt og peber. Kog videre et par minutter, til kartoflerne er perfekt møre.</p><p>Server den dampende varme gryderet i skåle med de kogte ris og et drys koriander og chiliflager.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/10. Chili gryde med kartofler.jpg",
   "Keywords": [

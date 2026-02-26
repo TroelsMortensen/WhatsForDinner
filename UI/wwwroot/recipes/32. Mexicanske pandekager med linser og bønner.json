@@ -2,8 +2,8 @@
   "Id": 32,
   "Title": "Mexicanske pandekager med linser og bønner",
   "SubHeader": null,
-  "TotalMinutes": 120,
-  "MinutesOfPreparation": 15,
+  "TotalMinutes": 90,
+  "MinutesOfPreparation": 45,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
@@ -12,49 +12,49 @@
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakket"
         },
         {
           "Quantity": 2.0,
           "Unit": "fed",
-          "Name": "hvidlog",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 250.0,
-          "Unit": null,
-          "Name": "gchampignoner",
+          "Unit": "g",
+          "Name": "champignoner",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "torret oregano",
+          "Name": "tørret oregano",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
+          "Quantity": 0.5,
           "Unit": "tsk",
-          "Name": "torretrosmarin",
+          "Name": "tørret rosmarin",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskchiliflager",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskspidskommen",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "roget paprika",
+          "Name": "spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
           "PreparationNote": null
         },
         {
@@ -65,45 +65,39 @@
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "staenglerbladselleri",
+          "Unit": "stængler",
+          "Name": "bladselleri",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 50.0,
-          "Unit": null,
-          "Name": "gsoltorredetomateriolie",
+          "Unit": "g",
+          "Name": "soltørrede tomater i olie",
           "PreparationNote": null
         },
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "ghakkede tomater",
+          "Unit": "g",
+          "Name": "hakkede tomater",
           "PreparationNote": null
         },
         {
           "Quantity": 50.0,
-          "Unit": null,
-          "Name": "grode linser",
+          "Unit": "g",
+          "Name": "røde linser",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "dase sorte bonner",
-          "PreparationNote": "drcenede og"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "skyllede",
-          "PreparationNote": null
+          "Unit": "dåse",
+          "Name": "sorte bønner",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": null,
@@ -114,7 +108,7 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt ogfriskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -130,21 +124,21 @@
         },
         {
           "Quantity": 150.0,
-          "Unit": null,
-          "Name": "gcheddar",
+          "Unit": "g",
+          "Name": "cheddar",
           "PreparationNote": "friskrevet"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld frisk koriander",
+          "Unit": "håndfuld",
+          "Name": "frisk koriander",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log og hvidlog i en gryde med olie, til logene</p><p>er blode.Skru opfor varmen og kom champignoner i</p><p>gryden, ror godt igennem og tilsaet derefter de andre</p><p>ingredienser, undtagen de sorte bonner.</p><p>Skru ned for varmen, laeg lag pa og lad retten simrei 45</p><p>minutter, til den er cremet og laekker.Kom bonnerne i,</p><p>varm dem igennem og smag saucen godt til med salt og</p><p>peber.</p><p>Fordelgrontsagssaucen og halvdelen af cheddarosten</p><p>i de mexicanske tortillas,rul dem sammen og laeg dem</p><p>i et smurt ovnfast fad. Pensl med olie og drys resten</p><p>af osten over.Bag ien forvarmet ovn ved 180 grader</p><p>varmlufti15 minutter, til osten er smeltet.</p><p>★ Saucen kan fryses, og den er ogsa laekker til andre</p><p>retter, somfx fyld i pirogger,pizzasnegle eller til en</p><p>risret.</p><p>Tacos,burritosogwraps</p>",
-  "Note": "",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg og hvidløg i en gryde med olie, til løgene er bløde. Skru op for varmen og kom champignoner i gryden, rør godt igennem og tilsæt derefter de andre ingredienser, undtagen de sorte bønner.</p><p>Skru ned for varmen, læg låg på og lad retten simre i 45 minutter, til den er cremet og lækker. Kom bønnerne i, varm dem igennem og smag saucen godt til med salt og peber.</p><p>Fordel grøntsagssaucen og halvdelen af cheddarosten i de mexicanske tortillas, rul dem sammen og læg dem i et smurt ovnfast fad. Pensl med olie og drys resten af osten over. Bag i en forvarmet ovn ved 180 grader varmluft i 15 minutter, til osten er smeltet.</p>",
+  "Note": "Saucen kan fryses, og den er også lækker til andre retter, som fx fyld i pirogger, pizzasnegle eller til en risret.",
   "ImageUrl": "/images/recipe-images/32. Mexicanske pandekager med linser og bønner.jpg",
   "Keywords": [
     "Vegetar"

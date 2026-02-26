@@ -2,29 +2,23 @@
   "Id": 7,
   "Title": "Bowl med hvidløgsbagt grønt og kikærter",
   "SubHeader": null,
-  "TotalMinutes": 10,
-  "MinutesOfPreparation": 10,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 45,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
-      "Title": "Ingredienser",
+      "Title": "Sprøde kikærter",
       "Ingredients": [
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "SPRODE KIKAERTER",
-          "PreparationNote": null
-        },
-        {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "daserkikaerter",
+          "Unit": "dåser",
+          "Name": "kikærter",
           "PreparationNote": "skyllede"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskrogetpaprika",
+          "Unit": "tsk",
+          "Name": "røget paprika",
           "PreparationNote": null
         },
         {
@@ -39,18 +33,11 @@
           "Name": "flagesalt",
           "PreparationNote": null
         },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "HVIDLOGSBAGTE",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "GRONTSAGER",
-          "PreparationNote": null
-        },
+      ]
+    },
+    {
+      "Title": "Hvidløgsbagte grøntsager",
+      "Ingredients": [
         {
           "Quantity": 20.0,
           "Unit": null,
@@ -60,8 +47,8 @@
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "rode peberfrugter",
-          "PreparationNote": "istoretern"
+          "Name": "røde peberfrugter",
+          "PreparationNote": "i store tern"
         },
         {
           "Quantity": 100.0,
@@ -73,18 +60,18 @@
           "Quantity": 1.0,
           "Unit": null,
           "Name": "squash",
-          "PreparationNote": "istore tern"
+          "PreparationNote": "i store tern"
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "pressede"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskfrisk rosmarin",
+          "Unit": "tsk",
+          "Name": "frisk rosmarin",
           "PreparationNote": "finthakket"
         },
         {
@@ -96,38 +83,37 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt ogfriskkvaernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "RIS MED CITRONPERSILLE",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Ris med citronpersille",
+      "Ingredients": [
         {
           "Quantity": 5.0,
-          "Unit": null,
-          "Name": "dlvand",
+          "Unit": "dl",
+          "Name": "vand",
           "PreparationNote": null
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "dlbasmatiris",
+          "Unit": "dl",
+          "Name": "basmatiris",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld persille",
+          "Unit": "håndfuld",
+          "Name": "persille",
           "PreparationNote": "finthakket"
         },
         {
-          "Quantity": null,
+          "Quantity": 0.5,
           "Unit": null,
-          "Name": "V2 oko citron,fintrevet skal",
-          "PreparationNote": null
+          "Name": "øko citron",
+          "PreparationNote": "fintrevet skal"
         },
         {
           "Quantity": null,
@@ -142,20 +128,20 @@
       "Ingredients": [
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld bredbladet persille",
-          "PreparationNote": null
+          "Unit": "håndfuld",
+          "Name": "bredbladet persille",
+          "PreparationNote": "finthakket"
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "finthakket",
+          "Name": "hvidløgsyoghurt",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>SPRODE KIKAERTER</p><p>Skyl kikaerterne og tor dem iet rent klaede.Vend kik-</p><p>aerterne godt i olie og derefter med paprika og salt.</p><p>Fordel dem pa en bageplade medbagepapirog bag</p><p>dem i enforvarmet ovn ved 175 grader varmlufti20-25</p><p>minutter, til de er laekre og sprode. Vend dem evt.en</p><p>gang eller to undervejs.</p><p>HVIDLOGSBAGTE GRONTSAGER</p><p>Vend tomater, peberfrugter, spinat og squash med</p><p>olivenolie, hvidlog, rosmarin, salt og peber. Fordel det</p><p>pa en bradepande med bagepapir og bag detien for-</p><p>varmet ovn ved 175 grader varmlufti20 minutter.</p><p>RIS MED CITRONPERSILLE</p><p>Kom vand, basmatiris og salt ien gryde og ror det godt</p><p>igennem,laeg lag pa og bring det langsomt i kog. Lad</p><p>det koge under lag ved svag varmei 10 minutter.Tag</p><p>gryden af varmen og lad derefter risene hvile iyder-</p><p>ligere 10 minutteri gryden med laget pa.Vend citron-</p><p>skal og persille i risene inden servering.</p><p>Anret ris,de hvidlogsbagte grontsager ogkikaerteri</p><p>dybe tallerkener eller skale.Fordel lidt hvidlogsyoghurt</p><p>over ogdrys med persille.</p><p>Bowls og maltidssala</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Skyl kikærterne og tør dem i et rent klæde. Vend kikærterne godt i olie og derefter med paprika og salt. Fordel dem på en bageplade med bagepapir og bag dem i en forvarmet ovn ved 175 grader varmluft i 20-25 minutter, til de er lækre og sprøde. Vend dem evt. en gang eller to undervejs.</p><p>Vend tomater, peberfrugter, spinat og squash med olivenolie, hvidløg, rosmarin, salt og peber. Fordel det på en bradepande med bagepapir og bag det i en forvarmet ovn ved 175 grader varmluft i 20 minutter.</p><p>Kom vand, basmatiris og salt i en gryde og rør det godt igennem, læg låg på og bring det langsomt i kog. Lad det koge under låg ved svag varme i 10 minutter. Tag gryden af varmen og lad derefter risene hvile i yderligere 10 minutter i gryden med låget på. Vend citronskal og persille i risene inden servering.</p><p>Anret ris, de hvidløgsbagte grøntsager og kikærter i dybe tallerkener eller skåle. Fordel lidt hvidløgsyoghurt over og drys med persille.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/7. Bowl med hvidløgsbagt grønt og kikærter.jpg",
   "Keywords": [

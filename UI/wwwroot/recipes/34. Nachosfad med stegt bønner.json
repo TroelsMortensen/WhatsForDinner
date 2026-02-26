@@ -1,60 +1,54 @@
 {
   "Id": 34,
-  "Title": "Nachosfad med stegt bønner",
+  "Title": "Nachosfad med stegte bønner",
   "SubHeader": null,
-  "TotalMinutes": 15,
-  "MinutesOfPreparation": 15,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
-      "Title": "Ingredienser",
+      "Title": "Stegte bønner",
       "Ingredients": [
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "STEGTE BONNER",
-          "PreparationNote": null
-        },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakket"
         },
         {
           "Quantity": 2.0,
           "Unit": "fed",
-          "Name": "hvidlog",
+          "Name": "hvidløg",
           "PreparationNote": "fintrevne"
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "tskchiliflager",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskstodtspidskommen",
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Vtsktorretoregano",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "tørret oregano",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "dasekidneybonner",
-          "PreparationNote": "draenede"
+          "Unit": "dåse",
+          "Name": "kidneybønner",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
@@ -66,25 +60,24 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "saltogfriskkvaernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Nachosfad",
+      "Ingredients": [
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "NACHOSFAD",
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "nachos",
           "PreparationNote": null
         },
         {
           "Quantity": 150.0,
-          "Unit": null,
-          "Name": "gnachos",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 150.0,
-          "Unit": null,
-          "Name": "gcheddar",
+          "Unit": "g",
+          "Name": "cheddar",
           "PreparationNote": "friskrevet"
         },
         {
@@ -95,39 +88,33 @@
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "dlcremefraiche18%",
+          "Unit": "dl",
+          "Name": "cremefraiche 18 %",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld frisk koriander",
-          "PreparationNote": null
+          "Unit": "håndfuld",
+          "Name": "frisk koriander",
+          "PreparationNote": "grofthakket"
         },
         {
           "Quantity": 300.0,
-          "Unit": null,
-          "Name": "gcherrytomater",
-          "PreparationNote": "ikvarte"
+          "Unit": "g",
+          "Name": "cherrytomater",
+          "PreparationNote": "i kvarte"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
           "Name": "lime",
-          "PreparationNote": "ibade"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Valdemarsro-vegetaraftensmad",
-          "PreparationNote": null
+          "PreparationNote": "i både"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>ror det godt sammen i nogle minutter.</p><p>konsistensen med lidt grontsagsbouillon.Smag godt til</p><p>med salt og peber.</p><p>og skyllede</p><p>Kom halvdelen af nachosi et smurt ovnfast fad</p><p>fordel halvdelen af de stegte bonner og halvdelenaf</p><p>cheddarosten henover.Gentag i endnu et lag og bag</p><p>det derefterien forvarmet ovn ved 200 grader varmluft</p><p>i13-15minutter, til ostener smeltet.</p><p>Mos avocadoen med halvdelen af cremefraichen og</p><p>smag til med salt,peber og lidt limesaft. Kom avocado</p><p>mosen ovenpa indholdet af fadet, sammen med ske-</p><p>grofthakket</p><p>fulde af cremefraiche, frisk koriander og tomater.</p><p>Server med limebade til at dryppe over.</p><p>ekstrafriskhed til retten.</p>",
-  "Note": "",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg i en gryde med olie, til de er bløde. Tilsæt hvidløg og krydderier sammen med kidneybønner og rør det godt sammen i nogle minutter.</p><p>Blend hurtigt med en stavblender i gryden, til bønnerne er grofthakkede. Varm det godt igennem og juster evt. konsistensen med lidt grøntsagsbouillon. Smag godt til med salt og peber.</p><p>Kom halvdelen af nachos i et smurt ovnfast fad, fordel halvdelen af de stegte bønner og halvdelen af cheddarosten henover. Gentag i endnu et lag og bag det derefter i en forvarmet ovn ved 200 grader varmluft i 13-15 minutter, til osten er smeltet.</p><p>Mos avocadoen med halvdelen af cremefraichen og smag til med salt, peber og lidt limesaft. Kom avocadomosen ovenpå indholdet af fadet, sammen med skeer af cremefraiche, frisk koriander og tomater. Server med limebåde til at dryppe over.</p>",
+  "Note": "Har du lyst til mere grønt, så tilføj en lækker pico de gallo (se side 34) for ekstra mange grøntsager og lidt ekstra friskhed til retten.",
   "ImageUrl": "/images/recipe-images/34. Nachosfad med stegt bønner.jpg",
   "Keywords": [
     "Vegetar"

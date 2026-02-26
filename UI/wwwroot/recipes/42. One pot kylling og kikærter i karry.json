@@ -1,117 +1,112 @@
 {
   "Id": 42,
   "Title": "One Pot kylling og kikærter i karry",
-  "SubHeader": null,
-  "TotalMinutes": 4,
-  "MinutesOfPreparation": 4,
+  "SubHeader": "Curry in a hurry, som den gode Henrik Yde ville sige det.",
+  "TotalMinutes": 20,
+  "MinutesOfPreparation": 20,
   "NumberOfPersons": null,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
         {
-          "Quantity": 116.0,
-          "Unit": null,
-          "Name": "116",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Raita og eot. naanbrgd",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "PYNT:",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "lime",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Salt og peber",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "bundter forarslog",
-          "PreparationNote": "skaret i grove stykker pa skra"
-        },
-        {
-          "Quantity": 300.0,
+          "Quantity": 800.0,
           "Unit": "g",
-          "Name": "gronkal",
-          "PreparationNote": "skyllet og plukket groft - stilke hakket"
+          "Name": "kyllingebryst",
+          "PreparationNote": "i grove stykker"
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "forsig",
-          "PreparationNote": null
+          "Name": "lidt rapsolie",
+          "PreparationNote": "til stegning"
         },
         {
-          "Quantity": 300.0,
-          "Unit": null,
-          "Name": "gblomkal i buketter",
-          "PreparationNote": null
+          "Quantity": 3.0,
+          "Unit": "spsk",
+          "Name": "gul karrypasta",
+          "PreparationNote": "eller 1 spsk god gul tørret karry"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "dasekokosmaelk",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 2.0,
-          "Unit": "dl",
-          "Name": "kikaertevand fra dasen",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "daser kikaerter",
+          "Unit": "terning",
+          "Name": "hønse- eller grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
           "Unit": "fed",
-          "Name": "hvidlog",
+          "Name": "hvidløg",
           "PreparationNote": "hakket"
         },
         {
-          "Quantity": null,
+          "Quantity": 2.0,
           "Unit": null,
-          "Name": "ONE POT MED BELGFRUGTER,BONNER,KIKAERTER OG LINSER",
+          "Name": "dåser kikærter",
           "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "kikærtevand fra dåsen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kokosmælk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "blomkål",
+          "PreparationNote": "i buketter"
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "grønkål",
+          "PreparationNote": "skyllet og plukket groft, stilke hakket for sig"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "bundter",
+          "Name": "forårsløg",
+          "PreparationNote": "skåret i grove stykker på skrå"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "saften"
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "Smag til med limesaft, salt og peber, og server med raita.",
+          "Name": "salt og peber",
           "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "videre i 3-4 minutter.",
+          "Name": "raita og evt. naanbrød",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>KYLLING OG KIKERTERIKARRY</p><p>VERDENS NEMMESTE</p><p>Curry in a hurry, som den gode Henrik Yde ville sige det.</p><p>TIDIGRYDEN:2O MINUTTER</p><p>INGREDIENSER</p><p>1 terning honse- eller grontsagsbouillon</p><p>3 spsk. gul karrypasta eller 1 spsk. god gul torret karry</p><p>Lidt rapsolie til stegning</p><p>800gkyllingebrystigrove stykker</p><p>IGRYDEN</p><p>Tilsaet sa blomkal, gronkal og forarslog, og lad det simre</p><p>Steg kyllingen afi olie. Nar den har taget farve, sa tilset</p><p>Tilsaet bouillon, hvidlog, kikaerter, vand og kokosmaelk</p><p>karry, og lun hurtigt igennem.</p><p>Lad det simre i 8 minutter.</p>",
+  "Instructions": "<h2>I gryden</h2><p>Steg kyllingen af i olie. Når den har taget farve, tilsættes karry, og det lunes hurtigt igennem.</p><p>Tilsæt bouillon, hvidløg, kikærter, kikærtevand og kokosmælk, og lad det simre i 8 minutter.</p><p>Tilsæt så blomkål, grønkål og forårsløg, og lad det simre videre i 3-4 minutter.</p><p>Smag til med limesaft, salt og peber, og server med raita.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/42. One Pot kylling og kikærter i karry.jpg",
   "Keywords": [
-    "Vegetar"
+    "One Pot",
+    "Kylling",
+    "Kikærter"
   ]
 }

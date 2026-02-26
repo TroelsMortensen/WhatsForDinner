@@ -1,9 +1,9 @@
 {
   "Id": 43,
   "Title": "One Pot kylling og pasta",
-  "SubHeader": null,
-  "TotalMinutes": 10,
-  "MinutesOfPreparation": 10,
+  "SubHeader": "Et twist på min teenage-scorepasta.",
+  "TotalMinutes": 20,
+  "MinutesOfPreparation": 20,
   "NumberOfPersons": null,
   "RecipeGroups": [
     {
@@ -11,14 +11,26 @@
       "Ingredients": [
         {
           "Quantity": 400.0,
-          "Unit": null,
-          "Name": "gpasta",
-          "PreparationNote": "fxpastaror"
+          "Unit": "g",
+          "Name": "pasta",
+          "PreparationNote": "fx pastarør"
+        },
+        {
+          "Quantity": 2.5,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakket"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tsk.torret oregano",
+          "Unit": "dusk",
+          "Name": "frisk timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "tørret oregano",
           "PreparationNote": null
         },
         {
@@ -28,66 +40,79 @@
           "PreparationNote": "i strimler"
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "bundter forarslog i1 cm skra skiver - kan erstattes af",
+          "Quantity": 0.5,
+          "Unit": "terning",
+          "Name": "hønsebouillon",
           "PreparationNote": null
+        },
+        {
+          "Quantity": 1.5,
+          "Unit": "dl",
+          "Name": "piskefløde",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "friske grønne bønner",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "bundter",
+          "Name": "forårsløg",
+          "PreparationNote": "i 1 cm skrå skiver, kan erstattes af et par gode store porrer"
         },
         {
           "Quantity": 400.0,
           "Unit": "g",
-          "Name": "spinat - gerne den gode grove ellers sa 150 g",
+          "Name": "spinat",
+          "PreparationNote": "gerne den gode grove, ellers 150 g spinat fra frost"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og peber",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 13.5,
+          "Unit": "dl",
+          "Name": "vand",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olivenmix",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "spinat fra frost",
+          "Name": "parmesan",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "Salt og peber",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "/dl vand",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "PYNT:",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Olivenmic, men ogsa parmesan og den helt fraekke",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "sprgdstegtbacon i tern",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 52.0,
-          "Unit": null,
-          "Name": "52",
-          "PreparationNote": null
+          "Name": "sprødstegt bacon i tern",
+          "PreparationNote": "valgfrit"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>TID I GRYDEN:2O MINUTTER</p><p>IGRYDEN</p><p>1.</p><p>2-3 fed hvidlog, finthakket</p><p>2. Kog i 10 minutters tid, til pastaen er al dente.</p><p>1 dusk frisk timian</p><p>Ror sammen, og smag til med salt og peber.</p><p>3.</p><p>4.Server med olivenmix.</p><p>terning honsebouillon</p><p>1 dl piskeflode</p><p>250 g friske gronne bonner</p><p>et par gode store porrer</p><p>ONE POTMED PASTA</p>",
+  "Instructions": "<h2>I gryden</h2><p>Kom ingredienserne i i denne rækkefølge: pasta, hvidløg, urter, kylling, vand, bouillon, fløde, bønner, forårsløg, salt og peber og spinat, og skru op for blusset.</p><p>Kog i 10 minutters tid, til pastaen er al dente.</p><p>Rør sammen, og smag til med salt og peber.</p><p>Server med olivenmix.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/43. One Pot kylling og pasta.jpg",
   "Keywords": [
-    "Vegetar"
+    "One Pot",
+    "Kylling",
+    "Pasta"
   ]
 }

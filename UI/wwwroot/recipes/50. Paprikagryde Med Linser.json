@@ -2,7 +2,7 @@
   "Id": 50,
   "Title": "Paprikagryde med linser",
   "SubHeader": null,
-  "TotalMinutes": 30,
+  "TotalMinutes": 45,
   "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
@@ -11,50 +11,50 @@
       "Ingredients": [
         {
           "Quantity": 250.0,
-          "Unit": null,
-          "Name": "gchampignoner",
-          "PreparationNote": "iskiver"
+          "Unit": "g",
+          "Name": "champignoner",
+          "PreparationNote": "i skiver"
         },
         {
           "Quantity": 3.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 200.0,
-          "Unit": null,
-          "Name": "ggulerodder",
-          "PreparationNote": "itern"
+          "Unit": "g",
+          "Name": "gulerødder",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "rode peberfrugter",
-          "PreparationNote": "itern"
+          "Name": "røde peberfrugter",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 50.0,
-          "Unit": null,
-          "Name": "gsoltorredetomateriolie",
-          "PreparationNote": null
+          "Unit": "g",
+          "Name": "soltørrede tomater i olie",
+          "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 2.0,
           "Unit": "spsk",
-          "Name": "sod paprika",
+          "Name": "sød paprika",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "roget paprika",
+          "Name": "røget paprika",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
@@ -77,14 +77,14 @@
         },
         {
           "Quantity": 50.0,
-          "Unit": null,
-          "Name": "grode linser",
+          "Unit": "g",
+          "Name": "røde linser",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "/2 dl piskeflgde",
+          "Quantity": 2.5,
+          "Unit": "dl",
+          "Name": "piskefløde",
           "PreparationNote": null
         },
         {
@@ -96,22 +96,34 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
         {
           "Quantity": 3.0,
           "Unit": "dl",
           "Name": "ris",
           "PreparationNote": "kogt efter anvisning"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "persille",
+          "PreparationNote": "finthakket"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>hoj varme, til de har faet en gylden stegeskorpe. Skru</p><p>til logene er blode.</p><p>Tilfoj peberfrugt, soltorrede tomater, sod og roget</p><p>finthakkede</p><p>paprika, grontsagsbouillon, hakkede tomater, tomat-</p><p>puré, belugalinser, rode linser og piskeflode. Varm op</p><p>til kogepunktet under omroring. Laeg lag pa og skru ned</p><p>for varmen, til det blot simrer let. Lad retten simre i30</p><p>minutter, til linserne er more.</p><p>Server med ris og et drys persille.</p><p>TIL SERVERING</p><p>1 handfuld persille, finthakket</p><p>Gryderettel</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm olien op i en stegegryde og rist champignoner ved høj varme, til de har fået en gylden stegeskorpe. Skru ned til middelvarme, tilsæt løg og gulerødder og sautér, til løgene er bløde.</p><p>Tilføj peberfrugt, soltørrede tomater, sød og røget paprika, grøntsagsbouillon, hakkede tomater, tomatpuré, belugalinser, røde linser og piskefløde. Varm op til kogepunktet under omrøring.</p><p>Læg låg på og skru ned for varmen, til det blot simrer let. Lad retten simre i 30 minutter, til linserne er møre.</p><p>Server med ris og et drys persille.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/50. Paprikagryde med linser.jpg",
   "Keywords": [
-    "Vegetar"
+    "Vegetar",
+    "Linser"
   ]
 }

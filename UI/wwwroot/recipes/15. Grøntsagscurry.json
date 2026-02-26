@@ -2,142 +2,42 @@
   "Id": 15,
   "Title": "Grøntsagscurry",
   "SubHeader": null,
-  "TotalMinutes": 5,
-  "MinutesOfPreparation": 5,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
-        {
-          "Quantity": 3.0,
-          "Unit": null,
-          "Name": "tskkarry",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": "tsk",
-          "Name": "stodtkoriander",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 300.0,
-          "Unit": null,
-          "Name": "gkartofleritern",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 200.0,
-          "Unit": null,
-          "Name": "ggulerodder",
-          "PreparationNote": "itern"
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spskingefoer",
-          "PreparationNote": "fintrevet"
-        },
-        {
-          "Quantity": 3.0,
-          "Unit": "fed",
-          "Name": "hvidlog",
-          "PreparationNote": "fintrevet"
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "knivspids chiliflager",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 2.0,
-          "Unit": "dl",
-          "Name": "grontsagsbouillon",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 400.0,
-          "Unit": null,
-          "Name": "ghakkede tomater",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 400.0,
-          "Unit": null,
-          "Name": "mlkokosmcelk",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 300.0,
-          "Unit": null,
-          "Name": "gblomkal",
-          "PreparationNote": "ibuketter"
-        },
-        {
-          "Quantity": 125.0,
-          "Unit": null,
-          "Name": "gfriskspinat",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "dasekikcerter",
-          "PreparationNote": "drcenede"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "og skyllede",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "olie til stegning",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "salt og friskkvcernet peber",
-          "PreparationNote": null
-        }
+        { "Quantity": 1.0, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+        { "Quantity": 3.0, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+        { "Quantity": 300.0, "Unit": "g", "Name": "kartofler", "PreparationNote": "i tern" },
+        { "Quantity": 200.0, "Unit": "g", "Name": "gulerødder", "PreparationNote": "i tern" },
+        { "Quantity": 1.0, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "fintrevet" },
+        { "Quantity": 3.0, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fintrevet" },
+        { "Quantity": 1.0, "Unit": "knivspids", "Name": "chiliflager", "PreparationNote": null },
+        { "Quantity": 2.0, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+        { "Quantity": 400.0, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": null },
+        { "Quantity": 400.0, "Unit": "ml", "Name": "kokosmælk", "PreparationNote": null },
+        { "Quantity": 300.0, "Unit": "g", "Name": "blomkål", "PreparationNote": "i buketter" },
+        { "Quantity": 125.0, "Unit": "g", "Name": "frisk spinat", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænede og skyllede" },
+        { "Quantity": null, "Unit": null, "Name": "olie til stegning", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
       ]
     },
     {
       "Title": "Til servering",
       "Ingredients": [
-        {
-          "Quantity": 3.0,
-          "Unit": "dl",
-          "Name": "ris",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Vztsk chiliflager",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuldkoriander",
-          "PreparationNote": "finthakket"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Valdemarsro-vegetar aftensmad",
-          "PreparationNote": null
-        }
+        { "Quantity": 3.0, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "håndfuld", "Name": "koriander", "PreparationNote": "finthakket" }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>INGREDIENSER</p><p>Kog risene efter anvisning pa pakken.</p><p>1 log,finthakket</p><p>Sauter logien gryde med olie ved middelvarme,til</p><p>1tskstodtspidskommen</p><p>logene er blode.Tilsaet karry,spidskommen,koriander,</p><p>kartofler og gulerodder og ror det godt sammeninogle</p><p>minutter, til det dufter skont og krydret. Tilsaet ingefaer,</p><p>hvidlog,chiliflager,grontsagsbouillon,hakkedetomater</p><p>og kokosmaelk og bringi kog.</p><p>Lad det simre med lag pa i ca. 10 minutter og tilsaet sa</p><p>blomkalen. Lad det simrekogeiyderligere 5 minutter,</p><p>til blomkalen og kartoflerne er more. Tilsaet spinat og</p><p>kikaerter, varm det godt igennem og smag til med salt</p><p>og peber.</p><p>Server grontsagscurry med ris, et drys chiliflager og</p><p>finthakket koriander.</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisning på pakken.</p><p>Sautér løg i en gryde med olie ved middelvarme, til løgene er bløde. Tilsæt karry, spidskommen, koriander, kartofler og gulerødder og rør det godt sammen i nogle minutter, til det dufter skønt og krydret. Tilsæt ingefær, hvidløg, chiliflager, grøntsagsbouillon, hakkede tomater og kokosmælk og bring i kog.</p><p>Lad det simre med låg på i ca. 10 minutter og tilsæt så blomkålen. Lad det simre/koge i yderligere 5 minutter, til blomkålen og kartoflerne er møre. Tilsæt spinat og kikærter, varm det godt igennem og smag til med salt og peber.</p><p>Server grøntsagscurry med ris, et drys chiliflager og finthakket koriander.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/15. Grøntsagscurry.jpg",
   "Keywords": [

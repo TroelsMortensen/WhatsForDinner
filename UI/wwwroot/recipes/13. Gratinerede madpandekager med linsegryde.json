@@ -2,172 +2,49 @@
   "Id": 13,
   "Title": "Gratinerede madpandekager med linsegryde",
   "SubHeader": null,
-  "TotalMinutes": 15,
-  "MinutesOfPreparation": 15,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 45,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
-      "Title": "Ingredienser",
+      "Title": "Madpandekager",
       "Ingredients": [
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "MADPANDEKAGER",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 100.0,
-          "Unit": "g",
-          "Name": "hvedemel",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 40.0,
-          "Unit": null,
-          "Name": "gfuldkornshvedemel",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 302.0,
-          "Unit": "g",
-          "Name": "",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 3.0,
-          "Unit": "dl",
-          "Name": "maelk",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "knivspids salt",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "smor til stegning",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "LINSESAUCE",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "log",
-          "PreparationNote": "finthakket"
-        },
-        {
-          "Quantity": 100.0,
-          "Unit": "g",
-          "Name": "squash",
-          "PreparationNote": "groftrevet"
-        },
-        {
-          "Quantity": 150.0,
-          "Unit": null,
-          "Name": "ggulerodder",
-          "PreparationNote": "groftrevne"
-        },
-        {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "staenglerbladselleri",
-          "PreparationNote": "ismdtern"
-        },
-        {
-          "Quantity": 30.0,
-          "Unit": null,
-          "Name": "gsoltorredetomater",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 150.0,
-          "Unit": null,
-          "Name": "grode linser",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": "tsk",
-          "Name": "torret oregano",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tsktgrrettimian",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 3.0,
-          "Unit": "dl",
-          "Name": "grontsagsbouillon",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 400.0,
-          "Unit": null,
-          "Name": "ghakkede tomater",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskmajsstivelse",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 1.0,
-          "Unit": "dl",
-          "Name": "piskeflode",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 150.0,
-          "Unit": null,
-          "Name": "gcheddar",
-          "PreparationNote": "friskrevet"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "olie til stegning",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "salt og friskkvcernet peber",
-          "PreparationNote": null
-        }
+        { "Quantity": 100.0, "Unit": "g", "Name": "hvedemel", "PreparationNote": null },
+        { "Quantity": 40.0, "Unit": "g", "Name": "fuldkornshvedemel", "PreparationNote": null },
+        { "Quantity": 3.0, "Unit": null, "Name": "æg", "PreparationNote": null },
+        { "Quantity": 3.0, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "knivspids", "Name": "salt", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "smør til stegning", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Linsesauce",
+      "Ingredients": [
+        { "Quantity": 1.0, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+        { "Quantity": 100.0, "Unit": "g", "Name": "squash", "PreparationNote": "groftrevet" },
+        { "Quantity": 150.0, "Unit": "g", "Name": "gulerødder", "PreparationNote": "groftrevne" },
+        { "Quantity": 2.0, "Unit": "stænger", "Name": "bladselleri", "PreparationNote": "i små tern" },
+        { "Quantity": 30.0, "Unit": "g", "Name": "soltørrede tomater", "PreparationNote": null },
+        { "Quantity": 150.0, "Unit": "g", "Name": "røde linser", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+        { "Quantity": 3.0, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+        { "Quantity": 400.0, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "majsstivelse", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+        { "Quantity": 150.0, "Unit": "g", "Name": "cheddar", "PreparationNote": "friskrevet" },
+        { "Quantity": null, "Unit": null, "Name": "olie til stegning", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
       ]
     },
     {
       "Title": "Til servering",
       "Ingredients": [
-        {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuld persille",
-          "PreparationNote": "finthakket"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Valdemarsro-vegetaraftensmad",
-          "PreparationNote": null
-        }
+        { "Quantity": 1.0, "Unit": "håndfuld", "Name": "persille", "PreparationNote": "finthakket" }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>MADPANDEKAGER</p><p>Kom hvedemel, fuldkornshvedemel, salt, aeg og maelki</p><p>en skal og pisk det sammen.Smelt lidt smor ellerkom</p><p>lidt olie pa en pande og steg madpandekagerne en ad</p><p>gangen, pa begge sider, til de er flot lysebrune.</p><p>LINSESAUCE</p><p>Varm en gryde op med olie og sauter logene, til de er</p><p>blode. Tilsaet de andre grontsager, linser og krydderier</p><p>og ror det godt igennem. Ror grontsagsbouillon og</p><p>hakkede tomateri gryden og lad det koge op. Laeg lag</p><p>pa og lad det simre svagt i ca. 30 minutter, til linserne</p><p>er kogt more. Ror majsstivelse ud i piskefloden og kom</p><p>den i linsegryden. Lad det koge i nogle minutter, til det</p><p>tykner, og smag til med salt og friskkvaernet peber.</p><p>Fordel et par skefulde af linsegryden og lidt ost ihver</p><p>pandekage, vend enderne ind pa pandekagerne og</p><p>rul dem sammen, sa de er lukket omkring fyldet. Kom</p><p>dem i et smurt ovnfast fad og fortsaet med resten af</p><p>pandekagerne. Drys det sidste cheddar over og bag ien</p><p>forvarmet ovn ved 200 grader varmluft i 12-15 minutter.</p><p>Server med et drys persille.</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom hvedemel, fuldkornshvedemel, salt, æg og mælk i en skål og pisk det sammen. Smelt lidt smør eller kom lidt olie på en pande og steg madpandekagerne en ad gangen, på begge sider, til de er flot lysebrune.</p><p>Varm en gryde op med olie og sautér løgene, til de er bløde. Tilsæt de andre grøntsager, linser og krydderier og rør det godt igennem. Rør grøntsagsbouillon og hakkede tomater i gryden og lad det koge op. Læg låg på og lad det simre svagt i ca. 30 minutter, til linserne er kogt møre. Rør majsstivelse ud i piskefløden og kom den i linsegryden. Lad det koge i nogle minutter, til det tykner, og smag til med salt og friskkværnet peber.</p><p>Fordel et par skefulde af linsegryden og lidt ost i hver pandekage, vend enderne ind på pandekagerne og rul dem sammen, så de er lukket omkring fyldet. Kom dem i et smurt ovnfast fad og fortsæt med resten af pandekagerne. Drys det sidste cheddar over og bag i en forvarmet ovn ved 200 grader varmluft i 12-15 minutter.</p><p>Server med et drys persille.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/13. Gratinerede madpandekager med linsegryde.jpg",
   "Keywords": [

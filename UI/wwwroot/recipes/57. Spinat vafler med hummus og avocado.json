@@ -2,19 +2,13 @@
   "Id": 57,
   "Title": "Spinat vafler med hummus og avocado",
   "SubHeader": null,
-  "TotalMinutes": 1,
-  "MinutesOfPreparation": 1,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 45,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
-      "Title": "Ingredienser",
+      "Title": "Hummus",
       "Ingredients": [
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "HUMMUS",
-          "PreparationNote": null
-        },
         {
           "Quantity": 1.0,
           "Unit": "spsk",
@@ -22,7 +16,7 @@
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
+          "Quantity": 0.5,
           "Unit": null,
           "Name": "citron",
           "PreparationNote": "saft"
@@ -30,19 +24,19 @@
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "dasekikaerter",
+          "Name": "dåse kikærter",
           "PreparationNote": "skyllede"
         },
         {
           "Quantity": 2.0,
           "Unit": "fed",
-          "Name": "hvidlog",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskstodtspidskommen",
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
           "PreparationNote": null
         },
         {
@@ -66,109 +60,95 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt ogfriskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "SPINATVAFLER",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Spinatvafler",
+      "Ingredients": [
         {
           "Quantity": 125.0,
-          "Unit": null,
-          "Name": "ghvedemel",
+          "Unit": "g",
+          "Name": "hvedemel",
           "PreparationNote": null
         },
         {
           "Quantity": 75.0,
-          "Unit": null,
-          "Name": "gfuldkornshvedemel",
+          "Unit": "g",
+          "Name": "fuldkornshvedemel",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskbagepulver",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "bagepulver",
           "PreparationNote": null
         },
         {
           "Quantity": 125.0,
-          "Unit": null,
-          "Name": "gspinat",
-          "PreparationNote": "frisk ellerfrossen"
+          "Unit": "g",
+          "Name": "spinat",
+          "PreparationNote": "frisk eller frossen"
         },
         {
-          "Quantity": 302.0,
-          "Unit": "g",
-          "Name": "",
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "æg",
           "PreparationNote": null
         },
         {
           "Quantity": 3.0,
           "Unit": "dl",
-          "Name": "mcelk",
+          "Name": "mælk",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "smor til stegning",
+          "Name": "smør til stegning",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt ogfriskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "HALLOUMI OG RUG-",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "BRODSKRUMMER",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Halloumi og rugbrødskrummer",
+      "Ingredients": [
         {
           "Quantity": 250.0,
-          "Unit": null,
-          "Name": "ghalloumi grillost",
-          "PreparationNote": "iskiver"
+          "Unit": "g",
+          "Name": "halloumi grillost",
+          "PreparationNote": "i skiver"
         },
         {
           "Quantity": 150.0,
           "Unit": "g",
-          "Name": "rugbrod i skiver",
+          "Name": "rugbrød i skiver",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "knuste fennikelfrø",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "V2tsk knustefennikelfro",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "olie og smor til stegning",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Valdemarsro-vegetaraftensmad",
+          "Name": "olie og smør til stegning",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>HUMMUS</p><p>og kori1 minut. Tilsaet derefter de andre ingredienser</p><p>og kor i yderligere 1 minut.Tilsaet evt. lidt ekstra koldt</p><p>vand, hvis konsistensen onskes mere cremet.Kom ger-</p><p>ne en isterning ved -det gor hummussen endnu mere</p><p>cremet. Smag til med citron, olie, salt og peber.</p><p>SPINATVAFLER</p><p>Rorhvedemel,fuldkornshvedemel og bagepulvergodt</p><p>sammen ien skal.Kom spinat og resten af ingredien-</p><p>serne til vaflerne i en blender. Blend, til det er en helt</p><p>ensartet og lind dej. Lad gerne dejen hvilei15 minutter,</p><p>sa melet lige kan absorbere lidt af vaeden og tykne.</p><p>Varm vaffeljernet op, kom lidt smor pa og bag vaflerne,</p><p>til de er gyldne og gennembagte.</p><p>SPROD HALLOUMI OG RUGBRODSKRUMMER</p><p>Varm olie eller smor op pa en pande og rist halloumi-</p><p>skiver pa begge sider, til de er gyldne og sprode.Kom</p><p>rugbrodet i en minihakker og hak pa pulsfunktion, til</p><p>det er findelt. Rist rugbrodskrummerne pa den samme</p><p>pande med smor under hyppig omroring.Smag til med</p><p>fennikelfro og salt.</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p><strong>Hummus:</strong> Kom tahin og citronsaft i en blender eller foodprocessor og kør i 1 minut. Tilsæt derefter de andre ingredienser og kør i yderligere 1 minut. Tilsæt evt. lidt ekstra koldt vand, hvis konsistensen ønskes mere cremet. Kom gerne en isterning ved - det gør hummussen endnu mere cremet. Smag til med citron, olie, salt og peber.</p><p><strong>Spinatvafler:</strong> Rør hvedemel, fuldkornshvedemel og bagepulver godt sammen i en skål. Kom spinat og resten af ingredienserne til vaflerne i en blender. Blend, til det er en helt ensartet og lind dej. Lad gerne dejen hvile i 15 minutter, så melet kan absorbere lidt væde og tykne. Varm vaffeljernet op, kom lidt smør på og bag vaflerne, til de er gyldne og gennembagte.</p><p><strong>Sprød halloumi og rugbrødskrummer:</strong> Varm olie eller smør op på en pande og rist halloumiskiver på begge sider, til de er gyldne og sprøde. Kom rugbrødet i en minihakker og hak på pulsfunktion, til det er findelt. Rist rugbrødskrummerne på den samme pande med smør under hyppig omrøring. Smag til med fennikelfrø og salt.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/57. Spinat vafler med hummus og avocado.jpg",
   "Keywords": [

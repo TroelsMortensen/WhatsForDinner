@@ -1,6 +1,6 @@
 {
   "Id": 58,
-  "Title": "Stir Fry med kikærter og cashewnøddee",
+  "Title": "Stir Fry med kikærter og cashewnødder",
   "SubHeader": null,
   "TotalMinutes": 30,
   "MinutesOfPreparation": 30,
@@ -12,136 +12,136 @@
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "ddsekikoerter",
-          "PreparationNote": "drcenede"
+          "Name": "dåse kikærter",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "log",
-          "PreparationNote": "ityndebade"
+          "Name": "løg",
+          "PreparationNote": "i tynde både"
         },
         {
           "Quantity": 200.0,
           "Unit": "g",
-          "Name": "spidskal",
+          "Name": "spidskål",
           "PreparationNote": "fintsnittet"
         },
         {
           "Quantity": 100.0,
-          "Unit": null,
-          "Name": "ggronkal",
+          "Unit": "g",
+          "Name": "grønkål",
           "PreparationNote": "grofthakket"
         },
         {
           "Quantity": 150.0,
-          "Unit": null,
-          "Name": "gbroccoli",
-          "PreparationNote": "ibuketter"
+          "Unit": "g",
+          "Name": "broccoli",
+          "PreparationNote": "i buketter"
         },
         {
           "Quantity": 100.0,
-          "Unit": null,
-          "Name": "ggulerodder",
-          "PreparationNote": "itern"
+          "Unit": "g",
+          "Name": "gulerødder",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 25.0,
           "Unit": "g",
-          "Name": "sesamfrg",
+          "Name": "sesamfrø",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "V2 tsk chiliflager",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 70.0,
           "Unit": "g",
-          "Name": "cashewngdder",
+          "Name": "cashewnødder",
           "PreparationNote": "ristede"
         },
         {
           "Quantity": 200.0,
           "Unit": "g",
-          "Name": "cegnudler",
+          "Name": "ægnudler",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
-          "Name": "oko limeibdde",
-          "PreparationNote": null
+          "Name": "øko lime",
+          "PreparationNote": "i både"
         },
         {
           "Quantity": null,
           "Unit": null,
           "Name": "olie til stegning",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "STIR FRY-SAUCE",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Stir Fry-sauce",
+      "Ingredients": [
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
-          "PreparationNote": "afkolet"
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": "afkølet"
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spskmajsstivelse",
+          "Unit": "spsk",
+          "Name": "majsstivelse",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
           "Unit": "spsk",
-          "Name": "ingefcer",
+          "Name": "ingefær",
           "PreparationNote": "fintrevet"
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "fintrevne"
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "spsksoja",
+          "Unit": "spsk",
+          "Name": "soja",
           "PreparationNote": null
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "spskhoisinsauce",
+          "Unit": "spsk",
+          "Name": "hoisinsauce",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tsksukker",
+          "Unit": "tsk",
+          "Name": "sukker",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spsksesamolie",
+          "Unit": "spsk",
+          "Name": "sesamolie",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>og skyllede</p><p>Varm en pande op med lidt olie og rist kikaerterne</p><p>under omroring, til de tager farve og begynder at blive</p><p>sprode. Saet kikaerterne til side.</p><p>Tilsaet evt. lidt mere olie pa panden og kom log, spidskal</p><p>og gronkal pa panden og rist kalen ved hoj varmei et</p><p>par minutter, til den falder sammen. Tilsaet broccoli,</p><p>gulerodder, sesamfro og lidt chiliflager og rist videre, til</p><p>broccolien far en smuk gron farve, men stadig er sprod.</p><p>Haeld stir fry-saucen over og vend retten godt sammen</p><p>med halvdelen af cashewnodder og kikaerter.</p><p>Kog nudlerne efter anvisning pa pakken.Kom nudlerne</p><p>i skale og server med stir-fry,toppet med den anden</p><p>halvdel cashewnodder, kikaerter og sesam, samt et drys</p><p>chiliflager efter smag og lime i bade til at dryppe over.</p><p>Asiatisk</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Rør ingredienserne til stir fry-saucen sammen i en skål.</p><p>Varm en pande op med lidt olie og rist kikærterne under omrøring, til de tager farve og begynder at blive sprøde. Sæt kikærterne til side.</p><p>Tilsæt evt. lidt mere olie på panden og kom løg, spidskål og grønkål på panden og rist kålen ved høj varme i et par minutter, til den falder sammen. Tilsæt broccoli, gulerødder, sesamfrø og lidt chiliflager og rist videre, til broccolien får en smuk grøn farve, men stadig er sprød.</p><p>Hæld stir fry-saucen over og vend retten godt sammen med halvdelen af cashewnødder og kikærter.</p><p>Kog nudlerne efter anvisning på pakken. Kom nudlerne i skåle og server med stir fry, toppet med den anden halvdel cashewnødder, kikærter og sesam, samt et drys chiliflager efter smag og lime i både til at dryppe over.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/58. Stir Fry med kikærter og cashewnøddee.jpg",
   "Keywords": [
-    "Vegetar"
+    "Vegetar",
+    "Asiatisk"
   ]
 }

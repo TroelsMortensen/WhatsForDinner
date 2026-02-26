@@ -1,0 +1,99 @@
+{
+  "Id": 56,
+  "Title": "Sellerisuppe",
+  "SubHeader": null,
+  "TotalMinutes": 15,
+  "MinutesOfPreparation": 15,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "fed",
+          "Name": "hvidlog",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 700.0,
+          "Unit": null,
+          "Name": "gknoldselleri",
+          "PreparationNote": "itern"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "gkartofler",
+          "PreparationNote": "itern"
+        },
+        {
+          "Quantity": 1.2,
+          "Unit": null,
+          "Name": "/grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": null,
+          "Name": "ghvidlgsflodeost",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Vzgko citron,lidt saft og fintrevet",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "skal",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt ogfriskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld purlog",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "skiver",
+          "Name": "ristet rugbrod",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Valder",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log og hvidlog i en gryde, til logene er blode.</p><p>Tilsaet knoldselleri og kartofler og ror det godt igennem.</p><p>Tilsaet grontsagsbouillon og bring det i kog.</p><p>Laeg lag pa og lad det simre i 15 minutter, til kartofler og</p><p>knoldselleri er more. Blend med hvidlogsflodeost til en</p><p>cremet suppe og smag den godt til med lidt citronsaft,</p><p>citronskal, salt og peber.</p><p>Server med et drys purlog og ristet rugbrod.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/56. Sellerisuppe.jpg",
+  "Keywords": [
+    "Suppe",
+    "Vegetar"
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "Id": 21,
+  "Title": "Karry-nudelsuppe med sprøde kikærter",
+  "SubHeader": null,
+  "TotalMinutes": 1,
+  "MinutesOfPreparation": 1,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "KRYDREDE KIKAERTER MED",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "TERIYAKI-SAUCE",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "ddsekikaerter",
+          "PreparationNote": "droenede"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "og skyllede",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tsksesamfro",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 12.0,
+          "Unit": "tsk",
+          "Name": "sukker",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "teriyaki",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "saft"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "KARRY-NUDELSUPPE",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ingefoer",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "spskrgdkarrypasta",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "mlkokosmcelk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 7.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "spsk",
+          "Name": "teriyaki-sauce",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "spskpeanutbutter",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "broccoli",
+          "PreparationNote": "ismabuketter"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "babyspinat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "nudler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld frisk koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "ibdde"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>KRYDREDE KIKERTER MED TERIYAKI</p><p>Kom kikaerterne pa en bageplade med bagepapirog</p><p>vend dem i olie.Bag i en forvarmet ovn ved 180 grader</p><p>varmluft i 15 minutter.</p><p>Ror sesamfro,sukker,teriyakiog limesaft sammenien</p><p>skal. Tag kikaerterne ud af ovnen og vend marinaden</p><p>med kikaerterne, sa de er godt daekket. Saet bagepladen</p><p>tilbage i ovnen og bag videre i ca. 10 minutter, til mari-</p><p>naden samler sig om kikaerterne og tykner lidt.</p><p>KARRY-NUDELSUPPE</p><p>Sauter log og ingefaer i en gryde med olie ved mid-</p><p>delvarme, til logene er blode. Kom karrypastaiog ror</p><p>det godt sammen i ca. 1 minut. Tilsaet kokosmaelk,</p><p>grontsagsbouillon, teriyaki-sauce og peanutbutter.Kog</p><p>det op og lad det simreica.5 minutter.Kom broccoli,</p><p>spinat og nudler i gryden og kog det op igen. Lad det</p><p>simre, til nudlerne er perfekt more.</p><p>Smag til med limesaft og server nudelsuppen iskale og</p><p>anret med de sprode kikaerter, chiliflager, koriander og</p><p>lime til at dryppe over.</p><p>Asiatis</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/21. Karry-nudelsuppe med sprøde kikærter.jpg",
+  "Keywords": [
+    "Suppe",
+    "Vegetar"
+  ]
+}

@@ -1,87 +1,113 @@
 {
   "Id": 35,
-  "Title": "One Pot bolognese",
+  "Title": "One Pot Bolognese",
   "SubHeader": null,
-  "TotalMinutes": 3,
-  "MinutesOfPreparation": 3,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": null,
   "RecipeGroups": [
     {
       "Title": "Ingredienser",
       "Ingredients": [
         {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakket oksekød, 8-10 % fedt",
+          "PreparationNote": null
+        },
+        {
           "Quantity": null,
           "Unit": null,
-          "Name": "哆2 rodlog, finthakket",
+          "Name": "olivenolie til stegning",
           "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "rødløg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.5,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "i tynde skiver"
         },
         {
           "Quantity": 3.0,
-          "Unit": null,
-          "Name": "staengler bladselleri",
+          "Unit": "stængler",
+          "Name": "bladselleri",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spsk. balsamico eller sherryeddike",
+          "Unit": "spsk",
+          "Name": "balsamico eller sherryeddike",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spsk.tomatpuré",
+          "Unit": "spsk",
+          "Name": "tomatpuré",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dåser",
+          "Name": "flåede tomater",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spsk.torretoregano",
+          "Unit": "dl",
+          "Name": "vand",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tsk.torretrosmarin",
+          "Unit": "spsk",
+          "Name": "tørret oregano",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spsk.torretbasilikum",
+          "Unit": "tsk",
+          "Name": "tørret rosmarin",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "spsk.torret timian",
+          "Unit": "spsk",
+          "Name": "tørret basilikum",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "tørret timian",
           "PreparationNote": null
         },
         {
           "Quantity": 400.0,
           "Unit": "g",
-          "Name": "pasta - store ror eller konkylier",
+          "Name": "pasta - store rør eller konkylier",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "Salt og peber",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": 46.0,
-          "Unit": null,
-          "Name": "46",
+          "Name": "salt og peber",
           "PreparationNote": null
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>TID IGRYDEN:3O MINUTTER</p><p>IGRYDEN</p><p>400 g hakket oksekod, 8-10 % fedt</p><p>1.Brun kodet afi olivenolie.</p><p>Olivenolie til stegning</p><p>der steges i 2-3 minutter.</p><p>3. Tilsaet balsamico, og kog op.</p><p>2-3 fed hvidlog itynde skiver</p><p>og pastaigryden.</p><p>2 daser flaede tomater</p><p>1 dl vand</p><p>ONEPOTMED PASTA</p>",
+  "Instructions": "<h2>I gryden</h2><p>Brun kødet af i olivenolie.</p><p>Kom løg, hvidløg og selleri i, og vend det sammen, mens der steges i 2-3 minutter.</p><p>Tilsæt balsamico, og kog op.</p><p>Kom tomat, vand, oregano, rosmarin, basilikum, timian og pasta i gryden.</p><p>Når pastaen er undervejs, så simres der under låg, til pastaen er kogt færdig. Smag til med salt og peber.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/35. One Pot bolognese.jpg",
   "Keywords": [
-    "Vegetar"
+    "One Pot",
+    "Oksekød",
+    "Pasta"
   ]
 }

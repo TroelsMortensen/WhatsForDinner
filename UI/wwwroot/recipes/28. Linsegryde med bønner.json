@@ -3,7 +3,7 @@
   "Title": "Linsegryde med bønner",
   "SubHeader": null,
   "TotalMinutes": 60,
-  "MinutesOfPreparation": 5,
+  "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
     {
@@ -12,62 +12,56 @@
         {
           "Quantity": 3.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 4.0,
-          "Unit": null,
-          "Name": "fedhvidlog",
+          "Unit": "fed",
+          "Name": "hvidløg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskstodtspidskommen",
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Y2tskstodtkardemomme",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "stødt kardemomme",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "roget paprika",
+          "Name": "røget paprika",
           "PreparationNote": null
         },
         {
-          "Quantity": 2.0,
-          "Unit": null,
-          "Name": "tskknustefennikelfro",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "knuste fennikelfrø",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
           "Unit": "tsk",
-          "Name": "stodt koriander",
+          "Name": "stødt koriander",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "tskingefaer",
+          "Unit": "tsk",
+          "Name": "ingefær",
           "PreparationNote": "fintrevet"
         },
         {
           "Quantity": 50.0,
           "Unit": "g",
-          "Name": "soltorrede tomateriolie",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "finthakkede",
-          "PreparationNote": null
+          "Name": "soltørrede tomater i olie",
+          "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 1.0,
@@ -78,13 +72,13 @@
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "gulerodder",
-          "PreparationNote": "ismdtern"
+          "Name": "gulerødder",
+          "PreparationNote": "i små tern"
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "stcenglerbladselleri",
+          "Unit": "stængler",
+          "Name": "bladselleri",
           "PreparationNote": "groftrevne"
         },
         {
@@ -96,31 +90,25 @@
         {
           "Quantity": 5.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 250.0,
-          "Unit": null,
-          "Name": "gLe Puy delikatesselinser",
+          "Unit": "g",
+          "Name": "Le Puy delikatesselinser",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "dse kidneybonner",
-          "PreparationNote": "drcenede og"
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "skyllede",
-          "PreparationNote": null
+          "Unit": "dåse",
+          "Name": "kidneybønner",
+          "PreparationNote": "drænede og skyllede"
         },
         {
           "Quantity": 100.0,
-          "Unit": null,
-          "Name": "gfriskspinat",
+          "Unit": "g",
+          "Name": "frisk spinat",
           "PreparationNote": null
         },
         {
@@ -132,7 +120,7 @@
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -143,26 +131,26 @@
         {
           "Quantity": 1.0,
           "Unit": "dl",
-          "Name": "cremefraiche 18%",
+          "Name": "cremefraiche 18 %",
           "PreparationNote": null
         },
         {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "Yz tsk chiliflager",
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": null,
           "Name": "lime",
-          "PreparationNote": "ibade"
+          "PreparationNote": "i både"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log og hvidlog ved middelvarmei en gryde med</p><p>olie,til logene er blode.Kom krydderier,soltorrede</p><p>tomater,squash,gulerodder,bladselleri,hakkedetoma-</p><p>ter og grontsagsbouillon igryden, varm op til kogepunk-</p><p>tet under omroring. Laeg lag pa og skru ned for varmen</p><p>til middelvarme og lad det simre svagt i 15 minutter.</p><p>Tilsaet linserne, laeg lag pa og lad retten simre viderei 45</p><p>minutter, til linserne er more. Ror godt igennem nogle</p><p>bouillon, hvis det er nodvendigt.</p><p>Rorkidneybonner og frisk spinat i gryderetten og varm</p><p>det godt igennem i5 minutter. Smag godt til med salt</p><p>og peber.</p><p>Server i dybe tallerkener med en skefuld cremefraiche,</p><p>lidt chiliflager og limebade til at dryppe over.</p><p>★ Linsegryden kan holde sig i2-3 dage i koleskabet,</p><p>eller den kan fryses ned.Man kan derfor med fordel</p><p>tilberede store portioner til de travlere dage. Den kan</p><p>ogsa tilberedes dagen iforvejen og skal sa blot varmes</p><p>op inden servering,Faktisk har den kun godt af at blive</p><p>lavetigod tid,da den sakan traekke ekstra god smag.</p><p>Tex Mex</p>",
-  "Note": "",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg og hvidløg ved middelvarme i en gryde med olie, til løgene er bløde. Kom krydderier, soltørrede tomater, squash, gulerødder, bladselleri, hakkede tomater og grøntsagsbouillon i gryden, varm op til kogepunktet under omrøring. Læg låg på og skru ned for varmen til middelvarme og lad det simre svagt i 15 minutter.</p><p>Tilsæt linserne, læg låg på og lad retten simre videre i 45 minutter, til linserne er møre. Rør godt igennem nogle gange undervejs og suppler evt. med ekstra grøntsagsbouillon, hvis det er nødvendigt.</p><p>Rør kidneybønner og frisk spinat i gryderetten og varm det godt igennem i 5 minutter. Smag godt til med salt og peber. Server i dybe tallerkener med en skefuld cremefraiche, lidt chiliflager og limebåde til at dryppe over.</p>",
+  "Note": "Linsegryden kan holde sig i 2-3 dage i køleskabet, eller den kan fryses ned. Man kan derfor med fordel tilberede store portioner til de travlere dage. Den kan også tilberedes dagen i forvejen og skal så blot varmes op inden servering. Faktisk har den kun godt af at blive lavet i god tid, da den så kan trække ekstra god smag.",
   "ImageUrl": "/images/recipe-images/28. Linsegryde med bønner.jpg",
   "Keywords": [
     "Vegetar"

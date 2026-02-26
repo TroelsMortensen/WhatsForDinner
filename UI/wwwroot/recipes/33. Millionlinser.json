@@ -2,7 +2,7 @@
   "Id": 33,
   "Title": "Millionlinser",
   "SubHeader": null,
-  "TotalMinutes": 30,
+  "TotalMinutes": 45,
   "MinutesOfPreparation": 30,
   "NumberOfPersons": 4,
   "RecipeGroups": [
@@ -12,43 +12,43 @@
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "log",
+          "Name": "løg",
           "PreparationNote": "finthakkede"
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "torret timian",
+          "Name": "tørret timian",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
           "Unit": "tsk",
-          "Name": "sod paprika",
+          "Name": "sød paprika",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spsktomatpure",
+          "Unit": "spsk",
+          "Name": "tomatpuré",
           "PreparationNote": null
         },
         {
           "Quantity": 3.0,
           "Unit": "dl",
-          "Name": "grontsagsbouillon",
+          "Name": "grøntsagsbouillon",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
           "Unit": null,
-          "Name": "laurbaerblade",
+          "Name": "laurbærblade",
           "PreparationNote": null
         },
         {
           "Quantity": 2.0,
-          "Unit": null,
-          "Name": "spskmorkbalsamico",
+          "Unit": "spsk",
+          "Name": "mørk balsamico",
           "PreparationNote": null
         },
         {
@@ -59,74 +59,73 @@
         },
         {
           "Quantity": 250.0,
-          "Unit": null,
-          "Name": "gchampignoner",
+          "Unit": "g",
+          "Name": "champignoner",
           "PreparationNote": "finthakkede"
         },
         {
-          "Quantity": 192.0,
+          "Quantity": 1.5,
           "Unit": "dl",
-          "Name": "piskeflode",
+          "Name": "piskefløde",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "majsstivelse",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "kulør",
+          "PreparationNote": "efter behov"
+        },
+        {
+          "Quantity": null,
           "Unit": null,
-          "Name": "spskmajsstivelse",
+          "Name": "smør og olie til stegning",
           "PreparationNote": null
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "ztskkulor, efterbehov",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "smorog olietil stegning",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "saltogfriskkvoernetpeber",
-          "PreparationNote": null
-        },
-        {
-          "Quantity": null,
-          "Unit": null,
-          "Name": "KARTOFFELMOS MED BLOMKAL",
-          "PreparationNote": null
-        },
+        }
+      ]
+    },
+    {
+      "Title": "Kartoffelmos med blomkål",
+      "Ingredients": [
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "kgkartofler",
-          "PreparationNote": "itern"
+          "Unit": "kg",
+          "Name": "kartofler",
+          "PreparationNote": "i tern"
         },
         {
           "Quantity": 500.0,
-          "Unit": null,
-          "Name": "gblomkal",
-          "PreparationNote": "ibuketter"
+          "Unit": "g",
+          "Name": "blomkål",
+          "PreparationNote": "i buketter"
         },
         {
           "Quantity": 100.0,
-          "Unit": null,
-          "Name": "gsmor",
+          "Unit": "g",
+          "Name": "smør",
           "PreparationNote": null
         },
         {
-          "Quantity": 1.0,
-          "Unit": null,
-          "Name": "Vzdlmcelklunet",
-          "PreparationNote": null
+          "Quantity": 1.5,
+          "Unit": "dl",
+          "Name": "mælk",
+          "PreparationNote": "lunet"
         },
         {
           "Quantity": null,
           "Unit": null,
-          "Name": "salt og friskkvcernet peber",
+          "Name": "salt og friskkværnet peber",
           "PreparationNote": null
         }
       ]
@@ -137,19 +136,19 @@
         {
           "Quantity": 150.0,
           "Unit": "g",
-          "Name": "syltede rodbeder",
+          "Name": "syltede rødbeder",
           "PreparationNote": null
         },
         {
           "Quantity": 1.0,
-          "Unit": null,
-          "Name": "handfuldpersille",
+          "Unit": "håndfuld",
+          "Name": "persille",
           "PreparationNote": "finthakket"
         }
       ]
     }
   ],
-  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log i smor og olie ien gryde ved middelvarme,</p><p>til logene er blode. Tilsaet timian, paprika, tomatpure,</p><p>grontsagsbouillon,laurbaerblade,balsamico,belugalin</p><p>ser,champignoner samt halvdelen af piskefloden.Ror</p><p>det godt igennem og lad det koge op. Laeg lag pa og lad</p><p>det simrei30 minutter.</p><p>Kog imens kartofler og blomkalien grydeiusaltet</p><p>vand. Haeld vandet fra gryden, nar kartoflerne er more.</p><p>Mos kartofler og blomkal med smor og pisk derefter</p><p>kartoffelmosen ved lav hastighed med maelk, til kon-</p><p>sistensen er luftig og cremet. Smag til med salt og</p><p>peber.Tag laurbaerbladene op af gryden med linser og</p><p>smag godt til med salt og peber.Ror majsstivelse udi</p><p>den resterende piskeflode og kom det i retten.Kog op</p><p>og lad det koge i et par minutter under omroring, til det</p><p>tykner.Juster evt. farven med et par draber kulor.</p><p>Server den luftige blomkal-og kartoffelmos med</p><p>millionlinser,syltede rodbederog bredbladetpersille.</p><p>Gryderett</p>",
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg i smør og olie i en gryde ved middelvarme, til løgene er bløde. Tilsæt timian, paprika, tomatpuré, grøntsagsbouillon, laurbærblade, balsamico, belugalinser, champignoner samt halvdelen af piskefløden. Rør det godt igennem og lad det koge op. Læg låg på og lad det simre i 30 minutter.</p><p>Kog imens kartofler og blomkål i en gryde i usaltet vand. Hæld vandet fra gryden, når kartoflerne er møre. Mos kartofler og blomkål med smør og pisk derefter kartoffelmosen ved lav hastighed med mælk, til konsistensen er luftig og cremet. Smag til med salt og peber.</p><p>Tag laurbærbladene op af gryden med linser og smag godt til med salt og peber. Rør majsstivelse ud i den resterende piskefløde og kom det i retten. Kog op og lad det koge i et par minutter under omrøring, til det tykner. Juster evt. farven med et par dråber kulør.</p><p>Server den luftige blomkål- og kartoffelmos med millionlinser, syltede rødbeder og bredbladet persille.</p>",
   "Note": "",
   "ImageUrl": "/images/recipe-images/33. Millionlinser.jpg",
   "Keywords": [
