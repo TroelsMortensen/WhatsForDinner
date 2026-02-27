@@ -1,0 +1,30 @@
+{
+  "Id": 81,
+  "Title": "Kikærtebøffer",
+  "SubHeader": "Sprøde bøffer af kikærter med sojasauce og krydderier, serveres med yoghurtsauce.",
+  "TotalMinutes": 510,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 3,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        { "Quantity": 450, "Unit": "g", "Name": "kikærter", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": null, "Name": "æg", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 4.5, "Unit": "spsk", "Name": "Kikkoman økologisk sojasauce", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "spsk", "Name": "vand", "PreparationNote": null },
+        { "Quantity": 4.5, "Unit": "spsk", "Name": "mel", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "tsk", "Name": "bagepulver", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "tsk", "Name": "natron", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "sort peber", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kikærterne udblødes i vand i 8 timer.</p><p>De udblødte kikærter blendes og røres sammen med vand, æg, presset hvidløg, mel blandet med bagepulver og natron, sojasauce og krydderier.</p><p>Opvarm olie i en stegepande og form bøffer med en ske. Steg dem i et par minutter på hver side til de er gyldenbrune.</p><p>Server med en sauce rørt af fx yoghurt naturel og krydderurter.</p>",
+  "Note": "Tip: Kikærter fra dåse kan bruges i stedet for at udbløde kikærter. Opskrift af: Kikkoman.",
+  "ImageUrl": "/images/recipe-images/81. Kikærtebøffer.jpg",
+  "Keywords": ["Vegetar"]
+}

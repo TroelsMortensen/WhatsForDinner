@@ -1,0 +1,47 @@
+{
+  "Id": 83,
+  "Title": "Kødboller og grønt i tomat med couscous",
+  "SubHeader": "Kødboller, peberfrugt og gulerod i krydret tomatsauce med couscous",
+  "TotalMinutes": 35,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 3,
+  "RecipeGroups": [
+    {
+      "Title": "Kødboller",
+      "Ingredients": [
+        { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "pk", "Name": "hakket svinekød", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+        { "Quantity": 6, "Unit": "tsk", "Name": "havregryn", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Sauce",
+      "Ingredients": [
+        { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+        { "Quantity": 150, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "tsk", "Name": "tandoori masala krydderimix", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "spsk", "Name": "tomatkoncentrat", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+        { "Quantity": 5, "Unit": "dl", "Name": "tomatpassata", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "sukker", "PreparationNote": "en nip" },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Couscous",
+      "Ingredients": [
+        { "Quantity": 200, "Unit": "g", "Name": "couscous", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><h3>Kødboller</h3><p>Pil og hak løg og hvidløg. Bland hakket kød med æg, havregryn, hvedemel, løg, hvidløg, salt og peber. Form kødboller. Steg dem i madolie i en pande til de er brunet og gennemstegte.</p><h3>Sauce</h3><p>Rens og skær peberfrugt og gulerødder i mundrette stykker. Varm madolie i en gryde og svits tandoori masala kort. Tilsæt tomatkoncentrat, vand og tomatpassata. Kom peberfrugt og gulerødder i og lad saucen simre. Smag til med sukker, salt og peber. Kom kødbollerne i saucen og lad det simre videre.</p><h3>Couscous</h3><p>Tilbered couscous efter pakkens anvisning.</p><p>Nyd kødboller i tomatsauce med couscous.</p>",
+  "Note": "MÅLTIDSKASSEN nemlig.com FAMILIE.",
+  "ImageUrl": "/images/recipe-images/83. Kødboller og grønt i tomat med couscous.jpg",
+  "Keywords": []
+}

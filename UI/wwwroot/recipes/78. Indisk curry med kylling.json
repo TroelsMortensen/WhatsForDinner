@@ -1,0 +1,49 @@
+{
+  "Id": 78,
+  "Title": "Indisk curry med kylling",
+  "SubHeader": "Kylling marineret i yoghurt og lime, stegt med krydderier og kokosmælk.",
+  "TotalMinutes": 160,
+  "MinutesOfPreparation": 20,
+  "NumberOfPersons": 2,
+  "RecipeGroups": [
+    {
+      "Title": "Marinade",
+      "Ingredients": [
+        { "Quantity": 200, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "dl", "Name": "græsk yoghurt 10%", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": null, "Name": "lime", "PreparationNote": "saften herfra" }
+      ]
+    },
+    {
+      "Title": "Derudover",
+      "Ingredients": [
+        { "Quantity": 1.5, "Unit": "spsk", "Name": "karry, medium", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "tsk", "Name": "kanel", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "stk", "Name": "hele nelliker, stødt", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+        { "Quantity": 0.5, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "fintrevet" },
+        { "Quantity": 1.5, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "grofthakket" },
+        { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "i grove tern" },
+        { "Quantity": 0.5, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "flagesalt", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "sort peber, friskkværnet", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "drys", "Name": "chili", "PreparationNote": "evt. efter smag" }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        { "Quantity": 0.5, "Unit": null, "Name": "lime", "PreparationNote": "skåret i både" },
+        { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "dl", "Name": "basmati ris", "PreparationNote": "kogt efter anvisning" }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingefileterne i ca. 2x2 cm store stykker. Bland yoghurt og limesaft i en beholder med låg og marinér kyllingen i blandingen i mindst 2 timer, gerne natten over.</p><p>Kom krydderierne (karry, kanel, støtte nelliker, stødt kardemomme) i en varm pande og rør til de dufter. Sænk varmen og tilsæt olivenolie, hakket løg, finthakket hvidløg og revet ingefær. Svits til løgene er bløde og gyldne.</p><p>Tilsæt den marinerede kylling (marinaden med) og hakkede tomater.</p><p>Rør rundt og lad det simre uden låg i ca. 15 minutter, til kyllingen er mør. Tilsæt rød peberfrugt og kokosmælk og varm igennem.</p><p>Smag til med lime, salt, peber og evt. lidt chili eller cayennepeber for mere styrke.</p><p>Server med ris, frisk koriander og evt. naanbrød.</p>",
+  "Note": "Holdbarhed: 2 dage. Kan fryses: Ja.",
+  "ImageUrl": null,
+  "Keywords": ["Kylling", "Asiatisk"]
+}
