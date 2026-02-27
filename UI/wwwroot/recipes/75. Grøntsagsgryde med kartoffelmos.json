@@ -1,0 +1,40 @@
+{
+  "Id": 75,
+  "Title": "Grøntsagsgryde med kartoffelmos",
+  "SubHeader": "Gryderet med peberfrugt, gulerod og squash i cremet tomatsauce med kartoffelmos",
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 2,
+  "RecipeGroups": [
+    {
+      "Title": "Kartoffelmos",
+      "Ingredients": [
+        { "Quantity": 500, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "mælk", "PreparationNote": "en sjat" },
+        { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Grøntsagsgryde",
+      "Ingredients": [
+        { "Quantity": 0.75, "Unit": null, "Name": "løg", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": null },
+        { "Quantity": 200, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "pk", "Name": "tomatpassata", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "spsk", "Name": "tomatkoncentrat", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "tsk", "Name": "paprikapulver", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><h3>Kartoffelmos</h3><p>Skræl kartofler og skær dem i grove tern. Kog dem i usaltet vand, til de er møre og hæld vandet fra. Mos kartoflerne og tilsæt smør og mælk, til mosen har den ønskede konsistens. Smag til med salt og peber.</p><h3>Grøntsagsgryde</h3><p>Pil og hak løg og hvidløg. Skyl squash og skær i grove tern. Skræl gulerødder og skær dem i små tern.</p><p>Varm en gryde op med olie og steg løg og hvidløg, til løgene er klare. Tilsæt squash og gulerødder og steg videre i et minuts tid. Kom nu tomatpassata, tomatkoncentrat og krydderier ved, bring grydens indhold i kog og lad det simre i ca. 10-15 min. Tilsæt fløde og smag til med salt og peber.</p><p>Nyd grøntsagsgryde med kartoffelmos.</p>",
+  "Note": "Du skal have: Smør, mælk, madolie, salt og peber.",
+  "ImageUrl": "/images/recipe-images/75. Grøntsagsgryde med kartoffelmos.jpg",
+  "Keywords": ["Vegetar"]
+}
