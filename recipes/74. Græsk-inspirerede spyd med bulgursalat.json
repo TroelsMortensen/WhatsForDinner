@@ -1,0 +1,47 @@
+{
+  "Id": 74,
+  "Title": "Græsk-inspirerede spyd med bulgursalat",
+  "SubHeader": "Spyd med fetakødboller og dertil græsk-inspireret bulgursalat",
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 2,
+  "RecipeGroups": [
+    {
+      "Title": "Bulgur",
+      "Ingredients": [
+        { "Quantity": 160, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Spyd med fetakødboller",
+      "Ingredients": [
+        { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "potte", "Name": "persille", "PreparationNote": null },
+        { "Quantity": 350, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+        { "Quantity": 20, "Unit": "g", "Name": "hvederasp", "PreparationNote": null },
+        { "Quantity": 0.25, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "pk", "Name": "fetaost", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+        { "Quantity": 4, "Unit": null, "Name": "grillspyd", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Salat",
+      "Ingredients": [
+        { "Quantity": 0.75, "Unit": null, "Name": "agurk", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "bakke", "Name": "cherrytomater", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": null, "Name": "rødløg", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "pk", "Name": "fetaost", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 180 grader alm. ovn og klargør en bageplade med bagepapir.</p><p>Skyl bulgur i en si eller sigte. Kog bulgur i letsaltet vand i ca. 12-13 min., til den er mør. Beregn dobbelt mængde vand i forhold til bulgur. Hæld resterende vand fra og lad bulguren stå og køle af.</p><p>Pil og hak løg og hvidløg fint. Skyl persille, dup tørt i køkkenrulle og hak fint. Tag halvdelen fra til salaten.</p><p>Bland hakket oksekød sammen i en skål med æg, rasp, mælk, løg, hvidløg og persille. Smuldre halvdelen af fetaen i. Krydr med salt og peber. Farsen skal have konsistens som en frikadellefars – juster evt. med mælk og rasp.</p><p>Form kødboller og fordel dem på bagepladen med bagepapir. Bag kødbollerne i ovnen i ca. 15 min., til de er gennemstegte. Sæt de færdige kødboller på spyd til servering.</p><p>Skyl agurk og cherrytomater. Halvér cherrytomater. Halvér agurk, skrab kernerne ud med en teske og skær halvmåner af agurken. Pil og skær rødløg i tynde både.</p><p>Bland bulgur, cherrytomat, agurk og hakket persille sammen i en skål. Smuldre feta i. Hæld lidt olivenolie over salaten og krydr med salt og peber.</p><p>Servér spyd med fetakødboller og bulgursalat.</p>",
+  "Note": "Du skal bruge: Ovn, bageplade, bagepapir, si, gryde, skåle, grillspyd.",
+  "ImageUrl": "/images/recipe-images/74. Græsk-inspirerede spyd med bulgursalat.jpg",
+  "Keywords": ["Oksekød"]
+}
