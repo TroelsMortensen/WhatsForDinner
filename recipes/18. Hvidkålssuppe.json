@@ -1,0 +1,117 @@
+{
+  "Id": 18,
+  "Title": "Hvidkålssuppe",
+  "SubHeader": "En nærende, mættende og budgetvenlig suppe, som smager virkelig lækkert. Vælg frit, om du vil servere og nyde den med de hele stykker grønt og kål, eller om du heller vil blende den til en cremet suppe, som ofte er et hit hos børn - og så er det jo virkelig en genial måde at få børnene til at spise en masse gode grøntsager.",
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "kartofler",
+          "PreparationNote": "i tern"
+        },
+        {
+          "Quantity": 500.0,
+          "Unit": "g",
+          "Name": "hvidkål",
+          "PreparationNote": "fintsnittet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "gulerødder",
+          "PreparationNote": "i tynde skiver"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "knuste fennikelfrø",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "l",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "soja",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "piskefløde",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "æble",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 40.0,
+          "Unit": "g",
+          "Name": "valnødder",
+          "PreparationNote": "grofthakkede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "persille",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "skiver",
+          "Name": "rugbrød",
+          "PreparationNote": "ristet"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg og hvidløg i en gryde med olie, til løgene er bløde. Tilsæt kartofler, hvidkål og gulerødder samt fennikelfrø og grøntsagsbouillon. Lad det koge op, læg låg på og lad suppen simre, til kartoflerne er møre. Smag til med soja, piskefløde, salt og peber.</p><p>Blend suppen, til den er helt cremet og ensartet, eller undlad at blende og server den dampende varme suppe i dybe tallerkener med de hele grøntsager.</p><p>Kom æbletern, valnødder og persille i små skåle, så man selv kan forsyne sig med topping ved bordet, og server ristet rugbrød til som tilbehør.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/18. Hvidkålssuppe.jpg",
+  "Keywords": [
+    "Suppe",
+    "Vegetar"
+  ]
+}

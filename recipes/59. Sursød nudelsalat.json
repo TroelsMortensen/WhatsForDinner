@@ -1,0 +1,135 @@
+{
+  "Id": 59,
+  "Title": "Sursød nudelsalat",
+  "SubHeader": "Denne salat kan nydes både lun og frisklavet eller serveres kold fra køleskabet.",
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Sursød sauce",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "ananasjuice",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "riseddike",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "ketchup",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "brun farin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "soja",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "majsstivelse",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Nudelsalat",
+      "Ingredients": [
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "nudler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "pillede edamamebønner",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "gulerødder",
+          "PreparationNote": "i julienne"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "spidskål",
+          "PreparationNote": "fintsnittet"
+        },
+        {
+          "Quantity": 125.0,
+          "Unit": "g",
+          "Name": "sukkerærter",
+          "PreparationNote": "snittet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "forårsløg",
+          "PreparationNote": "fintsnittede"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "ananas",
+          "PreparationNote": "i tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "avocado",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "håndfuld frisk koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "sesamfrø",
+          "PreparationNote": "ristede"
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "saltede peanuts",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p><strong>Sursød sauce:</strong> Rør alle ingredienserne til sursød sauce sammen i en gryde og lad det koge op i et par minutter, til det tykner en smule. Lad det køle af i gryden.</p><p><strong>Nudelsalat:</strong> Kog nudler efter anvisning på pakken. Kom edamamebønnerne i gryden til nudlerne i det sidste minut af kogetiden. Hæld straks vandet fra og hæld iskoldt vand over for at stoppe kogningen, så nudlerne ikke klistrer sammen.</p><p>Vend nudler og edamamebønner med halvdelen af sursød saucen. Anret gulerødder og spidskål i en skål og fordel nudler og edamamebønner over. Fordel sukkerærter, forårsløg, ananas, avocado og resten af dressingen over. Drys med frisk koriander, sesamfrø og peanuts inden servering.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/59. Sursød nudelsalat.jpg",
+  "Keywords": [
+    "Vegetar",
+    "Asiatisk"
+  ]
+}

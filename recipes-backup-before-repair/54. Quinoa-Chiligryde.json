@@ -1,0 +1,152 @@
+{
+  "Id": 54,
+  "Title": "Quinoa-chiligryde",
+  "SubHeader": null,
+  "TotalMinutes": 5,
+  "MinutesOfPreparation": 5,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "staenglerbladselleri",
+          "PreparationNote": "ismdtern"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidlog",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "sortquinoa",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 5.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Y2tsk torrede chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "spskspidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskkanel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "roget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": null,
+          "Name": "gblomkal",
+          "PreparationNote": "ibuketter"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "daserkidneybonner",
+          "PreparationNote": "drcenede"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "oko lime",
+          "PreparationNote": "lidt saftog fintrevet skal"
+        },
+        {
+          "Quantity": 30.0,
+          "Unit": "g",
+          "Name": "mork chokolade",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "cremefraiche 18%",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 75.0,
+          "Unit": null,
+          "Name": "gcheddar",
+          "PreparationNote": "friskrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "avocado",
+          "PreparationNote": "iskiver"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Vz tsk chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lille handfuld koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "zoko lime,ibade",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Valdemarsro-vegetar aftensmad",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>INGREDIENSER</p><p>Varm en gryde op med olie og sauter lag, squash, blad-</p><p>1 log,finthakket</p><p>selleri og gulerodderi 4-5minutter ved middelvarme.</p><p>1sguash,ismdtern</p><p>Tilsaet hvidlog, hakkede tomater,quinoa,grantsags-</p><p>150ggulerodder,ismdtern</p><p>bouillon og krydderier.Ror det godt igennem og kog</p><p>Tilsaet blomkalsbuketter og lad retten simre viderei15</p><p>minutter, til blomkalen er mor,men stadig har lidt bid.</p><p>Kom kidneybonneri gryden, varm godt igennem og</p><p>smag til med limesaft, limeskal, mork chokolade, salt og</p><p>peber.</p><p>Serveri dybe tallerkener og top med cremefraiche,</p><p>cheddar,avocado,chiliflager,koriander og limebade til</p><p>og skyllede</p><p>at dryppe over retten.</p><p>grofthakket</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/54. Quinoa-chiligryde.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

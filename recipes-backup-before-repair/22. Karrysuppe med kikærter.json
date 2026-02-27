@@ -1,0 +1,147 @@
+{
+  "Id": 22,
+  "Title": "Karrysuppe med kikærter",
+  "SubHeader": null,
+  "TotalMinutes": 1,
+  "MinutesOfPreparation": 1,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "karry",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskstodtspidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "fedhvidlog",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "porrer",
+          "PreparationNote": "itynde skiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "broccoli",
+          "PreparationNote": "ibuketter"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "dasekikaerter",
+          "PreparationNote": "draenede"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "og skyllede",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rodpeberfrugt",
+          "PreparationNote": "itern"
+        },
+        {
+          "Quantity": 8.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "tskmajsstivelse",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "/2 dl piskeflode",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "cherrytomater",
+          "PreparationNote": "ikvarte"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt ogfriskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "basmatiris",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": null,
+          "Name": "ghalloumi",
+          "PreparationNote": "iskiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuldbredbladetpersille",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olivenolie til stegning",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en stor gryde op ved middelvarme,kom karry og</p><p>spidskommen igryden og ror ica.1 minut, til det dufter</p><p>dejligt.</p><p>Kom olie, log, hvidlog og porrerigryden til krydderierne</p><p>og sauter, til logene er blode. Kom broccoli, kikaerter,</p><p>peberfrugt og grontsagsbouillonigryden.Ror majs-</p><p>stivelse sammen med piskeflode og ror detisuppen.</p><p>Kog suppen op under omroringinogle minutter.Skru</p><p>ned til lav varme,kom tomaterneisuppen oglaeg lag</p><p>pa, sa suppen holder sig varm. Smag karrysuppen godt</p><p>til med salt og friskkvaernet peber.</p><p>Kog ris efter anvisning pa pakken.Rist halloumi pa en</p><p>pande med lidt olie, til halloumi-skiverne har en smuk</p><p>gylden stegeskorpe.</p><p>Serveridybe tallerkenermed ris,halloumi,chiliflager</p><p>og et dryspersille</p><p>grofthakket</p><p>Indisk</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/22. Karrysuppe med kikærter.jpg",
+  "Keywords": [
+    "Suppe",
+    "Vegetar"
+  ]
+}

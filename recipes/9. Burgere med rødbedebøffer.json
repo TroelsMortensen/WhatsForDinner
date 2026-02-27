@@ -1,0 +1,122 @@
+{
+  "Id": 9,
+  "Title": "Burgere med rødbedebøffer",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Rødbedebøffer",
+      "Ingredients": [
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "rødbede",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "havregryn",
+          "PreparationNote": "finvalsede"
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "hvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "æg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "dijonsennep",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "skiver",
+          "Name": "cheddarost",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "olivenolie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "burgerboller",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "mayonnaise",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 125.0,
+          "Unit": "g",
+          "Name": "blandet salat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "avocado",
+          "PreparationNote": "iskiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rødløg",
+          "PreparationNote": "i ringe"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "agurk",
+          "PreparationNote": "i skiver"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom rødbede, havregryn, hvedemel, løg og hvidløg i en skål med æg og dijonsennep. Rør det godt igennem og smag til med salt og peber. Juster evt. konsistensen med lidt ekstra havregryn eller hvedemel, til rødbedebøfferne er nemme at forme.</p><p>Form bøfferne og læg dem på en bradepande med bagepapir. Dryp lidt olie over og bag dem i en forvarmet ovn ved 200 grader varmluft i ca. 10 minutter. Vend bøfferne og bag dem i yderligere 5 minutter på den anden side. Kom en skive cheddar på hver bøf og bag i yderligere 1 minut, til osten akkurat er smeltet.</p><p>Skær burgerbollerne op og lun dem i ovnen. Smør med mayonnaise og saml vegetarburgeren med salat, avocado, løg, agurk og rødbedebøffen.</p>",
+  "Note": "Hvis der er meget væde ved rødbederne, så pres lidt af væden fra i en sigte. Sæt et glas under sigten, så den saft, der drypper af kan nydes som en dejlig vitaminjuice.",
+  "ImageUrl": "/images/recipe-images/9. Burgere med rødbedebøffer.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

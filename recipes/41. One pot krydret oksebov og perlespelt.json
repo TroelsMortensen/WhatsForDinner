@@ -1,0 +1,118 @@
+{
+  "Id": 41,
+  "Title": "One Pot krydret oksebov og perlespelt",
+  "SubHeader": "Altid en sikker vinder med masser af krydderi og dybde.",
+  "TotalMinutes": 100,
+  "MinutesOfPreparation": 100,
+  "NumberOfPersons": null,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 800.0,
+          "Unit": "g",
+          "Name": "oksebov",
+          "PreparationNote": "i tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rødløg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "stor spsk",
+          "Name": "five-spice-krydderi",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tommel",
+          "Name": "frisk ingefær",
+          "PreparationNote": "revet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "stilk",
+          "Name": "citrongræs",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "frisk chili",
+          "PreparationNote": "så stærk som du lyster"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "riseddike",
+          "PreparationNote": "eller æbleeddike"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "terning",
+          "Name": "okse- eller kalvebouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 11.0,
+          "Unit": "dl",
+          "Name": "vand",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og peber",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "perlespelt",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "edamamebønner",
+          "PreparationNote": "pillede"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "friske pak choi",
+          "PreparationNote": "i kvarte, kan erstattes med 200 g grønne bønner"
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "frisk koriander og ristede cashewnødder",
+          "PreparationNote": "kan du få fat i kimchi, er det vildt godt til retten"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>I gryden</h2><p>Okseboven svitses af.</p><p>Tilsæt hvidløg, rødløg, citrongræs, ingefær og chili, og vend herlighederne rundt.</p><p>Kog op med riseddike.</p><p>Tilsæt bouillon, vand, citrongræs, salt og peber samt perlespelt i gryden.</p><p>Lad det simre i 1 1/4 time.</p><p>Smag til med salt og peber.</p><p>Kom edamamebønner og pak choi i, og lad det dampe med i 5 minutter.</p><p>Server straks med pynten og et skud soja.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/41. One Pot krydret oksebov og perlespelt.jpg",
+  "Keywords": [
+    "One Pot",
+    "Oksekød",
+    "Bælgfrugter"
+  ]
+}

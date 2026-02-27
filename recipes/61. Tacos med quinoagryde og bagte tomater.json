@@ -1,0 +1,163 @@
+{
+  "Id": 61,
+  "Title": "Tacos med quinoagryde og bagte tomater",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Bagte tomater og majs",
+      "Ingredients": [
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "majskerner",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "cherrytomater",
+          "PreparationNote": "i halve"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "rosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "olivenolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Quinoagryde",
+      "Ingredients": [
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "sort quinoa",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "kanel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "gulerødder",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "bladselleri",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 30.0,
+          "Unit": "g",
+          "Name": "soltørrede tomater",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 40.0,
+          "Unit": "g",
+          "Name": "mørk chokolade",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 8.0,
+          "Unit": null,
+          "Name": "tortillas",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "cremefraiche 18%",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "håndfuld koriander",
+          "PreparationNote": "grofthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "i både"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p><strong>Ovnbagte tomater og majs:</strong> Vend majskernerne med olie og kom dem på en bageplade med bagepapir sammen med tomaterne. Drys rosmarin, salt og peber over og bag dem i en forvarmet ovn ved 200 grader varmluft i ca. 20 minutter.</p><p><strong>Quinoagryde:</strong> Kom quinoa i en gryde og kog den halvdelen af tiden efter anvisning på pakken. Hæld vandet fra. Sauter løg i en gryde med olie ved middelvarme, til de er bløde. Tilsæt hvidløg, spidskommen, chiliflager, kanel, gulerødder, bladselleri, soltørrede tomater og hakkede tomater og rør det godt igennem, mens det langsomt bringes i kog. Lad det simre i 10 minutter, tilsæt den kogte quinoa og den mørke chokolade. Lad det simre, til quinoaen er kogt færdig, og smag til med salt og peber.</p><p><strong>Servering:</strong> Lun tortillas på en pande eller i ovnen og server dem med quinoagryde, bagte tomater og majs samt avocadomos. Top med lidt cremefraiche og koriander og server med limebåde til at dryppe over.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/61. Tacos med quinoagryde og bagte tomater.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

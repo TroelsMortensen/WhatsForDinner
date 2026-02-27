@@ -1,0 +1,146 @@
+{
+  "Id": 16,
+  "Title": "Grøntsagsdhal",
+  "SubHeader": null,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 25,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "tsk",
+          "Name": "karry",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "røde linser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "gulerødder",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "squash",
+          "PreparationNote": "groftrevet"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "ml",
+          "Name": "kokosmælk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "blomkål",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Tilbehør",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "ris",
+          "PreparationNote": "kogt efteranvisning"
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "saltede mandler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "græsk yoghurt",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "koriander",
+          "PreparationNote": "finthakket"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg i olie i en stor gryde ved middelvarme, til løgene er bløde. Tilsæt herefter karry, chiliflager, spidskommen og koriander og varm krydderierne godt igennem i ca. 1 minut under omrøring.</p><p>Skyl linserne i en sigte og kom dem i gryden sammen med gulerødder, squash, hvidløg, ingefær, grøntsagsbouillon, kokosmælk og de hakkede tomater. Lad det simre under låg i 20 minutter og kog imens risene efter anvisning på pakken.</p><p>Kom finthakket blomkål i gryden med grøntsagsdhal og rør retten godt igennem. Læg låg på og lad retten simre videre i yderligere 10-15 minutter. Tilsæt evt. lidt ekstra grøntsagsbouillon, hvis den bliver for fast. Smag til med salt og friskkværnet peber.</p><p>Server retten i dybe skåle med kogte ris, saltede mandler, græsk yoghurt og et drys koriander.</p>",
+  "Note": "Lyst til mere eller andet grønt i suppen? Prøv med små tern af kartofler eller søde kartofler, porrer i skiver eller knoldselleri, pastinakker eller lignende i små tern. Jordskokker i tynde skiver er også lækre i retten. Det er en god mulighed for at få ryddet op i grøntsagsskuffen.",
+  "ImageUrl": "/images/recipe-images/16. Grøntsagsdhal.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

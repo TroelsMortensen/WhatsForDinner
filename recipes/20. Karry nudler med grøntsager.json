@@ -1,0 +1,127 @@
+{
+  "Id": 20,
+  "Title": "Karry nudler med grøntsager",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Sojabagte kikærter",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "soja",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Karrynudler",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "karry",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 8.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "tsk",
+          "Name": "rød karrypasta",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "broccoli",
+          "PreparationNote": "i buketter"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "pillede edamamebønner",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "ml",
+          "Name": "kokosmælk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "ægnudler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "babyspinat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "haricot verts",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "koriander",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "i både"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom kikærter og soja i en bradepande med bagepapir og vend det godt sammen. Bag dem i en forvarmet ovn ved 180 grader varmluft i ca. 15 minutter, til kikærterne er sprøde.</p><p>Rist karryen i en tør gryde ved middelvarme, til det dufter skønt. Kom grøntsagsbouillon, ingefær, hvidløg, karrypasta og broccoli i gryden. Kog i 1 minut. Tilsæt edamamebønner, kokosmælk og nudler. Kog et par minutter, til nudlerne er perfekt møre, og rør spinat og haricot verts i retten.</p><p>Server i dybe skåle og drys med soja-kikærter, chiliflager og koriander samt lime i både til at dryppe over.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/20. Karry nudler med grøntsager.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

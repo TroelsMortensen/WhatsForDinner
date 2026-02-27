@@ -1,0 +1,134 @@
+{
+  "Id": 20,
+  "Title": "Karry nudler med grøntsager",
+  "SubHeader": null,
+  "TotalMinutes": 1,
+  "MinutesOfPreparation": 1,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "SOJABAGTE KIKAERTER",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "dasekikaerter",
+          "PreparationNote": "drcenede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "spsksoja",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "KARRYNUDLER",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "karry",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 8.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "ingefoer",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidlog",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "tsk",
+          "Name": "rodkarrypasta",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "broccoli",
+          "PreparationNote": "ibuketter"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": null,
+          "Name": "gpilledeedamamebonner",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "mlkokosmcelk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "cegnudler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": null,
+          "Name": "gbabyspinat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "harricot verts",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld koriander",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "ibade"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>SOJABAGTE KIKERTER</p><p>Kom kikaerter og soja i en bradepande med bagepapir</p><p>og skyllede</p><p>og vend det godt sammen. Bag dem i en forvarmet ovn</p><p>ved 180 grader varmluft i ca. 15 minutter, til kikaerterne</p><p>er sprode.</p><p>KARRYNUDLER</p><p>Rist karryen i en tor gryde ved middelvarme, til det</p><p>dufter skont. Kom grontsagsbouillon, ingefaer, hvidlog,</p><p>karrypasta og broccoli i gryden. Kog i1 minut. Tilsaet</p><p>edamamebonner, kokosmaelk og nudler. Kog et par</p><p>minutter, til nudlerne er perfekt more, og ror spinat og</p><p>harricot verts i retten.</p><p>Server i dybe skale og drys med soja-kikaerter, chiliflager</p><p>og koriander samt lime i bade til at dryppe over.</p><p>Asiatisk</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/20. Karry nudler med grøntsager.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

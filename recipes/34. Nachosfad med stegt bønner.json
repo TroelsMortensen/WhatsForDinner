@@ -1,0 +1,122 @@
+{
+  "Id": 34,
+  "Title": "Nachosfad med stegte bønner",
+  "SubHeader": null,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Stegte bønner",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "tørret oregano",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kidneybønner",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Nachosfad",
+      "Ingredients": [
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "nachos",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "cheddar",
+          "PreparationNote": "friskrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "avocado",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "cremefraiche 18 %",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "frisk koriander",
+          "PreparationNote": "grofthakket"
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "cherrytomater",
+          "PreparationNote": "i kvarte"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "i både"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg i en gryde med olie, til de er bløde. Tilsæt hvidløg og krydderier sammen med kidneybønner og rør det godt sammen i nogle minutter.</p><p>Blend hurtigt med en stavblender i gryden, til bønnerne er grofthakkede. Varm det godt igennem og juster evt. konsistensen med lidt grøntsagsbouillon. Smag godt til med salt og peber.</p><p>Kom halvdelen af nachos i et smurt ovnfast fad, fordel halvdelen af de stegte bønner og halvdelen af cheddarosten henover. Gentag i endnu et lag og bag det derefter i en forvarmet ovn ved 200 grader varmluft i 13-15 minutter, til osten er smeltet.</p><p>Mos avocadoen med halvdelen af cremefraichen og smag til med salt, peber og lidt limesaft. Kom avocadomosen ovenpå indholdet af fadet, sammen med skeer af cremefraiche, frisk koriander og tomater. Server med limebåde til at dryppe over.</p>",
+  "Note": "Har du lyst til mere grønt, så tilføj en lækker pico de gallo (se side 34) for ekstra mange grøntsager og lidt ekstra friskhed til retten.",
+  "ImageUrl": "/images/recipe-images/34. Nachosfad med stegt bønner.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

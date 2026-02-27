@@ -1,0 +1,129 @@
+{
+  "Id": 38,
+  "Title": "One Pot Dhal på rød karry",
+  "SubHeader": "Befrielse på de kolde dage: en fyldig gryderet med varme krydderier.",
+  "TotalMinutes": 50,
+  "MinutesOfPreparation": 50,
+  "NumberOfPersons": null,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "madæbler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "aubergine",
+          "PreparationNote": "skåret i tern, let saltet og afdryppet i 20 minutter"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "olivenolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ristet sesamolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rødløg",
+          "PreparationNote": "i tern"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "frisk ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "stødt koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "stødt kardemomme",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "rød karrypasta",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "frisk chili",
+          "PreparationNote": "evt., hvis der skal mere spark i"
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "røde linser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dåser",
+          "Name": "flåede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 6.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "raita",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>I gryden</h2><p>Steg æbler og aubergine af i olierne.</p><p>Når de har taget farve, tilsættes løg, hvidløg og ingefær, som steges med i et par minutter.</p><p>Tilsæt krydderierne plus karrypasta samt frisk chili, hvis du bruger det.</p><p>Tilsæt nu linser, tomater, bouillon og lidt peber.</p><p>Så skal der simres under låg i cirka 40 minutter. Pas på, den ikke koger tør, da linser kan være drilske og meget tørstige.</p><p>Server med raita.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/38. One Pot dhal på rød karry.jpg",
+  "Keywords": [
+    "One Pot",
+    "Vegetar"
+  ]
+}

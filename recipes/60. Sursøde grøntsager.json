@@ -1,0 +1,152 @@
+{
+  "Id": 60,
+  "Title": "Sursøde grøntsager",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Sursød sauce",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "ananasjuice",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "riseddike",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "ketchup",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "brun farin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "spsk",
+          "Name": "soja",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "majsstivelse",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Grøntsager",
+      "Ingredients": [
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "champignoner",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "i både"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "porrer",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "spidskål",
+          "PreparationNote": "groft snittet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rød peberfrugt",
+          "PreparationNote": "i tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "broccoli",
+          "PreparationNote": "i buketter"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "sukkerærter",
+          "PreparationNote": "snittede"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "pillede edamamebønner",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "basmatiris",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "sesamfrø",
+          "PreparationNote": "ristede"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "håndfuld koriander",
+          "PreparationNote": "grofthakket"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p><strong>Sursød sauce:</strong> Rør alle ingredienserne til sursød sauce sammen i en gryde, kog op under omrøring og lad det simre et par minutter, til det tykner let. Lad saucen køle lidt af i gryden.</p><p>Varm en wok eller sauterpande op med olie og rist champignonerne ved høj varme, til de får en gyldenbrun stegeskorpe. Skru lidt ned til middelvarme og tilsæt løg, porre, spidskål, peberfrugt og broccoli og varm grøntsagerne godt igennem i 4-5 minutter under konstant omrøring.</p><p>Kom sukkerærterne og edamamebønnerne i retten sammen med sursød saucen og vend det godt sammen i et minuts tid.</p><p>Server med kogte ris og et drys sesamfrø, chiliflager og koriander.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/60. Sursøde grøntsager.jpg",
+  "Keywords": [
+    "Vegetar",
+    "Asiatisk"
+  ]
+}

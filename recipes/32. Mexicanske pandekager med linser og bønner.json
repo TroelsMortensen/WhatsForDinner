@@ -1,0 +1,146 @@
+{
+  "Id": 32,
+  "Title": "Mexicanske pandekager med linser og bønner",
+  "SubHeader": null,
+  "TotalMinutes": 90,
+  "MinutesOfPreparation": 45,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "champignoner",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "tørret oregano",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "tørret rosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "squash",
+          "PreparationNote": "groftrevet"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "stængler",
+          "Name": "bladselleri",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "soltørrede tomater i olie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "røde linser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "sorte bønner",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 8.0,
+          "Unit": null,
+          "Name": "tortillas",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "cheddar",
+          "PreparationNote": "friskrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "frisk koriander",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg og hvidløg i en gryde med olie, til løgene er bløde. Skru op for varmen og kom champignoner i gryden, rør godt igennem og tilsæt derefter de andre ingredienser, undtagen de sorte bønner.</p><p>Skru ned for varmen, læg låg på og lad retten simre i 45 minutter, til den er cremet og lækker. Kom bønnerne i, varm dem igennem og smag saucen godt til med salt og peber.</p><p>Fordel grøntsagssaucen og halvdelen af cheddarosten i de mexicanske tortillas, rul dem sammen og læg dem i et smurt ovnfast fad. Pensl med olie og drys resten af osten over. Bag i en forvarmet ovn ved 180 grader varmluft i 15 minutter, til osten er smeltet.</p>",
+  "Note": "Saucen kan fryses, og den er også lækker til andre retter, som fx fyld i pirogger, pizzasnegle eller til en risret.",
+  "ImageUrl": "/images/recipe-images/32. Mexicanske pandekager med linser og bønner.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

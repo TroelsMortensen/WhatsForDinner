@@ -1,0 +1,141 @@
+{
+  "Id": 27,
+  "Title": "Lasagnette",
+  "SubHeader": null,
+  "TotalMinutes": 60,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "gulerødder",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "stængler",
+          "Name": "bladselleri",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 175.0,
+          "Unit": "g",
+          "Name": "belugalinser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "tørret oregano",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "tørret timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "tørret rosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 800.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "koncentreret tomatpuré",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "soltørrede tomater i olie",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "piskefløde",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "majsstivelse",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "mælk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "pasta",
+          "PreparationNote": "fx mafalda corta eller paciocche"
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "frisk mozzarella",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "vesterhavsost eller parmesan",
+          "PreparationNote": "friskrevet"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm olie op i en gryde og sautér løg, hvidløg, gulerødder og bladselleri, til løgene er bløde. Tilsæt belugalinser, krydderier, hakkede tomater, tomatpuré, soltørrede tomater, grøntsagsbouillon, piskefløde og majsstivelse rørt ud i mælk. Bring i kog under omrøring, læg låg på og lad det simre i ca. 30 minutter. Rør godt igennem og smag til med salt og friskkværnet peber.</p><p>Rør pastaen i gryden og kom derefter retten i et smurt ovnfast fad. Fordel mozzarella over og kom fadet i en forvarmet ovn ved 175 grader varmluft og bag i ca. 25 minutter, til pastaen er perfekt mør med lidt bid. Drys lidt ost over inden servering.</p>",
+  "Note": "Belugalinser holder formen under tilberedningen og koger ikke ud på samme måde som fx røde linser. Man kan erstatte belugalinser med Le Puy delikatesselinser eller med grønne linser.",
+  "ImageUrl": "/images/recipe-images/27. Lasagnette.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

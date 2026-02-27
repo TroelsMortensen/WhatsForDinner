@@ -1,0 +1,152 @@
+{
+  "Id": 24,
+  "Title": "Kikærter i fad med kokos og karry",
+  "SubHeader": null,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 45,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": "dåser",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "kartofler",
+          "PreparationNote": "i tern på 1 x 1 cm"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "porrer",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "babyspinat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rød peberfrugt",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "broccoli",
+          "PreparationNote": "i buketter"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "ananas i stykker på dåse",
+          "PreparationNote": "ananas og 4 spsk saft herfra"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "pressede"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "karry",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "ml",
+          "Name": "kokosmælk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "majsstivelse",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "piskefløde",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie og smør til stegning og til fadet",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "ris",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "saltede peanuts",
+          "PreparationNote": "grofthakkede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "bredbladet persille",
+          "PreparationNote": "finthakket"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom kikærter, løg, kartofler, porrer, spinat, peberfrugt, broccoli og ananas i et smurt ovnfast fad og vend det godt sammen.</p><p>Rør hvidløg, karry, koriander og spidskommen sammen med kokosmælk og grøntsagsbouillon. Rør majsstivelse og piskefløde sammen og rør det i skålen med væde. Rør, til det er helt ensartet, og smag til med lidt saft fra ananas, salt og peber. Fordel væden over grøntsagerne.</p><p>Bag retten i en forvarmet ovn ved 190 grader varmluft i ca. 1 time, til kartoflerne er møre. Kog risene efter anvisning på pakken og server retten med ris, peanuts og et drys persille.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/24. Kikærter i fad med kokos og karry.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

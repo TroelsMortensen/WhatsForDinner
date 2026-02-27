@@ -1,0 +1,50 @@
+{
+  "Id": 71,
+  "Title": "Farsspyd med rissalat og brød",
+  "SubHeader": "Farsspyd med feta og persille og dertil rissalat og lunt brød",
+  "TotalMinutes": 40,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 2,
+  "RecipeGroups": [
+    {
+      "Title": "Ris",
+      "Ingredients": [
+        { "Quantity": 0.75, "Unit": "pose", "Name": "ris", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Rissalat",
+      "Ingredients": [
+        { "Quantity": 0.25, "Unit": "potte", "Name": "persille", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "bunke", "Name": "forårsløg", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+        { "Quantity": 2, "Unit": null, "Name": "tomater", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Farsspyd",
+      "Ingredients": [
+        { "Quantity": 4, "Unit": null, "Name": "grillspyd", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": null, "Name": "løg", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 0.25, "Unit": "potte", "Name": "persille", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "pk", "Name": "hakket oksekød", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "spsk", "Name": "hvederasp", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Baguette",
+      "Ingredients": [
+        { "Quantity": 0.5, "Unit": null, "Name": "rustik baguette", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Læg spyd i en beholder med vand. Lad dem trække.</p><p>Tænd ovnen på 200 grader grillfunktion og sæt en rist i den øverste halvdel af ovnen med en bageplade med bagepapir under (det gør rengøringen lettere). Alternativt kan du fyre op i grillen.</p><h3>Ris</h3><p>Skyl ris grundigt i en si. Kom dem i en gryde med friskt vand. Beregn dobbelt så meget vand som ris. Bring gryden i kog, læg låg på og lad risene simre i ca. 10 min. Sluk for blusset og lad risene hvile i ca. 10 min. Afkøl.</p><h3>Rissalat</h3><p>Skyl grøntsager og persille. Snit forårsløg i fine skiver på skrå. Udhul og skær peberfrugt i små tern. Skær tomater i små tern. Hak persille og sæt halvdelen til side til farsen. Kom resten af persillen og grøntsager i en skål sammen med ris og olivenolie. Smag til med salt og peber.</p><h3>Farsspyd</h3><p>Pil og hak løg og hvidløg fint. Kom løg og hvidløg i en skål sammen med persille, oksekød, rasp, salt og peber. Tag spyddene op af vandet og lad dem dryppe af på et stykke køkkenrulle. Rør farsen sej og form den rundt om spyddene, så du får aflange farsspyd på ca. 3 cm tykkelse. Bag spyddene i ovnen i ca. 12-15 min., til de er gennemstegte. Vend dem evt. en gang undervejs.</p><h3>Baguette</h3><p>Varm brødet i ovnen i ca. 8 min.</p><p>Servér farsspyd med rissalat og lunt brød.</p>",
+  "Note": "Du skal have: Olivenolie, salt og peber. Du skal bruge: Si, gryde, kniv, skærebræt, skåle, røreskeer, beholder til spyd, ovnrist, bageplade med bagepapir.",
+  "ImageUrl": null,
+  "Keywords": ["Oksekød"]
+}

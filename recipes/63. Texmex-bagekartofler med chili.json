@@ -1,0 +1,133 @@
+{
+  "Id": 63,
+  "Title": "Texmex-bagekartofler med chili",
+  "SubHeader": null,
+  "TotalMinutes": 75,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Kartofler",
+      "Ingredients": [
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "bagekartofler",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Chilifyld",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rødløg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "kanel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "squash",
+          "PreparationNote": "groftrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kidneybønner",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "cremefraiche 18%",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "avocado",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "rød chili",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lille håndfuld koriander",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p><strong>Kartofler:</strong> Skrub kartoflerne godt, vend dem i olie og prik dem et par gange med en gaffel. Bag dem i ovnen i ca. 1 time ved 175 grader varmluft, til de er møre.</p><p><strong>Chilifyld:</strong> Varm en gryde op med olie, kom løg, hvidløg og krydderier i og sauter, til løgene er bløde. Tilsæt hakkede tomater og squash og lad det simre i 10 minutter. Tilsæt bønnerne og smag til med salt og peber.</p><p>Skær et kryds i de bagte kartofler og fyld dem med det varme chilifyld. Top med cremefraiche, avocado i skiver og drys til sidst med lidt friskhakket rød chili og frisk koriander.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/63. Texmex-bagekartofler med chili.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

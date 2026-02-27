@@ -1,0 +1,48 @@
+{
+  "Id": 14,
+  "Title": "Gryderet med blomkål og kikærter",
+  "SubHeader": null,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        { "Quantity": 2.0, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+        { "Quantity": 4.0, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+        { "Quantity": 2.0, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+        { "Quantity": 2.0, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+        { "Quantity": 2.0, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+        { "Quantity": 150.0, "Unit": "g", "Name": "røde linser", "PreparationNote": null },
+        { "Quantity": 2.0, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+        { "Quantity": 400.0, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": null },
+        { "Quantity": 250.0, "Unit": "g", "Name": "kartofler", "PreparationNote": "i små tern" },
+        { "Quantity": 400.0, "Unit": "ml", "Name": "kokosmælk", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": null, "Name": "squash", "PreparationNote": "i tern" },
+        { "Quantity": 400.0, "Unit": "g", "Name": "blomkål", "PreparationNote": "i små buketter" },
+        { "Quantity": 1.0, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænede og skyllede" },
+        { "Quantity": null, "Unit": null, "Name": "olie til stegning", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        { "Quantity": 3.0, "Unit": "dl", "Name": "basmatiris", "PreparationNote": "kogt efter anvisning" },
+        { "Quantity": 1.0, "Unit": "dl", "Name": "cremefraiche 18 %", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "hampefrø", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "håndfuld", "Name": "koriander", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg, hvidløg, karry, spidskommen, koriander, kardemomme og garam masala i olie ved middelvarme, til løgene er bløde. Kom linser, grøntsagsbouillon, hakkede tomater, kartofler og kokosmælk i gryden og lad det simre i 15 minutter under låg. Tilsæt squash, blomkål og kikærter og lad retten simre i 10 minutter. Smag til med salt og friskkværnet sort peber.</p><p>Server i dybe tallerkener med kogte ris, en skefuld cremefraiche og et drys hampefrø, chiliflager efter smag og lidt koriander.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/14. Gryderet med blomkål og kikærter.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

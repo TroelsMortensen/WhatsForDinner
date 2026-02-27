@@ -1,0 +1,165 @@
+{
+  "Id": 65,
+  "Title": "Vegetar paella",
+  "SubHeader": null,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 45,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Marinade",
+      "Ingredients": [
+        {
+          "Quantity": 4.0,
+          "Unit": "spsk",
+          "Name": "olivenolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "aubergine",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "squash",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 20.0,
+          "Unit": "g",
+          "Name": "hvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 350.0,
+          "Unit": "g",
+          "Name": "risottoris",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "knivspids stødt safran",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "sød paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "hvidvin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 7.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "stængler bladselleri",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rød peberfrugt",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "koncentreret tomatpuré",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "frosne ærter",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "håndfuld persille",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "øko citron",
+          "PreparationNote": "lidt saft og fintrevet skal"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "dl",
+          "Name": "friture- eller stegeolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olivenolie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p><strong>Marinade:</strong> Kom ingredienserne til marinaden i en skål og rør den godt sammen.</p><p>Pensl aubergine- og squashskiverne med den krydrede olieblanding og sigt derefter lidt hvedemel over. Varm en stor stegepande op med friture- eller stegeolie og friter aubergine- og squashskiverne, til de er gyldenbrune. Læg dem til afdrypning på fedtsugende papir.</p><p>Tør panden ren med køkkenrulle, kom lidt frisk olie på og sauter løgene, til de er bløde. Tilsæt ris, safran, paprika og hvidvin på stegepanden og rør det godt igennem i et par minutter.</p><p>Tilsæt grøntsagsbouillon, hvidløg, bladselleri, peberfrugt, hakkede tomater, tomatpuré og ærter og rør det godt igennem. Læg låg på og lad retten simre i 20-30 minutter, til risene er lige knap møre.</p><p>Fordel de friterede aubergine- og squashskiver over retten og lad den simre videre, til risene er perfekt møre. Smag til med salt, friskkværnet peber og drys med finthakket persille og citronskal lige inden servering.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/65. Vegetar paella.jpg",
+  "Keywords": [
+    "Vegetar",
+    "Spansk"
+  ]
+}

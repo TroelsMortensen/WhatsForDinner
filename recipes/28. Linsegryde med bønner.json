@@ -1,0 +1,158 @@
+{
+  "Id": 28,
+  "Title": "Linsegryde med bønner",
+  "SubHeader": null,
+  "TotalMinutes": 60,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "stødt kardemomme",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "knuste fennikelfrø",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "stødt koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "soltørrede tomater i olie",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "squash",
+          "PreparationNote": "groftrevet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "gulerødder",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "stængler",
+          "Name": "bladselleri",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 5.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "Le Puy delikatesselinser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kidneybønner",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "frisk spinat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "cremefraiche 18 %",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "i både"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sautér løg og hvidløg ved middelvarme i en gryde med olie, til løgene er bløde. Kom krydderier, soltørrede tomater, squash, gulerødder, bladselleri, hakkede tomater og grøntsagsbouillon i gryden, varm op til kogepunktet under omrøring. Læg låg på og skru ned for varmen til middelvarme og lad det simre svagt i 15 minutter.</p><p>Tilsæt linserne, læg låg på og lad retten simre videre i 45 minutter, til linserne er møre. Rør godt igennem nogle gange undervejs og suppler evt. med ekstra grøntsagsbouillon, hvis det er nødvendigt.</p><p>Rør kidneybønner og frisk spinat i gryderetten og varm det godt igennem i 5 minutter. Smag godt til med salt og peber. Server i dybe tallerkener med en skefuld cremefraiche, lidt chiliflager og limebåde til at dryppe over.</p>",
+  "Note": "Linsegryden kan holde sig i 2-3 dage i køleskabet, eller den kan fryses ned. Man kan derfor med fordel tilberede store portioner til de travlere dage. Den kan også tilberedes dagen i forvejen og skal så blot varmes op inden servering. Faktisk har den kun godt af at blive lavet i god tid, da den så kan trække ekstra god smag.",
+  "ImageUrl": "/images/recipe-images/28. Linsegryde med bønner.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

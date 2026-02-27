@@ -1,0 +1,141 @@
+{
+  "Id": 59,
+  "Title": "Sursød nudelsalat",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "ananasjuice",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "spskriseddike",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "spskketchup",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "spskbrun farin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "spskingefaer",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "spsksoja",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "spskmajsstivelse",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "NUDELSALAT",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "nudler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": null,
+          "Name": "gpillede edamamebonner",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "gulergdder",
+          "PreparationNote": "ijulienne"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": null,
+          "Name": "gspidskal",
+          "PreparationNote": "fintsnittet"
+        },
+        {
+          "Quantity": 125.0,
+          "Unit": null,
+          "Name": "gsukkercerter",
+          "PreparationNote": "snittet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "forarslog",
+          "PreparationNote": "fintsnittede"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "ananas,itern",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "avocado",
+          "PreparationNote": "iskiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld frisk koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": null,
+          "Name": "gsesamfro",
+          "PreparationNote": "ristede"
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "saltede peanuts",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Valdemarsro-vegetaraftensmad",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>INGREDIENSER</p><p>SURSOD SAUCE</p><p>SURSOD SAUCE</p><p>en smule. Lad det kole af i gryden.</p><p>NUDELSALAT</p><p>Kog nudler efter anvisning pa pakken. Kom edamame-</p><p>bonnerne i gryden til nudlerne i det sidste minut af</p><p>kogetiden. Haeld straks vandet fra og haeld iskoldt vand</p><p>over for at stoppe kogningen, sa nudlerne ikke klistrer</p><p>sammen.</p><p>Vend nudler og edamamebonner med halvdelen af</p><p>sursod saucen. Anret gulerodder og spidskali en skal</p><p>og fordel nudler og edamamebonner over. Fordel</p><p>sukkeraerter, forarslog, ananas, avocado og resten af</p><p>dressingen over. Drys med frisk koriander, sesamfro og</p><p>peanuts inden servering.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/59. Sursød nudelsalat.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

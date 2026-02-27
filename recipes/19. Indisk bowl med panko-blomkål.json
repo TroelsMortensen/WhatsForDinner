@@ -1,0 +1,186 @@
+{
+  "Id": 19,
+  "Title": "Indisk bowl med panko-blomkål",
+  "SubHeader": null,
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 45,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Panko-blomkål",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "æg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "mayonnaise",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 500.0,
+          "Unit": "g",
+          "Name": "blomkål",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "pankorasp",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "skyllede"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Krydret rispilaf",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "garam masala",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "basmatiris",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 5.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "bredbladet persille",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "smør til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Ananassalsa",
+      "Ingredients": [
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "ananas",
+          "PreparationNote": "i små tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "mynte",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "koriander",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "øko",
+          "Name": "lime",
+          "PreparationNote": "saft og fintrevet skal"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "rød chili",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "hvidløgsyoghurt",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Pisk æg, mayonnaise og halvdelen af den røgede paprika godt sammen i en skål. Bland pankorasp, salt og peber i en anden skål. Vend blomkålsbuketterne i æggeblandingen og derefter i pankoraspen. Fordel dem på en bageplade med bagepapir og bag dem i en forvarmet ovn ved 200 grader varmluft i ca. 10 minutter. Vend kikærterne i olie og derefter i resten af paprikaen og læg dem ved siden af blomkålene. Læg også de hele hvidløgsfed til dressingen på bagepladen og bag videre i ca. 20 minutter, til blomkålen er sprød udenpå og mør indeni.</p><p>Smelt smørret på en pande og sautér løg, ingefær, hvidløg, spidskommen og garam masala, til løgene er bløde. Tilsæt ris og rør det godt igennem i et par minutter. Tilsæt grøntsagsbouillon, læg låg på og lad det simre ved svag varme i 10 minutter. Sluk for varmen og lad risene hvile i gryden med låg på i yderligere 10 minutter. Vend derefter finthakket persille i.</p><p>Vend ananas og krydderurter sammen i en skål. Smag til med limesaft, limeskal, finthakket chili, salt og peber og rør det godt sammen.</p><p>Fordel rispilaffen i skåle og anret med de sprøde blomkål og kikærter, top med ananassalsa og hvidløgsyoghurt.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/19. Indisk bowl med panko-blomkål.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

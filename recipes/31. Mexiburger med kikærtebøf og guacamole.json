@@ -1,0 +1,140 @@
+{
+  "Id": 31,
+  "Title": "Mexiburger med kikærtebøf og guacamole",
+  "SubHeader": null,
+  "TotalMinutes": 60,
+  "MinutesOfPreparation": 45,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "æg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 40.0,
+          "Unit": "g",
+          "Name": "hvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "nachos",
+          "PreparationNote": "knuste"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "skiver",
+          "Name": "cheddarost",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til pensling",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "burgerboller",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 30.0,
+          "Unit": "g",
+          "Name": "mayonnaise",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "sriracha chilisauce",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "salat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 30.0,
+          "Unit": "g",
+          "Name": "jalapenos",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "nachos",
+          "PreparationNote": "knuste"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "tomater",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "frisk koriander",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom alle ingredienserne, undtagen nachos og ost, i en foodprocessor og kør kortvarigt på pulsfunktion, til kikærterne er grofthakkede og farsen er godt blandet. Lad farsen trække i 30 minutter på køl.</p><p>Form bøfferne, vend dem i knuste nachos og læg dem på en bageplade med bagepapir. Pensl med olie og bag kikærtebøfferne i en forvarmet ovn ved 190 grader varmluft i ca. 25 minutter, til de er sprøde og gyldne i kanterne. Læg en skive cheddar på hver bøf og bag videre i 4-5 minutter, til osten er smeltet.</p><p>Lun burgerbollerne i ovnen og smør dem med mayonnaise og sriracha. Fyld med salat, kikærtebøffer med cheddar, guacamole, jalapenos, lidt nachos, tomater og frisk koriander.</p>",
+  "Note": "Vær opmærksom på, at farsen til kikærtebøfferne ikke skal køres helt fint, da konsistensen så bliver som hummus og bliver svær at forme til bøffer. Kikærterne skal blot være grofthakkede.",
+  "ImageUrl": "/images/recipe-images/31. Mexiburger med kikærtebøf og guacamole.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

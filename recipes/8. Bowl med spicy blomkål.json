@@ -1,0 +1,163 @@
+{
+  "Id": 8,
+  "Title": "Bowl med spicy blomkål",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Hvidløgris",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 5.0,
+          "Unit": "dl",
+          "Name": "vand",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "basmatiris",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "persille",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Spicy blomkål",
+      "Ingredients": [
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "blomkål",
+          "PreparationNote": "i buketter"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "røget paprika",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt gurkemeje",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": "efter smag"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "pressede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Ingefær- og limedressing",
+      "Ingredients": [
+        {
+          "Quantity": 30.0,
+          "Unit": "g",
+          "Name": "mayonnaise",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "cremefraiche 18 %",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "presset"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "øko lime",
+          "PreparationNote": "saft og fintrevet skal"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en gryde op med olie og sautér hvidløgene ved middel-lav varme, til det dufter. Tilsæt vand, basmatiris og salt. Rør det godt igennem, læg låg på gryden og lad det koge op. Kog ved svag varme i 10 minutter. Tag gryden af varmen og lad derefter risene hvile i yderligere 10 minutter i gryden med låget på. Vend finthakket persille i risene lige inden servering.</p><p>Vend blomkålsbuketterne og kikærter med olie og vend dem derefter godt i krydderierne. Fordel dem på en bradepande med løg og hvidløg og bag dem i en forvarmet ovn ved 180 grader varmluft i 15-20 minutter, til blomkålen er mør og saftig.</p><p>Rør mayonnaise og cremefraiche sammen i en skål med hvidløg, ingefær og smag til med limesaft, limeskal, salt og peber.</p><p>Rist sesamfrøene på en tør varm pande. Anret risene i dybe tallerkener, top med babyspinat, mango, spicy blomkål med kikærter og fordel dressingen over. Drys til sidst med sesamfrø, forårsløg, chiliflager og persille.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/8. Bowl med spicy blomkål.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

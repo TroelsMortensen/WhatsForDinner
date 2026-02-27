@@ -1,0 +1,112 @@
+{
+  "Id": 42,
+  "Title": "One Pot kylling og kikærter i karry",
+  "SubHeader": "Curry in a hurry, som den gode Henrik Yde ville sige det.",
+  "TotalMinutes": 20,
+  "MinutesOfPreparation": 20,
+  "NumberOfPersons": null,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 800.0,
+          "Unit": "g",
+          "Name": "kyllingebryst",
+          "PreparationNote": "i grove stykker"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "lidt rapsolie",
+          "PreparationNote": "til stegning"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "spsk",
+          "Name": "gul karrypasta",
+          "PreparationNote": "eller 1 spsk god gul tørret karry"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "terning",
+          "Name": "hønse- eller grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "hakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "dåser kikærter",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "dl",
+          "Name": "kikærtevand fra dåsen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kokosmælk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "blomkål",
+          "PreparationNote": "i buketter"
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "grønkål",
+          "PreparationNote": "skyllet og plukket groft, stilke hakket for sig"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "bundter",
+          "Name": "forårsløg",
+          "PreparationNote": "skåret i grove stykker på skrå"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "saften"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "raita og evt. naanbrød",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>I gryden</h2><p>Steg kyllingen af i olie. Når den har taget farve, tilsættes karry, og det lunes hurtigt igennem.</p><p>Tilsæt bouillon, hvidløg, kikærter, kikærtevand og kokosmælk, og lad det simre i 8 minutter.</p><p>Tilsæt så blomkål, grønkål og forårsløg, og lad det simre videre i 3-4 minutter.</p><p>Smag til med limesaft, salt og peber, og server med raita.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/42. One Pot kylling og kikærter i karry.jpg",
+  "Keywords": [
+    "One Pot",
+    "Kylling",
+    "Kikærter"
+  ]
+}

@@ -1,0 +1,152 @@
+{
+  "Id": 21,
+  "Title": "Karry-nudelsuppe med sprøde kikærter",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Krydrede kikærter med teriyaki-sauce",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "sesamfrø",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "sukker",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "teriyaki",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "saft"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Karry-nudelsuppe",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "ingefær",
+          "PreparationNote": "fintrevet"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "rød karrypasta",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": "ml",
+          "Name": "kokosmælk",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 7.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "spsk",
+          "Name": "teriyaki-sauce",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "spsk",
+          "Name": "peanutbutter",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "broccoli",
+          "PreparationNote": "i små buketter"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "babyspinat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "nudler",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "frisk koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "lime",
+          "PreparationNote": "i både"
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom kikærterne på en bageplade med bagepapir og vend dem i olie. Bag i en forvarmet ovn ved 180 grader varmluft i 15 minutter.</p><p>Rør sesamfrø, sukker, teriyaki og limesaft sammen i en skål. Tag kikærterne ud af ovnen og vend marinaden med kikærterne, så de er godt dækket. Sæt bagepladen tilbage i ovnen og bag videre i ca. 10 minutter, til marinaden samler sig om kikærterne og tykner lidt.</p><p>Sautér løg og ingefær i en gryde med olie ved middelvarme, til løgene er bløde. Kom karrypasta i og rør det godt sammen i ca. 1 minut. Tilsæt kokosmælk, grøntsagsbouillon, teriyaki-sauce og peanutbutter. Kog det op og lad det simre i ca. 5 minutter. Kom broccoli, spinat og nudler i gryden og kog det op igen. Lad det simre, til nudlerne er perfekt møre.</p><p>Smag til med limesaft og server nudelsuppen i skåle og anret med de sprøde kikærter, chiliflager, koriander og lime til at dryppe over.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/21. Karry-nudelsuppe med sprøde kikærter.jpg",
+  "Keywords": [
+    "Suppe",
+    "Vegetar"
+  ]
+}

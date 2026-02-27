@@ -1,0 +1,118 @@
+{
+  "Id": 44,
+  "Title": "One Pot middelhavsratatouille og kikærter",
+  "SubHeader": "Som ret i sig selv og som mega nemt tilbehør til stegt kød.",
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": null,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "aubergine",
+          "PreparationNote": "skåret i tern, let saltet og afdryppet i 30 minutter"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "rødløg",
+          "PreparationNote": "hakket"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "søde røde peberfrugter",
+          "PreparationNote": "skåret i tern, evt. snackpeber"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "bøftomater",
+          "PreparationNote": "eller en masse blommetomater, skåret i tern"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dusk",
+          "Name": "timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "stilk",
+          "Name": "frisk rosmarin",
+          "PreparationNote": "plukket af stilken"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "paprika",
+          "PreparationNote": "gerne stærk, hvis du har"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "rødvin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "dåser kikærter",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "kikærtevand fra dåsen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og peber",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 300.0,
+          "Unit": "g",
+          "Name": "savojkål",
+          "PreparationNote": "skåret i grove strimler"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olivenolie til stegning",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Pynt",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olivenmix og cremefraiche 38 %",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>I gryden</h2><p>Steg auberginen gylden i rigeligt olivenolie.</p><p>Tilsæt løg, hvidløg, peberfrugt, tomater, krydderier og timian, og steg med i 3-4 minutter.</p><p>Sæt ild til rødvinen.</p><p>Hæld kikærter og kikærtevand i gryden.</p><p>Vend det rundt, og giv det lidt salt og peber.</p><p>Læg kålen på toppen, og lad det simre i 15 minutter.</p><p>Serveres evt. med olivenmix og en klat fed cremefraiche.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/44. One Pot middelhavsratatouille og kikærter.jpg",
+  "Keywords": [
+    "One Pot",
+    "Vegetar",
+    "Kikærter"
+  ]
+}

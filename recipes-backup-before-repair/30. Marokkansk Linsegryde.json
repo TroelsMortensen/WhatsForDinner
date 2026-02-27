@@ -1,0 +1,158 @@
+{
+  "Id": 30,
+  "Title": "Marokkansk linsegryde",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "fedhvidlog",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "spskhvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "knivspidssafran",
+          "PreparationNote": "stodt"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskstodtkoriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskkanel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "knivspidsstodt nellike",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "tskstodtspidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": null,
+          "Name": "gLePuydelikatesselinser",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 400.0,
+          "Unit": null,
+          "Name": "ghakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "dl",
+          "Name": "grontsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 30.0,
+          "Unit": null,
+          "Name": "gdadler",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 40.0,
+          "Unit": null,
+          "Name": "gtorrede abrikoser",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "dasekikcerter og skyllede",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": null,
+          "Name": "gcashewngdder",
+          "PreparationNote": "grofthakkede"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Vz oko citron,saft og lidt fintrevet",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "skal",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvoernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "basmatiris",
+          "PreparationNote": "kogte"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld frisk koriander",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "handfuld frisk mynte",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter log og hvidlogi en gryde med olie ved middel-</p><p>varme, til logene er blode. Ror alle krydderierne sam-</p><p>men med hvedemel, salt og peber.Ror blandingeni gry</p><p>den til logene og ror det godt sammen. Tilsaet derefter</p><p>linser, tomater,grontsagsbouillon, dadler og abrikoser.</p><p>Kog det langsomt op til kogepunktet og laeg lag pa.</p><p>Lad det simre ved lav-middelvarmei25-30 minutter,</p><p>til linserne er more. Tilsaet kikaerter og halvdelen af de</p><p>finthakkede cashewnodder.Varm linsegryden godt</p><p>igennem og smag til med citronsaft og citronskal samt</p><p>salt og friskkvaernet peber.Server med ris, krydderurter</p><p>og resten af cashewnodderne drysset over.</p><p>★ Safran giver den dejligste smag til retter som denne.</p><p>Parfumeret og helt saerlig. Du kan undlade, men det</p><p>er blot en knivspids, der skal bruges, og jeg vil varmt</p><p>anbefale at komme detiretten.</p><p>Gryderette</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/30. Marokkansk linsegryde.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

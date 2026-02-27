@@ -1,0 +1,130 @@
+{
+  "Id": 66,
+  "Title": "Bagt pasta bolognese",
+  "SubHeader": null,
+  "TotalMinutes": 75,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 2,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 25.0,
+          "Unit": "g",
+          "Name": "bacon",
+          "PreparationNote": "skåret i tynde skiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 1.5,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "oregano, tørret",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "timian, tørret",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "hakket oksekød",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåser",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "stængler",
+          "Name": "bladselleri",
+          "PreparationNote": "groftrevet"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "squash",
+          "PreparationNote": "groftrevet"
+        },
+        {
+          "Quantity": 1.5,
+          "Unit": "spsk",
+          "Name": "tomatpuré",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "spsk",
+          "Name": "rød balsamico",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "pasta penne",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 125.0,
+          "Unit": "g",
+          "Name": "frisk mozzarella",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 37.5,
+          "Unit": "g",
+          "Name": "parmesan",
+          "PreparationNote": "friskrevet"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "olivenolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "sort peber, friskkværnet",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Steg bacon i en stor gryde i olivenolie på begge sider til de er sprøde. Lad dem dryppe af på et stykke køkkenrulle.</p><p>Kom løg, hvidløg, oregano og timian i den store gryde og steg det under omrøring til løgene er bløde og klare. Tilsæt derefter oksekød og brun det af under omrøring.</p><p>Kom hakkede tomater, bladselleri, squash, tomatpuré og rød balsamico i saucen og lad det koge op.</p><p>Skær den ristede baconen i små terninger og kom den tilbage i gryden til saucen. Smag til med salt og peber og kom derefter grøntsagsbouillon og pasta i gryden. Rør det godt sammen, så det hele bliver godt gennemvarmet. Læg låg på gryden og lad det simre under låg i 5 minutter.</p><p>Kom halvdelen af saucen i et stort smurt ovnfast fad, drys med halvdelen af parmesanen riv den ene kugle mozzarella i stykker og fordel over. Kom resten af bolognese og pastablandingen over. Afslut med det sidste parmesan og friskrevet mozzarella.</p><p>Bag i en forvarmet ovn ved 175 grader varmluft i cirka 30 minutter eller til pastaen er al dente. Lad den sætte sig i 5-10 minutter inden servering.</p>",
+  "Note": "Holdbarhed: 2 dage. Kan fryses: Ja.",
+  "ImageUrl": null,
+  "Keywords": [
+    "Pasta",
+    "Oksekød"
+  ]
+}

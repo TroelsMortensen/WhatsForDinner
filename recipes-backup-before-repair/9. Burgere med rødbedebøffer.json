@@ -1,0 +1,134 @@
+{
+  "Id": 9,
+  "Title": "Burgere med rødbedebøffer",
+  "SubHeader": null,
+  "TotalMinutes": 1,
+  "MinutesOfPreparation": 1,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "RODBEDEBOFFER",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": null,
+          "Name": "grodbeder",
+          "PreparationNote": "groftrevne"
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": null,
+          "Name": "ghavregryn",
+          "PreparationNote": "finvalsede"
+        },
+        {
+          "Quantity": 25.0,
+          "Unit": null,
+          "Name": "ghvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "log",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidlog",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 202.0,
+          "Unit": "g",
+          "Name": "",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "dijonsennep",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "skivercheddarost",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "spsk",
+          "Name": "olivenolie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt ogfriskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 4.0,
+          "Unit": null,
+          "Name": "burgerboller",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "spskmayonnaise",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 125.0,
+          "Unit": null,
+          "Name": "gblandetsalat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "avocado",
+          "PreparationNote": "iskiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rodlog",
+          "PreparationNote": "iringe"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "V2agurk,iskiver",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Valdemarsro-vegetar aftensmad",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>RODBEDEBOFFER</p><p>Kom rodbede, havregryn, hvedemel, log og hvidlogi</p><p>og smag til med salt og peber.Juster evt.konsistensen</p><p>med lidt ekstra havregryn eller hvedemel, til rodbede-</p><p>bofferne er nemme at forme.</p><p>Form bofferne og laeg dem pa en bradepande med</p><p>bagepapir.Dryp lidt olie over og bag dem ien for-</p><p>varmet ovn ved 200 grader varmluft ica.10 minutter.</p><p>Vend bofferne og bag dem iyderligere 5 minutter pa</p><p>den anden side. Kom en skive cheddar pa hver bof og</p><p>bag i yderligere 1 minut, til osten akkurat er smeltet.</p><p>Skaer burgerbollerne op og lun dem i ovnen. Smor</p><p>med mayonnaise og saml vegetarburgeren med salat,</p><p>avocado, log,agurk og rodbedeboffen.</p><p>afvaeden fraien sigte.Saet et glas under sigten,sa den</p><p>saft, der drypper af kan nydes som en dejlig vitamin-</p><p>juice.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/9. Burgere med rødbedebøffer.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

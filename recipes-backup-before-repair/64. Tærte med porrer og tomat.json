@@ -1,0 +1,111 @@
+{
+  "Id": 64,
+  "Title": "Tærte med porrer og tomat",
+  "SubHeader": null,
+  "TotalMinutes": 120,
+  "MinutesOfPreparation": 10,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "GROV TAERTEDEJ",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": null,
+          "Name": "gfuldkornshvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 125.0,
+          "Unit": null,
+          "Name": "ghvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": null,
+          "Name": "gsmor",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "spskvand",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "salt",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "TARTEFYLD",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 502.0,
+          "Unit": "g",
+          "Name": "",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "hytteost",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "Vztsktorret rosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": null,
+          "Name": "gsoltorredetomateriolie",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "porrer",
+          "PreparationNote": "iringe"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "feta",
+          "PreparationNote": "smuldret"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": null,
+          "Name": "gcherrytomater",
+          "PreparationNote": "ihalve"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkvcernet peber",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>INGREDIENSER</p><p>ien foodprocessor. Saml dejen med vand og lad den</p><p>gerne hvile pa koli30 minutter.</p><p>Tryk dejen ud i en smurt taerteform pa 27 cm i diameter</p><p>og prik hulleri dejen med en gaffel. Forbag dejen ien</p><p>forvarmet ovn ved 175 grader varmluft i10minutter,</p><p>hvorefter den er klar til at blive fyldt og bagt faerdigt</p><p>TERTEFYLD</p><p>Kom aeg, hytteost, rosmarin, salt og peberien skal og</p><p>pisk det godt sammen. Ror soltorrede tomater,porrer</p><p>finthakkede</p><p>aeggemassen erstivnet.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/64. Tærte med porrer og tomat.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

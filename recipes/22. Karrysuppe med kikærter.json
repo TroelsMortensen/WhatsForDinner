@@ -1,0 +1,141 @@
+{
+  "Id": 22,
+  "Title": "Karrysuppe med kikærter",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "karry",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": null,
+          "Name": "porrer",
+          "PreparationNote": "i tynde skiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "broccoli",
+          "PreparationNote": "i buketter"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "dåse",
+          "Name": "kikærter",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "rød peberfrugt",
+          "PreparationNote": "i tern"
+        },
+        {
+          "Quantity": 8.0,
+          "Unit": "dl",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "majsstivelse",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 2.5,
+          "Unit": "dl",
+          "Name": "piskefløde",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "cherrytomater",
+          "PreparationNote": "i kvarte"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        {
+          "Quantity": 3.0,
+          "Unit": "dl",
+          "Name": "basmatiris",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 250.0,
+          "Unit": "g",
+          "Name": "halloumi",
+          "PreparationNote": "i skiver"
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "håndfuld",
+          "Name": "bredbladet persille",
+          "PreparationNote": "grofthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olivenolie til stegning",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en stor gryde op ved middelvarme, kom karry og spidskommen i gryden og rør i ca. 1 minut, til det dufter dejligt.</p><p>Kom olie, løg, hvidløg og porrer i gryden til krydderierne og sautér, til løgene er bløde. Kom broccoli, kikærter, peberfrugt og grøntsagsbouillon i gryden. Rør majsstivelse sammen med piskefløde og rør det i suppen. Kog suppen op under omrøring i nogle minutter. Skru ned til lav varme, kom tomaterne i suppen og læg låg på, så suppen holder sig varm. Smag karrysuppen godt til med salt og friskkværnet peber.</p><p>Kog ris efter anvisning på pakken. Rist halloumi på en pande med lidt olie, til halloumi-skiverne har en smuk gylden stegeskorpe.</p><p>Server i dybe tallerkener med ris, halloumi, chiliflager og et drys persille.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/22. Karrysuppe med kikærter.jpg",
+  "Keywords": [
+    "Suppe",
+    "Vegetar"
+  ]
+}

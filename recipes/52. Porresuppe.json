@@ -1,0 +1,99 @@
+{
+  "Id": 52,
+  "Title": "Porresuppe",
+  "SubHeader": null,
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 20,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        {
+          "Quantity": 500.0,
+          "Unit": "g",
+          "Name": "porrer",
+          "PreparationNote": "i ringe"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "tsk",
+          "Name": "tørret timian",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "dåse grønne linser",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 1.5,
+          "Unit": "l",
+          "Name": "grøntsagsbouillon",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 75.0,
+          "Unit": "g",
+          "Name": "hvidløgsflødeost",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": null,
+          "Name": "øko citron",
+          "PreparationNote": "lidt saft og fintrevet skal"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Servering",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": "dl",
+          "Name": "cremefraiche 18 %",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "håndfuld purløg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 4.0,
+          "Unit": "skiver",
+          "Name": "ristet rugbrød",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en gryde op med olie og sautér porrer og hvidløg, til porrerne er blevet bløde. Tilsæt timian, linser og grøntsagsbouillon. Læg låg på og lad det simre i 15 minutter.</p><p>Blend suppen med hvidløgsflødeost og smag godt til med lidt citronsaft, fintrevet citronskal, salt og peber.</p><p>Server i dybe tallerkener med en klat cremefraiche, purløg og ristet rugbrød.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/52. Porresuppe.jpg",
+  "Keywords": [
+    "Suppe",
+    "Vegetar"
+  ]
+}

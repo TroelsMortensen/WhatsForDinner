@@ -1,0 +1,111 @@
+{
+  "Id": 53,
+  "Title": "Quesadillas med stegte bønner og cheddar",
+  "SubHeader": "Her tilføjer jeg lidt hakkede tomater til mine refried beans, stegte bønner. Det er ikke helt traditionelt, men giver en god og saftig smag til de sprøde quesadillas.",
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Stegte bønner med tomater",
+      "Ingredients": [
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "løg",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": 2.0,
+          "Unit": "fed",
+          "Name": "hvidløg",
+          "PreparationNote": "fintrevne"
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "chiliflager",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "stødt spidskommen",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": "tsk",
+          "Name": "tørret oregano",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "dåse sorte bønner",
+          "PreparationNote": "drænede og skyllede"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "hakkede tomater",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Derudover",
+      "Ingredients": [
+        {
+          "Quantity": 8.0,
+          "Unit": null,
+          "Name": "tortillas",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "cheddar",
+          "PreparationNote": "friskrevet"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "babyspinat",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 1.0,
+          "Unit": null,
+          "Name": "håndfuld frisk koriander",
+          "PreparationNote": "finthakket"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "olie til stegning",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p><strong>Stegte bønner med tomater:</strong> Sautér løg i en gryde med olie, til de er bløde. Tilsæt hvidløg, chiliflager, spidskommen og oregano sammen med de sorte bønner og hakkede tomater og rør det godt sammen i nogle minutter. Varm op, til det simrer og koger lidt ind.</p><p>Blend hurtigt med en stavblender i gryden, til bønnerne er grofthakkede. Smag godt til med salt og peber.</p><p>Fordel de stegte bønner på halvdelen af hver tortilla, drys med cheddar, spinat og frisk koriander. Luk den anden halvdel over og steg dem på en varm pande med lidt olie i 2-3 minutter på hver side, til de er gyldne og sprøde.</p><p>Server straks.</p>",
+  "Note": "Til de stegte bønner kan man bruge sorte bønner eller kidneybønner, og de stegte bønner kan holde sig 2-3 dage i køleskabet, så man kan fint lave en større portion og spise det til en bowl eller som dip eller tilbehør til andre retter.",
+  "ImageUrl": "/images/recipe-images/53. Quesadillas med stegt bønner og cheddar.jpg",
+  "Keywords": [
+    "Vegetar",
+    "Tex Mex"
+  ]
+}

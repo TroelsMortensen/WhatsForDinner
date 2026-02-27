@@ -1,0 +1,33 @@
+{
+  "Id": 72,
+  "Title": "Fyldt serranokylling med pastasalat",
+  "SubHeader": "Serranokylling fyldt med feta og pesto og dertil pastasalat med dressing",
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 3,
+  "RecipeGroups": [
+    {
+      "Title": "Kylling",
+      "Ingredients": [
+        { "Quantity": 0.5, "Unit": "pk", "Name": "fetaost", "PreparationNote": null },
+        { "Quantity": 3, "Unit": null, "Name": "kyllingebrystfileter", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "bøtte", "Name": "persillepesto", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "skiver", "Name": "serranoskinke", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Pastasalat",
+      "Ingredients": [
+        { "Quantity": 300, "Unit": "g", "Name": "pasta fusilli", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "bakke", "Name": "cherrytomater", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": null, "Name": "agurk", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "pose", "Name": "vinaigrette", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 200 grader alm. ovn og find en bagerist frem.</p><h3>Kylling</h3><p>Smuldre feta groft. Lav et dybt snit i kyllingebrystfileterne fra siden uden at skære helt igennem, fordel feta og pesto i lommerne og luk kyllingebrystfileterne sammen. Vikl skinken omkring de fyldte kyllingebryster og læg dem i et ovnfast fad. Steg kyllingen i ovnen i ca. 20-25 min., til fileterne er gennemstegte.</p><h3>Pastasalat</h3><p>Kog pasta i letsaltet vand efter pakkens anvisning, til den er al dente. Hæld vandet fra, skyl pastaen i koldt vand og lad den dryppe af i en si. Skyl grøntsager. Halvér cherrytomater og skær agurk i tern. Vend pastaen sammen med cherrytomater, agurk og vinaigrette.</p><p>Nyd pastasalat med serranokylling.</p>",
+  "Note": "Du skal have: Salt. Du skal bruge: Kniv, skærebræt, ovnfast fad, gryde, si, skåle, røreskeer.",
+  "ImageUrl": null,
+  "Keywords": ["Kylling", "Pasta"]
+}

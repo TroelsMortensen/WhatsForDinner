@@ -1,0 +1,104 @@
+{
+  "Id": 64,
+  "Title": "Tærte med porrer og tomat",
+  "SubHeader": null,
+  "TotalMinutes": 90,
+  "MinutesOfPreparation": 45,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Grov tærtedej",
+      "Ingredients": [
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "fuldkornshvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 125.0,
+          "Unit": "g",
+          "Name": "hvedemel",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "smør",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": "spsk",
+          "Name": "vand",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "salt",
+          "PreparationNote": null
+        }
+      ]
+    },
+    {
+      "Title": "Tærtefyld",
+      "Ingredients": [
+        {
+          "Quantity": 5.0,
+          "Unit": null,
+          "Name": "æg",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 200.0,
+          "Unit": "g",
+          "Name": "hytteost",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 0.5,
+          "Unit": "tsk",
+          "Name": "tørret rosmarin",
+          "PreparationNote": null
+        },
+        {
+          "Quantity": 50.0,
+          "Unit": "g",
+          "Name": "soltørrede tomater i olie",
+          "PreparationNote": "finthakkede"
+        },
+        {
+          "Quantity": 3.0,
+          "Unit": null,
+          "Name": "porrer",
+          "PreparationNote": "i ringe"
+        },
+        {
+          "Quantity": 100.0,
+          "Unit": "g",
+          "Name": "feta",
+          "PreparationNote": "smuldret"
+        },
+        {
+          "Quantity": 150.0,
+          "Unit": "g",
+          "Name": "cherrytomater",
+          "PreparationNote": "i halve"
+        },
+        {
+          "Quantity": null,
+          "Unit": null,
+          "Name": "salt og friskkværnet peber",
+          "PreparationNote": null
+        }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Bland fuldkornsmel, hvedemel og salt i en skål og smuldr smørret i melblandingen. Du kan også køre det i en foodprocessor. Saml dejen med vand og lad den gerne hvile på køl i 30 minutter.</p><p>Tryk dejen ud i en smurt tærteform på 27 cm i diameter og prik huller i dejen med en gaffel. Forbag dejen i en forvarmet ovn ved 175 grader varmluft i 10 minutter, hvorefter den er klar til at blive fyldt og bagt færdigt.</p><p><strong>Tærtefyld:</strong> Kom æg, hytteost, rosmarin, salt og peber i en skål og pisk det godt sammen. Rør soltørrede tomater, porrer og halvdelen af fetaosten i æggemassen og kom den i tærtedejen. Fordel de halve cherrytomater i tærten og smuldr resten af fetaosten over. Bag tærten i ca. 35 minutter i en forvarmet ovn ved 175 grader varmluft, til æggemassen er stivnet.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/64. Tærte med porrer og tomat.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}

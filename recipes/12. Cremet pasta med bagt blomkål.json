@@ -1,0 +1,46 @@
+{
+  "Id": 12,
+  "Title": "Cremet pasta med bagt blomkål",
+  "SubHeader": "Bagt blomkål er noget af det lækreste! Her serveret med en cremet pasta alla cacio e pepe.",
+  "TotalMinutes": 45,
+  "MinutesOfPreparation": 30,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Bagt blomkål",
+      "Ingredients": [
+        { "Quantity": 1.0, "Unit": null, "Name": "blomkål", "PreparationNote": "i skiver" },
+        { "Quantity": 1.0, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+        { "Quantity": 50.0, "Unit": "g", "Name": "pankorasp", "PreparationNote": null },
+        { "Quantity": 50.0, "Unit": "g", "Name": "vesterhavsost eller parmesan", "PreparationNote": "friskrevet" },
+        { "Quantity": 1.0, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "tsk", "Name": "tørret rosmarin", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": null, "Name": "øko citron", "PreparationNote": "fintrevet skal" },
+        { "Quantity": 25.0, "Unit": "g", "Name": "smeltet smør", "PreparationNote": null },
+        { "Quantity": 1.0, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Cremet pasta",
+      "Ingredients": [
+        { "Quantity": 400.0, "Unit": "g", "Name": "spaghetti", "PreparationNote": null },
+        { "Quantity": 40.0, "Unit": "g", "Name": "smør", "PreparationNote": null },
+        { "Quantity": 100.0, "Unit": "g", "Name": "vesterhavsost eller parmesan", "PreparationNote": "friskrevet" },
+        { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        { "Quantity": 70.0, "Unit": "g", "Name": "rucola", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Kom blomkål og løg i et smurt ovnfast fad, dryp olivenolie over. Kom pankorasp, ost, timian, rosmarin og citronskal i en skål og vend det godt sammen med smeltet smør. Fordel det over blomkålen og bag det i en forvarmet ovn ved 200 grader varmluft i 20 minutter.</p><p>Kog imens pastaen i en stor gryde med letsaltet vand. Pastaen skal ikke være færdigtilberedt, men skal koges ca. 2 minutter mindre end angivet på pakken. Hæld vandet fra pastaen og gem noget af kogevandet i en skål.</p><p>Varm en pande op med smør og lad det bruse af. Kværn godt med peber henover og hæld et par dl af kogevandet fra pastaen på panden et par minutter, inden pastaen er færdig. Skru op for varmen, kom ost over, rør, til det smelter, og kom derefter pastaen på panden. Lad pastaen tilberede færdig i den cremede sauce og tilsæt evt. ekstra pastavand, hvis saucen skal være mere cremet. Smag godt til med salt og peber.</p><p>Riv blomkålen lidt fra hinanden med to gafler og vend det i den cremede pasta. Server straks den dampende varme pastaret med et drys rucola.</p>",
+  "Note": "",
+  "ImageUrl": "/images/recipe-images/12. Cremet pasta med bagt blomkål.jpg",
+  "Keywords": [
+    "Vegetar"
+  ]
+}
