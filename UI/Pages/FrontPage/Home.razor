@@ -7,7 +7,7 @@
 
     <div class="home-content">
         <aside class="frontpage-image-block">
-            <img src="/images/Frontpage.png" alt="Familie som planlægger ugens mad" />
+            <img src="images/Frontpage.png" alt="Familie som planlægger ugens mad" />
         </aside>
 
         <div class="home-sections">
@@ -31,7 +31,7 @@
                             <ul class="weekly-plan-list">
                                 @foreach (var recipe in WeeklyPlanItems)
                                 {
-                                    <li><a href="/recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
+                                    <li><a href="recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
                                 }
                             </ul>
                         }
@@ -66,7 +66,7 @@
                             <ul class="recipe-list">
                                 @foreach (var recipe in RecipeItems)
                                 {
-                                    <li><a href="/recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
+                                    <li><a href="recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
                                 }
                             </ul>
                         }
