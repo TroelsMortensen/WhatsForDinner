@@ -1,0 +1,39 @@
+{
+  "Id": 82,
+  "Title": "Kødspyd og råkostsalat",
+  "SubHeader": "Grillede kødspyd af hakket oksekød med krydderier og frisk råkostsalat af kål, æbler og gulerødder.",
+  "TotalMinutes": 15,
+  "MinutesOfPreparation": 15,
+  "NumberOfPersons": 4,
+  "RecipeGroups": [
+    {
+      "Title": "Kødspyd",
+      "Ingredients": [
+        { "Quantity": 400, "Unit": "g", "Name": "hakket oksekød 3-7%", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "spsk", "Name": "finthakket løg", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "spidskommen", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+        { "Quantity": 10, "Unit": null, "Name": "grillspyd", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Råkostsalat",
+      "Ingredients": [
+        { "Quantity": 400, "Unit": "g", "Name": "hvidkål eller spidskål", "PreparationNote": null },
+        { "Quantity": 4, "Unit": null, "Name": "æbler", "PreparationNote": null },
+        { "Quantity": 4, "Unit": null, "Name": "gulerødder, store", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "spsk", "Name": "citronsaft", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "spsk", "Name": "æblemost", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "spsk", "Name": "koldtpresset rapsolie", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "bunke", "Name": "purløg", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Pil og hak løget fint. Ælt kød, løg og krydderier sammen. Form farsen til små aflange kødboller og sæt dem på spyd. Steg dem i olien i ca. 2 minutter på hver side (ca. 8 minutter i alt).</p><p>Rens og skyl kål og æbler og skræl gulerødderne. Skær det hele i grove stykker. Kør kålen i en foodprocessor i 10 sekunder, til den er grofthakket, og kom den i en skål. Kør æble og gulerod tilsat citronsaft, æblemost og olie i foodprocessoren i 10 sekunder. Bland det hele sammen i en skål og vend klippet purløg i. Smag til med salt og peber.</p><p>Server råkostsalaten sammen med spyddene.</p>",
+  "Note": "Opskrift af: Pia Andreassen. Opskriften er fra bogen 'Protein' af Pia Andreassen, udgivet på Politikens Forlag.",
+  "ImageUrl": "images/recipe-images/82. Kødspyd og råkostsalat.jpg",
+  "Keywords": ["Oksekød"]
+}

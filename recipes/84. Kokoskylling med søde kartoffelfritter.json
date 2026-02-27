@@ -1,0 +1,51 @@
+{
+  "Id": 84,
+  "Title": "Kokoskylling med søde kartoffelfritter",
+  "SubHeader": "Sprød kokospaneret kylling med søde kartoffelfritter og frisk salat",
+  "TotalMinutes": 35,
+  "MinutesOfPreparation": 35,
+  "NumberOfPersons": 2,
+  "RecipeGroups": [
+    {
+      "Title": "Søde kartoffelfritter",
+      "Ingredients": [
+        { "Quantity": 1, "Unit": "bakke", "Name": "søde kartofler", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Kokoskylling",
+      "Ingredients": [
+        { "Quantity": 2, "Unit": null, "Name": "kyllingebrystfileter", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "dl", "Name": "hvedemel", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "mælk", "PreparationNote": "en sjat" },
+        { "Quantity": 2, "Unit": "pose", "Name": "kokosmel", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Salat",
+      "Ingredients": [
+        { "Quantity": 0.5, "Unit": "pose", "Name": "salatmix", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": null, "Name": "pære", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "avocado", "PreparationNote": null },
+        { "Quantity": 0.25, "Unit": "pose", "Name": "vinaigrette", "PreparationNote": null },
+        { "Quantity": 0.5, "Unit": "pose", "Name": "mandler m. salt", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Aioli",
+      "Ingredients": [
+        { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "pose", "Name": "mayonnaise", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 180 grader alm. ovn og klargør en bageplade med bagepapir.</p><h3>Søde kartoffelfritter</h3><p>Skyl og skræl søde kartofler. Skær i tynde fritter. Fordel fritterne på bagepladen og vend med olie. Krydr med salt og peber. Bag kartoffelfritterne i ovnen i ca. 30-35 min., til de er gyldne.</p><h3>Kokoskylling</h3><p>Skær kyllingefileter i lange strimler, ca. 5 strimler pr. bryst. Lav 3 dybe tallerkener klar til panering: 1 med hvedemel, 1 med sammenpisket æg og en lille sjat mælk og 1 med kokosmel, krydret med salt og peber. Vend først kyllingestrimlerne i hvedemel, så i æg og til sidst i kokosmel. Varm en pande op med en god sjat olie og steg kyllingen til den er gylden på alle sider i ca. 10 min. i alt.</p><h3>Salat</h3><p>Skyl salat og lad det dryppe af i en si. Skyl pære og skær i små tern. Halvér avocado og kassér stenen. Udhul frugtkødet fra skallen og skær i tern. Bland salat med pære og avocado. Dryp med vinaigrette og top med hakkede mandler.</p><h3>Aioli</h3><p>Pil og pres hvidløg. Bland hvidløg og mayonnaise sammen i en skål.</p><p>Servér sprød kokoskylling med søde kartoffelfritter, frisk salat og aioli.</p>",
+  "Note": "Du skal have: Madolie, hvedemel, mælk, salt og peber.",
+  "ImageUrl": "images/recipe-images/84. Kokoskylling med søde kartoffelfritter.jpg",
+  "Keywords": ["Kylling"]
+}

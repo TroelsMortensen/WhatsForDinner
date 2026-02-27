@@ -536,5 +536,68 @@
     "Keywords": [
       "Vegetar"
     ]
+  },
+  {
+    "Id": 76,
+    "Title": "Kylling i karry med mango chutney",
+    "Keywords": [
+      "Kylling",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 77,
+    "Title": "Indisk dhal med raita og naan",
+    "Keywords": [
+      "Vegetar",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 78,
+    "Title": "Indisk curry med kylling",
+    "Keywords": [
+      "Kylling",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 79,
+    "Title": "Indisk-inspireret bowl med kylling",
+    "Keywords": [
+      "Kylling",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 80,
+    "Title": "Kalkun stroganoff",
+    "Keywords": []
+  },
+  {
+    "Id": 81,
+    "Title": "Kikærtebøffer",
+    "Keywords": [
+      "Vegetar"
+    ]
+  },
+  {
+    "Id": 82,
+    "Title": "Kødspyd og råkostsalat",
+    "Keywords": [
+      "Oksekød"
+    ]
+  },
+  {
+    "Id": 83,
+    "Title": "Kødboller og grønt i tomat med couscous",
+    "Keywords": []
+  },
+  {
+    "Id": 84,
+    "Title": "Kokoskylling med søde kartoffelfritter",
+    "Keywords": [
+      "Kylling"
+    ]
   }
 ]

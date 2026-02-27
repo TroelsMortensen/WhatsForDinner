@@ -1,0 +1,28 @@
+{
+  "Id": 76,
+  "Title": "Kylling i karry med mango chutney",
+  "SubHeader": "Mild karryret med kylling, grøntsager, banan, kokosmælk og mango chutney",
+  "TotalMinutes": 35,
+  "MinutesOfPreparation": 20,
+  "NumberOfPersons": 3,
+  "RecipeGroups": [
+    {
+      "Title": "Ingredienser",
+      "Ingredients": [
+        { "Quantity": 300, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "stk", "Name": "porre", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "stk", "Name": "gulerødder", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 1, "Unit": "stk", "Name": "banan", "PreparationNote": null },
+        { "Quantity": 2, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+        { "Quantity": 4, "Unit": "spsk", "Name": "mango chutney", "PreparationNote": null },
+        { "Quantity": 300, "Unit": "ml", "Name": "kokosmælk light", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingen i mundrette stykker.</p><p>Brun kyllingen i en dyb pande ved middelvarme i lidt olie og tag den fra panden.</p><p>Vask og snit grøntsager. Skær gulerødder og peberfrugt i mundrette stykker og porre i tynde skiver.</p><p>Svits porre, peberfrugt og gulerødder i lidt olie på samme pande.</p><p>Pres hvidløg og tilsæt det til grøntsagerne.</p><p>Skær bananen i skiver og svits kort med grøntsagerne.</p><p>Tilsæt kylling, karry, kokosmælk og mango chutney, rør godt rundt og lad det simre i ca. 10 min., til gulerødderne er møre.</p><p>Hvis der ønskes mere sovs, kan der tilsættes mere kokosmælk.</p><p>Til de helt små kan retten blendes til ønsket konsistens.</p>",
+  "Note": "Tip: Kan fryses.",
+  "ImageUrl": null,
+  "Keywords": ["Kylling", "Asiatisk"]
+}

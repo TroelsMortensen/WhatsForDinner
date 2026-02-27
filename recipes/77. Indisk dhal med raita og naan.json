@@ -1,0 +1,58 @@
+{
+  "Id": 77,
+  "Title": "Indisk dhal med raita og naan",
+  "SubHeader": "Indisk inspireret dhal med raita og hjemmelavet naanbrød.",
+  "TotalMinutes": null,
+  "MinutesOfPreparation": null,
+  "NumberOfPersons": 3,
+  "RecipeGroups": [
+    {
+      "Title": "Dhal",
+      "Ingredients": [
+        { "Quantity": 300, "Unit": "g", "Name": "røde linser", "PreparationNote": null },
+        { "Quantity": 150, "Unit": "ml", "Name": "kokosmælk", "PreparationNote": null },
+        { "Quantity": 300, "Unit": "ml", "Name": "tomatpassata", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 3, "Unit": "cm", "Name": "ingefær", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "spsk", "Name": "neutral olie", "PreparationNote": null },
+        { "Quantity": 3.75, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "drys", "Name": "salt", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "drys", "Name": "peber", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Krydret olie (tarka)",
+      "Ingredients": [
+        { "Quantity": 0.75, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "dl", "Name": "neutral olie", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Raita",
+      "Ingredients": [
+        { "Quantity": 0.375, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "dl", "Name": "græsk yoghurt 10%", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "drys", "Name": "salt", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "håndfuld", "Name": "koriander", "PreparationNote": null }
+      ]
+    },
+    {
+      "Title": "Topping forslag",
+      "Ingredients": [
+        { "Quantity": 3, "Unit": "spsk", "Name": "raita", "PreparationNote": null },
+        { "Quantity": 0.75, "Unit": "pk", "Name": "naanbrød", "PreparationNote": null },
+        { "Quantity": 0.375, "Unit": "bdt", "Name": "koriander", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>Denne fantastiske opskrift på indisk inspireret dhal med raita og hjemmelavet naanbrød er til dig, der elsker det indiske køkken og dets krydrede smage.</p><h3>Dhal</h3><p>Skyl linserne under koldt vand, indtil vandet bliver klart og lad dem dryppe af i en sigte. Hak løg og hvidløg fint og riv ingefær. Varm en gryde med olie og steg løg, hvidløg og ingefær af. Skub det til side og kom karry og laurbær i bunden af gryden. Lad dem få 1 minuts varme, inden du blander det sammen med løgblandingen.</p><p>Tilsæt linser og hakkede tomater og kokosmælk. Kom låg på og lad retten simre i 20-25 minutter ved svag varme. Husk at røre af og til. Imens kan du forberede krydret olie og toppings. Smag til med citronsaft, salt og peber.</p><h3>Krydret olie (tarka)</h3><p>Pil og snit hvidløg i tynde skiver. Varm olien op på en pande, til den syder når du tilsætter krydderierne. Tilsæt herefter krydderi, chili og hvidløg og steg yderligere et par minutter, til hvidløget bliver gyldent og olien dufter aromatisk. Hæld den krydrede olie ovenpå den færdige dhal eller i en lille serveringsskål.</p><h3>Raita</h3><p>Skyl agurken og skrab kernerne ud med en teske. Skær den herefter i små tern. Skyl og hak koriander fint og bland med agurk, yoghurt og spidskommen. Smag til med salt og stil raitaen på køl indtil servering.</p><h3>Servering</h3><p>Server den varme dhal med den krydrede olie, raita og koriander på toppen. Du kan med fordel servere hjemmebagte naanbrød til.</p><p>Tip: Du kan købe færdige naanbrød og nøjes med creme fraiche eller græsk yoghurt i stedet for hjemmelavet raita. Dhal er fryseegnet og kan nemt laves i større mængder.</p>",
+  "Note": "Tip: Kom ekstra grønt i din dhal, fx gulerødder, peberfrugt i tern eller frisk spinat.",
+  "ImageUrl": "images/recipe-images/77. Indisk dhal med raita og naan.jpg",
+  "Keywords": ["Vegetar", "Asiatisk"]
+}

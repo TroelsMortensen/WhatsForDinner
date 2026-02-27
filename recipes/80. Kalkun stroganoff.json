@@ -1,0 +1,40 @@
+{
+  "Id": 80,
+  "Title": "Kalkun stroganoff",
+  "SubHeader": "Kremeret stroganoff med kalkunbryst, bacon, champignon og peberfrugt.",
+  "TotalMinutes": 30,
+  "MinutesOfPreparation": 20,
+  "NumberOfPersons": 2,
+  "RecipeGroups": [
+    {
+      "Title": "Kalkun stroganoff",
+      "Ingredients": [
+        { "Quantity": 50, "Unit": "g", "Name": "bacon", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": null },
+        { "Quantity": 200, "Unit": "g", "Name": "champignon", "PreparationNote": null },
+        { "Quantity": 300, "Unit": "g", "Name": "kalkunbryst", "PreparationNote": "i strimler" },
+        { "Quantity": 2, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+        { "Quantity": 50, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+        { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+        { "Quantity": 1.5, "Unit": "dl", "Name": "hønsebouillon", "PreparationNote": null },
+        { "Quantity": 70, "Unit": "g", "Name": "creme fraiche 18% eller 38%", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "sukker", "PreparationNote": "evt." },
+        { "Quantity": null, "Unit": null, "Name": "friske krydderurter", "PreparationNote": "fx timian, basilikum eller purløg" }
+      ]
+    },
+    {
+      "Title": "Til servering",
+      "Ingredients": [
+        { "Quantity": 100, "Unit": "g", "Name": "ris, couscous eller bulgur", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "pasta", "PreparationNote": null },
+        { "Quantity": null, "Unit": null, "Name": "kartoffelmos", "PreparationNote": null }
+      ]
+    }
+  ],
+  "Instructions": "<h2>Fremgangsmåde</h2><p>En version af den klassiske stroganoff, hvor oksekød er erstattet af kalkunbryst – velegnet til hverdagen og børnevenlig. Kyllingefilet kan også bruges.</p><p>Nydes med ris eller kartoffelmos til, sættes dette over som det første.</p><p>Skær bacon og steg det i olie. Pil og hak løg. Rens og skær champignon i skiver. Tilsæt løg til den næsten sprøde bacon og svits i et minut. Tilsæt champignon og steg i 3-5 minutter til de får farve. Kom bacon, løg og champignon i en skål.</p><p>Skær kalkunbryst i strimler og fjern sener. Varm olie i panden og steg kalkunstrimlerne i portioner til de er brunet. Sænk varmen, drys paprika, salt og peber over kalkunen og steg under omrøring i 1 minut. Tilsæt tomatpuré og steg under omrøring et par minutter mere. Rens og skær peberfrugt i strimler og tilsæt. Hæld bouillon i, rør rundt og lad det simre i ca. 5 minutter. Kom bacon, champignon og løg tilbage og lad simre i yderligere 5 minutter. Sænk varmen til lav og rør creme fraiche i lidt ad gangen. Smag til med salt, peber og evt. et nip sukker. Pynt med friske urter (timian eller purløg).</p><p>Server med ris, pasta eller kartoffelmos og grøn salat eller rå grøntsager.</p>",
+  "Note": "Opskrift af: nemlig.com",
+  "ImageUrl": "images/recipe-images/80. Kalkun stroganoff.jpg",
+  "Keywords": []
+}
