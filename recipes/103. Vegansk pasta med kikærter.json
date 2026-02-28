@@ -1,0 +1,33 @@
+{
+    "Id": 103,
+    "Title": "Vegansk pasta med kikærter",
+    "SubHeader": null,
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Pasta",
+            "Ingredients": [
+                { "Quantity": 450, "Unit": "g", "Name": "pasta penne", "PreparationNote": "eller anden pasta" },
+                { "Quantity": 6, "Unit": "spsk", "Name": "rød pesto", "PreparationNote": "efter eget valg" },
+                { "Quantity": 3, "Unit": "dl", "Name": "soltørrede tomater", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "håndfulde", "Name": "frisk persille", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "drys", "Name": "vegansk revet parmesan", "PreparationNote": "eller anden revet ost" }
+            ]
+        },
+        {
+            "Title": "Kikærter",
+            "Ingredients": [
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 360, "Unit": "g", "Name": "kikærter", "PreparationNote": "kogte" },
+                { "Quantity": 1.5, "Unit": "drys", "Name": "salt og peber", "PreparationNote": "efter smag" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Pasta</h3><p>Kog pastaen som anvist på pakken.</p><p>Hæld vandet fra pastaen og vend den sammen med rød pesto og finthakkede soltørrede tomater.</p><h3>Kikærter</h3><p>Skyl og hæld de kogte kikærter på en pande sammen med paprika, salt og peber. Lad dem stege 5-6 minutter, til de er helt sprøde og gyldne.</p><p>Tag dem af panden og gem dem i en skål.</p><p>Anret pastaen med de sprøde kikærter på toppen, frisk persille og revet vegansk parmesan.</p><p>Drys med salt og peber.</p><p><strong>Tip:</strong> Gem kikærtevandet og brug det til at lave lækre kikærte-kys.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/103. Vegansk pasta med kikærter.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Vegetar", "Pasta"]
+}

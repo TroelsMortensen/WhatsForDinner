@@ -1,0 +1,42 @@
+{
+    "Id": 102,
+    "Title": "Sticky oksekød med risnudler og broccoli",
+    "SubHeader": "Spicy oksekød og risnudler vendt i sticky hoisinsauce serveret med broccoli og forårsløg",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Forberedelse",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "se info" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "ingefær", "PreparationNote": "øko" },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sticky oksekød",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "gochujang", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "pose", "Name": "hoisinsauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Risnudler og broccoli",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "risnudler", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Skyl forårsløg (se info) og hak fint på et skærebræt. Gem lidt af den grønne del til servering.</p><p>Pil hvidløg og riv det fint.</p><p>Skyl ingefær (da den er ØKO behøves du ikke skrælle den) og riv den fint.</p><p>Skyl broccoli og skær i små buketter.</p><h3>Sticky oksekød</h3><p>Varm en stegepande op med olie og steg forårsløg, hvidløg og ingefær af ved middel varme, til det begynder at dufte.</p><p>Tilsæt hakket oksekød og steg i ca. 5 min. ved høj varme, til oksekødet er brunet godt af.</p><p>Tilføj gochujang til stegepanden og lad det hurtigt stege af.</p><p>Tilføj hoisin og vand til stegepanden. Vend det hele godt rundt og lad saucen tykne omkring oksekødet. Smag til med salt og peber.</p><h3>Risnudler og broccoli</h3><p>Kog risnudlerne i letsaltet vand efter anvisningerne på pakken.</p><p>Kog broccolibuketterne med i de sidste 2 minutter af risnudlernes kogetid. Fisk dem op og lad dem køle af.</p><p>Vend de kogte risnudler i stegepanden med sticky oksekød og vend det hele godt sammen.</p><p>Servér risnudler med sticky oksekød og top med broccolibuketter og forårsløg.</p>",
+    "Note": "Du skal have: Madolie, salt og peber.",
+    "ImageUrl": "images/recipe-images/102. Sticky oksekød med risnudler og broccoli.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Oksekød", "Asiatisk"]
+}

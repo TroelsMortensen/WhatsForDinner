@@ -1,0 +1,42 @@
+{
+    "Id": 98,
+    "Title": "Orientalsk risret med oksekød",
+    "SubHeader": null,
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 1.5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 100, "Unit": "g", "Name": "gulerod", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": "medium" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 125, "Unit": "g", "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 0.5, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 150, "Unit": "g", "Name": "basmati ris", "PreparationNote": null },
+                { "Quantity": 3.5, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 70, "Unit": "g", "Name": "majs", "PreparationNote": "fra dåse eller frost" },
+                { "Quantity": 87.5, "Unit": "g", "Name": "ærter", "PreparationNote": "frosne" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sort peber", "PreparationNote": "friskkværnet" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": "finthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom løg, hvidløg og gulerødder i en gryde med olie og sautér ved middelvarme, til løgene er bløde. Kom karry, spidskommen og gurkemeje i gryden sammen med oksekød. Skru op for varmen og brun kødet godt af under konstant omrøring. Skru ned til middelvarme og tilsæt squash og peberfrugt.</p><p>Kom basmatirisene i en sigte og skyl dem grundigt. Rør risene i gryden med grøntsager, og tilsæt også grøntsagsbouillon. Bring i kog under omrøring, skru ned for varmen og lad det simre under låg i 15 minutter.</p><p>Kom majskerner og ærter i gryden og varm retten godt igennem. Tag gryden af varmen og lad gryden stå med låg på, til risene er perfekt møre.</p><p>Smag til med salt og peber og servér den duftende orientalske risret med lidt finthakket persille.</p>",
+    "Note": "Holdbarhed: 2 dage.",
+    "ImageUrl": null,
+    "Source": "Valdemarsro",
+    "Keywords": ["Oksekød", "Asiatisk"]
+}

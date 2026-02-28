@@ -1,0 +1,40 @@
+{
+    "Id": 106,
+    "Title": "Kikærtekarry med kokos og ris",
+    "SubHeader": "Varm karryret med kokos, grønt og ris",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "ps", "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Karryret",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "ds", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "ps", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": null, "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "indisk krydderimix", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Skyl ris grundigt under koldt vand i en si.</p><p>Kom dem i en gryde med frisk vand og lidt salt.</p><p>Beregn dobbelt så meget vand som ris.</p><p>Bring gryden i kog, læg låg på og lad risene simre i 10 min.</p><p>Sluk for blusset og lad risene hvile i 10 min.</p><h3>Karryret</h3><p>Pil og snit løg og hvidløg fint.</p><p>Hæld væde fra kikærter i en si, skyl dem godt og lad dem dryppe af.</p><p>Skræl gulerødder og skær dem i små tern.</p><p>Skyl peberfrugt og broccoli. Skær peberfrugt i tern (kassér kernerne) og broccoli i små buketter.</p><p>Varm en stor gryde op med lidt olie. Svits løg og hvidløg, til løgene bliver klare. Tilsæt krydderier og svits dem af.</p><p>Kom kikærter, gulerødder, peberfrugt og broccoli i gryden og steg det hele sammen.</p><p>Tilsæt hakkede tomater og kokosmælk i gryden og lad retten simre i ca. 15 min. Smag til med soja.</p><p>Servér kikærtekarry med ris.</p>",
+    "Note": "Du skal have: Madolie og salt.",
+    "ImageUrl": "images/recipe-images/106. Kikærtekarry med kokos og ris.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Vegetar", "Indisk"]
+}

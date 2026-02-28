@@ -1,0 +1,42 @@
+{
+    "Id": 108,
+    "Title": "Marry Me Chicken",
+    "SubHeader": "Marry Me Chicken er en lækker og enkel ret med kylling i flødesauce med soltørrede tomater, hvidløg og italienske krydderier",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling i flødesauce",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": 30, "Unit": "g", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 10, "Unit": "g", "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fintrevet" },
+                { "Quantity": 75, "Unit": "g", "Name": "soltørrede tomater i olie", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "tørret rosmarin", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 15, "Unit": "g", "Name": "koncentreret tomatpuré", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "parmesan", "PreparationNote": "fintrevet" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk basilikum", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "pasta", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Dup kyllingekødet med køkkenrulle og vend det i en blanding af hvedemel, salt og peber, så det er dækket på alle sider.</p><p>Varm en sauterpande op med olie. Kom smør på og lad det bruse af. Steg kyllingen 2 minutter på begge sider ved middelhøj varme, til den har fået en flot stegeskorpe. Tag kyllingen af panden og lad den hvile kort.</p><p>Kom soltørrede tomater, løg og hvidløg på den samme pande og sauter et par minutter ved middel varme, til løgene er bløde.</p><p>Tilsæt oregano, timian, rosmarin, hønsebouillon, piskefløde og tomatpuré, og rør det godt sammen.</p><p>Kom kyllingen tilbage i panden og lad saucen simre i 10-15 minutter, til kyllingen er gennemstegt.</p><p>Kog imens pastaen.</p><p>Rør parmesan og basilikum i saucen og smag til med salt og friskkværnet peber.</p><p>Servér kyllingen i flødesaucen med friskkogt pasta.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/108. Marry Me Chicken.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Kylling", "Pasta"]
+}

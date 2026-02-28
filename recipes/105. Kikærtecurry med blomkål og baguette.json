@@ -1,0 +1,41 @@
+{
+    "Id": 105,
+    "Title": "Kikærtecurry med blomkål og baguette",
+    "SubHeader": "Krydret simreret med kikærter, kartofler, blomkål, kokosmælk og lime",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Kikærtecurry",
+            "Ingredients": [
+                { "Quantity": 0.75, "Unit": null, "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 15, "Unit": "g", "Name": "ingefær", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "blomkål", "PreparationNote": null },
+                { "Quantity": 1.25, "Unit": "spsk", "Name": "madolie", "PreparationNote": null },
+                { "Quantity": 240, "Unit": "g", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tandori masala krydderimix", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": "madras" },
+                { "Quantity": 300, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": null, "Name": "lime", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Baguette",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "baguette", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 180 grader alm. ovn og klargør en bageplade med bagepapir.</p><h3>Kikærtecurry</h3><p>Pil og hak løg og hvidløg fint.</p><p>Skyl og riv ingefær på den fine side af et rivejern.</p><p>Skræl og skær kartofler i små tern.</p><p>Skyl og skær blomkål i små buketter.</p><p>Varm en stor gryde op med olie og steg løg, hvidløg og ingefær i ca. 3-4 min.</p><p>Dræn væden fra kikærterne. Tilsæt tandori masala, gurkemeje, karry og kikærter i gryden og steg i ca. 5-6 min., indtil kikærterne tager en smule farve.</p><p>Tilsæt kartofler, blomkål, grøntsagsbouillon, vand og kokosmælk. Lad retten simre under låg i ca. 25 min., til kartoflerne er møre. Rør i retten med jævne mellemrum.</p><p>Smag til med salt, peber og limesaft.</p><h3>Baguette</h3><p>Når der er ca. 10 min. tilbage af simretiden, bages baguette i ca. 10 min. i ovnen.</p><p>Servér kikærtecurry i skåle og spis baguette til.</p><p><strong>Tip:</strong> Ingefær er rig på vitaminer og resten kan bruges til asiatisk-inspirerede retter, fx en wokret.</p>",
+    "Note": "Du skal have: Madolie, salt og peber.",
+    "ImageUrl": "images/recipe-images/105. Kikærtecurry med blomkål og baguette.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Vegetar", "Indisk"]
+}

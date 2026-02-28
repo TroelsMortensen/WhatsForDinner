@@ -1,0 +1,37 @@
+{
+    "Id": 112,
+    "Title": "Gulerodssuppe med kokosmælk",
+    "SubHeader": "Solgul og cremet gulerodssuppe med varme krydderier",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gulerodssuppe",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "kg", "Name": "gulerødder", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1.5, "Unit": "liter", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "ml", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom olie i en gryde og sauter løgene ved middelhøj varme, til de er bløde.</p><p>Tilsæt hvidløg, spidskommen, koriander, paprika og gulerødder. Rør rundt i et minuts tid.</p><p>Tilsæt grøntsagsbouillon (start med ca. 1,3 liter, så konsistensen kan justeres efter smag).</p><p>Lad det simre, til gulerødderne er møre.</p><p>Kom kokosmælk i suppen og blend, til den er cremet og luftig.</p><p>Tilføj mere grøntsagsbouillon, til konsistensen er som ønsket, og smag til med salt og peber.</p><p>Servér med lidt kokosmælk dryppet på og et drys bredbladet persille.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/112. Gulerodssuppe med kokosmælk.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Vegetar", "Suppe"]
+}

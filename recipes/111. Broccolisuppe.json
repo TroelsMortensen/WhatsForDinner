@@ -1,0 +1,46 @@
+{
+    "Id": 111,
+    "Title": "Broccolisuppe",
+    "SubHeader": "Cremet broccolisuppe med sprøde toppings",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Broccolisuppe",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "grofthakkede" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 4, "Unit": null, "Name": "kartofler", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "liter", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "delt i buketter" },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "æblecidereddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Græskarkerner",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "græskarkerner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Æbletern",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "æble", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "æblecidereddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "honning", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Broccolisuppe</h3><p>Sauter løg og hvidløg i en gryde med olie ved middel varme, til løgene er bløde.</p><p>Kom kartoffeltern, timian og grøntsagsbouillon i gryden. Kog op og lad det simre under låg i 15 minutter.</p><p>Tilsæt broccoli og kog yderligere i 5 minutter.</p><p>Blend suppen grundigt. Tilsæt fløde og smag til med æblecidereddike, salt og peber.</p><p>Blend suppen igen.</p><h3>Græskarkerner</h3><p>Rist græskarkernerne på en pande med lidt olie og salt, til de begynder at poppe.</p><h3>Æbletern</h3><p>Vend æbletern i lidt æblecidereddike rørt med honning.</p><p>Servér den varme suppe med de sprøde toppings.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/111. Broccolisuppe.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Vegetar", "Suppe"]
+}

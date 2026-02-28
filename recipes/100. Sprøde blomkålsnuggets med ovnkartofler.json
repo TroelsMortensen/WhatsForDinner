@@ -1,0 +1,53 @@
+{
+    "Id": 100,
+    "Title": "Sprøde blomkålsnuggets med ovnkartofler",
+    "SubHeader": "Sprød blomkål i krydret cornflakespanering med ovnkartofler, paprikadip og kålsalat",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ovnkartofler",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "bagekartofler", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Blomkål",
+            "Ingredients": [
+                { "Quantity": 0.75, "Unit": null, "Name": "blomkål", "PreparationNote": null },
+                { "Quantity": 60, "Unit": "g", "Name": "cornflakes", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "mælk", "PreparationNote": "en sjat" },
+                { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Salat",
+            "Ingredients": [
+                { "Quantity": 0.75, "Unit": null, "Name": "æble", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "bakke", "Name": "salatblanding", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "vinaigrette", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "solsikkekerner", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Dip",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "bøtte", "Name": "creme fraiche", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "mayonnaise", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 200 grader og klargør en bageplade med bagepapir.</p><h3>Ovnkartofler</h3><p>Skræl kartofler, skær dem ud til grove pomfritter og vend med olie og salt på bagepladen.</p><p>Bag pomfritterne i ovnen i ca. 35-40 min., til de er gyldne og gennemstegte. Vend dem gerne en gang eller to under stegningen.</p><h3>Blomkål</h3><p>Skyl og skær blomkål ud i små buketter. Kog buketterne i letsaltet vand i ca. 2-3 min. (de skal være lidt møre, men stadig have godt med bid). Hæld vandet fra og lad dem dryppe af i en si eller en sigte.</p><p>Kom cornflakes i en frysepose. Knus cornflakes ved at banke håndfladen på fryseposen, så cornflakes bliver til små stykker.</p><p>Lav 3 dybe tallerkener klar til panering: 1 med hvedemel krydret med salt og peber, 1 med sammenpisket æg og en sjat mælk og 1 med knust cornflakes.</p><p>Vend først blomkålsbuketterne i hvedemel, så i æg og til sidst i cornflakes.</p><p>Varm en pande op med rigelige mængder olie og steg blomkålsbuketterne, til de er gyldne og sprøde. Lad dem dryppe af på en tallerken med køkkenrulle. Krydr med salt.</p><h3>Salat</h3><p>Skyl æble og skær i tern – kassér kernehuset.</p><p>Kom æble i salatblandingen og vend vinaigrette i. Top til sidst med solsikkekerner.</p><h3>Dip</h3><p>Bland creme fraiche og mayonnaise i en skål. Smag dippen til med paprika, salt og peber. Sæt dippen på køl til servering.</p><p>Servér blomkålsnuggets med ovnkartofler, salat og dip.</p><p><strong>Tip:</strong> Alternativt kan du komme blomkålen på en bageplade med bagepapir og bage dem i ca. 20-25 min., til de er gyldne og sprøde.</p>",
+    "Note": "Du skal have: Madolie, hvedemel, mælk, salt og peber.",
+    "ImageUrl": "images/recipe-images/100. Sprøde blomkålsnuggets med ovnkartofler.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Vegetar"]
+}
