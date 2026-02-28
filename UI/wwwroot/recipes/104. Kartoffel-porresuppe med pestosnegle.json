@@ -1,0 +1,52 @@
+{
+    "Id": 104,
+    "Title": "Kartoffel-porresuppe med pestosnegle",
+    "SubHeader": "Kartoffel-porresuppe toppet med sojastegte mandler og serveret med pestosnegle",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Suppe",
+            "Ingredients": [
+                { "Quantity": 750, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "porre", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": null },
+                { "Quantity": 7.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ps", "Name": "grøntsagsbouillon", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Pestosnegle",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "ds", "Name": "butter beans", "PreparationNote": null },
+                { "Quantity": 0.666, "Unit": "gl", "Name": "basilikum pesto", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pk", "Name": "butterdej", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "mælk", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sojastegte mandler",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "ps", "Name": "mandler", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "madlavningsfløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 0.333, "Unit": "gl", "Name": "basilikum pesto", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Suppe</h3><p>Tænd ovnen på 200 grader varmluft og klargør en bageplade med bagepapir.</p><p>Skræl kartofler og skær dem i grove tern på et skærebræt.</p><p>Rengør porre grundigt. Skær den grønne top fra og gem til senere. Skær den hvide del i tykke ringe.</p><p>Smelt smør i en stor gryde og tilsæt kartofler og den hvide del af porren. Steg grøntsagerne i ca. 4-5 min. ved jævn varme.</p><p>Tilsæt vand og bouillon og bring suppen i kog. Skum af hvis nødvendigt og lad suppen simre stille og roligt i ca. 15 min., til kartoflerne er møre.</p><h3>Pestosnegle</h3><p>Dræn butter beans i en si. Mos dem i en røreskål med en gaffel og rør sammen med pesto og vand. Krydr med salt og peber.</p><p>Rul butterdejen ud og smør den med pestocremen.</p><p>Rul dejen stramt sammen på den lange led og skær sneglene ud i ca. 2 cm tykkelse. Kom dem på bagepladen og tryk dem lidt flade med håndfladen.</p><p>Pensl sneglene med mælk og bag dem i ovnen i ca. 14-16 min. Lad dem køle af indtil servering.</p><h3>Sojastegte mandler</h3><p>Hak mandlerne og rist dem på en tør stegepande.</p><p>Når mandlerne er let gyldne, fjernes stegepanden fra varmen og soja tilsættes. Lad sojaen fordampe ind omkring mandlerne.</p><h3>Servering</h3><p>Snit den grønne del af porren fint og steg den hurtigt af sammen med lidt olie på den samme stegepande som blev brugt til sojamandlerne.</p><p>Tilsæt fløde til suppen og blend den glat med en stavblender direkte i gryden, eller i en blender. Smag til med salt og peber.</p><p>Rør det resterende pesto op med en lille smule vand.</p><p>Servér cremet kartoffel-porresuppe toppet med sojastegte mandler, grøn porre og pestodressing. Nyd sammen med sprødbagte pestosnegle.</p><p><strong>Tip:</strong> Blend eventuelt de resterende butter beans med i suppen.</p>",
+    "Note": "Du skal have: Smør, olivenolie, mælk, salt og peber.",
+    "ImageUrl": "images/recipe-images/104. Kartoffel-porresuppe med pestosnegle.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Vegetar", "Suppe"]
+}

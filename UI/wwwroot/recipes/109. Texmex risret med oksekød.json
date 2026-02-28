@@ -1,0 +1,51 @@
+{
+    "Id": 109,
+    "Title": "Texmex risret med oksekød",
+    "SubHeader": "Smovset og lækker texmex risret med oksekød og cheddar",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Texmex risret",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": null, "Name": "gulerod", "PreparationNote": "groftrevet" },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "basmati ris", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 30, "Unit": "g", "Name": "soltørrede tomater i olie", "PreparationNote": "finthakket" },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "på dåse" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 125, "Unit": "g", "Name": "cherrytomater", "PreparationNote": "skåret i tynde både" },
+                { "Quantity": 140, "Unit": "g", "Name": "majs", "PreparationNote": "fra dåse eller frost" },
+                { "Quantity": 30, "Unit": "g", "Name": "jalapeños", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "avocado", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": "grofthakket" },
+                { "Quantity": 25, "Unit": "g", "Name": "jalapeños", "PreparationNote": null },
+                { "Quantity": 125, "Unit": "g", "Name": "cheddar", "PreparationNote": "friskrevet" },
+                { "Quantity": 1, "Unit": "dl", "Name": "cremefraiche 18 %", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "nachos", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "skåret i både" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom løg, hvidløg og gulerødder i en gryde med olie og sauter ved middel varme, til løgene er bløde.</p><p>Tilsæt oksekød og brun det godt af ved høj varme under omrøring.</p><p>Kom squash, spidskommen, koriander, kanel, røget paprika og basmatiris i gryden og rør det godt sammen.</p><p>Rør grøntsagsbouillon, soltørrede tomater og hakkede tomater i og kog op under omrøring. Læg låg på og lad det simre ved svag varme i ca. 17-18 minutter.</p><p>Tilsæt bønner, tomater og majs og varm igen op til kogepunktet. Læg låg på, lad det stå ved lav varme i ca. 5 minutter. Sluk for varmen og lad retten stå under låg i ca. 10 minutter, mens den trækker smag og risene bliver møre.</p><p>Rør halvdelen af cheddar i sammen med jalapeños (servér evt. jalapeños ved siden af, hvis ikke alle ønsker stærk mad) og smag til med salt og friskkværnet peber.</p><p>Anret i dybe tallerkener toppet med avocadotern, koriander, jalapeños, cremefraiche og lidt lime til at dryppe over samt sprøde nachos.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/109. Texmex risret med oksekød.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Oksekød", "Mexicansk"]
+}

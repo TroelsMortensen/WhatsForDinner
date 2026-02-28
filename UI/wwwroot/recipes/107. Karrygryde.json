@@ -1,0 +1,32 @@
+{
+    "Id": 107,
+    "Title": "Karrygryde",
+    "SubHeader": null,
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "sød kartoffel", "PreparationNote": "kan justeres op til 300 g" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "karrypasta", "PreparationNote": null },
+                { "Quantity": 115, "Unit": "g", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "frisk spinat", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "ml", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "ml", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "grøntsagsbouillonterning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": "smages til" },
+                { "Quantity": null, "Unit": null, "Name": "ris, quinoa eller havreris", "PreparationNote": "til servering" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Hak løg fint og steg løgene i en gryde med olivenolie, til de bliver bløde.</p><p>Vask sød kartoffel grundigt, bevar skrællen på, og skær den i mundrette tern.</p><p>Tilsæt sød kartoffel, kikærter, finthakket hvidløg og karrypasta til gryden og steg grøntsagerne i nogle minutter.</p><p>Tilsæt spinat til gryden og steg grøntsagerne, til spinaten er faldet sammen.</p><p>Tilsæt hakkede tomater og bouillonterning og lad det koge op.</p><p>Sæt låg på gryden og lad karrygryden simre i ca. 20 min. ved middel varme, til de søde kartofler er kogt møre, men stadig har bid.</p><p>Tilsæt kokosmælk og kog det langsomt op.</p><p>Smag karrygryden til med salt og peber.</p>",
+    "Note": "Servér med ris, quinoa eller havreris.",
+    "ImageUrl": "images/recipe-images/107. Karrygryde.jpg",
+    "Source": "Maria Vestergaard",
+    "Keywords": ["Vegetar", "Indisk"]
+}

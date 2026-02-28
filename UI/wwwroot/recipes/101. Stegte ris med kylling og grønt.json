@@ -1,0 +1,36 @@
+{
+    "Id": 101,
+    "Title": "Stegte ris med kylling og grønt",
+    "SubHeader": "Stegte ris med æg og sojasauce, gulerødder, peberfrugt og kylling",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 240, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kylling og grønt",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": null, "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": null, "Name": "kyllingebrystfileter", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "madolie", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 3, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Skyl risene under koldt vand i en si eller sigte og kom dem i en gryde med frisk vand.</p><p>Beregn dobbelt så meget vand som ris.</p><p>Bring gryden i kog, læg låg på og lad risene simre i ca. 10 min.</p><p>Sluk for blusset, og lad risene hvile i 10 min.</p><p>Lad risene køle af.</p><h3>Kylling og grønt</h3><p>Pil og hak løg og hvidløg fint.</p><p>Skær kylling i mundrette stykker.</p><p>Varm en pande op ved middel varme med halvdelen af olien og steg hvidløg og kylling i ca. 5-6 min., til kyllingen er gennemstegt. Sæt kyllingen til side i en skål.</p><p>Skræl, skyl og skær gulerødder i mindre tern.</p><p>Udhul, skyl og skær peberfrugt i tern.</p><p>Varm samme pande op med resten af olien ved middel varme og steg løg, til de er klare. Tilsæt gulerødder og steg i ca. 3-4 min. Kom peberfrugt på panden også og steg i ca. 1 min. Tilsæt ris og lad dem stege med i et par minutter.</p><p>Pisk æggene sammen i en skål med sojasauce og krydr med salt og peber. Skub pandens indhold til side og tilsæt æggemassen på panden. Lad det stege til røræg, inden det blandes sammen med ris og grøntsager.</p><p>Servér stegte ris med grønt toppet med kylling.</p>",
+    "Note": "Du skal have: Madolie, salt og peber.",
+    "ImageUrl": "images/recipe-images/101. Stegte ris med kylling og grønt.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Kylling", "Asiatisk"]
+}
