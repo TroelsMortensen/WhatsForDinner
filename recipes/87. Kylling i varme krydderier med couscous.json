@@ -1,0 +1,43 @@
+{
+    "Id": 87,
+    "Title": "Kylling i varme krydderier med couscous",
+    "SubHeader": "Kylling og sauce med spidskommen, koriander og kardemomme serveret med couscous, persille og mandler",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                { "Quantity": 0.75, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "tsk", "Name": "koriander, stødt", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "tsk", "Name": "kardemomme", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "ingefær", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": null, "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 3, "Unit": null, "Name": "kyllingefileter", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 90, "Unit": "g", "Name": "oliven uden sten", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sukker", "PreparationNote": "efter smag" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 1.5, "Unit": "dl", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "bundt", "Name": "persille", "PreparationNote": null },
+                { "Quantity": 2.25, "Unit": "dl", "Name": "kogende vand", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "hakkede mandler", "PreparationNote": "ca." }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Kylling i varme krydderier</h3><p>Bland krydderierne. Svits løg og hvidløg i olie. Brun kyllingefileterne på begge sider. Tilsæt hakkede tomater og lad det simre. Kom kikærter og oliven i og smag til med sukker, salt og peber.</p><h3>Couscous</h3><p>Bring vand i kog. Hæld kogende vand over couscous sammen med olie, lad det trække under låg.</p><h3>Servering</h3><p>Hak persille og mandler. Servér kylling med sauce oven på couscous, drys med persille og mandler.</p><p><strong>Tip:</strong> Der kan også tilsættes et drys kanel til krydderiblandingen samt kommes revet appelsinskal og hakket mynte i couscousen.</p>",
+    "Note": "Du skal have: Olie, salt og peber.",
+    "ImageUrl": "images/recipe-images/87. Kylling i varme krydderier med couscous.jpg",
+    "Keywords": ["Kylling"]
+}

@@ -599,5 +599,101 @@
     "Keywords": [
       "Kylling"
     ]
+  },
+  {
+    "Id": 85,
+    "Title": "Krydrede frikadeller med perlebygsalat",
+    "Keywords": [
+      "Oksekød"
+    ]
+  },
+  {
+    "Id": 86,
+    "Title": "Karryrisotto med kylling og grønt",
+    "Keywords": [
+      "Kylling",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 87,
+    "Title": "Kylling i varme krydderier med couscous",
+    "Keywords": [
+      "Kylling"
+    ]
+  },
+  {
+    "Id": 88,
+    "Title": "Blomkåls- og kikærtekarry",
+    "Keywords": [
+      "Vegetar",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 89,
+    "Title": "Lækker kyllingegryde med tomat og ris",
+    "Keywords": [
+      "Kylling"
+    ]
+  },
+  {
+    "Id": 90,
+    "Title": "Laks med kartoffelkompot og blomkålssalat",
+    "Keywords": [
+      "Fisk"
+    ]
+  },
+  {
+    "Id": 91,
+    "Title": "Mexi-bowl med oksekød og avocado",
+    "Keywords": [
+      "Oksekød"
+    ]
+  },
+  {
+    "Id": 92,
+    "Title": "Mexi-krydret kyllingegryde med ris",
+    "Keywords": [
+      "Kylling"
+    ]
+  },
+  {
+    "Id": 93,
+    "Title": "Millionbøf",
+    "Keywords": [
+      "Oksekød"
+    ]
+  },
+  {
+    "Id": 94,
+    "Title": "Nem kylling i karry",
+    "Keywords": [
+      "Kylling"
+    ]
+  },
+  {
+    "Id": 95,
+    "Title": "Nudler med kylling og broccoli",
+    "Keywords": [
+      "Kylling",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 96,
+    "Title": "Okseruller med ajvar og kartofler",
+    "Keywords": [
+      "Oksekød"
+    ]
+  },
+  {
+    "Id": 97,
+    "Title": "One Pot Pasta med Kødsovs",
+    "Keywords": [
+      "One Pot",
+      "Pasta",
+      "Oksekød"
+    ]
   }
 ]
