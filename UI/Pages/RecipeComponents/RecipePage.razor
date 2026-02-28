@@ -51,6 +51,10 @@
             {
                 <p class="intro-text">@RecipeData.SubHeader</p>
             }
+            @if (!string.IsNullOrWhiteSpace(RecipeData.Source))
+            {
+                <p class="intro-text">Kilde: @RecipeData.Source</p>
+            }
         </header>
 
         <div class="container">

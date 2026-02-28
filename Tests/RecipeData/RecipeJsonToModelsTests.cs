@@ -75,6 +75,14 @@ public class RecipeJsonToModelsTests
     }
 
     [Fact]
+    public void Deserialize_Recipe_WithSource_PopulatesSource()
+    {
+        Recipe recipe = DeserializeRecipe(RecipeWithSourceJson);
+
+        Assert.Equal("Madens Magi, side 42", recipe.Source);
+    }
+
+    [Fact]
     public void Deserialize_FullRecipeJson_Succeeds()
     {
         Recipe recipe = DeserializeRecipe(FullRecipeJson);
@@ -107,6 +115,7 @@ public class RecipeJsonToModelsTests
                                                "Instructions": "",
                                                "Note": "",
                                                "ImageUrl": null,
+                                               "Source": null,
                                                "Keywords": []
                                              }
                                              """;
@@ -126,6 +135,7 @@ public class RecipeJsonToModelsTests
                                                   "Instructions": "",
                                                   "Note": "",
                                                   "ImageUrl": null,
+                                                  "Source": null,
                                                   "Keywords": []
                                                 }
                                                 """;
@@ -150,6 +160,7 @@ public class RecipeJsonToModelsTests
                                                              "Instructions": "",
                                                              "Note": "",
                                                              "ImageUrl": null,
+                                                             "Source": null,
                                                              "Keywords": []
                                                            }
                                                            """;
@@ -173,6 +184,7 @@ public class RecipeJsonToModelsTests
                                                               "Instructions": "",
                                                               "Note": "",
                                                               "ImageUrl": null,
+                                                              "Source": null,
                                                               "Keywords": []
                                                             }
                                                             """;
@@ -196,6 +208,7 @@ public class RecipeJsonToModelsTests
                                                                "Instructions": "",
                                                                "Note": "",
                                                                "ImageUrl": null,
+                                                               "Source": null,
                                                                "Keywords": []
                                                              }
                                                              """;
@@ -212,6 +225,7 @@ public class RecipeJsonToModelsTests
                                                     "Instructions": "",
                                                     "Note": "",
                                                     "ImageUrl": null,
+                                                    "Source": null,
                                                     "Keywords": [
                                                       "Suppe",
                                                       "Vegetar"
@@ -231,9 +245,27 @@ public class RecipeJsonToModelsTests
                                                         "Instructions": "<p>Test</p>",
                                                         "Note": "",
                                                         "ImageUrl": null,
+                                                        "Source": null,
                                                         "Keywords": []
                                                       }
                                                       """;
+
+    private const string RecipeWithSourceJson = """
+                                                {
+                                                  "Id": 1,
+                                                  "Title": "Source",
+                                                  "SubHeader": null,
+                                                  "TotalMinutes": 10,
+                                                  "MinutesOfPreparation": 5,
+                                                  "NumberOfPersons": 2,
+                                                  "RecipeGroups": [],
+                                                  "Instructions": "",
+                                                  "Note": "",
+                                                  "ImageUrl": null,
+                                                  "Source": "Madens Magi, side 42",
+                                                  "Keywords": []
+                                                }
+                                                """;
 
     private const string FullRecipeJson = """
                                           {
@@ -267,6 +299,7 @@ public class RecipeJsonToModelsTests
                                             "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter løg og hvidløg ...</p><h3>Croutoner</h3><p>Skær brødet ...</p><h3>Servering</h3><p>Server suppen ...</p>",
                                             "Note": "Grøntsagerne skal ikke skæres fint.",
                                             "ImageUrl": null,
+                                            "Source": null,
                                             "Keywords": [
                                               "Suppe",
                                               "Vegetar"

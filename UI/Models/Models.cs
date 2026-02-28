@@ -14,6 +14,7 @@ public record Recipe(
     MarkupString Instructions,
     string Note,
     string? ImageUrl,
+    string? Source,
     List<string> Keywords
 );
 
