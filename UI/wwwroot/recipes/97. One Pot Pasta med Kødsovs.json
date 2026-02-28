@@ -1,0 +1,43 @@
+{
+    "Id": 97,
+    "Title": "One Pot Pasta med Kødsovs",
+    "SubHeader": "Pasta med kødsovs, bacon og grøntsager – alt i én gryde",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 25, "Unit": "g", "Name": "bacon", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 175, "Unit": "g", "Name": "pasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "gulerod", "PreparationNote": "groftrevet" },
+                { "Quantity": 0.5, "Unit": null, "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 5, "Unit": null, "Name": "cherrytomater", "PreparationNote": "skåret i både" },
+                { "Quantity": 1, "Unit": "stængel", "Name": "bladselleri", "PreparationNote": "groftrevet" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "soltørrede tomater", "PreparationNote": "finthakket" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "timian, tørret", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "rød balsamico", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "rødvin", "PreparationNote": "kan undlades" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 25, "Unit": "g", "Name": "parmesan", "PreparationNote": "friskrevet" },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk timian", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Steg bacon sprødt i en stor gryde med olie – den samme som du vil tilberede din one pot pasta i. Læg bacon kortvarigt til side og brun oksekødet i baconfedtet i den samme gryde.</p><p>Tilføj alle de andre ingredienser samt den stegte bacon i gryden. Rør godt rundt og skru ned til middelvarme.</p><p>Lad det simre under låg i cirka 10-15 minutter. Rør et par gange undervejs og test om pastaen er al dente.</p><p>Server med friskrevet parmesan og eventuelt lidt frisk timian.</p>",
+    "Note": "Du skal have: Olivenolie, salt og peber.",
+    "ImageUrl": null,
+    "Keywords": ["One Pot", "Pasta", "Oksekød"]
+}

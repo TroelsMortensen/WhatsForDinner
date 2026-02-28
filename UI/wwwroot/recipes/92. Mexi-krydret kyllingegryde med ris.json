@@ -1,0 +1,42 @@
+{
+    "Id": 92,
+    "Title": "Mexi-krydret kyllingegryde med ris",
+    "SubHeader": "Mexi-kyllingegryde med tomat, peberfrugt, majs og sorte bønner med ris",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pose", "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kyllingegryde",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": null, "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "kyllingebrystfileter", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "dåse", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "dåse", "Name": "majs", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatkoncentrat", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "mexi mix", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [{ "Quantity": 1, "Unit": "pose", "Name": "sriracha chilisauce", "PreparationNote": null }]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Skyl ris grundigt under koldt vand i en si. Kom dem i en gryde med friskt vand og lidt salt. Beregn dobbelt så meget vand som ris. Bring gryden i kog, læg låg på og lad risene simre i 10 min. Sluk for blusset og lad risene hvile i 10 min.</p><h3>Kyllingegryde</h3><p>Pil og hak løg og hvidløg fint. Skyl peberfrugt og skær den i fine tern. Skræl gulerødder og skær dem også i tern. Skær kyllingebrystfileterne i mundrette stykker. Hæld væden fra de sorte bønner og majsen. Varm lidt olie op i en stor gryde. Sauter løg og hvidløg til de er klare. Tilsæt kyllingestykker og brun dem. Kom gulerødder, peberfrugt, sorte bønner, hakkede tomater, tomatkoncentrat og krydderi i. Bring gryden i kog og lad det simre blidt i ca. 10-15 minutter. Tilsæt majs og smag til med salt og peber.</p><p>Nyd kyllingegryden med ris og top med chilisauce, hvis du vil have retten stærkere.</p>",
+    "Note": "Du skal have: Madolie, salt og peber.",
+    "ImageUrl": "images/recipe-images/92. Mexi-krydret kyllingegryde med ris.jpg",
+    "Keywords": ["Kylling"]
+}
