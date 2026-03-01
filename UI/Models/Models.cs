@@ -30,7 +30,7 @@ public record Ingredient(
     string? PreparationNote
 );
 
-public record RecipeIndex(int Id, string Title, List<string> Keywords);
+public record RecipeIndex(int Id, string Title, List<string> Keywords, int? TotalMinutes = null);
 
 public static class Keyword
 {

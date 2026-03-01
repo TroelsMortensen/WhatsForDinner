@@ -22,12 +22,54 @@
             }
             else
             {
-                <ul class="recipe-list">
-                    @foreach (var recipe in Recipes)
-                    {
-                        <li><a href="recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
-                    }
-                </ul>
+                <details class="filter-block">
+                    <summary>Filtrér</summary>
+                    <div class="filter-content">
+                        @if (_availableKeywords is { Count: > 0 })
+                        {
+                            <div class="filter-group">
+                                <h4 class="filter-group-header">Nøgleord</h4>
+                                <div class="keyword-filters">
+                                    @foreach (var keyword in _availableKeywords)
+                                    {
+                                        <button type="button"
+                                                class="keyword-toggle @(_selectedKeywords.Contains(keyword) ? "selected" : "")"
+                                                @onclick="() => ToggleKeyword(keyword)">
+                                            @keyword
+                                        </button>
+                                    }
+                                </div>
+                            </div>
+                        }
+                        <div class="filter-group">
+                            <h4 class="filter-group-header">Tid</h4>
+                            <div class="keyword-filters">
+                                @foreach (var range in TimeRanges)
+                                {
+                                    <button type="button"
+                                            class="keyword-toggle @(_selectedTimeRanges.Contains(range.Id) ? "selected" : "")"
+                                            @onclick="() => ToggleTimeRange(range.Id)">
+                                        @range.Label
+                                    </button>
+                                }
+                            </div>
+                        </div>
+                    </div>
+                </details>
+
+                @if (!FilteredRecipes.Any() && HasActiveFilters)
+                {
+                    <p>Ingen opskrifter matcher.</p>
+                }
+                else
+                {
+                    <ul class="recipe-list">
+                        @foreach (var recipe in FilteredRecipes)
+                        {
+                            <li><a href="recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
+                        }
+                    </ul>
+                }
             }
         </div>
     </details>

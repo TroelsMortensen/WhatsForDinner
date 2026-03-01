@@ -1,3 +1,61 @@
+.filter-block {
+    margin: 0 0 20px;
+    border: 1px solid #d7d7d7;
+    border-radius: 10px;
+    padding: 14px 16px;
+    background: #fafafa;
+}
+
+.filter-block summary {
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.filter-content {
+    margin-top: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.filter-group {
+    padding: 0;
+}
+
+.filter-group-header {
+    margin: 0 0 10px;
+    font-size: 0.95em;
+    font-weight: 600;
+    color: #444;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.keyword-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
+
+.keyword-filters button {
+    border: 1px solid #b8b8b8;
+    border-radius: 8px;
+    background: #fff;
+    padding: 6px 12px;
+    font-size: 0.9em;
+    transition: background 0.15s, border-color 0.15s;
+}
+
+.keyword-filters button:hover {
+    background: #f0f0f0;
+    border-color: #a0a0a0;
+}
+
+.keyword-filters button.selected {
+    background: #e0e8f0;
+    border-color: #7a9bc7;
+}
+
 .search-block {
     margin: 0 0 20px;
     display: flex;
