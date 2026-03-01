@@ -1,0 +1,37 @@
+{
+    "Id": 129,
+    "Title": "Chorizo-risotto",
+    "SubHeader": "Comfort-food, som kan spises med én hånd.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "god rå chorizo", "PreparationNote": "skåret i 2 cm tykke skiver" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "bananskalotteløg", "PreparationNote": "hakket" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 300, "Unit": "g", "Name": "Carnaroli eller Arborio risottoris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "hvidvin eller tør vermouth", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "hønse- eller grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1.75, "Unit": "l", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "god parmesan", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "ærter", "PreparationNote": "meget gerne friskbælgede, grønne bønner eller sukkerærter virker også" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "gremolata", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>I gryden</h2><p>Steg chorizoen af i et godt skvæt olivenolie.</p><p>Tilsæt løg og hvidløg, og vend i 1 minuts tid, mens det bliver blødt.</p><p>Vend risene i, og tilsæt herefter vinen.</p><p>Lad det koge op, og tilsæt så bouillon og vand.</p><p>Lad det simre under låg i 20-25 minutter.</p><p>Smag på risene – de skal være tilberedte, men stadig have bid i kernen uden at virke rå.</p><p>Fold revet parmesan og ærter i risottoen med en dejskraber, til det er helt cremet og lækkert.</p><p>Smag til med salt og peber, og pynt med gremolata ved servering.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/129. Chorizo-risotto.jpg",
+    "Source": "Gorm's One Pot",
+    "Keywords": ["One Pot", "Pasta"]
+}

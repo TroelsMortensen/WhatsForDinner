@@ -1,0 +1,42 @@
+{
+    "Id": 123,
+    "Title": "Tikka One Pot Masala",
+    "SubHeader": "Fut på krydderierne – jeg har brugt stødte krydderier i denne opskrift, men har du dem hele og kan lune dem let på panden og så knuse dem i mortenen, så sker der altså noget helt særligt.",
+    "TotalMinutes": 70,
+    "MinutesOfPreparation": 70,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 800, "Unit": "g", "Name": "lammekød", "PreparationNote": "i tern" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "evt. lidt kanel", "PreparationNote": "pas på, vi ikke kommer til nissebal – brug med måde" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "kardemomme", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "kaffir-limeblade", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "i tern" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "kikærter", "PreparationNote": "tør vægt, udblødt i vand over nat" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": "almindelig størrelse" },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "drænet yoghurt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "babyspinat", "PreparationNote": "et par store håndfulde, vendes i lige før servering" }
+            ]
+        },
+        {
+            "Title": "Pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "mangomix", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>I gryden</h2><p>Brun lammekødet af.</p><p>Tilsæt krydderier, løg, hvidløg og tomatpuré. Det skal lige have lov til at blive vendt rundt engang over varmen.</p><p>Tilsæt nu kikærter, kokosmælk og vand, og så er det simretid de næste 45 minutter til 1 time, til kikærterne er møre. Du bestemmer selv, hvor meget bid de skal have.</p><p>Vend retten med spinat og yoghurt, når du serverer, og sæt mangomix på bordet.</p><p><strong>Tip:</strong> Slut retten af med et par store håndfulde babyspinat, der vendes i lige før servering. Det er et fedt grønt pust til retten.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/123. Tikka One Pot Masala.jpg",
+    "Source": "Gorm's One Pot",
+    "Keywords": ["One Pot", "Lam", "Kikærter"]
+}

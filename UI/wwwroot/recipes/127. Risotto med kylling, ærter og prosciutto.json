@@ -1,0 +1,32 @@
+{
+    "Id": 127,
+    "Title": "Risotto med kylling, ærter og prosciutto",
+    "SubHeader": null,
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 60,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 7.5, "Unit": "dl", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 7.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 10, "Unit": "g", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lille løg", "PreparationNote": "80 g, hakket fint" },
+                { "Quantity": 400, "Unit": "g", "Name": "arborio-ris", "PreparationNote": null },
+                { "Quantity": 1.25, "Unit": "dl", "Name": "tør hvidvin", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": "hakket groft" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 180, "Unit": "g", "Name": "frosne ærter", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "skiver", "Name": "lufttørret skinke", "PreparationNote": "prosciutto, 90 g" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "frisk salvie", "PreparationNote": "i tynde strimler" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Hæld bouillon og vand i en stor gryde, og bring det i kog. Skru ned for varmen, og lad det simre under låg.</p><p>Varm smørret og halvdelen af olien i en stor gryde, og steg løget, til det er blødt. Tilsæt ris, og rør i risene, så de bliver dækket af blandingen. Tilsæt vin, og lad det koge, til den er næsten fordampet.</p><p>Rør 2,5 dl af den simrende bouillon i. Rør i risene ved svag varme, til væsken er opsuget. Fortsæt med at tilsætte bouillon til risene på samme måde, og rør hver gang, til væsken er opsuget. Den samlede kogetid er ca. 35 minutter, til risene er møre.</p><p>Varm imens resten af olien på en mellemstor stegepande, og steg kyllingen, til den er gennemstegt. Tilsæt hvidløg, og rør i det, til det dufter. Rør kyllingeblandingen og ærter i risottoen.</p><p>Steg skinken på den samme pande, til den er sprød. Læg den på fedtsugende papir, og bræk den i stykker. Rør salvie og halvdelen af skinken i risottoen. Pynt med resten af skinken.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/127. Risotto med kylling, ærter og prosciutto.jpg",
+    "Source": null,
+    "Keywords": ["Kylling", "Pasta"]
+}

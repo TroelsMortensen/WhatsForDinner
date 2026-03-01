@@ -1,0 +1,44 @@
+{
+    "Id": 128,
+    "Title": "Kinesisk-inspireret kyllingegryde",
+    "SubHeader": null,
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Marinade",
+            "Ingredients": [
+                { "Quantity": 0.75, "Unit": "dl", "Name": "sødlig hvidvin eller mirin", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "østerssauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soja", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "g", "Name": "kyllingeoverlår", "PreparationNote": "uden skind, halveret på langs af benet" },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie til stegning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "fint hakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "i mindre buketter, stokken i 2 cm tern" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "friskrevet ingefær", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "hønsebouillon", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "mangomix", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>I gryden</h2><p>Vend kyllingen i marinaden, giv den et trut peber, og lad den trække et par timer.</p><p>Dryp kyllingen af for marinade, og gem marinaden.</p><p>Steg kyllingen gylden i olien.</p><p>Kom nu løg, hvidløg, broccolistok og ingefær ved, og vend rundt et par gange.</p><p>Tilsæt ris, og rør rundt.</p><p>Hæld vand og resten af marinaden ved, tilsæt bouillon, og lad det simre i 10 minutter, til der næsten ikke er mere væske.</p><p>Kom broccoli i gryden, læg låg på, og lad det dampe færdig på eftervarmen.</p><p>Server evt. med mangomix.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/128. Kinesisk-inspireret kyllingegryde.jpg",
+    "Source": "Gorm's One Pot",
+    "Keywords": ["One Pot", "Kylling", "Asiatisk"]
+}
