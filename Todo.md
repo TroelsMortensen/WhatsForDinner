@@ -5,3 +5,7 @@
 * Søgning efter keyword. Det skal være sådan en liste af buttons, man kan slå til og fra
 * søgning ud fra tid.
 * Jeg er ikke helt tilfreds med home page layout responsive design. Jeg vil have right gutter til at forsvinde før de andre elementer bliver smallere. Detalje.
+* Copy function på ingredienser 
+* Refactor home til component. 
+* Vis id på recipe page. 
+* Air fryer keyword

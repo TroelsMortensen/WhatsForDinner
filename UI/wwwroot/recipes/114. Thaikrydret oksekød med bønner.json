@@ -1,0 +1,31 @@
+{
+    "Id": 114,
+    "Title": "Thaikrydret oksekød med bønner",
+    "SubHeader": null,
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "i kvarter" },
+                { "Quantity": 2, "Unit": null, "Name": "lange grønne chili", "PreparationNote": "udkernede, grofthakkede" },
+                { "Quantity": 2, "Unit": null, "Name": "små røde chili", "PreparationNote": "udkernede, grofthakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "jordnøddeolie", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "lange grønne bønner", "PreparationNote": "i 3 cm stykker (snake beans)" },
+                { "Quantity": 1, "Unit": null, "Name": "mellemstor rød peberfrugt", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "kecap asin", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "dl", "Name": "hoisinsauce", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "forårsløg", "PreparationNote": "i 3 cm stykker" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "knuste usaltede peanuts", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Blend hvidløg og chili, indtil de er finthakkede.</p><p>Opvarm halvdelen af olien i en wok; svits hvidløgsblandingen, indtil den dufter. Tilsæt kødet og lynsteg det, lidt ad gangen, indtil det er gennemstegt.</p><p>Opvarm resten af olien i en ren wok; lynsteg bønner og peberfrugt, indtil de er møre, men stadig sprøde.</p><p>Tilsæt kødet sammen med saucer og løg; lynsteg, indtil det er gennemvarmt. Drys nødderne over. Servér evt. med limebåde.</p>",
+    "Note": "Bemærk: Snake beans er ca. 40 cm lange, tynde, runde, grønne bønner. De stammer fra Asien og har en smag, der minder meget om vores tynde, grønne bønner, der kan bruges i stedet.",
+    "ImageUrl": "images/recipe-images/114. Thaikrydret oksekød med bønner.jpg",
+    "Source": null,
+    "Keywords": ["Oksekød", "Asiatisk"]
+}

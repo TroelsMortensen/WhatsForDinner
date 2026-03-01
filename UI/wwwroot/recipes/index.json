@@ -814,5 +814,46 @@
       "Vegetar",
       "Suppe"
     ]
+  },
+  {
+    "Id": 113,
+    "Title": "Panang karry med kylling og ris",
+    "Keywords": [
+      "Kylling",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 114,
+    "Title": "Thaikrydret oksekød med bønner",
+    "Keywords": [
+      "Oksekød",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 115,
+    "Title": "Pastasalat med tyrkisk-inspireret kødsovs",
+    "Keywords": [
+      "Oksekød",
+      "Pasta"
+    ]
+  },
+  {
+    "Id": 116,
+    "Title": "Sweet & sour chicken",
+    "Keywords": [
+      "Kylling",
+      "Asiatisk"
+    ]
+  },
+  {
+    "Id": 117,
+    "Title": "Ungarsk gullasch-pot",
+    "Keywords": [
+      "One Pot",
+      "Oksekød",
+      "Klassiker"
+    ]
   }
 ]
