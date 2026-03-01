@@ -12,3 +12,4 @@ riderModule.iml
 /WhatsForDinner.sln.DotSettings.user
 /RawDataExtracted/
 scripts/repair_recipes_from_images.py
+Tools/UpdateRecipeIndex.ps1
