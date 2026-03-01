@@ -855,5 +855,48 @@
       "Oksekød",
       "Klassiker"
     ]
+  },
+  {
+    "Id": 118,
+    "Title": "Veggie-curry med kikærter og søde kartofler",
+    "Keywords": [
+      "One Pot",
+      "Vegetar",
+      "Kikærter"
+    ]
+  },
+  {
+    "Id": 119,
+    "Title": "Dhal på grøn karry, aubergine og kokos",
+    "Keywords": [
+      "One Pot",
+      "Vegetar"
+    ]
+  },
+  {
+    "Id": 120,
+    "Title": "Dhal på rød karry",
+    "Keywords": [
+      "One Pot",
+      "Vegetar"
+    ]
+  },
+  {
+    "Id": 121,
+    "Title": "Middelhavs-ratatouille og kikærter",
+    "Keywords": [
+      "One Pot",
+      "Vegetar",
+      "Kikærter"
+    ]
+  },
+  {
+    "Id": 122,
+    "Title": "Verdens nemmeste - kylling og kikærter i karry",
+    "Keywords": [
+      "One Pot",
+      "Kylling",
+      "Kikærter"
+    ]
   }
 ]

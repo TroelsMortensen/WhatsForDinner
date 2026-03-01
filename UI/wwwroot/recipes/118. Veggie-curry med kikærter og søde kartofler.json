@@ -1,0 +1,35 @@
+{
+    "Id": 118,
+    "Title": "Veggie-curry med kikærter og søde kartofler",
+    "SubHeader": "Sund, smagfuld og perfekt til den kødfri dag.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "sigtet fra vandet, men gem vandet til retten" },
+                { "Quantity": 500, "Unit": "g", "Name": "blomkål", "PreparationNote": "i buketter" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie til stegning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "god gul karry", "PreparationNote": null },
+                { "Quantity": 750, "Unit": "g", "Name": "søde kartofler", "PreparationNote": "i 2 cm tern" },
+                { "Quantity": 2, "Unit": null, "Name": "porrer", "PreparationNote": "skyllet og skåret skråt i 2 cm tykke skiver" },
+                { "Quantity": 1, "Unit": null, "Name": "stor rød snackpeber", "PreparationNote": "i strimler" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "frisk spinat", "PreparationNote": "gerne rigtig og ikke baby" }
+            ]
+        },
+        {
+            "Title": "Pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "koriander, chilisalat, lime og en klat drænet yoghurt", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>I gryden</h2><p>Steg kikærter og blomkål hårdt af i olivenolie.</p><p>Tilsæt gul karry, og varm kort igennem.</p><p>Kom søde kartofler, porrer og snackpeber i retten sammen med kokosmælk.</p><p>Hvis der mangler væske, så spæd op med kikærtevandet.</p><p>Lad det simre i 6-10 minutter, indtil de søde kartofler er møre. Vend spinaten i, og lad den dampe med de sidste 2 minutter.</p><p>Server med masser af koriander, chilisalat, limesaft og et dryp tyk yoghurt.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/118. Veggie-curry med kikærter og søde kartofler.jpg",
+    "Source": "Gorm's One Pot",
+    "Keywords": ["One Pot", "Vegetar", "Kikærter"]
+}
