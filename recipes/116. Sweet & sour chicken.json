@@ -1,0 +1,31 @@
+{
+    "Id": 116,
+    "Title": "Sweet & sour chicken",
+    "SubHeader": "Crispy chicken with vegetables, wok sauce and rice",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredients",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "white rice", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "flour", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "chicken breast", "PreparationNote": "diced" },
+                { "Quantity": 100, "Unit": "ml", "Name": "low-fat yogurt", "PreparationNote": "unsweetened" },
+                { "Quantity": 100, "Unit": "g", "Name": "panko bread crumbs", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "ml", "Name": "sweet & sour wok sauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bunch", "Name": "chives", "PreparationNote": "half finely chopped, half in rings" },
+                { "Quantity": 1, "Unit": null, "Name": "bok choy", "PreparationNote": "in strips" },
+                { "Quantity": 2, "Unit": null, "Name": "orange bell peppers", "PreparationNote": "in strips" },
+                { "Quantity": null, "Unit": null, "Name": "pepper and salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sunflower oil", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Preparation</h2><p>Prepare rice according to directions on packet.</p><p>Season flour with pepper and salt. Coat chicken breast pieces in flour.</p><p>Then combine with yogurt. Make sure each piece is fully coated in yogurt.</p><p>Cover coated chicken pieces one by one in the panko breadcrumbs, so that they are fully covered.</p><p>Preheat aerofryer to 190°C.</p><p>Place chicken pieces out over aerofryer basket. Cook 10 minutes until crisp and done. Give a good shake halfway through.</p><p>Meanwhile, heat two tbsp oil in a wok. Stir-fry vegetables, except for chive rings, for 5 minutes until softened. Add sweet & sour sauce and cook a little longer. As last, add crispy chicken pieces and combine.</p><p>Serve the Sweet and Sour Chicken with rice. Sprinkle with chive rings.</p>",
+    "Note": "You need: Pepper, salt and sunflower oil.",
+    "ImageUrl": "images/recipe-images/116. Sweet & sour chicken.jpg",
+    "Source": null,
+    "Keywords": ["Kylling", "Asiatisk"]
+}

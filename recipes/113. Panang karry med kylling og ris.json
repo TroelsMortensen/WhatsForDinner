@@ -1,0 +1,44 @@
+{
+    "Id": 113,
+    "Title": "Panang karry med kylling og ris",
+    "SubHeader": "Kylling i aromatisk rød karry med ris, kokosmælk og grønne bønner",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "ps", "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Forberedelse",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "grønne bønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "øko (skal og saft)" },
+                { "Quantity": 2, "Unit": "pk", "Name": "kyllingebryst", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Panang karry",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "madolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "tsk", "Name": "panang karrypasta", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "ps", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "fiskesauce", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Skyl risene grundigt under koldt vand i en si.</p><p>Kom de skyllede ris i en gryde med rigeligt friskt vand (minimum 4 dele vand for hver del ris) og lidt salt.</p><p>Kog vandet op. Skru ned for varmen og lad risene simre under låg i ca. 9 min.</p><p>Si det overskydende vand fra risene. Kom risene tilbage i gryden og lad dem hvile i gryden i ca. 9 min. under låg.</p><h3>Forberedelse</h3><p>Pil og hak hvidløg.</p><p>Skyl bønner, nip enderne af og halver dem på langs.</p><p>Skyl og riv skallen af lime og skær i både.</p><p>På et andet skærebræt, skær kylling i mundrette bidder.</p><h3>Panang karry</h3><p>Varm en god mængde olie i en gryde, og steg kyllingen, til det er brunet af. Krydr med salt og peber undervejs.</p><p>Tilsæt hvidløg og karrypasta (justér mængden af karrypasta, hvis du foretrækker en mildere udgave), og steg kort.</p><p>Tilsæt kokosmælk, vand, bouillon og sukker. Bring retten i kog, skru ned og lad den simre stille og roligt i ca. 10 min. under låg.</p><p>Smag til med fiskesauce, limeskal og -saft, ekstra sukker, salt og peber.</p><p>Vend de grønne bønner i karrysovsen og lad dem simre med i ca. 5 min., til de er møre.</p><p>Servér panang karry med kylling og grønne bønner. Nyd med ris og en limebåd. Top gerne med koriander eller basilikum hvis du har.</p>",
+    "Note": "Du skal have: Madolie, sukker, salt og peber.",
+    "ImageUrl": "images/recipe-images/113. Panang karry med kylling og ris.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Kylling", "Asiatisk"]
+}

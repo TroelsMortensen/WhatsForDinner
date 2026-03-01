@@ -1,0 +1,42 @@
+{
+    "Id": 121,
+    "Title": "Middelhavs-ratatouille og kikærter",
+    "SubHeader": "Som ret og som mega nemt og lækkert tilbehør til stegt kød.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "aubergine", "PreparationNote": "skåret i tern, let saltet og afdryppet i 30 minutter" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie til stegning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "skåret i tern, let saltet og afdryppet i 30 minutter" },
+                { "Quantity": 1, "Unit": "stor spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "rødløg", "PreparationNote": "hakket" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": null, "Name": "søde røde peberfrugter", "PreparationNote": "skåret i tern, evt. snackpeber" },
+                { "Quantity": 4, "Unit": null, "Name": "bøftomater", "PreparationNote": "eller en masse blommetomater, skåret i tern" },
+                { "Quantity": 1, "Unit": "dusk", "Name": "timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stilk", "Name": "frisk rosmarin", "PreparationNote": "plukket af stilken" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": "gerne stærk, hvis du har" },
+                { "Quantity": 1, "Unit": "dl", "Name": "rødvin", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåser", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "kikærtevand fra dåsen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "savojkål", "PreparationNote": "skåret i grove strimler" }
+            ]
+        },
+        {
+            "Title": "Pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "olivenmix og cremefraiche 38 %", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>I gryden</h2><p>Steg auberginen gylden i rigeligt olivenolie.</p><p>Tilsæt squash, og steg med i 3-4 minutter sammen med tomatpuré.</p><p>Så skal der løg, hvidløg, peberfrugt, bøftomater, krydderurter, paprika, rødvin, kikærter og vand i gryden.</p><p>Vend det rundt, og giv det lidt salt og peber.</p><p>Læg kålen på toppen, og lad det simre i 15 minutter.</p><p>Smag til med salt og peber.</p><p>Serveres evt. med olivenmix og en klat fed cremefraiche.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/121. Middelhavs-ratatouille og kikærter.jpg",
+    "Source": "Gorm's One Pot",
+    "Keywords": ["One Pot", "Vegetar", "Kikærter"]
+}

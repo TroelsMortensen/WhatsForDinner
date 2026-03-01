@@ -1,0 +1,40 @@
+{
+    "Id": 122,
+    "Title": "Verdens nemmeste - kylling og kikærter i karry",
+    "SubHeader": "Curry in a hurry, som den gode Henrik Yde ville sige det...",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 800, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i grove stykker" },
+                { "Quantity": null, "Unit": null, "Name": "lidt rapsolie til stegning", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "gul karrypasta", "PreparationNote": "eller 1 spsk god gul tørret karry" },
+                { "Quantity": 1, "Unit": "terning", "Name": "hønse- eller grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "dåser", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "kikærtevand fra dåsen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "blomkål", "PreparationNote": "i buketter" },
+                { "Quantity": 300, "Unit": "g", "Name": "grønkål", "PreparationNote": "skyllet og plukket groft – stilke hakket for sig" },
+                { "Quantity": 2, "Unit": "bundter", "Name": "forårsløg", "PreparationNote": "skåret i grove stykker på skrå" },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "raita", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "evt. naanbrød", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>I gryden</h2><p>Steg kyllingen af i olie. Når den har taget farve, tilsæt karry, og lun hurtigt igennem.</p><p>Tilsæt bouillon, hvidløg, kikærter, vand og kokosmælk. Lad det simre i 8 minutter.</p><p>Tilsæt så blomkål, grønkål og forårsløg, og lad det simre videre i 3-4 minutter.</p><p>Smag til med limesaft, salt og peber, og server med raita.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/122. Verdens nemmeste - kylling og kikærter i karry.jpg",
+    "Source": "Gorm's One Pot",
+    "Keywords": ["One Pot", "Kylling", "Kikærter"]
+}

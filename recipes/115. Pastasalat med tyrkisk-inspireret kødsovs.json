@@ -1,0 +1,57 @@
+{
+    "Id": 115,
+    "Title": "Pastasalat med tyrkisk-inspireret kødsovs",
+    "SubHeader": "En farverig og krydret pastasalat med frisk grønt, dressing og en kødsovs med et tyrkisk twist",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Pasta",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "pasta", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kødsovs",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "pk", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "tsk", "Name": "gyroskrydderi", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "vand", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Smørsauce",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Creme fraiche dressing",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "pk", "Name": "creme fraiche", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "tomat", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": null, "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bdt", "Name": "persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Pasta</h3><p>Kog pasta i letsaltet vand efter pakkens anvisninger, til den er al dente.</p><p>Gem ca. 1/2 dl kogevand pr. medspiser og stil til side. Hæld resten af kogevandet fra pastaen.</p><h3>Kødsovs</h3><p>Pil og hak løg og hvidløg fint. Gem halvdelen af hvidløget til dressingen.</p><p>Varm lidt olie op på en stegepande og steg løg og hvidløg, til løgene er klare.</p><p>Tilsæt hakket oksekød og krydderimix til stegepanden, og steg kødet til det er gennemstegt.</p><p>Tilsæt tomatpuré og vand. Lad kødsovsen simre ved lav varme, imens resten forberedes.</p><h3>Smørsauce</h3><p>Smelt smør i en gryde og rør sammen med tomatpuré og chiliflager (justér evt. selv mængden af chiliflager i forhold til den ønskede styrke). Lad det hele stege hurtigt sammen i gryden. Tag smørsaucen af varmen.</p><h3>Creme fraiche dressing</h3><p>Rør det gemte hvidløg i creme fraichen. Smag til med salt og peber.</p><h3>Servering</h3><p>Smag kødsovsen til med salt og peber og justér evt. konsistensen en smule med lidt af det gemte pastavand.</p><p>Skyl tomat og agurk og skær i små tern.</p><p>Pluk, skyl og hak persille fint.</p><p>Servér pastaen toppet med dressing, kødsovs, smørsauce, frisk tomat, agurk og persille (eller rør det hele sammen i en stor salatskål inden servering).</p>",
+    "Note": "Du skal have: Madolie, smør, salt og peber.",
+    "ImageUrl": "images/recipe-images/115. Pastasalat med tyrkisk-inspireret kødsovs.jpg",
+    "Source": "Nemlig",
+    "Keywords": ["Oksekød", "Pasta"]
+}
