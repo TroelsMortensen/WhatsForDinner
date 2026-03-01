@@ -21,6 +21,7 @@
     else
     {
         <article class="recipe-page">
+        <p class="recipe-id">Opskrift nummer @RecipeData.Id</p>
         <header class="recipe-header">
             <h1>@RecipeData.Title</h1>
             @if (!string.IsNullOrWhiteSpace(RecipeData.ImageUrl))

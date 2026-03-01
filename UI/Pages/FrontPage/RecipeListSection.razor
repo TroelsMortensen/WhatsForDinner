@@ -1,0 +1,34 @@
+<section class="home-card search-card">
+    <details>
+        <summary>Søgning og opskrifter</summary>
+
+        <div class="card-content">
+            <div class="search-block">
+                <label for="recipe-search">Søg opskrifter</label>
+                <input id="recipe-search" type="search" placeholder="Søg opskrifter (kommer senere)" />
+            </div>
+
+            @if (IsLoading)
+            {
+                <p>Indlæser opskrifter...</p>
+            }
+            else if (!string.IsNullOrWhiteSpace(ErrorMessage))
+            {
+                <p class="error-message">@ErrorMessage</p>
+            }
+            else if (!Recipes.Any())
+            {
+                <p>Ingen opskrifter fundet.</p>
+            }
+            else
+            {
+                <ul class="recipe-list">
+                    @foreach (var recipe in Recipes)
+                    {
+                        <li><a href="recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
+                    }
+                </ul>
+            }
+        </div>
+    </details>
+</section>

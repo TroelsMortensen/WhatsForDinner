@@ -11,68 +11,8 @@
         </aside>
 
         <div class="home-sections">
-            <section class="home-card planner-card">
-                <details>
-                    <summary>Generer en madplan</summary>
-
-                    <div class="card-content">
-                        <div class="planner-controls">
-                            <label for="planner-count">Antal opskrifter</label>
-                            <input id="planner-count" type="number" min="1" step="1" @bind="PlannerRecipeCount" />
-                            <button type="button" @onclick="GenerateWeeklyPlan">Lav madplan</button>
-                        </div>
-
-                        @if (!string.IsNullOrWhiteSpace(WeeklyPlanErrorMessage))
-                        {
-                            <p class="error-message">@WeeklyPlanErrorMessage</p>
-                        }
-                        else if (WeeklyPlanItems.Any())
-                        {
-                            <ul class="weekly-plan-list">
-                                @foreach (var recipe in WeeklyPlanItems)
-                                {
-                                    <li><a href="recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
-                                }
-                            </ul>
-                        }
-                    </div>
-                </details>
-            </section>
-
-            <section class="home-card search-card">
-                <details>
-                    <summary>Søgning og opskrifter</summary>
-
-                    <div class="card-content">
-                        <div class="search-block">
-                            <label for="recipe-search">Søg opskrifter</label>
-                            <input id="recipe-search" type="search" placeholder="Søg opskrifter (kommer senere)" />
-                        </div>
-
-                        @if (IsLoading)
-                        {
-                            <p>Indlæser opskrifter...</p>
-                        }
-                        else if (!string.IsNullOrWhiteSpace(ErrorMessage))
-                        {
-                            <p class="error-message">@ErrorMessage</p>
-                        }
-                        else if (!RecipeItems.Any())
-                        {
-                            <p>Ingen opskrifter fundet.</p>
-                        }
-                        else
-                        {
-                            <ul class="recipe-list">
-                                @foreach (var recipe in RecipeItems)
-                                {
-                                    <li><a href="recipe/@recipe.Id">@recipe.Id. @recipe.Title</a></li>
-                                }
-                            </ul>
-                        }
-                    </div>
-                </details>
-            </section>
+            <MealPlannerSection AllRecipes="RecipeIndices" IsLoading="IsLoading" />
+            <RecipeListSection Recipes="RecipeIndices" IsLoading="IsLoading" ErrorMessage="@ErrorMessage" />
         </div>
 
         <div class="right-gutter-spacer" aria-hidden="true"></div>

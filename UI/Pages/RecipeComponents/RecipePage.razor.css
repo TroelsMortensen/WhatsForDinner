@@ -15,6 +15,12 @@
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
 }
 
+.recipe-id {
+    font-size: 1em;
+    color: #666;
+    margin: 0 0 8px;
+}
+
 .home-link {
     display: inline-block;
     margin-bottom: 18px;
