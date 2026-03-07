@@ -1,0 +1,32 @@
+{
+    "Id": 135,
+    "Title": "Gulerodsgryde med kylling og spinat",
+    "SubHeader": "Hurtig gryderet med kylling, spinat og gulerødder – nem aftensmad med ris.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i mindre tern" },
+                { "Quantity": 1, "Unit": null, "Name": "stort rødløg", "PreparationNote": "hakket fint" },
+                { "Quantity": 1, "Unit": null, "Name": "grøn peberfrugt", "PreparationNote": "i små tern" },
+                { "Quantity": 5, "Unit": null, "Name": "gulerødder", "PreparationNote": "vaskes og skæres i små tern" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "bouillon", "PreparationNote": "gerne hønsebouillon" },
+                { "Quantity": 2, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "spinat", "PreparationNote": "frisk og skyllet" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingebryst i mindre tern og steg dem i en stor pande eller stegegryde. Steg gerne i smør for smagens skyld.</p><p>Hak rødløget fint og snit peberfrugten i mindre tern. Vask gulerødderne og skær dem i små tern. Kom løg, peberfrugt og gulerødder ved kyllingekødet.</p><p>Tilsæt karry og paprika og lad det riste et minut under omrøring. Kom hakkede tomater, vand, bouillonterning og fløde i.</p><p>Lad det koge 10-12 minutter ved middel varme. Tilsæt evt. mere vand eller fløde efter behag.</p><p>Tilsæt spinat lidt ad gangen, så den når at falde sammen. Smag til med salt og friskkværnet peber.</p>",
+    "Note": "Server med kogte ris.",
+    "ImageUrl": "images/recipe-images/135. Gulerodsgryde med kylling og spinat.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Kylling"]
+}

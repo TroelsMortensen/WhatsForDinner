@@ -1,0 +1,33 @@
+{
+    "Id": 134,
+    "Title": "Indisk dahl",
+    "SubHeader": "Vegetarisk gryderet med røde linser og krydderier – serveres med raita og naanbrød.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "revet" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": "dl", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "karry", "PreparationNote": "gerne med top" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chili", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "koriander", "PreparationNote": "kan undværes" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Svits løg, hvidløg og ingefær i olien i en gryde. Det må ikke tage farve.</p><p>Kom røde linser i gryden sammen med karry, spidskommen og chili. Lad krydderierne brænde lidt af.</p><p>Tilsæt hakkede tomater og vand. Mængden af vand afhænger af, hvor tyk eller tynd du ønsker din dahl. Lad retten simre 20 minutter under låg.</p><p>Tilsæt tomatpuré, rør godt rundt og lad det simre videre i 5-10 minutter. Kom koriander i, hvis du ønsker det. Smag til med salt og friskkværnet peber.</p><p>Tilsæt evt. mere vand, hvis du ønsker en tyndere version.</p>",
+    "Note": "Server med raita og naanbrød.",
+    "ImageUrl": "images/recipe-images/134. Indisk dahl.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Vegetar", "Indisk"]
+}

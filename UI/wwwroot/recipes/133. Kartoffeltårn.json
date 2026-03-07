@@ -1,0 +1,26 @@
+{
+    "Id": 133,
+    "Title": "Kartoffeltårn",
+    "SubHeader": "Kartoffeltårn samlet med brunet smør og timian – smukt tilbehør til bøf eller oksesteg.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "bagekartofler", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "frisk timian", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "flagesalt", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "tandstikkere eller bambusspyd", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Bagekartoflerne skæres i tynde skiver – helst på et mandolinjern. En skarp kniv kan også bruges.</p><p>Læg kartoffelskiverne i en skål med iskoldt vand, og lad dem trække i 20 minutter.</p><p>Tør kartoffelskiverne i et rent viskestykke.</p><p>Smelt smørret i en kasserolle. Pil og hak hvidløg fint eller pres det, og kom det i det smeltede smør. Lad det brune, og tag kasserollen af blusset.</p><p>Byg kartoffeltårnene: Læg fire kartoffelskiver i et fad med bagepapir (gerne nogle af de største).</p><p>Pensl kartoffelskiverne med lidt brunet hvidløgssmør, drys med lidt frisk timian og salt.</p><p>Fortsæt med at bygge tårnene lag for lag op til 10-12 lag. Pensl med brunet smør for hvert lag, men krydr kun med timian og salt mellem hvert andet lag, så tårnene ikke bliver for saltede.</p><p>Pensl det øverste lag med hvidløgssmørret, og stik en pind ned gennem hvert tårn, så de ikke vælter.</p><p>Bag kartoffeltårnene ved 190 °C varmluft i 30 minutter.</p>",
+    "Note": "Serveres straks til bøffer eller møre oksestege.",
+    "ImageUrl": "images/recipe-images/133. Kartoffeltårn.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Vegetar", "Tilbehør"]
+}

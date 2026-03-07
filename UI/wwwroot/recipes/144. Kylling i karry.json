@@ -1,0 +1,31 @@
+{
+    "Id": 144,
+    "Title": "Kylling i karry",
+    "SubHeader": "Nem gryderet med kylling, karry, grøntsager og hønsefond – serveres med ris.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": 4, "Unit": null, "Name": "kyllingebryst", "PreparationNote": "skåret i mundrette stykker" },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset eller finthakket" },
+                { "Quantity": 3, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "dl", "Name": "hønsebouillon", "PreparationNote": "gerne varm" },
+                { "Quantity": 2, "Unit": null, "Name": "æbler", "PreparationNote": "i mindre tern" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "mangochutney", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "i mindre stykker" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Brun smør i en sauterpande og svits kyllingebryst i mundrette stykker i 5 minutter. Vend nogle gange.</p><p>Kom rødløg og hvidløg ved sammen med karry, så karryen brændes lidt af. Lad det svitse kort.</p><p>Kom hvedemel på og vend rundt (det jævner retten).</p><p>Hæld hønsebouillon ved sammen med æbler i tern og mangochutney. Lad det simre 8–10 minutter, evt. under låg.</p><p>Kort før færdig: kom forårsløg i og smag til med salt og friskkværnet peber. Evt. mere mangochutney eller chili for mere spicy. Er sovsen for tyk: tilsæt lidt mere vand.</p>",
+    "Note": "Server med kogte ris (evt. fuldkornsris). Kan drysses med ananas i stykker. Fryseegnet.",
+    "ImageUrl": "images/recipe-images/144. Kylling i karry.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Kylling"]
+}

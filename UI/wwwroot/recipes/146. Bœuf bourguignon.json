@@ -1,0 +1,32 @@
+{
+    "Id": 146,
+    "Title": "Bœuf bourguignon",
+    "SubHeader": "Mørt oksekød simret i rødvinssauce – lavfedtet udgave af den franske klassiker. Tilberedes i slow cooker.",
+    "TotalMinutes": 650,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "fedtfri madlavningsspray", "PreparationNote": null },
+                { "Quantity": 625, "Unit": "g", "Name": "grydekød af okse", "PreparationNote": "afpasset, i tern" },
+                { "Quantity": 100, "Unit": "g", "Name": "bacon", "PreparationNote": "i tern" },
+                { "Quantity": 300, "Unit": "g", "Name": "små skalotteløg", "PreparationNote": "skrællet" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "ml", "Name": "rødvin", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "ml", "Name": "oksebouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tomatpurée", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "lille bundt", "Name": "krydderurter", "PreparationNote": "blanding eller tørret bouquet garni" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "hakket persille", "PreparationNote": "til pynt" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cooker efter anvisning.</p><p>Spray en stor pande med fedtfri madlavningsspray og varm den ved høj varme. Kom oksekød i i portioner og brun i 5 minutter under omrøring. Flyt kødet til slow cooker med en hulske.</p><p>Kom bacon og skalotteløg i panden og steg ved middel varme 2–3 minutter til bacon begynder at blive brunet. Rør hvidløg og mel i, tilsæt vin, bouillon, tomatpurée og urter. Krydr og bring i kog under omrøring.</p><p>Hæld sauce over kødet i slow cooker, læg låg på og lad stå på lav varme i 10–11 timer til kødet er mørt.</p><p>Rør rundt, drys med persille og server med ris.</p>",
+    "Note": "Variant – Oksegulasj: Brug samme fremgangsmåde men erstat urterne med 2 tsk mild paprika, 1 tsk spidskommen, ¼ tsk stødt kanel og ½ tsk stødt allehånde.",
+    "ImageUrl": "images/recipe-images/146. Boeuf bourguignon.jpg",
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Oksekød", "Slow Cooker"]
+}

@@ -1,0 +1,40 @@
+{
+    "Id": 136,
+    "Title": "Gnocchi i tomatsauce med citronstegt kylling",
+    "SubHeader": "Italiensk ret med gnocchi i tomatsauce og citronstegt kylling – nem og hurtig at lave.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Citronstegt kylling",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "knuste" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rosmarin", "PreparationNote": "hakket" },
+                { "Quantity": null, "Unit": null, "Name": "citronsaft", "PreparationNote": "friskpresset" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Gnocchi i tomatsauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "gnocchi", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rosmarin", "PreparationNote": "hakket" },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "eller tomatpassata" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "citronsaft", "PreparationNote": "friskpresset" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Citronstegt kylling</h3><p>Gør kyllingebrystene klar og skær fedt og urenheder fra. Smelt smør på en varm pande og kom hvidløg og rosmarin ved. Ryst panden rundt.</p><p>Brun kyllingefileterne godt på begge sider og dryp med friskpresset citronsaft. Krydr med salt og friskkværnet peber.</p><p>Sæt panden i ovnen ved 180 °C varmluft i ca. 10 minutter. Alternativt steg færdig på blusset i 5 minutter på hver side.</p><h3>Gnocchi i tomatsauce</h3><p>Steg løg og hvidløg i olivenolie i en dyb pande uden at lade det tage farve.</p><p>Vend gnocchi og rosmarin i og steg videre et par minutter.</p><p>Tilsæt hakkede tomater og oregano og lad det simre ca. 5 minutter. Smag til med citronsaft, salt og friskkværnet peber.</p><p>Anret gnocchi i tomatsauce nederst på tallerkener og læg kyllingebryst skåret i tynde skiver ovenpå. Dryp gerne stegeskyen fra kyllingen over.</p>",
+    "Note": "Server evt. med salat og brød (focaccia eller ciabatta).",
+    "ImageUrl": "images/recipe-images/136. Gnocchi i tomatsauce med citronstegt kylling.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Kylling", "Pasta"]
+}

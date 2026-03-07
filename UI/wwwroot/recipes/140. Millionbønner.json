@@ -1,0 +1,41 @@
+{
+    "Id": 140,
+    "Title": "Millionbønner",
+    "SubHeader": "Nem sammenkogt ret med sorte bønner, grøntsager og krydderier – vegetarisk og serveres med kartoffelmos.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Millionbønner",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "champignon", "PreparationNote": "i kvarte" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 1, "Unit": null, "Name": "stort rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 150, "Unit": "g", "Name": "knoldselleri", "PreparationNote": "i små tern" },
+                { "Quantity": 150, "Unit": "g", "Name": "gulerod", "PreparationNote": "i små tern" },
+                { "Quantity": 2, "Unit": "dåser", "Name": "sorte bønner", "PreparationNote": "skyllet" },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpurée", "PreparationNote": "koncentreret" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "citronsaft", "PreparationNote": "friskpresset" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Mos",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "kg", "Name": "kartofler", "PreparationNote": "i mindre tern til mos" },
+                { "Quantity": 1, "Unit": "dl", "Name": "mælk", "PreparationNote": "måske lidt mere" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Gør alle grøntsager klar som beskrevet.</p><p>Steg champignon godt af i en dyb sauterpande eller gryde, så de får farve. Tilsæt olivenolie sammen med rødløg og hvidløg. Lad det stege ca. 1 minut uden at løgene tager farve.</p><p>Kom knoldselleri og gulerod ved. Skyl sorte bønner grundigt og kom dem også i.</p><p>Tilsæt vand, grøntsagsbouillon, tomatpurée og oregano. Lad det koge op, læg låg på, skru ned og lad det simre 15–20 minutter til alt er mørt.</p><h3>Mos</h3><p>Skær kartofler i mindre tern og kog dem i koldt vand i ca. 15 minutter til de er møre. Hæld vandet fra og mos med mælk (gradvist) til ønsket konsistens. Smag til med salt og peber.</p><p>Smag millionbønneretten til med citronsaft, salt og friskkværnet peber. Server bønneret på mos; drys evt. med krydderurter.</p>",
+    "Note": "Kan også serveres med ris i stedet for mos.",
+    "ImageUrl": "images/recipe-images/140. Millionbønner.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Vegetar", "Bælgfrugter"]
+}
