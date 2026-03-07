@@ -1,0 +1,34 @@
+{
+    "Id": 138,
+    "Title": "Ungarsk pusztagryde med oksekød og pasta",
+    "SubHeader": "Klassisk ungarsk pusztagryde med oksekød i tern, grøntsager, krydderier og pasta – simret til kødet er mørt.",
+    "TotalMinutes": 135,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "oksekød", "PreparationNote": "i tern, evt. oksebov" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 6, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 100, "Unit": "g", "Name": "gulerod", "PreparationNote": "i tern" },
+                { "Quantity": 100, "Unit": "g", "Name": "bladselleri", "PreparationNote": "i tern" },
+                { "Quantity": 7, "Unit": "dl", "Name": "oksebouillon", "PreparationNote": "evt. af vand og bouillonterninger" },
+                { "Quantity": 400, "Unit": "g", "Name": "tomatpassata", "PreparationNote": "eller hakkede tomater" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "pasta", "PreparationNote": "evt. pastarør eller pastaskruer" },
+                { "Quantity": null, "Unit": null, "Name": "citronsaft", "PreparationNote": "friskpresset" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Brun oksekød i tern godt af i en stegegryde eller sauterpande i olivenolie. Giv kødet en god stegeskorpe.</p><p>Hak løg og hvidløg og tilsæt. Steg med i ca. 1 minut.</p><p>Skær bladselleri og gulerod i tern og kom ved sammen med oksebouillon, tomatpassata, paprika, spidskommen og timian.</p><p>Lad det koge op, skru ned for varmen, læg låg på og lad det simre ved svag varme i ca. 1½ time (90 minutter), til kødet er helt mørt.</p><p>Tilsæt pasta og lad den koge mør i suppen (ca. 10–12 minutter). Smag til med citronsaft, salt og friskkværnet peber.</p>",
+    "Note": "Server med salat og groft brød, evt. broccolisalat.",
+    "ImageUrl": "images/recipe-images/138. Ungarsk pusztagryde med oksekød og pasta.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Oksekød", "Pasta"]
+}

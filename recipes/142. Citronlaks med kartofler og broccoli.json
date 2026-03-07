@@ -1,0 +1,47 @@
+{
+    "Id": 142,
+    "Title": "Citronlaks med kartofler og broccoli",
+    "SubHeader": "Nem og hurtig laks med citron, bagte kartoffeltern, broccoli og citronsauce.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Grøntsager",
+            "Ingredients": [
+                { "Quantity": 650, "Unit": "g", "Name": "kartofler", "PreparationNote": "i små tern, ca. 2×2 cm" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "citronsaft", "PreparationNote": "friskpresset" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "i små buketter" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "purløg", "PreparationNote": "hakket" }
+            ]
+        },
+        {
+            "Title": "Citronlaks",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "laks", "PreparationNote": "skåret ud i laksebøffer" },
+                { "Quantity": null, "Unit": null, "Name": "citronsaft", "PreparationNote": "friskpresset" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "lille løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "hønsebouillon", "PreparationNote": "evt. 2 dl vand + 1 terning" },
+                { "Quantity": 4, "Unit": "spsk", "Name": "citronsaft", "PreparationNote": "friskpresset, eller mere" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": "udrørt i lidt koldt vand" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "dild", "PreparationNote": "hakket" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 200 °C varmluft.</p><h3>Grøntsager</h3><p>Skær kartofler i mindre tern. Vend med olivenolie, citronsaft, salt og peber. Fordel i et ildfast fad og bag ca. 25 minutter. Vend broccoli i efter 25 minutter og dryp evt. lidt mere olie over. Bag yderligere 5 minutter. Hak purløg og vend i lige inden servering.</p><h3>Citronlaks</h3><p>Skær laks ud i laksebøffer og læg på bageplade eller ildfast fad. Dryp med citronsaft, salt og peber. Bag ca. 16–18 minutter – sæt laksen i ovnen, når kartoflerne har været ca. 15 minutter i ovnen.</p><h3>Sauce</h3><p>Hak løg og hvidløg fint og sauter i olivenolie i en lille gryde. Tilsæt hønsebouillon og kog op. Kom citronsaft i og jævn med majsstivelse udrørt i koldt vand. Smag til med mere citronsaft, salt og peber. Hak dild og vend i lige inden servering.</p><p>Server med kartofler, broccoli og sauce. Læg evt. skiver citron ved, så der kan klemmes mere saft over. Evt. groft brød til.</p>",
+    "Note": "Server med skiver citron ved. Evt. mini grovflutes til.",
+    "ImageUrl": "images/recipe-images/142. Citronlaks med kartofler og broccoli.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Laks"]
+}

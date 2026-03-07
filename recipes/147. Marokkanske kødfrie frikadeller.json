@@ -1,0 +1,51 @@
+{
+    "Id": 147,
+    "Title": "Marokkanske kødfrie frikadeller",
+    "SubHeader": "Vegetariske frikadeller med marokkanske krydderier, kogt i tomatsauce i slow cooker. Serveres med appelsin- og rosincouscous.",
+    "TotalMinutes": 240,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Sauce og frikadeller",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødt løg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "2 finthakkede til sauce, 1 til frikadeller" },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "dåse" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpurée", "PreparationNote": "1 spsk til sauce, 1 spsk til frikadeller" },
+                { "Quantity": 150, "Unit": "ml", "Name": "varm bouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "granatæblemelasse", "PreparationNote": "plus 2 tsk til frikadeller" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ras el hanout", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "skalotteløg", "PreparationNote": "i kvarte" },
+                { "Quantity": 15, "Unit": "g", "Name": "frisk ingefær", "PreparationNote": "skrællet" },
+                { "Quantity": 1, "Unit": null, "Name": "rød chili", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stor håndfuld", "Name": "koriander", "PreparationNote": "stilke og blade, plus ekstra hakket til pynt" },
+                { "Quantity": 1, "Unit": null, "Name": "preserveret citron", "PreparationNote": "halveret, kød skrabet ud, skal finthakkes" },
+                { "Quantity": 400, "Unit": "g", "Name": "kødfri hakket", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "skive", "Name": "tørt hvidt brød", "PreparationNote": "i stykker" },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "Dijon-sennep", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "valgfri, til ovnstegning af frikadeller" }
+            ]
+        },
+        {
+            "Title": "Appelsin- og rosincouscous",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "ml", "Name": "friskpresset appelsinjuice", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rosiner", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "hakket koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "pinjekerner", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Sauce</h3><p>Kom rødt løg, 2 fed hvidløg (finthakket), hakkede tomater, 1 spsk tomatpurée, varm bouillon, 1 spsk granatæblemelasse, ras el hanout, spidskommen og salt og peber i slow cooker. Læg låg på og lad koge på høj varme i 1 time.</p><h3>Frikadelleblanding</h3><p>Kom skalotteløg, 1 fed hvidløg, ingefær, chili og koriander (stilke og blade) i en foodprocessor. Halv den preservede citron, skrab kødet ud og kassér det, hak skallen fint og kom den i. Blend til en grov paste.</p><p>Tilsæt kødfri hakket, brød i stykker, stødt koriander, kanel, Dijon-sennep, 1 spsk tomatpurée og 2 tsk granatæblemelasse. Krydr med salt og peber. Pulse til det er blandet, og klem derefter blandingen godt sammen med hænderne.</p><h3>Frikadeller</h3><p>Valgfrit: Forvarm ovnen til 200 °C. Form frikadeller på størrelse med en lille golfbold. Læg dem på en bageplade med bagepapir, dryp med olivenolie og bag 15–20 minutter til de er brunede. Alternativt: kog frikadellerne direkte i saucen.</p><p>Rør frikadellerne forsigtigt ned i saucen. Læg låg på og lad koge på høj varme yderligere 1–1½ time til saucen er indkogt og frikadellerne er gennemstegte.</p><p>Server med hakket koriander drysset over. Pas på – frikadellerne er skrøbelige. Server med appelsin- og rosincouscous.</p><h3>Appelsin- og rosincouscous</h3><p>Bring appelsinjuice og rosiner i kog i en gryde. Hæld couscous i en varmesikker skål og hæld den varme appelsinblanding over. Dæk med film og lad dampe 5 minutter. Rør løs med en gaffel. Rør olivenolie, hakket koriander og pinjekerner i.</p>",
+    "Note": "Frikadellerne kan enten ovnsteges (200 °C, 15–20 min) eller poacheres direkte i saucen.",
+    "ImageUrl": null,
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Vegetar", "Slow Cooker"]
+}

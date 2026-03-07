@@ -1,0 +1,49 @@
+{
+    "Id": 132,
+    "Title": "Wrap med sojahack og kartoffelrøsti",
+    "SubHeader": "Vegansk wrap med krydret sojahack, kartoffelrøsti og toppings.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 1,
+    "RecipeGroups": [
+        {
+            "Title": "Sojahack",
+            "Ingredients": [
+                { "Quantity": 50, "Unit": "g", "Name": "sojagranulat", "PreparationNote": "tørt" },
+                { "Quantity": 50, "Unit": "g", "Name": "valnødder", "PreparationNote": "hakkede" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "i tern" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sennep", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ahornsirup", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kartoffelrøsti",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "stor kartoffel", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Toppings",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "stor wrap", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lille wrap", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "revet ost", "PreparationNote": "vegansk" },
+                { "Quantity": null, "Unit": null, "Name": "yoghurt og flødeost", "PreparationNote": "vegansk, blandet" },
+                { "Quantity": null, "Unit": null, "Name": "salat", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "tomat", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Riv kartoffelen groft, pres væsken godt ud, og steg den tyndt som røsti gyldenbrun på en pande.</p><p>Læg sojagranulat i blød i vand, og pres det ud.</p><p>Steg løg og hvidløg. Tilsæt valnødder og sojagranulat, og rist det af.</p><p>Rør tomatpuré og krydderier i. Rør majsstivelse ud i en slurk vand, kom det i blandingen, og lad det koge op én gang. Tilføj evt. lidt mere vand efter ønsket saftighed.</p><p>Læg den store wrap med ost og sojahack. Læg kartoffelrøstien ovenpå.</p><p>Fordel yoghurt-flødeost-blanding, salat, tomat og lidt ost ovenpå. Læg den lille wrap ovenpå.</p><p>Fold den store wrap ind omkring og steg fra begge sider til gyldenbrun.</p><p>Halvér og servér.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/132. Wrap med sojahack og kartoffelrøsti.jpg",
+    "Source": null,
+    "Keywords": ["Vegetar"]
+}

@@ -1,0 +1,35 @@
+{
+    "Id": 139,
+    "Title": "Fajitagryde med kylling og peberfrugt i strimler",
+    "SubHeader": "Nem fajitagryde med strimler af kylling og peberfrugt – mexicansk inspireret gryderet til hele familien.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 550, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i strimler" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": null, "Name": "grøn peberfrugt", "PreparationNote": "i strimler" },
+                { "Quantity": 1, "Unit": null, "Name": "gul peberfrugt", "PreparationNote": "i strimler" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "i strimler" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "citronsaft", "PreparationNote": "friskpresset" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingebryst i tynde strimler og steg godt af i olivenolie i en varm gryde eller sauterpande. Krydr med salt og peber og tag til side.</p><p>Hak løg og hvidløg og steg det af i gryden i lidt olie uden at lade det tage farve.</p><p>Skær peberfrugterne i tynde strimler, kom dem i gryden og steg et par minutter. Vend ofte.</p><p>Kom kyllingen tilbage i gryden sammen med hakkede tomater, vand, hønsebouillon, paprika, spidskommen og oregano.</p><p>Vend godt rundt, læg låg på og lad det simre i ca. 20 minutter.</p><p>Smag til med citronsaft, salt og friskkværnet peber. Sovsen kan jævnes med lidt majsstivelse udrørt i koldt vand.</p>",
+    "Note": "Server med kogte ris og Pico de gallo (mexicansk salsa), evt. guacamole. Ønskes mere spicy: tilsæt frisk eller tørret chili.",
+    "ImageUrl": "images/recipe-images/139. Fajitagryde med kylling og peberfrugt i strimler.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Kylling"]
+}

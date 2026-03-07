@@ -1,0 +1,32 @@
+{
+    "Id": 143,
+    "Title": "One pot kylling med ris",
+    "SubHeader": "Nem one pot-ret med kylling og brune naturris – alt laves i én gryde.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 450, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i små tern" },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 200, "Unit": "g", "Name": "blommetomater", "PreparationNote": "i kvarte eller mindre både" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "persille", "PreparationNote": "hakket" },
+                { "Quantity": 250, "Unit": "g", "Name": "naturris", "PreparationNote": "brune ris" },
+                { "Quantity": 7, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "bouillonterninger", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingebryst i små tern. Hak rødløg og hvidløg fint.</p><p>Varm en gryde op ved god varme, kom olivenolie i og derefter kylling, løg og hvidløg. Lad det svitse 2–3 minutter under omrøring.</p><p>Skær blommetomater i kvarte (større tomater i mindre både).</p><p>Når kyllingen er brunet af, kom tomater i gryden sammen med paprika, karry, persille, naturris, vand og bouillonterninger.</p><p>Lad det koge op under omrøring, skru ned til svag varme, læg låg på og lad det simre i ca. 35 minutter. Vend et par gange undervejs og tilsæt evt. lidt mere kogende vand.</p><p>Smag til med salt og friskkværnet peber.</p>",
+    "Note": "Server som den er eller med grøn salat. Rester kan gemmes til frokost. Ved andre ris: tjek kogetid på pakken (alm. ris ofte 15–20 min).",
+    "ImageUrl": "images/recipe-images/143. One pot kylling med ris.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Kylling"]
+}

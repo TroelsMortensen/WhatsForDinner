@@ -1,0 +1,34 @@
+{
+    "Id": 148,
+    "Title": "Salmon Bourride",
+    "SubHeader": "Forenklet fransk fiskegryde med laks – let og lavkaloriet til hverdagen. Serveres med dampet grønt.",
+    "TotalMinutes": 230,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "fedtfri madlavningsspray", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 0.5, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "kernet, uden frø, i tynde strimler" },
+                { "Quantity": 0.5, "Unit": null, "Name": "orange peberfrugt", "PreparationNote": "kernet, uden frø, i tynde strimler" },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "dåse" },
+                { "Quantity": 150, "Unit": "ml", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "granulær sødemiddel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "majsstivelse", "PreparationNote": "udrørt i lidt koldt vand" },
+                { "Quantity": 400, "Unit": "g", "Name": "artiskokhjerter", "PreparationNote": "dåse, drænet" },
+                { "Quantity": 4, "Unit": null, "Name": "laksebøffer", "PreparationNote": "à 140 g" },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": "revet skal" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "tørrede middelhavsurter", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cooker efter anvisning. Spray en stor pande med fedtfri madlavningsspray og varm den. Kom løg, hvidløg og peberfrugter i og steg 4–5 minutter til de er møre. Rør tomater, bouillon og sødemiddel i. Bland majsstivelse med lidt koldt vand til en jævn masse og rør ind. Krydr og bring i kog under omrøring.</p><p>Hæld blandingen over i slow cooker. Rør artiskokhjerterne i. Læg laksebøfferne i et lag ovenpå og tryk dem ned i væsken. Drys citronskal og urter over laksen og krydr let.</p><p>Læg låg på og lad koge på lav varme i 3–3½ time til laksen er gennemstegt og flager let ved tryk med en lille kniv.</p><p>Anret i skåle og server med dampede grønne bønner.</p>",
+    "Note": "Variant – Blæksprutte-Bourride: Brug 625 g renset blæksprutte i stedet for laks. Skær rørene i skiver. Følg opskriften men kog blæksprutteskiver på lav varme i 4–5 timer. Tilsæt tentaklerne og kog yderligere 30 minutter. Server med dampede grønne bønner.",
+    "ImageUrl": "images/recipe-images/148. Salmon Bourride.jpg",
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Laks", "Slow Cooker"]
+}

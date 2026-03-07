@@ -1,0 +1,36 @@
+{
+    "Id": 141,
+    "Title": "Blomkålscurry",
+    "SubHeader": "Lækker og sund indisk vegetarret med blomkål og røde linser – uden kød.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "knold", "Name": "ingefær", "PreparationNote": "revet" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "røde linser", "PreparationNote": "skyllet" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lille blomkål", "PreparationNote": "i buketter" },
+                { "Quantity": 75, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "frisk koriander", "PreparationNote": "kan undværes" },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "saft til smag" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Snit forårsløg i ca. 1 cm tykke skiver og hak hvidløg fint. Sauter i olie ved middel varme i en stor sauterpande eller gryde.</p><p>Tilsæt karry, gurkemeje, garam masala og spidskommen. Lad det svitse et par minutter. Evt. tilføj lidt kanel og kardemomme.</p><p>Skræl ingefær og riv den i. Skyl røde linser grundigt og kom dem i sammen med hakkede tomater og kokosmælk.</p><p>Læg låg på og lad retten simre i ca. 20 minutter.</p><p>Skær blomkålen i mindre buketter og kom dem i curryen. Lad simre yderligere 10 minutter.</p><p>Vend babyspinat i, så bladene lige falder sammen. Evt. kom frisk koriander i.</p><p>Smag til med limesaft, salt og friskkværnet peber.</p>",
+    "Note": "Server med kogte ris (evt. med bouillonterning i vandet). Prøv evt. chapati til.",
+    "ImageUrl": "images/recipe-images/141. Blomkålscurry.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Vegetar"]
+}

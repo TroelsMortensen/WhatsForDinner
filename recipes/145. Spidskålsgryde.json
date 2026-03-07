@@ -1,0 +1,31 @@
+{
+    "Id": 145,
+    "Title": "Spidskålsgryde",
+    "SubHeader": "Nem gryderet med spidskål, hakket oksekød og gulerødder – lækker hverdagsret.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "i små tern" },
+                { "Quantity": 250, "Unit": "g", "Name": "gulerødder", "PreparationNote": "i små tern" },
+                { "Quantity": 250, "Unit": "g", "Name": "spidskål", "PreparationNote": "snittet" },
+                { "Quantity": 4, "Unit": "dl", "Name": "bouillon", "PreparationNote": "gerne okse eller kalve" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "engelsk sauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Brun hakket oksekød godt af i en stegegryde. Giv kødet en god stegeskorpe.</p><p>Kom spidskommen og paprika ved og lad det svitse hurtigt med.</p><p>Tilsæt hakket løg, hvidløg og peberfrugt i tern. Vend rundt.</p><p>Kom gulerødder og spidskål ved sammen med bouillon og engelsk sauce. Vend godt rundt. Grøntsagerne trækker væske ud under tilberedningen.</p><p>Lad gryden simre ca. 15 minutter under låg.</p><p>Smag til med salt og friskkværnet peber.</p>",
+    "Note": "Server med kogte ris eller stegte kartofler. Rester kan fryses. Kan laves med hakket svinekød eller kylling i stedet.",
+    "ImageUrl": "images/recipe-images/145. Spidskålsgryde.jpg",
+    "Source": "Madens Verden",
+    "Keywords": ["Oksekød"]
+}
