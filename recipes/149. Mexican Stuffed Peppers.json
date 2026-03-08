@@ -1,0 +1,42 @@
+{
+    "Id": 149,
+    "Title": "Mexican Stuffed Peppers",
+    "SubHeader": "Fyldte peberfrugter med quinoa, sorte bønner og majs – vegansk og glutenfri. Serveres med guacamole og lime.",
+    "TotalMinutes": 380,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Fyldte peberfrugter",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "store peberfrugter", "PreparationNote": "evt. 6 stk, alle farver eller blandet" },
+                { "Quantity": 125, "Unit": "g", "Name": "quinoa", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "sorte bønner", "PreparationNote": "dåse, drænet og skyllet" },
+                { "Quantity": 200, "Unit": "g", "Name": "majskerner", "PreparationNote": "dåse drænet, eller frosne optøet" },
+                { "Quantity": 200, "Unit": "g", "Name": "passata", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "revet" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "chipotlepaste", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sød røget paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "vand", "PreparationNote": "2 cm i bunden af slow cooker" }
+            ]
+        },
+        {
+            "Title": "Guacamole (til servering)",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "modne avocados", "PreparationNote": "halveret, sten fjernet, kød skrabet ud" },
+                { "Quantity": 1, "Unit": null, "Name": "tomat", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "korianderblade", "PreparationNote": "finthakket" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "limesaft", "PreparationNote": "et skvæt" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cooker efter anvisning. Skær stilke og toppe af peberfrugterne og kassér dem. Fjern kerne og frø med en teskefuld eller lille savtakket kniv uden at skære igennem peberfrugten. Hæld 2 cm vand i bunden af slow cooker og still peberfrugterne oprejst i gryden så de står tæt.</p><p>Bland alle øvrige ingredienser (quinoa, bønner, majs, passata, hvidløg, chipotlepaste, spidskommen, paprika) i en stor skål og krydr med salt og peber. Fordel fyldet jævnt i peberfrugterne. Læg låg på og kog på lav varme i 6 timer til quinoa er kogt og peberfrugterne er møre.</p><p>Server straks drysset med korianderblade, med guacamole og limebåde til at presse over.</p><h3>Guacamole</h3><p>Halv 3 modne avocados, fjern stenen og skrab kødet ud i en skål. Tilsæt finthakket tomat, en håndfuld finthakket koriander og ½ tsk spidskommen. Mos groft med en gaffel. Rør et skvæt limesaft i og smag til med salt. Server straks.</p>",
+    "Note": "Peberfrugter kan erstattes af store udhulede tomater eller halve udgravede courgetter. Glutenfri og vegansk.",
+    "ImageUrl": "images/recipe-images/149. Mexican Stuffed Peppers.jpg",
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Vegetar", "Slow Cooker"]
+}

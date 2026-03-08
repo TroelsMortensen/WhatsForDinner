@@ -1,0 +1,45 @@
+{
+    "Id": 150,
+    "Title": "Marokkanske kødboller",
+    "SubHeader": "Boller af hakket kalkun og grønne linser i krydret tomatsauce – slow cooker-ret. Serveres med citroncouscous. Mælkefri og glutenfri.",
+    "TotalMinutes": 450,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kødboller og sauce",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "g", "Name": "hakket kalkun", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "grønne linser", "PreparationNote": "dåse, drænet og skyllet" },
+                { "Quantity": 1, "Unit": null, "Name": "æggeblomme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "i skiver" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "skrællet og finthakket" },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "dåse" },
+                { "Quantity": 150, "Unit": "ml", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Citroncouscous",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": 450, "Unit": "ml", "Name": "kogende vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": "revet skal og saft" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "lille bundt", "Name": "koriander", "PreparationNote": "hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cooker efter anvisning. Bland hakket kalkun, grønne linser, lidt salt og peber og æggeblomme i en skål eller i en foodprocessor.</p><p>Del i 20 stykker og form til små boller med våde hænder. Varm olie i en stor pande, kom bollerne i og steg under omrøring til de er brunede men ikke gennemstegte. Tag dem op med en hulske og læg dem i slow cooker.</p><p>Kom løg i panden og steg til møre. Rør hvidløg, krydderier og ingefær i og steg 1 minut. Rør tomater, bouillon og lidt salt og peber i og bring i kog under omrøring.</p><p>Hæld saucen over bollerne, læg låg på og kog på lav varme i 6–8 timer til bollerne er gennemstegte.</p><p>Rør rundt og anret på tallerkener med couscous (se nedenfor).</p><h3>Citroncouscous</h3><p>Kom couscous i en skål. Hæld kogende vand, citronskal og -saft, olivenolie og salt og peber over. Dæk og lad stå 5 minutter. Rør løs med en gaffel og rør hakket koriander i.</p>",
+    "Note": "Mælkefri og glutenfri. Server med citroncouscous.",
+    "ImageUrl": "images/recipe-images/150. Marokkanske kødboller.jpg",
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Kalkun", "Slow Cooker"]
+}

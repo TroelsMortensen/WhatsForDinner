@@ -1255,5 +1255,71 @@
                          "Slow Cooker"
                      ],
         "TotalMinutes":  230
+    },
+    {
+        "Id":  149,
+        "Title":  "Mexican Stuffed Peppers",
+        "Keywords":  [
+                         "Vegetar",
+                         "Slow Cooker"
+                     ],
+        "TotalMinutes":  380
+    },
+    {
+        "Id":  150,
+        "Title":  "Marokkanske kødboller",
+        "Keywords":  [
+                         "Kalkun",
+                         "Slow Cooker"
+                     ],
+        "TotalMinutes":  450
+    },
+    {
+        "Id":  151,
+        "Title":  "Tandoori kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Slow Cooker"
+                     ],
+        "TotalMinutes":  230
+    },
+    {
+        "Id":  152,
+        "Title":  "Vegansk bolognese",
+        "Keywords":  [
+                         "Vegetar",
+                         "Slow Cooker",
+                         "Pasta"
+                     ],
+        "TotalMinutes":  475
+    },
+    {
+        "Id":  153,
+        "Title":  "Gourmet bolognese",
+        "Keywords":  [
+                         "Oksekød",
+                         "Slow Cooker",
+                         "Pasta"
+                     ],
+        "TotalMinutes":  560
+    },
+    {
+        "Id":  154,
+        "Title":  "Spicy Bean Chilli",
+        "Keywords":  [
+                         "Vegetar",
+                         "Slow Cooker",
+                         "Bælgfrugter"
+                     ],
+        "TotalMinutes":  390
+    },
+    {
+        "Id":  155,
+        "Title":  "Chillied Beef with Chocolate",
+        "Keywords":  [
+                         "Oksekød",
+                         "Slow Cooker"
+                     ],
+        "TotalMinutes":  555
     }
 ]

@@ -1,0 +1,46 @@
+{
+    "Id": 155,
+    "Title": "Chillied Beef with Chocolate",
+    "SubHeader": "Oksekød i chili med mørk chokolade – giver dybde og farve. Slow cooker 8–10 timer. Serveres med ris og avocado-salsa.",
+    "TotalMinutes": 555,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Chili oksekød",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "solsikkeolie", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "røget eller stærk paprika", "PreparationNote": "½–1 tsk, plus ekstra til pynt" },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "knust tørret rød chili", "PreparationNote": "¼–½ tsk" },
+                { "Quantity": 1, "Unit": null, "Name": "laurbærblad", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "dåse" },
+                { "Quantity": 410, "Unit": "g", "Name": "røde kidneybønner", "PreparationNote": "dåse, drænet og skyllet" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "mørk muscovadosukker", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "ml", "Name": "oksebouillon", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "mørk chokolade", "PreparationNote": "almindelig, uden fyld" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "creme fraiche", "PreparationNote": "til servering" }
+            ]
+        },
+        {
+            "Title": "Avocado & Red Onion Salsa (tilbehør)",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "stor moden avocado", "PreparationNote": "halveret, sten fjernet, skrællet, kød i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "lime", "PreparationNote": "revet skal og saft" },
+                { "Quantity": 1, "Unit": null, "Name": "lille rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": null, "Name": "tomat", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": "lille bundt", "Name": "koriander", "PreparationNote": "hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cooker efter anvisning. Varm olie i en pande, kom oksekød og løg i og steg under omrøring til kødet er jævnt brunet.</p><p>Rør hvidløg, krydderier og laurbærblad i og steg 1 minut. Kom tomater, bønner, sukker og bouillon i, tilsæt chokolade og lidt salt og peber og bring i kog under omrøring.</p><p>Hæld over i slow cooker, læg låg på og kog på lav varme i 8–10 timer til gennemstegt. Rør rundt og anret på tallerkener. Top med lidt creme fraiche, Avocado & Red Onion Salsa og ekstra paprika. Server med ris.</p><h3>Avocado & Red Onion Salsa</h3><p>Halv avocadon, fjern stenen og skræl. Skær kødet i tern og vend det i revet skal og saft fra 2 lime. Bland med finthakket rødløg, hakket tomat og en lille bundt hakket koriander.</p>",
+    "Note": "Mørk chokolade giver dybde og farve til retten. Server med ris.",
+    "ImageUrl": "images/recipe-images/155. Chillied Beef with Chocolate.jpg",
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Oksekød", "Slow Cooker"]
+}

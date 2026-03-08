@@ -1,0 +1,45 @@
+{
+    "Id": 152,
+    "Title": "Vegansk bolognese",
+    "SubHeader": "Kødfri udgave af den italienske sauce – til pasta eller som bund til vegansk shepherd's pie. Tilberedes i slow cooker.",
+    "TotalMinutes": 475,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Sauce",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "stilk", "Name": "bladselleri", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": null, "Name": "stor gulerod", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 25, "Unit": "g", "Name": "tørrede porcini-svampe", "PreparationNote": "knust eller groft hakket" },
+                { "Quantity": 150, "Unit": "ml", "Name": "kogende vand", "PreparationNote": "til porcini" },
+                { "Quantity": 300, "Unit": "g", "Name": "kastanjechampignon", "PreparationNote": "finthakket" },
+                { "Quantity": 50, "Unit": "g", "Name": "tørrede røde linser", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "tørrede grønne linser", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "dåse" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tomatpurée", "PreparationNote": null },
+                { "Quantity": 3, "Unit": null, "Name": "timiankviste", "PreparationNote": "blade plukket" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "Marmite", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "balsamico", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "ml", "Name": "varm bouillon", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 450, "Unit": "g", "Name": "tørret spaghetti", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "revet vegansk hård ost", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friske basilikumblade", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cooker efter anvisning. Varm olie i en stor pande ved middel-lav varme, kom løg, bladselleri og gulerod i med en nip salt og sauter 5–10 minutter til de begynder at blive møre og tage farve. Tilsæt hvidløg og sauter 1 minut mere.</p><p>Kom porcini-svampe i slow cooker og hæld det kogende vand over. Lad trække.</p><p>Hæld løgblandingen i slow cooker og tilsæt alle øvrige ingredienser. Læg låg på og kog på lav varme i 7–8 timer. Smag til og krydr, evt. med et skvæt mere balsamico.</p><p>Kog spaghetti i salted kogende vand efter anvisning på pakken. Hæld vandet af og vend med saucen. Server straks med revet vegansk ost og basilikumblade.</p>",
+    "Note": "Kan også bruges som bund til vegansk shepherd's pie. Brug evt. foodprocessor til at hakke grøntsagerne hurtigt.",
+    "ImageUrl": null,
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Vegetar", "Slow Cooker", "Pasta"]
+}
