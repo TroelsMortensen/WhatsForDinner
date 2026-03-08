@@ -1,0 +1,42 @@
+{
+    "Id": 153,
+    "Title": "Gourmet bolognese",
+    "SubHeader": "Spag bol i gourmetudgave med pancetta, kyllingelever og rødvin – slow cooker i 8–10 timer.",
+    "TotalMinutes": 560,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Bolognese",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": "mager" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 225, "Unit": "g", "Name": "kyllingelever", "PreparationNote": "optøet hvis frosne" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 50, "Unit": "g", "Name": "pancetta", "PreparationNote": "eller røget bacon i tern" },
+                { "Quantity": 150, "Unit": "g", "Name": "champignon", "PreparationNote": "i skiver" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "ml", "Name": "rødvin", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "ml", "Name": "oksebouillon", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "dåse" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpurée", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "bouquet garni", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "tørret tagliatelle", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "parmesan", "PreparationNote": "i flager" },
+                { "Quantity": null, "Unit": null, "Name": "basilikumblade", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cooker efter anvisning. Varm olie i en pande, kom hakket kød og løg i og steg under omrøring (bryd kødet med en træske) til det er jævnt brunet.</p><p>Skyl kyllingelever i en sigte, lad dryppe og hak dem groft – kassér evt. hvide fibre. Kom dem i panden sammen med hvidløg, pancetta og champignon og steg 2–3 minutter til leverne er brunede.</p><p>Rør mel i, tilsæt vin, bouillon, tomater, tomatpurée, bouquet garni og krydderier. Bring i kog under omrøring. Hæld over i slow cooker, læg låg på og kog på lav varme i 8–10 timer.</p><p>Næsten til servering: Kog tagliatelle i let salted kogende vand efter anvisning til den er lige mør. Hæld af og rør ind i bolognesen. Anret i skåle og drys med parmesanflager og basilikum.</p>",
+    "Note": "Budget-bolognese: Udelad kyllingelever og pancetta/bacon. Tilsæt i stedet 1 ternet gulerod og 1 ternet courgette sammen med hvidløg og champignon. Erstat vinen med ekstra bouillon og fortsæt som ovenfor.",
+    "ImageUrl": null,
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Oksekød", "Slow Cooker", "Pasta"]
+}

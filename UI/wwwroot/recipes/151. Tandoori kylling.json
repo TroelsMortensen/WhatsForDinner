@@ -1,0 +1,39 @@
+{
+    "Id": 151,
+    "Title": "Tandoori kylling",
+    "SubHeader": "Let udgave af den indiske klassiker med kylling i yoghurt og krydderier – tilberedes i slow cooker. Marinér natten over.",
+    "TotalMinutes": 230,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling og marinade",
+            "Ingredients": [
+                { "Quantity": 150, "Unit": "ml", "Name": "fedtfri græsk yoghurt", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "skrællet og revet" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "hakket koriander", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "medium-stærk karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 625, "Unit": "g", "Name": "kyllingelår", "PreparationNote": "uden ben og skind, i stykker" },
+                { "Quantity": 0.5, "Unit": null, "Name": "citron", "PreparationNote": "saft" },
+                { "Quantity": null, "Unit": null, "Name": "fedtfri madlavningsspray", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 50, "Unit": "g", "Name": "blandede grønne salatblade", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": null, "Name": "agurk", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "lille håndfuld", "Name": "korianderblade", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "citron", "PreparationNote": "saft" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom yoghurt i en skål og rør ingefær, koriander, karry, gurkemeje og paprika i. Vend kyllingen med citronsaft, krydr let og rør ind i yoghurtblandingen til den er jævnt dækket. Dæk skålen og stil i køl natten over.</p><p>Forvarm slow cooker efter anvisning. Rør kyllingeblandingen og hæld den i slow cooker i et jævnt lag. Læg låg på og kog på høj varme i 3–4 timer til kyllingen er mør og gennemstegt. (Yoghurten kan skilles under kogning – det påvirker ikke smagen.)</p><p>Valgfrit: Spray en stor pande med fedtfri spray og varm den ved høj varme. Overfør kyllingen til panden i portioner og steg 2–3 minutter, vend én gang, til den er gylden på begge sider. Kan udelades hvis tiden er knap.</p><p>Vend salatblade, agurk og koriander med citronsaft, anret på tallerkener og læg kyllingen ovenpå.</p>",
+    "Note": "Variant – med hvidløg: Tilsæt 3 finthakkede fed hvidløg til yoghurt og krydderiblandingen og fortsæt som beskrevet.",
+    "ImageUrl": null,
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Kylling", "Slow Cooker"]
+}

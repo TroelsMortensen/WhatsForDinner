@@ -1,0 +1,57 @@
+{
+    "Id": 154,
+    "Title": "Spicy Bean Chilli",
+    "SubHeader": "Blandet bønnechili til varme vinteraftener – vegansk og mælkefri. Tilberedes i slow cooker; tåler godt lidt ekstra tid.",
+    "TotalMinutes": 390,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 8,
+    "RecipeGroups": [
+        {
+            "Title": "Chilli",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kastanjechampignon", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "stilk", "Name": "bladselleri", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "revet" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stærk chilipulver", "PreparationNote": "1–2 tsk efter smag" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "tomatpurée", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 450, "Unit": "ml", "Name": "varm bouillon", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "dåse" },
+                { "Quantity": 400, "Unit": "g", "Name": "røde kidneybønner", "PreparationNote": "dåse, drænet og skyllet" },
+                { "Quantity": 400, "Unit": "g", "Name": "blandede bønner", "PreparationNote": "dåse, drænet og skyllet" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "koriander", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "i både" }
+            ]
+        },
+        {
+            "Title": "Tomato & Chilli Salsa (tilbehør)",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "g", "Name": "tomater", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": null, "Name": "rød chili", "PreparationNote": "finthakket, evt. uden frø" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": null, "Name": "lille løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpurée", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rødvinseddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sukker", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cooker efter anvisning. Varm 2 spsk olie i en stor pande ved middel varme, kom champignon i og steg til al fugt er fordampet og de begynder at blive gyldenbrune. Hæld over i slow cooker.</p><p>Kom resten af olien i panden og sauter løg og bladselleri ca. 6 minutter til bløde og gennemsigtige. Rør hvidløg i og steg 1 minut, derefter krydderierne i 2 minutter. Tilsæt mel og steg under omrøring 2 minutter mere.</p><p>Hæld løgblandingen i slow cooker og tilsæt tomatpurée, soja, varm bouillon og tomater. Læg låg på og kog på lav varme i 5 timer. Rør bønnerne i, læg låg på igen og kog yderligere 1 time på lav varme.</p><p>Smag til og server straks med finthakket koriander og limebåde, evt. med Tomato & Chilli Salsa og ris eller brød.</p><h3>Tomato & Chilli Salsa</h3><p>Bland 500 g hakket tomater, 1 finthakket rød chili (evt. uden frø), 1 finthakket fed hvidløg, 1 finthakket lille løg, 2 spsk tomatpurée, 2 spsk rødvinseddike og 1 spsk sukker i en skål. Rør godt sammen.</p>",
+    "Note": "Mælkefri og vegansk. Server med ris eller brød og evt. salsa. Chili tåler at stå lidt længere i slow cooker.",
+    "ImageUrl": null,
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Vegetar", "Slow Cooker", "Bælgfrugter"]
+}
