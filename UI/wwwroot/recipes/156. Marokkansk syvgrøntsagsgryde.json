@@ -1,0 +1,36 @@
+{
+    "Id": 156,
+    "Title": "Marokkansk syvgrøntsagsgryde",
+    "SubHeader": "Krydret vegetarisk slow cooker-gryde med harissa, gurkemeje og ingefær, serveret med couscous.",
+    "TotalMinutes": 505,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "stort løg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "i tern" },
+                { "Quantity": 300, "Unit": "g", "Name": "kålroe", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "udkernet og hakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 200, "Unit": "g", "Name": "frosne hestebønner", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede tomater", "PreparationNote": "1 dåse" },
+                { "Quantity": 3, "Unit": "tsk", "Name": "harissa", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "cm", "Name": "frisk ingefærrod", "PreparationNote": "skrællet og finthakket" },
+                { "Quantity": 250, "Unit": "ml", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 125, "Unit": "g", "Name": "okra", "PreparationNote": "i tykke skiver" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friske mynteblade", "PreparationNote": "revet i stykker, til pynt" },
+                { "Quantity": null, "Unit": null, "Name": "tilberedt couscous", "PreparationNote": "smagt til med olivenolie, citronsaft og rosiner, til servering" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm slow cookeren om nødvendigt. Varm olivenolien op i en stor pande, tilsæt løg og steg under omrøring i 5 minutter, eller til løget er let gyldent.</p><p>Tilsæt gulerødder og kålroe sammen med rød peber, hvidløg, hestebønner og hakkede tomater. Rør harissa, gurkemeje og ingefær i, hæld bouillon på, krydr med salt og peber, og bring det hele i kog under omrøring.</p><p>Kom blandingen i slow cookerens indsats, og tryk grøntsagerne ned under væsken. Læg låg på og tilbered på lav varme i 6-8 timer, eller til rodfrugterne er møre.</p><p>Rør okra i, læg låg på igen og tilbered på høj varme i 15-20 minutter, til okraen er mør men stadig frisk grøn. Pynt med mynte og server med couscous smagt til med olivenolie, citronsaft og rosiner.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/156. Marokkansk syvgrøntsagsgryde.jpg",
+    "Source": "The Slow Cooker Bible",
+    "Keywords": ["Vegetar", "Slow Cooker", "Gryderet"]
+}

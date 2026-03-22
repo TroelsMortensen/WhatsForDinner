@@ -1321,5 +1321,15 @@
                          "Slow Cooker"
                      ],
         "TotalMinutes":  555
+    },
+    {
+        "Id":  156,
+        "Title":  "Marokkansk syvgrøntsagsgryde",
+        "Keywords":  [
+                         "Vegetar",
+                         "Slow Cooker",
+                         "Gryderet"
+                     ],
+        "TotalMinutes":  505
     }
 ]
