@@ -1,0 +1,35 @@
+{
+    "Id": 163,
+    "Title": "One pot pasta med kylling",
+    "SubHeader": "Cremet one pot pasta med kylling, peberfrugt og champignon i mild paprikasovs - alt tilberedt i én gryde.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "champignoner", "PreparationNote": "renset og skåret i skiver" },
+                { "Quantity": 3, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fintsnittet" },
+                { "Quantity": 4, "Unit": null, "Name": "peberfrugter", "PreparationNote": "skåret i halve strimler" },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "skåret i mundrette stykker" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "paprika", "PreparationNote": "mild" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 8, "Unit": "dl", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "pasta", "PreparationNote": "fx penne" },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": "valgfrit, udrørt i lidt koldt vand" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk basilikum", "PreparationNote": "hakket, til servering" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du one pot pasta med kylling</h2><p>Rens champignonerne og skær dem i skiver. Hak løg, snit hvidløg fint, skær peberfrugter i halve strimler, og skær kyllingen i mundrette stykker.</p><p>Varm olien i en stor gryde, og svits champignonerne ved middelhøj varme under omrøring.</p><p>Tilsæt kyllingestykkerne og brun dem på alle sider. Kom derefter løg og hvidløg i, og skru ned til middel varme.</p><p>Når løgene er klare, tilsættes peberfrugt og paprika. Steg kort under omrøring.</p><p>Tilsæt tomatpuré, hønsebouillon og pasta. Lad retten simre under låg i ca. 10 minutter, eller til pastaen er mør.</p><p>Rør fløden i. Tilsæt eventuelt majsstivelse udrørt i koldt vand, hvis du ønsker en tykkere sovs.</p><p>Smag til med salt, peber og eventuelt ekstra paprika. Server med friskhakket basilikum på toppen.</p>",
+    "Note": "Retten kan laves uden majsstivelse, da stivelsen fra pastaen ofte jævner sovsen nok.",
+    "ImageUrl": "images/recipe-images/163. One pot pasta med kylling.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/one-pot-pasta-kylling-23559/",
+    "Keywords": ["Kylling", "One Pot", "Pasta"]
+}

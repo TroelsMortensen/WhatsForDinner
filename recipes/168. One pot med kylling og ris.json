@@ -1,0 +1,36 @@
+{
+    "Id": 168,
+    "Title": "One pot med kylling og ris",
+    "SubHeader": "Nem one pot ret med kylling, ris og grøntsager, afrundet med parmesan.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "peberfrugter", "PreparationNote": "skåret i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "rødløg", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "skåret i tynde skiver" },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "i tern uden bløde kerner" },
+                { "Quantity": 500, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "skåret i mundrette stykker" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "parmesanost", "PreparationNote": "revet" },
+                { "Quantity": null, "Unit": null, "Name": "frisk persille eller koriander", "PreparationNote": "valgfrit, til drys" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du one pot retten med ris og kylling</h2><p>Forbered grøntsagerne: skær peberfrugt i tern, hak rødløg, skær hvidløg i tynde skiver, og skær squash i tern efter de bløde kerner er fjernet.</p><p>Skær kyllingen i mundrette stykker, krydr med salt og peber, og svits i olie ved middelhøj varme, til den får farve på alle sider.</p><p>Skub kyllingen lidt til side i gryden, tilsæt squash og svits kort.</p><p>Tilsæt rødløg og hvidløg, skru ned til middel varme, og svits i ca. 1 minut under omrøring.</p><p>Tilsæt peberfrugt, paprika, oregano, timian og ris, og rør godt rundt.</p><p>Tilsæt vand og hønsebouillonterning. Lad retten simre under låg i ca. 10 minutter, eller til risene er møre.</p><p>Rør revet parmesan i, smag til med salt og peber, og drys eventuelt med frisk persille eller koriander.</p>",
+    "Note": "Retten kan fryses ned.",
+    "ImageUrl": "images/recipe-images/168. One pot med kylling og ris.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/one-pot-kylling-ris-23746/",
+    "Keywords": ["Kylling", "One Pot", "Ris"]
+}

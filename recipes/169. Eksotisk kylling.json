@@ -1,0 +1,39 @@
+{
+    "Id": 169,
+    "Title": "Eksotisk kylling",
+    "SubHeader": "Fyldig og cremet kyllingeret med kokosmælk, fløde, grøntsager og frisk koriander.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 650, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "skåret i mindre stykker" },
+                { "Quantity": 3, "Unit": null, "Name": "små løg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": 1.25, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "ds", "Name": "kokosmælk", "PreparationNote": "gerne den fede del" },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "i tynde strimler" },
+                { "Quantity": 0.5, "Unit": null, "Name": "squash", "PreparationNote": "i små tern" },
+                { "Quantity": 1, "Unit": "bdt", "Name": "frisk koriander", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "honning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "karry", "PreparationNote": "efter smag" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Forslag til tilbehør",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du eksotisk kylling</h2><p>Skær kyllingebryst i mindre stykker. Hak løg og hvidløg, og steg dem i lidt smør ved svag varme, til løgene er klare.</p><p>Skru op for varmen, tilsæt kyllingen, og brun stykkerne af.</p><p>Når kyllingen er næsten gennemstegt, tilsættes fløde og kokosmælk.</p><p>Skræl gulerødderne, lav tynde strimler med en kartoffelskræller, og skær squash i små tern. Tilsæt begge dele til retten.</p><p>Hak koriander fint, og kom det i retten sammen med honning. Smag til med karry, salt og peber.</p><p>Lad retten simre, til sovsen tykner en smule, og server eventuelt med ris.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/169. Eksotisk kylling.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/eksotiskkylling-23116/",
+    "Keywords": ["Kylling", "Eksotisk", "Kokosmælk"]
+}

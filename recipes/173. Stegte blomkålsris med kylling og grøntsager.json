@@ -1,0 +1,44 @@
+{
+    "Id": 173,
+    "Title": "Stegte blomkålsris med kylling og grøntsager",
+    "SubHeader": "Low carb udgave af stegte ris med sojamarineret kylling, grøntsager, blomkålsris og æg.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "kyllingefileter", "PreparationNote": "skåret i mundrette bidder" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "stort, presset" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Grøntsager",
+            "Ingredients": [
+                { "Quantity": 150, "Unit": "g", "Name": "gulerødder", "PreparationNote": "i tynde stave" },
+                { "Quantity": 1, "Unit": null, "Name": "peberfrugt", "PreparationNote": "i tynde stave" },
+                { "Quantity": 0.25, "Unit": "bdt", "Name": "forårsløg", "PreparationNote": "fintsnittet" },
+                { "Quantity": 100, "Unit": "g", "Name": "grønne bønner", "PreparationNote": "halverede" },
+                { "Quantity": 1, "Unit": "hoved", "Name": "lille blomkål", "PreparationNote": "revet groft til blomkålsris" },
+                { "Quantity": 5, "Unit": "spsk", "Name": "olie", "PreparationNote": "til stegning, deles i to" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "æg", "PreparationNote": "letpiskede" }
+            ]
+        },
+        {
+            "Title": "Serveringsforslag",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "frisk forårsløg", "PreparationNote": "finthakket, til topping" },
+                { "Quantity": null, "Unit": null, "Name": "limefrugt", "PreparationNote": "til et skvæt saft ved servering" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du retten</h2><p>Vend kyllingestykker med presset hvidløg og sojasauce, og lad det marinere mens grøntsagerne forberedes.</p><p>Skær gulerødder og peberfrugt i tynde stave, snit forårsløg, halver bønner, og riv blomkål groft til blomkålsris.</p><p>Varm halvdelen af olien i en wok eller pande. Steg kylling og marinade ved høj varme, til kyllingen er gennemstegt. Tag kyllingen op.</p><p>Varm resten af olien, og svits gulerødder, peberfrugt, forårsløg og grønne bønner et par minutter ved høj varme. Tilsæt presset hvidløg, blomkålsris og sojasauce, og svits videre et par minutter.</p><p>Skub grøntsagerne til side, hæld de piskede æg på panden, og rør til bløde røræg. Vend æggene sammen med resten af retten.</p><p>Vend kyllingen tilbage i panden, varm igennem, og server eventuelt med ekstra forårsløg og et skvæt limesaft.</p>",
+    "Note": "Bruges friske grønne bønner, kog dem i ca. 5 minutter først.",
+    "ImageUrl": "images/recipe-images/173. Stegte blomkålsris med kylling og grøntsager.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/stegte-blomkaalsris-med-kylling-og-groentsager-23921/",
+    "Keywords": ["Kylling", "Low Carb", "Blomkålsris"]
+}

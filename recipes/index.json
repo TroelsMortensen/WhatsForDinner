@@ -1331,5 +1331,232 @@
                          "Gryderet"
                      ],
         "TotalMinutes":  505
+    },
+    {
+        "Id":  157,
+        "Title":  "Gryderet med kartoffelmos",
+        "Keywords":  [
+                         "Kylling",
+                         "Gryderet",
+                         "Kartoffelmos"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  158,
+        "Title":  "Gryderet med kylling og poelser",
+        "Keywords":  [
+                         "Kylling",
+                         "Poelser",
+                         "Gryderet"
+                     ],
+        "TotalMinutes":  40
+    },
+    {
+        "Id":  159,
+        "Title":  "Karryret med kylling, grøntsager og kokosmælk",
+        "Keywords":  [
+                         "Kylling",
+                         "Karry",
+                         "One Pot",
+                         "Kokosmælk"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  160,
+        "Title":  "Paprikagryde med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Gryderet"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  161,
+        "Title":  "Mexicansk gryderet med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Mexicansk",
+                         "Gryderet",
+                         "One Pot"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  162,
+        "Title":  "Nem one pot kylling i karry med ris og grøntsager",
+        "Keywords":  [
+                         "Kylling",
+                         "Karry",
+                         "One Pot",
+                         "Ris"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  163,
+        "Title":  "One pot pasta med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "One Pot",
+                         "Pasta"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  164,
+        "Title":  "Blomkålscurry - kylling i blomkålskarry",
+        "Keywords":  [
+                         "Kylling",
+                         "Karry",
+                         "Blomkål"
+                     ],
+        "TotalMinutes":  25
+    },
+    {
+        "Id":  165,
+        "Title":  "Hurtig aftensmad",
+        "Keywords":  [
+                         "Kylling",
+                         "Hurtig mad",
+                         "Gryderet"
+                     ],
+        "TotalMinutes":  20
+    },
+    {
+        "Id":  166,
+        "Title":  "One pot paella med kylling og chorizo",
+        "Keywords":  [
+                         "Kylling",
+                         "One Pot",
+                         "Ris",
+                         "Chorizo"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  167,
+        "Title":  "Keto gryderet",
+        "Keywords":  [
+                         "Kylling",
+                         "Keto",
+                         "Low Carb",
+                         "Gryderet"
+                     ],
+        "TotalMinutes":  40
+    },
+    {
+        "Id":  168,
+        "Title":  "One pot med kylling og ris",
+        "Keywords":  [
+                         "Kylling",
+                         "One Pot",
+                         "Ris"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  169,
+        "Title":  "Eksotisk kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Eksotisk",
+                         "Kokosmælk"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  170,
+        "Title":  "Sund one pot pasta",
+        "Keywords":  [
+                         "Kylling",
+                         "One Pot",
+                         "Pasta",
+                         "Sund"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  171,
+        "Title":  "Gryderet med kylling, bacon og porrer",
+        "Keywords":  [
+                         "Kylling",
+                         "Gryderet",
+                         "Bacon",
+                         "Porrer"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  172,
+        "Title":  "Sammenkogt ret med god sovs",
+        "Keywords":  [
+                         "Gryderet",
+                         "Kylling",
+                         "Oksekød",
+                         "Svinekød"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  173,
+        "Title":  "Stegte blomkålsris med kylling og grøntsager",
+        "Keywords":  [
+                         "Kylling",
+                         "Low Carb",
+                         "Blomkålsris"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  174,
+        "Title":  "Sund aftensmad",
+        "Keywords":  [
+                         "Kylling",
+                         "Sund",
+                         "Grøntsager"
+                     ],
+        "TotalMinutes":  25
+    },
+    {
+        "Id":  175,
+        "Title":  "Gryderet med hakket oksekød",
+        "Keywords":  [
+                         "Oksekød",
+                         "Gryderet",
+                         "Hakket oksekød"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  176,
+        "Title":  "Vegetar aftensmad - hurtig og lækker opskrift",
+        "Keywords":  [
+                         "Vegetar",
+                         "Gryderet",
+                         "Kikærter"
+                     ],
+        "TotalMinutes":  20
+    },
+    {
+        "Id":  177,
+        "Title":  "Stegte ris med æg og grøntsager",
+        "Keywords":  [
+                         "Vegetar",
+                         "Ris",
+                         "Hurtig mad"
+                     ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id":  178,
+        "Title":  "Chili sin carne (vegansk)",
+        "Keywords":  [
+                         "Vegansk",
+                         "Mexicansk",
+                         "Bælgfrugter"
+                     ],
+        "TotalMinutes":  null
     }
 ]

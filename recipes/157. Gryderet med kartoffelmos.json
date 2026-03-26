@@ -1,0 +1,43 @@
+{
+    "Id": 157,
+    "Title": "Gryderet med kartoffelmos",
+    "SubHeader": "Cremet gryderet med kylling, bacon og champignon i paprikasovs, serveret med klassisk kartoffelmos.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryderet",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "champignoner", "PreparationNote": "renset og skåret i skiver" },
+                { "Quantity": 2, "Unit": null, "Name": "små løg", "PreparationNote": "finthakket" },
+                { "Quantity": 200, "Unit": "g", "Name": "bacontern", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "skåret i mundrette stykker" },
+                { "Quantity": 1, "Unit": "dl", "Name": "hvedemel", "PreparationNote": "blandet med salt og peber til panering" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": "valgfrit, hvis der mangler fedtstof" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpure", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "persille", "PreparationNote": "valgfrit, finthakket" }
+            ]
+        },
+        {
+            "Title": "Kartoffelmos",
+            "Ingredients": [
+                { "Quantity": 1600, "Unit": "g", "Name": "kartofler", "PreparationNote": "skrællede og skåret i tern" },
+                { "Quantity": 100, "Unit": "g", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": "tilsmagning" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du gryderetten</h2><p>Rens champignonerne og skær dem i tynde skiver. Pil løgene og hak dem fint.</p><p>Steg baconternene sprøde ved middelhøj varme. Krydr hvedemelet med salt og peber, og vend kyllingestykkerne i melet.</p><p>Tag baconen op, og brun kyllingen i baconfedtet ved høj varme. Tilsæt eventuelt lidt olie, hvis der mangler fedtstof. Tag kyllingen op og sæt til side.</p><p>Steg champignonerne i gryden i 2-3 minutter ved høj varme. Skru ned til middellav varme, tilsæt løg og steg videre i ca. 5 minutter.</p><p>Rør paprika, tomatpure, vand og hønsebouillon i, og bring retten i simre. Rør fløden i, og tilsæt kylling og bacon igen. Gem eventuelt lidt bacon til servering.</p><p>Lad retten simre i 15-20 minutter ved svag varme, og smag til med salt og peber. Rør eventuelt finthakket persille i lige inden servering.</p><h3>Sådan laver du kartoffelmosen</h3><p>Kog kartoffelternene i letsaltet vand, til de er helt møre.</p><p>Hæld vandet fra, mos kartoflerne, og rør smør og mælk i. Smag mosen godt til med salt og peber.</p><p>Server kartoffelmosen sammen med den varme gryderet og drys eventuelt med den gemte sprøde bacon.</p>",
+    "Note": "Retten kan også laves med hakket svinekød eller oksekød i stedet for kylling.",
+    "ImageUrl": "images/recipe-images/157. Gryderet med kartoffelmos.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/gryderet-med-kartoffelmos-24187/",
+    "Keywords": ["Kylling", "Gryderet", "Kartoffelmos"]
+}

@@ -1,0 +1,35 @@
+{
+    "Id": 170,
+    "Title": "Sund one pot pasta",
+    "SubHeader": "Sund og cremet one pot pasta med kylling, grøntsager og tomatsovs.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "lille broccoli", "PreparationNote": "i mindre buketter" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "i tynde strimler" },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": null, "Name": "kyllingefileter", "PreparationNote": "skåret i strimler" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "l", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soltørrede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "hytteost", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "håndfulde", "Name": "spinat", "PreparationNote": "skyllet" },
+                { "Quantity": 250, "Unit": "g", "Name": "fuldkornspasta penne", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bdt", "Name": "frisk basilikum", "PreparationNote": "hakket eller revet" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du sund one pot pasta</h2><p>Forbered grøntsagerne: skær broccoli i mindre buketter, peberfrugt i tynde strimler, rødløg i tynde skiver og hak hvidløg fint.</p><p>Skær kyllingen i strimler, krydr med salt og peber, og brun den i olie ved middelhøj varme. Skru ned for varmen.</p><p>Tilsæt rødløg, hvidløg og peberfrugt, og lad det stege med i ca. 5 minutter.</p><p>Tilsæt hakkede tomater, hønsebouillon, soltørrede tomater og hytteost. Lad hytteosten smelte, og smag til med salt og peber.</p><p>Kom spinat, pasta og broccoli i gryden, og kog retten i ca. 15 minutter, til pastaen er mør. Rør rundt et par gange undervejs.</p><p>Rør frisk basilikum i lige inden servering.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/170. Sund one pot pasta.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/sund-one-pot-pasta-23566/",
+    "Keywords": ["Kylling", "One Pot", "Pasta", "Sund"]
+}

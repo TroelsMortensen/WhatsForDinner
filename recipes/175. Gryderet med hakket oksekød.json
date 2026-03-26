@@ -1,0 +1,49 @@
+{
+    "Id": 175,
+    "Title": "Gryderet med hakket oksekød",
+    "SubHeader": "Nem og smagfuld gryderet med hakket oksekød, grøntsager og cremet paprikasovs, klar på 30 minutter.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "i små tern" },
+                { "Quantity": 2, "Unit": null, "Name": "peberfrugter", "PreparationNote": "i små tern" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "smør eller olie", "PreparationNote": "deles i to" },
+                { "Quantity": 500, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": "koncentreret" },
+                { "Quantity": 6, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "oksebouillonterninger", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "persille", "PreparationNote": "valgfrit, til drys" }
+            ]
+        },
+        {
+            "Title": "Forslag til ekstra grøntsager",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": null, "Name": "spidskål", "PreparationNote": "fintsnittet" },
+                { "Quantity": 0.25, "Unit": null, "Name": "hvidkål", "PreparationNote": "fintsnittet" }
+            ]
+        },
+        {
+            "Title": "Serveringsforslag",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "pasta", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "kartofler eller kartoffelmos", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du gryderetten</h2><p>Hak løg fint, og skær gulerødder og peberfrugt i små tern.</p><p>Svits grøntsagerne i halvdelen af smørret eller olien ved middel varme i ca. 5 minutter.</p><p>Skub grøntsagerne til side, tilsæt resten af fedtstoffet, skru op for varmen, og brun det hakkede oksekød godt af.</p><p>Skru ned til middel varme, drys hvedemel over, og rør det godt sammen.</p><p>Tilsæt paprika og tomatpuré, og svits i et par minutter.</p><p>Hæld vand i, smuldr bouillonterningerne i, og lad retten simre i ca. 10 minutter.</p><p>Tilsæt fløde, smag til med salt og peber, og drys eventuelt med persille. Server med ris, pasta, kartofler eller kartoffelmos.</p><p>Hvis du vil have ekstra grøntsager i, kan du tilsætte fintsnittet spidskål eller hvidkål sammen med vand og bouillon og lade det simre med i 10 minutter.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/175. Gryderet med hakket oksekød.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/gryderet-med-hakket-oksekoed-24181/",
+    "Keywords": ["Oksekød", "Gryderet", "Hakket oksekød"]
+}
