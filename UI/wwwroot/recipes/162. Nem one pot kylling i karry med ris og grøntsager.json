@@ -1,0 +1,33 @@
+{
+    "Id": 162,
+    "Title": "Nem one pot kylling i karry med ris og grøntsager",
+    "SubHeader": "Hurtig one pot med kylling, ris, grøntsager og cremet karrysovs - hele retten laves i én gryde.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "gulerødder", "PreparationNote": "skrællede og skåret i mindre tern" },
+                { "Quantity": 1, "Unit": "bdt", "Name": "forårsløg", "PreparationNote": "fintsnittet" },
+                { "Quantity": 0.5, "Unit": null, "Name": "broccoli", "PreparationNote": "i mindre buketter" },
+                { "Quantity": 350, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 4.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "terning", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": null, "Name": "citron", "PreparationNote": "saften" },
+                { "Quantity": 2, "Unit": "dl", "Name": "ris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du one pot kylling i karry</h2><p>Skræl gulerødderne, og skær dem i mindre tern. Skyl forårsløg og snit dem fint - gem eventuelt lidt af den grønne del til servering. Skyl broccoli, og skær den i mindre buketter.</p><p>Brun kyllingeinderfileterne ved høj varme i lidt olie, og krydr med salt og peber.</p><p>Skru ned for varmen, tilsæt gulerødder, forårsløg og karry, og steg i yderligere ca. 2 minutter.</p><p>Tilsæt broccoli, fløde, vand, hønsebouillon, citronsaft og ris. Bring retten i kog, og lad den simre i 20-25 minutter, til ris og kylling er møre. Rør rundt et par gange undervejs.</p><p>Smag til med salt og peber. Riv eventuelt kyllingen i mindre stykker med to gafler, og server med et drys friske forårsløg.</p>",
+    "Note": "Hele retten laves i én gryde, hvilket giver minimal opvask og en nem hverdagsret.",
+    "ImageUrl": "images/recipe-images/162. Nem one pot kylling i karry med ris og grøntsager.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/nem-kylling-i-karry-med-ris-23821/",
+    "Keywords": ["Kylling", "Karry", "One Pot", "Ris"]
+}

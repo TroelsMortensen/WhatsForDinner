@@ -1,0 +1,40 @@
+{
+    "Id": 164,
+    "Title": "Blomkålscurry - kylling i blomkålskarry",
+    "SubHeader": "Cremet blomkålscurry med kylling og kokosmælk. En hurtig og grønnere udgave af kylling i karry.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "hoved", "Name": "blomkål", "PreparationNote": "skyllet og skåret i mindre stykker" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "smør eller olie", "PreparationNote": "deles i to" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "mild karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": "valgfrit" },
+                { "Quantity": 1, "Unit": "bdt", "Name": "forårsløg", "PreparationNote": "hvid del i skiver, grøn top gemmes til drys" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "i skiver" },
+                { "Quantity": 2, "Unit": "cm", "Name": "ingefær", "PreparationNote": "valgfrit, skrællet og finthakket" },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet eller kyllingebryst", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kokosmælk", "PreparationNote": "400 ml" }
+            ]
+        },
+        {
+            "Title": "Forslag til tilbehør",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": "eller blomkålsris" },
+                { "Quantity": null, "Unit": null, "Name": "ærter", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du blomkålscurry med kylling</h2><p>Skyl blomkålen og skær den i mindre stykker.</p><p>Kom 2/3 af smørret eller olien i en gryde, svits karry og eventuelt gurkemeje, og tilsæt blomkålen. Lad det stege et par minutter ved middel varme.</p><p>Tilsæt forårsløgenes hvide del, hvidløg og eventuelt ingefær, og steg kort videre.</p><p>Hæld vand i, smuldr bouillonterningen i, og lad blomkålskarryen simre under låg i ca. 10 minutter, til blomkålen er mør.</p><p>Krydr kyllingen med salt og peber, og steg den i resten af smørret eller olien på en pande.</p><p>Tag gryden af varmen, og blend blomkålsblandingen helt glat med en stavblender. Sæt gryden tilbage på varmen, rør kokosmælk i, og smag til med salt og peber.</p><p>Kom den stegte kylling i gryden, eller server den ved siden af. Drys med grønne forårsløgstoppe og server med ris, blomkålsris eller ærter.</p>",
+    "Note": "Hvis du serverer blomkålsris, kan de steges på panden inden kyllingen for at spare opvask.",
+    "ImageUrl": "images/recipe-images/164. Blomkålscurry - kylling i blomkålskarry.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/blomkaalscurry-kylling-23848/",
+    "Keywords": ["Kylling", "Karry", "Blomkål"]
+}

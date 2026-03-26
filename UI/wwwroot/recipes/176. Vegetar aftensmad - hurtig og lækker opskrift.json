@@ -1,0 +1,40 @@
+{
+    "Id": 176,
+    "Title": "Vegetar aftensmad - hurtig og lækker opskrift",
+    "SubHeader": "Nem vegetarret med grøntsager, kikærter eller linser og cremet paprikasovs. Klar på ca. 20 minutter.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "gulerødder", "PreparationNote": "skåret i tern" },
+                { "Quantity": 3, "Unit": null, "Name": "peberfrugter", "PreparationNote": "skåret i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 200, "Unit": "g", "Name": "champignoner", "PreparationNote": "valgfrit, i mundrette stykker" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kikærter eller kogte linser", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "fløde eller fedtfattig madlavningsfløde", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "grøntsagsbouillonterning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Forslag til tilbehør",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "pasta", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du den lækre vegetarret</h2><p>Skræl gulerødder og skyl peberfrugter, og skær dem i tern. Pil og hak løg. Hvis du bruger champignoner, rengør dem og skær dem i mundrette stykker.</p><p>Steg grøntsagerne i olie ved middelhøj varme i ca. 5 minutter.</p><p>Tilsæt tomatpuré og paprika, og steg videre i ca. 2 minutter.</p><p>Hæld fløde og vand på, smuldr grøntsagsbouillon i, og tilsæt kikærter eller linser.</p><p>Lad retten simre i ca. 10 minutter, og smag til med salt og peber.</p><p>Server med ris eller pasta - eller spis retten som den er.</p>",
+    "Note": "Retten kan fryses. For mere protein kan du tilsætte ekstra kikærter/linser eller servere med quinoa.",
+    "ImageUrl": "images/recipe-images/176. Vegetar aftensmad - hurtig og lækker opskrift.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/vegetar-aftensmad-24456/",
+    "Keywords": ["Vegetar", "Gryderet", "Kikærter"]
+}

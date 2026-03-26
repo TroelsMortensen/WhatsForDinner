@@ -1,0 +1,41 @@
+{
+    "Id": 172,
+    "Title": "Sammenkogt ret med god sovs",
+    "SubHeader": "Cremet gryderet med paprika, tomatpuré og grøntsager. Kan laves med forskellige typer kød.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kød", "PreparationNote": "fx kylling, mørbrad, svinekød eller oksekød i tern/hakket" },
+                { "Quantity": 250, "Unit": "g", "Name": "bacontern eller cocktailpølser", "PreparationNote": "valgfrit" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "stort løg", "PreparationNote": "finthakket" },
+                { "Quantity": 200, "Unit": "g", "Name": "gulerødder", "PreparationNote": "i små tern" },
+                { "Quantity": 400, "Unit": "g", "Name": "champignoner eller peberfrugt", "PreparationNote": "eller en blanding" },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "tomatpuré", "PreparationNote": "koncentreret" },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": null, "Name": "bouillonterning", "PreparationNote": "hønse- eller oksebouillon" },
+                { "Quantity": 4, "Unit": "dl", "Name": "fløde", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Server f.eks. med",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "pasta", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "kartofler eller kartoffelmos", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Start med at stege kødet</h2><p>Steg eventuelt bacontern eller cocktailpølser først, og sæt det til side.</p><p>Skær kødet i mindre stykker ved behov, krydr med salt og peber, og brun det godt i olie (eller baconfedt). Tag kødet op og sæt til side.</p><h3>Gør grøntsagerne klar</h3><p>Hak løg fint, skær gulerødder i små tern, og snit champignoner/peberfrugt. Steg grøntsagerne i olie ved middel varme i ca. 5 minutter.</p><h3>Lav sovsen og lad retten simre</h3><p>Tilsæt paprika og koncentreret tomatpuré, og steg det med et par minutter.</p><p>Tilsæt vand, smuldr bouillon i, og rør fløden i. Krydr med salt og peber.</p><p>Kom kødet tilbage i gryden, og lad retten simre ved svag varme, til kødet er mørt. Simretiden afhænger af kødet: ca. 10 min for hakket kød/kylling, 20-25 min for svinekød i tern og 45-50 min for oksekød i tern.</p><p>Server med ris, pasta, ovnkartofler eller kartoffelmos.</p>",
+    "Note": "Retten kan holde sig 2-3 dage i køleskabet og kan fryses i ca. 4-6 måneder.",
+    "ImageUrl": "images/recipe-images/172. Sammenkogt ret med god sovs.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/sammenkogt-ret-24312/",
+    "Keywords": ["Gryderet", "Kylling", "Oksekød", "Svinekød"]
+}

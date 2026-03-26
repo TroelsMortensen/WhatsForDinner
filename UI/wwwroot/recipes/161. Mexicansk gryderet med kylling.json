@@ -1,0 +1,45 @@
+{
+    "Id": 161,
+    "Title": "Mexicansk gryderet med kylling",
+    "SubHeader": "One pot kyllingegryde med ris, kidneybønner og tomat, toppet med friske grøntsager, avocado og cheddar.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryderet",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "skåret i mundrette stykker" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 2, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kidneybønner", "PreparationNote": "drænet" },
+                { "Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "majs", "PreparationNote": "valgfrit" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": "valgfrit" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "tomater", "PreparationNote": "uden kerner, skåret i små tern" },
+                { "Quantity": 1, "Unit": "bdt", "Name": "forårsløg", "PreparationNote": "fintsnittet" },
+                { "Quantity": 2, "Unit": null, "Name": "avocadoer", "PreparationNote": "i tern" },
+                { "Quantity": null, "Unit": null, "Name": "limesaft eller citronsaft", "PreparationNote": "til avocado" },
+                { "Quantity": 100, "Unit": "g", "Name": "revet cheddarost", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "creme fraiche", "PreparationNote": "til servering" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du mexicansk kyllingegryde</h2><p>Steg løg og hvidløg i olie i en gryde.</p><p>Tilsæt kyllingestykkerne, og svits dem godt på alle sider.</p><p>Tilsæt peberfrugt og ris, og lad det stege kort under omrøring.</p><p>Hæld hønsebouillon i gryden. Tilsæt kidneybønner, hakkede tomater og eventuelt majs. Krydr med spidskommen, eventuelt chili, salt og peber.</p><p>Lad retten simre under låg i ca. 15 minutter, eller til risene er møre.</p><p>Forbered toppingen imens: skær tomater i små tern, snit forårsløg, og skær avocado i tern. Vend avocado med lidt lime- eller citronsaft.</p><p>Smag retten til, og server med topping, revet cheddar og creme fraiche.</p>",
+    "Note": "Retten er en alt-i-en-gryde og fungerer godt som hurtig hverdagsmad.",
+    "ImageUrl": "images/recipe-images/161. Mexicansk gryderet med kylling.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/mexicanskgryderetmedkylling-21636/",
+    "Keywords": ["Kylling", "Mexicansk", "Gryderet", "One Pot"]
+}

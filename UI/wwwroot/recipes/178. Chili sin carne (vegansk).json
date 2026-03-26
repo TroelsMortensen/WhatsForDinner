@@ -1,0 +1,43 @@
+{
+    "Id": 178,
+    "Title": "Chili sin carne (vegansk)",
+    "SubHeader": "Smagfuld vegansk chili med grøntsager, quinoa, bønner og mørk chokolade.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 6,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "i fine tern" },
+                { "Quantity": 2, "Unit": "stængler", "Name": "bladselleri", "PreparationNote": "i fine tern" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": null, "Name": "peberfrugter", "PreparationNote": "i tern" },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": "stødt" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "koriander", "PreparationNote": "stødt" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": "eller mere efter smag" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kidneybønner i chilisauce", "PreparationNote": null },
+                { "Quantity": 20, "Unit": "g", "Name": "mørk chokolade", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "quinoa", "PreparationNote": "skyllet godt i koldt vand" },
+                { "Quantity": 1, "Unit": "ds", "Name": "majs", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Serveringsforslag",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "frisk lime", "PreparationNote": "valgfrit" },
+                { "Quantity": null, "Unit": null, "Name": "vegansk sojayoghurt naturel", "PreparationNote": "valgfrit" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du chili sin carne</h2><p>Varm olie op i en stor pande ved middel varme, og steg løg, gulerødder og bladselleri, uden at grøntsagerne tager farve.</p><p>Tilsæt hvidløg og peberfrugt, og steg videre i ca. 5 minutter.</p><p>Tilsæt spidskommen, koriander, chilipulver og tomatpuré, og svits et par minutter.</p><p>Tilsæt hakkede tomater, grøntsagsbouillon og mørk chokolade.</p><p>Skyl quinoa grundigt, bring retten op at koge, og rør quinoa i. Lad retten simre i ca. 20-25 minutter, til quinoaen er færdigkogt.</p><p>Tilsæt majs og kidneybønner med chilisauce til sidst, og varm retten godt igennem.</p><p>Server eventuelt med vegansk yoghurt naturel og frisk lime.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/178. Chili sin carne (vegansk).jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/chilisincarne-vegansk-23080/",
+    "Keywords": ["Vegansk", "Mexicansk", "Bælgfrugter"]
+}

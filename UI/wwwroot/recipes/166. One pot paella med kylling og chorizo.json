@@ -1,0 +1,36 @@
+{
+    "Id": 166,
+    "Title": "One pot paella med kylling og chorizo",
+    "SubHeader": "Smagfuld one pot paella med kylling, chorizo, ris og grøntsager i tomatsauce.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 3,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "peberfrugter", "PreparationNote": "fintsnittet" },
+                { "Quantity": 2, "Unit": null, "Name": "små rødløg", "PreparationNote": "fintsnittet" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 450, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "paprika", "PreparationNote": "deles i to" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 60, "Unit": "g", "Name": "chorizopølse", "PreparationNote": "skåret i tern" },
+                { "Quantity": 225, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 120, "Unit": "g", "Name": "frosne ærter", "PreparationNote": null },
+                { "Quantity": 4.5, "Unit": "dl", "Name": "kogende vand", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "tomatsauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bdt", "Name": "persille", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": "valgfrit, i både til servering" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du one pot paella</h2><p>Forbered grøntsagerne: snit peberfrugter og rødløg fint, og pil hvidløg.</p><p>Krydr kyllingeinderfileterne med halvdelen af paprikaen samt salt og peber, og brun dem i lidt olie ved høj varme. Tag kyllingen op.</p><p>Steg chorizotern sprøde i gryden. Du kan tage dem op for ekstra sprødhed eller lade dem blive i retten for mere smag.</p><p>Svits peberfrugter og rødløg i ca. 5 minutter, til de bliver let bløde. Pres hvidløg over, tilsæt resten af paprikaen, og svits kort.</p><p>Tilsæt ris, ærter, kogende vand og tomatsauce. Smuldr bouillonterningen i, bring retten i simre, og rør godt rundt.</p><p>Læg kyllingen ovenpå og tryk den let ned i sovsen. Lad retten simre i ca. 25 minutter, til risene er møre. Rør forsigtigt et par gange undervejs.</p><p>Drys med hakket persille og server eventuelt med citronbåde.</p>",
+    "Note": "Chorizoen kan enten blive i retten for ekstra smag eller tages op og bruges som sprød topping.",
+    "ImageUrl": "images/recipe-images/166. One pot paella med kylling og chorizo.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/one-pot-paella-med-kylling-og-chorizo-23970/",
+    "Keywords": ["Kylling", "One Pot", "Ris", "Chorizo"]
+}

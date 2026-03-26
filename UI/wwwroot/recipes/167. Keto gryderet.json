@@ -1,0 +1,43 @@
+{
+    "Id": 167,
+    "Title": "Keto gryderet",
+    "SubHeader": "Cremet keto paprikagryde med kylling, bacon og grøntsager. Perfekt til low carb hverdagsmad.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "bacontern", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "champignoner", "PreparationNote": "renset og skåret i tynde skiver" },
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olie", "PreparationNote": "deles i to" },
+                { "Quantity": 1, "Unit": null, "Name": "lille løg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": null, "Name": "lille squash", "PreparationNote": "i tern uden våde kerner" },
+                { "Quantity": 1, "Unit": null, "Name": "peberfrugt", "PreparationNote": "i tern" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "flødeost", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "persille", "PreparationNote": "valgfrit, til drys" }
+            ]
+        },
+        {
+            "Title": "Forslag til keto tilbehør",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "blomkålsmos", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "stegt eller bagt spidskål", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du keto gryderetten</h2><p>Steg baconternene sprøde på en pande. Tag dem op, og læg dem på fedtsugende papir.</p><p>Steg champignonerne i baconfedtet ved høj varme i et par minutter. Tag dem op, og læg dem sammen med baconen.</p><p>Brun kyllingeinderfileterne ad flere omgange i halvdelen af olien ved høj varme. Tag kyllingen op.</p><p>Forbered grøntsagerne: hak løg fint, og skær squash og peberfrugt i tern.</p><p>Svits grøntsagerne i resten af olien i ca. 5 minutter ved middel varme. Tilsæt paprika og tomatpuré, og svits kort.</p><p>Tilsæt flødeost, fløde, vand og hønsebouillon, og bring retten i kog.</p><p>Kom kylling, bacon og champignoner tilbage i gryden, og lad retten simre i ca. 10 minutter.</p><p>Smag til med salt og peber, og drys eventuelt med persille før servering.</p>",
+    "Note": "Server gerne med blomkålsmos eller stegt spidskål for en lavere mængde kulhydrat.",
+    "ImageUrl": "images/recipe-images/167. Keto gryderet.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/keto-gryderet-24094/",
+    "Keywords": ["Kylling", "Keto", "Low Carb", "Gryderet"]
+}

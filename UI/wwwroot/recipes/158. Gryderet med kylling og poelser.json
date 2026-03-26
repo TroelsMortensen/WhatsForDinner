@@ -1,0 +1,42 @@
+{
+    "Id": 158,
+    "Title": "Gryderet med kylling og pølser",
+    "SubHeader": "Cremet gryderet med kylling, pølser og grøntsager i paprikasovs. Nem hverdagsret til hele familien.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryderet",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "peberfrugter", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 150, "Unit": "g", "Name": "gulerødder", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 150, "Unit": "g", "Name": "champignoner", "PreparationNote": "renset og skåret i skiver; kan udelades" },
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "skåret i mundrette bidder" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": "deles i to" },
+                { "Quantity": 300, "Unit": "g", "Name": "pølser", "PreparationNote": "skåret i skiver" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Serveringsforslag",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "pasta", "PreparationNote": "valgfrit tilbehør" },
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": "valgfrit tilbehør" },
+                { "Quantity": null, "Unit": null, "Name": "kartofler", "PreparationNote": "valgfrit tilbehør" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du gryderetten</h2><p>Forbered grøntsagerne: skær peberfrugter og gulerødder i små tern, og skær champignoner i tynde skiver.</p><p>Skær kyllingen i mundrette bidder, krydr med salt og peber, og brun den ved høj varme i halvdelen af olien. Tag kyllingen op af gryden.</p><p>Skær pølserne i skiver. Tilsæt resten af olien i gryden, og steg pølserne ved middel varme, så de får farve.</p><p>Pres hvidløg over pølserne, tilsæt de forberedte grøntsager, og steg i ca. 5 minutter.</p><p>Rør paprika, hakkede tomater og vand i gryden, smuldr hønsebouillon over, og bring retten i simren. Tilsæt fløde og kom den brunede kylling tilbage i gryden.</p><p>Lad retten simre i 10-15 minutter, til sovsen er let tyknet og kyllingen er mør. Smag til med salt og peber.</p><p>Server med pasta, ris eller kartofler.</p>",
+    "Note": "Wienerpølser eller grillpølser passer godt, men chorizo eller salsiccia kan bruges for mere krydret smag.",
+    "ImageUrl": "images/recipe-images/158. Gryderet med kylling og poelser.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/gryderet-med-kylling-og-poelser-24189/",
+    "Keywords": ["Kylling", "Gryderet"]
+}

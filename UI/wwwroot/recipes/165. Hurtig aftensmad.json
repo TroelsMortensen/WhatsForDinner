@@ -1,0 +1,40 @@
+{
+    "Id": 165,
+    "Title": "Hurtig aftensmad",
+    "SubHeader": "Cremet hverdagsret med kylling og grøntsager, klar på 20 minutter.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "skåret i mundrette stykker" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": "deles i to" },
+                { "Quantity": 1, "Unit": null, "Name": "stort løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 150, "Unit": "g", "Name": "gulerødder", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 3, "Unit": null, "Name": "peberfrugter", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "skåret i tern" },
+                { "Quantity": 3, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "persille eller anden krydderurt", "PreparationNote": "valgfrit, til drys" }
+            ]
+        },
+        {
+            "Title": "Forslag til tilbehør",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "pasta", "PreparationNote": "valgfrit" },
+                { "Quantity": null, "Unit": null, "Name": "kartofler", "PreparationNote": "valgfrit" },
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": "valgfrit" },
+                { "Quantity": null, "Unit": null, "Name": "blomkålsris", "PreparationNote": "valgfrit, low carb" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Skær kyllingen i mundrette stykker, krydr med salt og peber, og steg den i halvdelen af olien ved middelhøj varme, til den er gennemstegt. Tag kyllingen op.</p><p>Forbered grøntsagerne: hak løg fint, pres hvidløg, skræl og skær gulerødder i små tern, og skær peberfrugt og squash i tern.</p><p>Svits grøntsagerne i resten af olien i ca. 5 minutter ved høj varme, og tilsæt hvidløget.</p><p>Hæld fløden i, krydr med salt og peber, kom kyllingen tilbage i retten, og lad det simre i ca. 5 minutter, til grøntsagerne er møre og sovsen er kogt lidt ind.</p><p>Drys eventuelt med finthakkede krydderurter og server med ris, kartofler eller pasta - eller spis retten som den er.</p>",
+    "Note": "Retten kan varieres med andre grøntsager. Hvis sovsen ønskes tykkere, kan den jævnes med lidt majsstivelse rørt op i vand.",
+    "ImageUrl": "images/recipe-images/165. Hurtig aftensmad.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/hurtig-aftensmad-24350/",
+    "Keywords": ["Kylling", "Hurtig mad", "Gryderet"]
+}

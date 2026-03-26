@@ -1,0 +1,31 @@
+{
+    "Id": 177,
+    "Title": "Stegte ris med æg og grøntsager",
+    "SubHeader": "Hurtig hverdagsret med ris, grøntsager, æg og sojasauce - perfekt til rester.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "i tynde stave" },
+                { "Quantity": 2, "Unit": null, "Name": "peberfrugter", "PreparationNote": "i tynde stave" },
+                { "Quantity": 0.5, "Unit": "bdt", "Name": "forårsløg", "PreparationNote": "snittet på skrå, grøn top gemmes delvist til servering" },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": null, "Name": "æg", "PreparationNote": "letpiskede" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Bring vandet i kog, tilsæt lidt salt og ris, og kog under låg i ca. 10 minutter. Lad risene hvile i ca. 10 minutter.</p><p>Forbered grøntsagerne: skær gulerødder og peberfrugt i tynde stave, snit forårsløg på skrå, og gem lidt af den grønne top til servering.</p><h3>Stegning af ris og grøntsager</h3><p>Varm olien op i en wok eller pande ved høj varme. Svits gulerødder, peberfrugt og forårsløg i ca. 5 minutter under omrøring.</p><p>Tilsæt finthakket hvidløg og de kogte ris, og steg videre i ca. 5 minutter.</p><h3>Tilsæt æg og sojasauce</h3><p>Skub ris og grøntsager til side, hæld de piskede æg på panden, og rør rundt, så de får konsistens som røræg. Når æggene næsten har sat sig, blandes de med resten.</p><p>Tilsæt sojasauce, vend det hele godt rundt, krydr med peber, og steg et par minutter mere. Smag eventuelt til med lidt salt.</p><p>Server med finthakket forårsløg på toppen.</p>",
+    "Note": "Retten er oplagt til rester af kogte ris og andre grøntsager.",
+    "ImageUrl": "images/recipe-images/177. Stegte ris med æg og grøntsager.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/stegteris-med-aeg-groentsager-23899/",
+    "Keywords": ["Vegetar", "Ris", "Hurtig mad"]
+}

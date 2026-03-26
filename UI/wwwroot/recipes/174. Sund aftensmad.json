@@ -1,0 +1,39 @@
+{
+    "Id": 174,
+    "Title": "Sund aftensmad",
+    "SubHeader": "Fedtfattig og cremet ret med kylling og mange grøntsager, klar på ca. 25 minutter.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "kan erstattes af fx hakket oksekød eller kalkun" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 200, "Unit": "g", "Name": "gulerødder", "PreparationNote": "i fine tern" },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "i tern" },
+                { "Quantity": 4, "Unit": null, "Name": "peberfrugter", "PreparationNote": "i tern" },
+                { "Quantity": 0.5, "Unit": null, "Name": "spidskål", "PreparationNote": "valgfrit, fintsnittet" },
+                { "Quantity": 2, "Unit": "dl", "Name": "tomatpassata", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "madlavningsfløde 4%", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Forslag til tilbehør",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "brune ris eller blomkålsris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "fuldkornspasta", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du sund aftensmad på 25 minutter</h2><p>Skær kyllingen i mundrette stykker, krydr med salt og peber, og brun den i olie, til den er gennemstegt. Tag kyllingen op.</p><p>Forbered grøntsagerne: hak løg fint, pres hvidløg, skær gulerødder i fine tern, skær squash og peberfrugt i tern, og snit eventuelt spidskål fint.</p><p>Svits grøntsagerne i gryden i ca. 5 minutter ved høj varme, og tilsæt hvidløg.</p><p>Tilsæt tomatpassata og madlavningsfløde, og krydr med salt og peber.</p><p>Kom kyllingen tilbage i retten, og lad den simre ca. 5 minutter, til grøntsagerne er møre og kyllingen er gennemvarmet. Smag til med salt og peber.</p><p>Server med brune ris, blomkålsris eller fuldkornspasta - eller spis retten som den er.</p>",
+    "Note": "Retten kan laves vegetarisk uden kød eller vegansk ved at bruge plantebaseret fløde. Den kan også fryses i portioner.",
+    "ImageUrl": "images/recipe-images/174. Sund aftensmad.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/sund-aftensmad-24364/",
+    "Keywords": ["Kylling", "Sund", "Grøntsager"]
+}

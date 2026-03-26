@@ -1,0 +1,43 @@
+{
+    "Id": 160,
+    "Title": "Paprikagryde med kylling",
+    "SubHeader": "Saftig kylling i cremet paprikasovs med sprød bacon. En klassisk gryderet, der passer godt med ris eller kartoffelmos.",
+    "TotalMinutes": null,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "bacon", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "kyllingefileter", "PreparationNote": "skåret i mundrette stykker" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": null, "Name": "røde peberfrugter", "PreparationNote": "skåret i tern" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "eventuelt, hvis der mangler fedtstof" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "mild paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 3.5, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ketchup", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bdt", "Name": "persille", "PreparationNote": "hakket" }
+            ]
+        },
+        {
+            "Title": "Serveringsforslag",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "pasta", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "kartoffelmos", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du kylling i paprikasovs</h2><p>Steg baconen sprød på en pande. Krydr kyllingestykkerne med salt og peber, steg dem i baconfedtet, og tag dem derefter op.</p><p>Hak løg fint, og skær peberfrugter i tern. Tilsæt eventuelt lidt olie på panden, og svits løg og peberfrugt ved middel varme, til løgene er klare og peberfrugterne bliver bløde.</p><p>Tilsæt paprika og tomatpuré, og svits i ca. 5 minutter. Rør fløde, mælk, vand og ketchup i, smuldr bouillonterningen i, og lad sovsen simre i ca. 10 minutter.</p><p>Kom kylling og bacon tilbage i sovsen, varm retten godt igennem, og smag til med salt og peber. Gem eventuelt lidt bacon til topping.</p><p>Vend hakket persille i lige inden servering, og server med ris, pasta eller kartoffelmos.</p>",
+    "Note": "Paprika kan variere i styrke; juster mængden efter smag. Retten egner sig også fint til frysning og kan laves dagen før.",
+    "ImageUrl": "images/recipe-images/160. Paprikagryde med kylling.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/paprikagrydemedkylling-23090/",
+    "Keywords": ["Kylling", "Gryderet"]
+}
