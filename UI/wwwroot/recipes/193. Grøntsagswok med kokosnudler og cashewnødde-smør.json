@@ -1,0 +1,40 @@
+{
+    "Id": 193,
+    "Title": "Grøntsagswok med kokosnudler og cashewnødde-smør",
+    "SubHeader": "Grøntsagswok med nudler, kokosmælk, edamame og cashewnødde-smør.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "nudler", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "edamamebønner", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rød karrypasta", "PreparationNote": null },
+                { "Quantity": 20, "Unit": "g", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "cashewnødde-smør", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "broccoli", "PreparationNote": "delt i buketter" },
+                { "Quantity": 3, "Unit": null, "Name": "gulerødder", "PreparationNote": "skåret i tynde skiver" },
+                { "Quantity": 200, "Unit": "g", "Name": "spinat", "PreparationNote": "frisk eller frost" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "fishsauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "saften" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 40, "Unit": "g", "Name": "cashewnødder", "PreparationNote": "grofthakkede" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog nudlerne i letsaltet vand efter anvisning på emballagen. Kom edamamebønnerne i gryden et minut før nudlerne er færdige, og hæld straks derefter bønner og nudler gennem en sigte. Skyl nudler og bønner i iskoldt vand, så de ikke klistrer sammen, og så kogningen stopper.</p><p>Kom olie i en wok eller stor pande og tilsæt karrypasta, ingefær og hvidløg. Rør rundt, til det dufter skønt. Rør kokosmælk og cashewnødde-smør i og rør det godt sammen til en ensartet sauce.</p><p>Tilsæt broccoli, gulerødder og spinat og varm det godt igennem, til spinaten falder sammen. Vend nudler og edamamebønner i og vend det godt sammen, så saucen fordeler sig i retten. Smag til med fishsauce og saften fra en lime.</p><p>Server i skåle med et drys cashewnødder og frisk koriander.</p>",
+    "Note": "I stedet for cashewnødde-smør kan man bruge peanutbutter eller endnu bedre hjemmelavet cashewnødde-smør. Hæld vand over cashewnødderne og lad dem stå i blød i mindst 1 time. Blend derefter til et cremet cashewnødde-smør.",
+    "ImageUrl": "images/recipe-images/193. Grøntsagswok med kokosnudler og cashewnødde-smør.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Wok", "Nudler", "Kokosmælk", "Edamame"]
+}

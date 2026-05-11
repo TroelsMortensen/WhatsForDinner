@@ -1,0 +1,43 @@
+{
+    "Id": 197,
+    "Title": "Bolognese med linser",
+    "SubHeader": "Den klassiske italienske bolognese er et sikkert hit i mange børnefamilier. I denne version er kødet skiftet ud med linser, der er fulde af proteiner, som mætter godt og giver retten tyngde. Resultatet er lækkert og velsmagende, og retten bliver tilmed ekstra budgetvenlig.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 250, "Unit": "g", "Name": "champignoner", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 3, "Unit": "stængler", "Name": "bladselleri", "PreparationNote": "groftrevne" },
+                { "Quantity": 75, "Unit": "g", "Name": "soltørrede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rød balsamico", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "rødvin eller grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "frisk rosmarin", "PreparationNote": "finthakket" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "spaghetti", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "parmesan", "PreparationNote": "friskrevet" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "frisk timian", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter løg og hvidløg i en gryde med olie, til de er klare og bløde.</p><p>Skru op for varmen og kom finthakkede champignoner i gryden, rør godt igennem og tilsæt derefter de andre ingredienser.</p><p>Skru ned for varmen og lad retten simre i 20 minutter, til linserne er møre. Smag saucen til med salt og friskkværnet peber.</p><p>Server med dampende varm spaghetti, friskrevet parmesan og timian.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/197. Bolognese med linser.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Pasta", "Bolognese", "Linser", "Hverdagsmad"]
+}

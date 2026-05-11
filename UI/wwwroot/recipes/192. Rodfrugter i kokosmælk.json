@@ -1,0 +1,42 @@
+{
+    "Id": 192,
+    "Title": "Rodfrugter i kokosmælk",
+    "SubHeader": "Nem, økonomisk, lækker og velsmagende ret fyldt med vinterens rodfrugter og masser af krydderier.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kartofler", "PreparationNote": "skåret i tern" },
+                { "Quantity": 600, "Unit": "g", "Name": "gulerødder", "PreparationNote": "skåret i tern" },
+                { "Quantity": 400, "Unit": "g", "Name": "sød kartoffel", "PreparationNote": "skåret i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 0.5, "Unit": null, "Name": "rød chili", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "friskrevet" },
+                { "Quantity": 2, "Unit": "dåser", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 100, "Unit": "g", "Name": "spinat", "PreparationNote": "grofthakket" },
+                { "Quantity": 50, "Unit": "g", "Name": "cashewnødder", "PreparationNote": "hakkede" },
+                { "Quantity": 2, "Unit": "dl", "Name": "cremefraiche 18 %", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "brød", "PreparationNote": "fx grydebrød" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Rist kardemomme, spidskommen, koriander og lidt peber på en tør pande, til det dufter skønt og krydret.</p><p>Skru ned for varmen, tilsæt kartofler, gulerødder, sød kartoffel, rødløg, chili, hvidløg og ingefær samt olie til stegning. Rør det godt igennem et par minutter.</p><p>Tilsæt kokosmælk, rør rundt og læg låg på gryden.</p><p>Lad rodfrugterne simre ved svag varme i 20 minutter, til de er møre. Smag til med salt og peber.</p><p>Server retten med grofthakket spinat, et drys hakkede nødder, cremefraiche og brød.</p>",
+    "Note": "Prøv også at tilsætte blomkål, broccoli, savoykål eller grønkål og lad det simre med i de sidste 10 minutter, inden retten er klar til servering.",
+    "ImageUrl": "images/recipe-images/192. Rodfrugter i kokosmælk.jpg",
+    "Source": "Valdemarsro - Grøn aftensmad",
+    "Keywords": ["Vegetar", "Gryderet", "Rodfrugter", "Kokosmælk"]
+}

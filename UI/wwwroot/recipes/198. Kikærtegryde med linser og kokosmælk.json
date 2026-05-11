@@ -1,0 +1,43 @@
+{
+    "Id": 198,
+    "Title": "Kikærtegryde med linser og kokosmælk",
+    "SubHeader": "En fantastisk og yderst budgetvenlig ret. Den er næringsrig, nem at lave, smager virkelig godt og er den perfekte ret til alle, der i forvejen er begejstret for den indiske ret dhal.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 150, "Unit": "g", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "skåret i tern på 1 x 1 cm" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "skåret i tynde strimler" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": "kogt efter anvisning på emballagen" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": "grofthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom karry, spidskommen, kardemomme og koriander i en tør gryde og varm godt igennem, til det begynder at dufte dejligt.</p><p>Skru lidt ned for varmen, kom løg, hvidløg, ingefær og olie i gryden, og sautér, til løgene er bløde.</p><p>Skyl linserne i en sigte, og kom dem i gryden sammen med grøntsagsbouillon, hakkede tomater og kokosmælk. Lad det simre under låg i ca. 30 minutter, og rør jævnligt.</p><p>Tilsæt kikærter, squash og peberfrugt, og varm det hele godt igennem i ca. 10 minutter. Smag til med salt og friskkværnet peber.</p><p>Server med ris og grofthakket persille.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/198. Kikærtegryde med linser og kokosmælk.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Gryderet", "Linser", "Kikærter", "Kokosmælk"]
+}

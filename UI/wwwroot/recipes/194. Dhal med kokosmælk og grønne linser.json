@@ -1,0 +1,42 @@
+{
+    "Id": 194,
+    "Title": "Dhal med kokosmælk og grønne linser",
+    "SubHeader": "Krydret og cremet dhal med grønne linser, kokosmælk og tomat, toppet med yoghurt, avocado og koriander.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "grønne linser", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåser", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "græsk yoghurt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "avocado", "PreparationNote": "skåret i skiver" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørrede chiliflager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Varm olien i en stor gryde ved middelvarme, tilsæt hvidløg og ingefær, og rør rundt i 1 minut.</p><p>Tilsæt karry, spidskommen, kardemomme, koriander og chiliflager, og svits krydderierne kort under omrøring.</p><p>Skyl linserne godt i en sigte, og kom dem i gryden sammen med grøntsagsbouillon, kokosmælk og hakkede tomater. Lad dhalen simre under låg i ca. 30-45 minutter.</p><p>Rør jævnligt i gryden, og tilsæt eventuelt lidt ekstra grøntsagsbouillon, hvis dhalen bliver for fast.</p><p>Smag til med salt og peber, og server i dybe skåle toppet med græsk yoghurt, avocado i skiver, chiliflager og frisk koriander.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/194. Dhal med kokosmælk og grønne linser.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Indisk", "Dhal", "Linser", "Gryderet"]
+}

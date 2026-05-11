@@ -1,0 +1,42 @@
+{
+    "Id": 203,
+    "Title": "Chana masala med kikærter",
+    "SubHeader": "En dejlig enkel og krydret ret. Hvis du gerne vil have flere grøntsager i retten, kan der sagtens lade sig gøre. Kom fx en groftrevet squash eller en håndfuld frisk spinat i gryden sammen med de hakkede tomater.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "rød chili", "PreparationNote": "finthakket" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåser", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåser", "Name": "kikærter", "PreparationNote": "drænede og skyllede" },
+                { "Quantity": 1, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": "evt." },
+                { "Quantity": 2, "Unit": "tsk", "Name": "rørsukker", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": "kogt efter anvisningen på pakken" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": "grofthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom løg og spidskommen i en gryde med olie, og sauter ved middelvarme, til løgene er klare og bløde.</p><p>Tilsæt hvidløg, ingefær, koriander, chili, kardemomme, gurkemeje og garam masala. Rør det godt igennem. Tilsæt derefter hakkede tomater og kikærter.</p><p>Bring retten i kog under omrøring, og lad det simre uden låg i 20 minutter. Rør jævnligt, og hvis retten bliver for tyk, så tilsæt ca. 1 dl grøntsagsbouillon.</p><p>Smag til med sukker, salt og ekstra krydderier efter smag.</p><p>Server med ris og koriander.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/203. Chana masala med kikærter.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Indisk", "Kikærter", "Gryderet", "Hverdagsmad"]
+}
