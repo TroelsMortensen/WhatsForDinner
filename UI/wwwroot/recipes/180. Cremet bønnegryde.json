@@ -1,0 +1,37 @@
+{
+    "Id": 180,
+    "Title": "Cremet bønnegryde",
+    "SubHeader": "Hurtig vegetarisk bønnegryde med peberfrugt, majs og creme fraiche.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Hovedingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "ds", "Name": "bønne-mix", "PreparationNote": "drænet" },
+                { "Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "creme fraiche", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "røde peberfrugter", "PreparationNote": "skåret i strimler" },
+                { "Quantity": 1, "Unit": "ds", "Name": "majs", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Basisvarer",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "fint snittet" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint snittet" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du cremet bønnegryde</h2><p>Snit løg og hvidløg fint, og skær peberfrugterne i strimler.</p><p>Varm olivenolie i en stor gryde ved middel varme. Steg løg og hvidløg til de er gyldne.</p><p>Tilsæt røget paprika og spidskommen, og lad krydderierne stege kort i ca. 30 sekunder.</p><p>Kom peberfrugt, hakkede tomater og majs i gryden. Lad det simre i ca. 5 minutter.</p><p>Tilsæt de drænede bønner, og varm retten igennem i ca. 5 minutter. Smag til med salt og peber.</p><p>Tag gryden af varmen, og rør creme fraiche i, så retten bliver cremet.</p><p>Server straks, gerne med brød eller ris.</p>",
+    "Note": "Kan serveres med brød eller ris.",
+    "ImageUrl": "images/recipe-images/180. Cremet bønnegryde.jpg",
+    "Source": "https://www.foetex.dk/cremet-boennegryde/",
+    "Keywords": ["Vegetar", "Gryderet", "Bønner", "Hurtig mad"]
+}

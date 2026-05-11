@@ -1,0 +1,38 @@
+{
+    "Id": 184,
+    "Title": "Grillet grøntsagssuppe med tomater og peberfrugt",
+    "SubHeader": "Fyldig grøntsagssuppe med grillede tomater og peberfrugt, toppet med cremefraiche, urter og sprøde kikærter.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 700, "Unit": "g", "Name": "tomater", "PreparationNote": "skåret i halve" },
+                { "Quantity": 3, "Unit": null, "Name": "røde peberfrugter", "PreparationNote": "skåret i halve" },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "skåret i både" },
+                { "Quantity": 5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "cremefraiche 18 %", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": "grovthakket" },
+                { "Quantity": 1, "Unit": "bakke", "Name": "karse", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "portion", "Name": "sprøde kikærter", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>På grill</h3><p>Vend tomater, peberfrugter, løg og hvidløg i olivenolie, salt og peber, og fordel dem på en grillbakke.</p><p>Grill grøntsagerne ved at vende dem undervejs, til de er godt møre.</p><h3>I ovnen</h3><p>Hvis du bruger ovn, vendes tomater, peberfrugter, løg og hvidløg i olivenolie, salt og peber og fordeles på en bageplade med bagepapir.</p><p>Bag grøntsagerne i forvarmet ovn ved 180 grader varmluft i 30-35 minutter, til de er møre.</p><p>Kom de grillede eller bagte grøntsager i en blender med grøntsagsbouillon og timian, og blend til en cremet suppe.</p><p>Blend til sidst piskefløde i suppen, så den bliver ekstra cremet og fyldig.</p><h3>Servering</h3><p>Server suppen i dybe tallerkener med cremefraiche, persille, karse og sprøde kikærter.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/184. Grillet grøntsagssuppe med tomater og peberfrugt.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Suppe", "Vegetar", "Tomat", "Peberfrugt"]
+}

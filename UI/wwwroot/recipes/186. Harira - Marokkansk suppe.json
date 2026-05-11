@@ -1,0 +1,48 @@
+{
+    "Id": 186,
+    "Title": "Harira - Marokkansk suppe",
+    "SubHeader": "Krydret marokkansk suppe med kikærter, røde linser og varme krydderier, serveret med ristede kikærter, mynte og persille.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "stængler", "Name": "bladselleri", "PreparationNote": "skåret i tern" },
+                { "Quantity": 50, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "fintrevet" },
+                { "Quantity": 0.5, "Unit": null, "Name": "rød chili", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "knivspids", "Name": "stødt safran", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "l", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænede og skyllede" },
+                { "Quantity": 75, "Unit": "g", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "citron", "PreparationNote": "saften heraf" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "portion", "Name": "ristede kikærter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "mynteblade", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Rist spidskommen og koriander i en varm, tør gryde under omrøring, til det dufter. Skru ned for varmen og kom olie, løg og hvidløg på, og sauter under omrøring, til løgene bliver bløde.</p><p>Tilsæt bladselleri, tomatpuré, hakkede tomater, squash, gurkemeje, ingefær, chili, sød paprika, røget paprika, safran, grøntsagsbouillon, kikærter og røde linser.</p><p>Varm op til kogepunktet under omrøring, læg låg på, skru ned for varmen og lad suppen simre i ca. 20-25 minutter.</p><p>Smag til med citronsaft, salt og peber, og server den rygende varme suppe med ristede kikærter, mynte og persille.</p>",
+    "Note": "Safran er i den prebrede side at købe, men uhm, hvor det smager godt! Hvis du gerne vil spare lidt på budgettet, så undlad det blot – suppen er også dejlig uden.",
+    "ImageUrl": "images/recipe-images/186. Harira - Marokkansk suppe.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Suppe", "Vegetar", "Marokkansk", "Kikærter", "Linser"]
+}

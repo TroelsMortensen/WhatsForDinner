@@ -1,0 +1,31 @@
+{
+    "Id": 187,
+    "Title": "Kikærtebøffer",
+    "SubHeader": "Sprøde kikærtebøffer bagt i ovn med krydderier og rasp.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænede og skyllede" },
+                { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "rugmel", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "rasp", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til pensling" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom alle ingredienserne, undtagen rasp, i en foodprocessor eller minihakker og kør, til farsen er godt blandet og har en jævn konsistens. Lad farsen trække i 30 minutter på køl.</p><p>Del farsen i 4 dele. Kom godt med olie på hænderne og form hver del til en rund kugle, som trykkes flad på en tallerken med rasp. Vend kikærtebøffen, så den er dækket med rasp på begge sider, og bøffen er pæn flad og rund.</p><p>Læg alle 4 kikærtebøffer på en bageplade med bagepapir, pensl med olie og bag dem i en forvarmet ovn ved 190 grader varmluft i ca. 25-30 minutter, til de er sprøde og gyldne i kanterne.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/187. Kikærtebøffer.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Kikærter", "Ovnbagt", "Bøffer"]
+}

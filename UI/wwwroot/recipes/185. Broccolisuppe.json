@@ -1,0 +1,37 @@
+{
+    "Id": 185,
+    "Title": "Broccolisuppe",
+    "SubHeader": "Cremet broccolisuppe med kartofler, toppet med æbletern og ristede græskarkerner.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "grovthakkede" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 4, "Unit": null, "Name": "kartofler", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "l", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "delt i buketter" },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "æblecidereddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "æbler", "PreparationNote": "skåret i tern" },
+                { "Quantity": null, "Unit": null, "Name": "græskarkerner", "PreparationNote": "ristede" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter løg og hvidløg i en gryde med olie ved middel varme, til løgene er bløde og klare.</p><p>Kom kartoffeltern, timian og grøntsagsbouillon i gryden. Kog op og lad suppen simre under låg i 15 minutter.</p><p>Tilsæt broccoli og kog yderligere i 5 minutter.</p><p>Blend suppen grundigt. Tilsæt fløde, og smag til med æblecidereddike, salt og peber.</p><p>Blend suppen igen og server med æbletern og ristede græskarkerner.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/185. Broccolisuppe.jpg",
+    "Source": null,
+    "Keywords": ["Suppe", "Vegetar", "Broccoli", "Kartofler"]
+}

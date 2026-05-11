@@ -1,0 +1,34 @@
+{
+    "Id": 183,
+    "Title": "Grønkålssuppe",
+    "SubHeader": "Cremet suppe med kartofler, grønkål og hvidløg, toppet med ristet flute.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 650, "Unit": "g", "Name": "kartofler", "PreparationNote": "skrællet og skåret i tern" },
+                { "Quantity": 1, "Unit": "l", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "håndfulde", "Name": "grønkål", "PreparationNote": "grovthakket" },
+                { "Quantity": 1, "Unit": "dl", "Name": "madlavningsfløde", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "skiver", "Name": "flute", "PreparationNote": null },
+                { "Quantity": 80, "Unit": "g", "Name": "smør", "PreparationNote": "til ristning af brød" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Svits løg og hvidløg i en gryde med lidt smør ved middel varme, til løgene er klare.</p><p>Tilsæt kartoflerne, og lad dem stege med i et par minutter.</p><p>Hæld grøntsagsbouillon i gryden, bring suppen i kog, og lad den simre i ca. 15 minutter, til kartoflerne er møre.</p><p>Tilsæt grønkål og madlavningsfløde, og lad suppen småkoge i yderligere 3-5 minutter.</p><p>Blend suppen cremet, og smag til med salt og friskkværnet peber.</p><p>Rist imens fluteskiverne gyldne i smør på en pande.</p><p>Server grønkålssuppen rygende varm med ristet flute på toppen.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/183. Grønkålssuppe.jpg",
+    "Source": null,
+    "Keywords": ["Suppe", "Vegetar", "Grønkål", "Kartofler"]
+}
