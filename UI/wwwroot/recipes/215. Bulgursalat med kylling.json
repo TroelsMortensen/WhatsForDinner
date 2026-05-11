@@ -1,0 +1,47 @@
+{
+    "Id": 215,
+    "Title": "Bulgursalat med kylling",
+    "SubHeader": null,
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "pankorasp", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Dressing med ingefær",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "øko citron", "PreparationNote": "saft og skal" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ahornsirup", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Salat",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "i buketter" },
+                { "Quantity": 100, "Unit": "g", "Name": "edamamebønner", "PreparationNote": "uden bælg" },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "i tynde både" },
+                { "Quantity": 80, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": 80, "Unit": "g", "Name": "rucola", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Tilbered bulgur efter anvisning på emballagen.</p><p>Pisk æg i en skål og kom pankorasp, salt og peber i en anden skål. Dyp først kyllingefileterne i æg og vend dem derefter i pankorasp. Steg på en pande i olie ved middelvarme i ca. 4-5 minutter på hver side, til de er gennemstegte. Skær dem i skiver.</p><h2>Dressing med ingefær</h2><p>Rør alle ingredienserne til dressingen sammen i en skål og smag den til.</p><h2>Salat</h2><p>Kog 2 dl vand i en gryde og kom broccolibuketterne i. Blancher dem i 2 minutter, til de er møre, men stadig har lidt bid.</p><p>Kom edamamebønnerne i gryden, rør godt rundt og lad dem trække i 1 minut. Hæld vandet fra gennem en sigte.</p><p>Vend broccoli, edamamebønner og bulgur sammen med dressingen. Kom derefter spinat, rucola og rødløg i og vend det rundt.</p><p>Anret på tallerkener og top til sidst med den sprødstegte kylling.</p>",
+    "Note": "Varier salaten med forskellige typer af grøn salat eller finsnittet spidskål, grønkål og rødkål, som giver endnu mere fylde, fibre og mæthed.",
+    "ImageUrl": "images/recipe-images/215. Bulgursalat med kylling.jpg",
+    "Source": "Valdemarsro - nem aftensmad",
+    "Keywords": ["Kylling", "Salat", "Bulgur", "Sprød kylling", "Hverdagsmad"]
+}

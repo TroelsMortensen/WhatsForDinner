@@ -1,0 +1,39 @@
+{
+    "Id": 234,
+    "Title": "Massaman curry",
+    "SubHeader": "Thailandsk curry med kartofler, søde kartofler og kokosmælk.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "skåret i skiver" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "gul karrypasta", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "kartofler", "PreparationNote": "skåret i grove tern" },
+                { "Quantity": 2, "Unit": null, "Name": "søde kartofler", "PreparationNote": "skåret i grove tern" },
+                { "Quantity": 1, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "fishsauce", "PreparationNote": "efter smag" },
+                { "Quantity": null, "Unit": null, "Name": "sojasauce", "PreparationNote": "efter smag" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "rørsukker", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": "efter smag" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "saltede peanuts", "PreparationNote": "grofthakkede" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander eller bredbladet persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter løg, gulerødder og karrypasta i en gryde med lidt olie. Lad det simre lidt og nyd duften, der spreder sig i køkkenet.</p><p>Tilsæt kokosmælk, kartofler, søde kartofler og grøntsagsbouillon, og lad det simre under låg i 15 minutter. Smag retten til - den skal være mere hot, så tilsæt lidt mere karrypasta. Ellers smag til med fishsauce, soja, sukker og peber. Lad den simre videre, til kartoflerne er møre.</p><p>Anret med finthakket koriander eller bredbladet persille og peanuts, og server gerne ris til.</p>",
+    "Note": "Karrypasta kan erstattes af mild eller mellemstærk stødt karry. Tilsæt 1-2 spsk og smag gerne retten til med hvidløg, friskrevet ingefær og ekstra spidskommen, kardemomme og sort peber efter smag.",
+    "ImageUrl": "images/recipe-images/234. Massaman curry.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Asiatisk", "Thailandsk", "Curry", "Kartofler", "Hverdagsmad"]
+}

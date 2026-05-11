@@ -1,0 +1,40 @@
+{
+    "Id": 236,
+    "Title": "One pot pasta vegetar",
+    "SubHeader": "Cremet one pot pasta med grøntsager og parmesan.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "pasta", "PreparationNote": "f.eks. pastarør" },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 100, "Unit": "g", "Name": "cherrytomater", "PreparationNote": "skåret i både" },
+                { "Quantity": 300, "Unit": "g", "Name": "champignoner", "PreparationNote": "skåret i kvarte" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "skåret i tern" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "parmesan", "PreparationNote": "friskrevet" },
+                { "Quantity": null, "Unit": null, "Name": "friske krydderurter", "PreparationNote": "f.eks. finthakket bredbladet persille" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom alle ingredienserne i en stor gryde og rør godt rundt. Læg låget på gryden og lad det koge op, rør godt rundt igen og lad det simrekoge i 10-12 minutter, til pastaen er perfekt kogt. Server retten med revet parmesan og friske krydderurter.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/236. One pot pasta vegetar.jpg",
+    "Source": null,
+    "Keywords": ["Vegetar", "Pasta", "One Pot", "Hverdagsmad"]
+}

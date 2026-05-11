@@ -1,0 +1,43 @@
+{
+    "Id": 226,
+    "Title": "BBQ-laks med ris og bønner",
+    "SubHeader": null,
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "grønne bønner", "PreparationNote": null },
+                { "Quantity": 20, "Unit": "g", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "laks", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "honning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "barbecuesauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 10, "Unit": "g", "Name": "smør", "PreparationNote": "til fadet" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Hvidløgsris med spinat",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "babyspinat", "PreparationNote": "finthakket" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Læg bønnerne i et smurt, ovnfast fad og drys dem med sesam. Læg laksen oven på bønnerne og pensl den med olivenolie rørt med honning, barbecuesauce, røget paprika, timian, hvidløg, salt og peber.</p><p>Bag i en forvarmet ovn ved 175 grader varmluft i 12-15 minutter, til laksen er perfekt mør.</p><h3>Hvidløgsris med spinat</h3><p>Kom olie og hvidløg i en gryde og sauter dem ved middelhøj varme, til det dufter let. Tilsæt vand, basmatiris og salt. Rør det godt igennem, læg låg på og bring det langsomt op til kogepunktet. Lad det koge under låg ved svag varme i 10 minutter.</p><p>Tag gryden af varmen og lad derefter risen hvile i gryden med låg på i 10 minutter. Vend finthakket spinat i risen inden servering.</p><p>Server hvidløgsrisene toppet med bønner og laks.</p>",
+    "Note": "Vil du gerne have flere grøntsager i retten, kan du tilføje broccolibuketter og spinat til fadet sammen med de grønne bønner.",
+    "ImageUrl": "images/recipe-images/226. BBQ-laks med ris og bønner.jpg",
+    "Source": "Aftensmad på max 30 minutter",
+    "Keywords": ["Laks", "Ris", "Bønner", "BBQ", "Hverdagsmad"]
+}

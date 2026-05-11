@@ -1,0 +1,45 @@
+{
+    "Id": 228,
+    "Title": "Tikka chicken masala",
+    "SubHeader": "Selv om retten er krydret, så er den ikke stærk - og man kan fint vænne selv små børn til at spise lækre krydrede retter som denne.",
+    "TotalMinutes": 120,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Masalamarinade",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "dl", "Name": "yoghurt", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 3, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 3, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt nellike", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "lime", "PreparationNote": "saft" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk.", "Name": "kyllingebryst", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tikka chicken masala-sauce",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "store løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "mandler", "PreparationNote": "smuttede og meget fint hakkede" },
+                { "Quantity": 4, "Unit": "spsk", "Name": "koncentreret tomatpuré", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Masalamarinade</h3><p>Kom yoghurt i en skål sammen med hvidløg, ingefær, garam masala, gurkemeje, chiliflager, nellike, salt og limesaft og rør det sammen til en marinade. Skær kyllingekødet ud i 1 cm tykke strimler og vend dem i marinaden. Stil blandingen i køleskabet tildækket i minimum 1 time og gerne længere.</p><p>Kom kyllingen og marinaden i et ovnfast fad og kom det i en forvarmet varm ovn ved 240 grader i 15 minutter. Tilbered imens ris, tilbehør og saucen.</p><h3>Tikka chicken masala-sauce</h3><p>Sauter løgene i en gryde med olie ved middelvarme under omrøring, til de er blanke og gennemsigtige. Tilsæt hvidløg, ingefær, gurkemeje, mandler, tomatpuré og vand. Kog op og lad saucen simre i 5 minutter, hæld kyllingen og marinaden fra det ovnfaste fad i saucen. Varm godt igennem under omrøring og tilsæt fløde. Tilsæt eventuelt mere vand, hvis saucen er for tyk. Smag til med salt og friskkværnet peber.</p><p>Drys hakkede, smuttede mandler og grofthakket koriander over retten og server naan og raita til.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/228. Tikka chicken masala.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Kylling", "Indisk", "Gryderet", "Masala", "Hverdagsmad"]
+}

@@ -1,0 +1,42 @@
+{
+    "Id": 217,
+    "Title": "Tomatrisotto",
+    "SubHeader": null,
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 400, "Unit": "g", "Name": "risottoris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "hvidvin", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "flåede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 9, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "soltørrede tomater i olie", "PreparationNote": "finthakkede" },
+                { "Quantity": 125, "Unit": "g", "Name": "parmesan eller anden hård ost", "PreparationNote": "friskrevet" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "økocitron", "PreparationNote": "fintrevet skal" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "burrata", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "pesto", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "parmesan eller anden hård ost", "PreparationNote": "friskrevet" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk basilikum", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Varm en gryde op med olie og sauter løg og hvidløg, til løgene er klare og bløde. Tilsæt risottoris og rør godt igennem i et minuts tid. Hæld hvidvin i gryden og rør, til risene har absorberet vinen. Skru ned for varmen.</p><p>Kom flåede tomater, tomatpuré, grøntsagsbouillon og timian i en blender og blend det, til det har en ensartet konsistens.</p><p>Tilføj tomatblandingen lidt efter lidt til risene, efterhånden som risene absorberer væden. Fortsæt, til risene er lige knap perfekt møre.</p><p>Rør finthakkede soltørrede tomater og friskrevet parmesan i risen og smag godt til med salt og peber. Risottoen skal være letflydende og lækker cremet.</p><p>Server med burrata, et dryp pesto, lidt ekstra parmesan og et drys basilikum.</p><p>Tomatrisottoen smager fantastisk som et måltid i sig selv, men også som tilbehør til fx kyllingebryst.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/217. Tomatrisotto.jpg",
+    "Source": "Valdemarsro - nem aftensmad",
+    "Keywords": ["Vegetar", "Risotto", "Tomat", "Italiensk", "Hverdagsmad"]
+}

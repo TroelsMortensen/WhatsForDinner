@@ -1,0 +1,51 @@
+{
+    "Id": 213,
+    "Title": "Ingefærkylling med appelsin",
+    "SubHeader": null,
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Sesamris",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "sesamfrø", "PreparationNote": "ristede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Appelsin-ingefærmarinade",
+            "Ingredients": [
+                { "Quantity": 15, "Unit": "g", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 1, "Unit": null, "Name": "appelsin", "PreparationNote": "saft" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "knivspids", "Name": "stødt nellike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kylling og grønt",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "i tern" },
+                { "Quantity": 150, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "appelsiner", "PreparationNote": "fileteret i både" }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "forårsløg", "PreparationNote": "finsnittede" },
+                { "Quantity": 25, "Unit": "g", "Name": "sesamfrø", "PreparationNote": "ristede" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Sesamris</h3><p>Kog risene i letsaltet vand efter anvisning på emballagen. Vend derefter de varme ris med ristede sesamfrø og friskkværnet peber, og dryp lidt sesamolie over. Hold risene lune i gryden under et låg.</p><h3>Appelsin-ingefærmarinade</h3><p>Kom alle ingredienserne til marinaden i en skål og rør dem sammen. Vend kyllingen i marinaden og lad den stå i mindst 15 minutter, men gerne længere - eventuelt på køl fra morgenstunden til om aftenen.</p><h3>Tilberedning af kyllingen</h3><p>Tag kyllingstykkerne op af marinaden og steg dem på en pande med olie ved høj varme, til de er gyldnebrune. Kom den overskydende marinade ved og lad kyllingestrimlerne simre, til de er gennemstegte.</p><p>Vend til sidst babyspinat med kyllingen på panden, til den falder sammen, og kom appelsinfileterne på panden, så de bliver lune.</p><h3>Servering</h3><p>Anret på tallerkener eller i skåle med sesamris, ingefærkylling med appelsin og et drys forårsløg og ristede sesamfrø.</p>",
+    "Note": "Vil du have mere grønt til retten, så server gerne med dampet broccoli eller bagt blomkål.",
+    "ImageUrl": "images/recipe-images/213. Ingefærkylling med appelsin.jpg",
+    "Source": "Aftensmad på max 45 minutter - Fjerkræ",
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Ingefær", "Hverdagsmad"]
+}

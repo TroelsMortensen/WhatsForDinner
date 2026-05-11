@@ -1,0 +1,42 @@
+{
+    "Id": 204,
+    "Title": "Stegte ris med æg",
+    "SubHeader": null,
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "basmatiris", "PreparationNote": "kogt og afkølet" },
+                { "Quantity": 3, "Unit": null, "Name": "gulerødder", "PreparationNote": "skåret i tynde strimler" },
+                { "Quantity": 150, "Unit": "g", "Name": "edamamebønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "peberfrugt", "PreparationNote": "skåret i strimler" },
+                { "Quantity": 2, "Unit": null, "Name": "forårsløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "rørsukker", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "fishsauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": "grofthakket" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "cashewnødder", "PreparationNote": "grofthakkede" },
+                { "Quantity": 0.5, "Unit": null, "Name": "rød chili", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "skåret i både" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en pande eller wok op med lidt olie. Slå æggene ud i wokken og rør dem godt sammen, til de stivner og samles. Sæt æggene til side på en tallerken. Kom lidt mere olie i wokken og sauter løg, hvidløg og karry ved middelvarme under omrøring, til løgene er klare og bløde.</p><p>Tilsæt ris og gulerødder og rør godt rundt, mens risen varmes godt igennem.</p><p>Kom edamamebønner, peberfrugt og forårsløg i, varm godt igennem under omrøring og smag til med sukker, soja og fishsauce. Vend til sidst æggene i retten.</p><p>Anret på tallerkener med koriander, cashewnødder, limebåde og chili, efter smag.</p>",
+    "Note": "Jeg er meget begejstret for frisk koriander! Gælder det ikke for dig, så kan du altid erstatte det med bredbladet persille.",
+    "ImageUrl": "images/recipe-images/204. Stegte ris med æg.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Asiatisk", "Ris", "Wok", "Hverdagsmad"]
+}

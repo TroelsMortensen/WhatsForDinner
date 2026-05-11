@@ -1,0 +1,52 @@
+{
+    "Id": 231,
+    "Title": "Enchiladas med kylling",
+    "SubHeader": null,
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Enchilada-sauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "knivspids", "Name": "cayennepeber", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 0.5, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kylling - pulled chicken",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk.", "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 8, "Unit": null, "Name": "tortillawraps", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "sorte bønner", "PreparationNote": "kogte" },
+                { "Quantity": 150, "Unit": "g", "Name": "majskerner", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "cheddar", "PreparationNote": "revet" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Enchilada-sauce</h3><p>Kom alle krydderierne i en tør gryde, skru op for varmen og rist krydderierne under omrøring, til de dufter skønt. Tag gryden af varmen, tilsæt olie, hvidløg og løg, og sauter det ved middelvarme. Rør derefter mel godt ud i løgblandingen og kom så grøntsagsbouillon i. Rør det hele godt rundt, til der ikke er melklumper. Tilsæt hakkede tomater og lad saucen simre uden låg i 10-15 minutter. Smag til med lidt salt og peber - og lidt mere chili eller cayennepeber, hvis det skal være hot.</p><h3>Kylling - pulled chicken</h3><p>Kom kylling, tomat, hvidløg, grøntsagsbouillon og olie i en gryde, kog op og skru derefter ned, så det blot simrer under låg. Lad det simre i 30 minutter, til kødet er mørt. Riv kyllingekødet fra hinanden med to gafler.</p><h3>Saml enchilada-retten</h3><p>Smør tortillawraps med enchilada-sauce. Fyld med sorte bønner, majskerner, kyllingekød, og drys med majskerner og revet ost. Kom dem i et fad med lukningen nederst. Smør et godt lag sauce på toppen og drys med mere ost. Bag dem i en forvarmet ovn ved 180 grader varmluft i ca. 15-18 minutter.</p><p>Drys med bredbladet persille eller koriander inden servering.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/231. Enchiladas med kylling.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Kylling", "Mexicansk", "Tortilla", "Ovnret", "Hverdagsmad"]
+}

@@ -1,0 +1,45 @@
+{
+    "Id": 230,
+    "Title": "Butter Chicken",
+    "SubHeader": null,
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "yoghurt naturel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": "eller 2 tsk efter smag" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt nellike", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "friskrevet" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk.", "Name": "kyllingebryst", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "skåret i ringe" },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "portion", "Name": "mango chutney", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "portion", "Name": "raita", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "naan", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Blend yoghurt, chili, nellike, spidskommen, kardemomme, garam masala, gurkemeje, ingefær, hvidløg og hakkede tomater sammen til en lind sauce.</p><p>Hæld saucen over kyllingeternene, dæk til og lad det trække i minimum 30 minutter i køleskabet, gerne natten over eller fra morgen til aftensmadstid.</p><p>Smelt smør og olie i en sauterpande. Sauter løgene, til de bliver bløde og blanke. Tilsæt kylling, sauce og fløde. Lad retten simre ved lav varme i 30-35 minutter, eller til kyllingen er mør.</p>",
+    "Note": "Hvis du ikke er til stærk mad, kan du skrue lidt ned for mængden af chiliflager.",
+    "ImageUrl": "images/recipe-images/230. Butter Chicken.jpg",
+    "Source": null,
+    "Keywords": ["Kylling", "Indisk", "Gryderet", "Karry", "Hverdagsmad"]
+}

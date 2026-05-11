@@ -1,0 +1,47 @@
+{
+    "Id": 240,
+    "Title": "Tomatsuppe med nudler",
+    "SubHeader": "Cremet tomatsuppe med grøntsager, suppenudler og ristet brød med mozzarella.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": null, "Name": "porre", "PreparationNote": "skåret i tynde skiver" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 3, "Unit": null, "Name": "kartofler", "PreparationNote": "grofrevne" },
+                { "Quantity": 3, "Unit": null, "Name": "gulerødder", "PreparationNote": "grofrevne" },
+                { "Quantity": 3, "Unit": "dåser", "Name": "flåede tomater", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "l", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "suppenudler", "PreparationNote": "kan udelades" },
+                { "Quantity": null, "Unit": null, "Name": "cremefraiche 18 %", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "timianblade", "PreparationNote": "til drys" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Ristet brød med frisk mozzarella",
+            "Ingredients": [
+                { "Quantity": 8, "Unit": "skiver", "Name": "brød", "PreparationNote": null },
+                { "Quantity": 125, "Unit": "g", "Name": "frisk mozzarella", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "frisk timian", "PreparationNote": "til drys" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Varm olie op i en gryde og sauter løg, hvidløg og porrer ved middelvarme, til de er gyldne og klare. Tilsæt paprika, spidskommen og karry, og lad det stege med i et par minutter under omrøring. Tilsæt kartofler og gulerødder og dernæst flåede tomater, tomatpuré, timian og bouillon, og lad det simre i ca. 15-20 minutter.</p><p>Blend suppen i en kraftig blender, til den er helt cremet, og smag til med piskefløde, salt og peber. Kom suppen tilbage i gryden, tilsæt suppenudler og lad den simre i et par minutter, til de er møre.</p><h3>Ristet brød med frisk mozzarella</h3><p>Læg skiver af frisk mozzarella på brødskiverne og læg dem på en bageplade med bagepapir. Rist dem i en forvarmet ovn ved 200 grader, til osten er smeltet. Drys med friske timianblade.</p><p>Kom den varme suppe i dybe tallerkener. Kom en god klat cremefraiche i suppen og drys med friske timianblade. Server de varme ostebrød til suppen.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/240. Tomatsuppe med nudler.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Suppe", "Vegetar", "Tomat", "Nudler", "Hverdagsmad"]
+}

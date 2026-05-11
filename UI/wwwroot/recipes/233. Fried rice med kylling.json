@@ -1,0 +1,41 @@
+{
+    "Id": 233,
+    "Title": "Fried rice med kylling",
+    "SubHeader": "Stegte ris med kylling, grøntsager og asiatisk smag.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "skåret i tern" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 3, "Unit": "stk", "Name": "kyllingebryst", "PreparationNote": "skåret i tern" },
+                { "Quantity": 6, "Unit": "dl", "Name": "kolde kogte ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "kokossukker eller rørsukker", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "fishsauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "skåret i tynde strimler" },
+                { "Quantity": 1, "Unit": null, "Name": "tomat", "PreparationNote": "skåret i tynde både" },
+                { "Quantity": 1, "Unit": null, "Name": "peberfrugt", "PreparationNote": "skåret i strimler" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "skåret i skiver" },
+                { "Quantity": 2, "Unit": null, "Name": "forårsløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander eller bredbladet persille", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "cashewnødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød chili", "PreparationNote": "finthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Sauter løg og hvidløg i olivenolie på en pande eller i en wok, til de er klare og bløde. Kom kyllingestykkerne i, vend dem løbende og steg dem, til de er møre. Tilsæt ris og rør godt rundt, til risen bliver varmet godt igennem.</p><p>Tilføj kokossukker, soja, fishsauce og gulerødder. Varm godt igennem - risene må gerne blive lidt klistrede, tilføj evt. ekstra olie. Tjek, at kyllingen er gennemstegt, og vend til sidst tomater og peberfrugt i retten.</p><p>Anret på tallerkener med limeskiver, et drys af friske forårsløg, korianderblade, cashewnødder og - hvis du kan lide stærk mad - lidt finthakket rød chili på.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/233. Fried rice med kylling.jpg",
+    "Source": "Hverdagsmad",
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Wok", "Hverdagsmad"]
+}

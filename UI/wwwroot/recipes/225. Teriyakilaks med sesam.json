@@ -1,0 +1,58 @@
+{
+    "Id": 225,
+    "Title": "Teriyakilaks med sesam",
+    "SubHeader": null,
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Teriyakimarinade",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "spsk", "Name": "teriyaki", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "riseddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Laks",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "laksefilet", "PreparationNote": "i tern a 2 cm" },
+                { "Quantity": 25, "Unit": "g", "Name": "sesamfrø", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Stegt asiatisk kål",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "rød karrypasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 4, "Unit": null, "Name": "gulerødder", "PreparationNote": "i tynde stave" },
+                { "Quantity": 400, "Unit": "g", "Name": "spidskål", "PreparationNote": "finstrimlet" },
+                { "Quantity": 400, "Unit": "g", "Name": "pak choi", "PreparationNote": "groftstrimlet" },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "saft" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 30, "Unit": "g", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "i både" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog ris efter anvisning på emballagen.</p><h3>Teriyakimarinade</h3><p>Rør alle ingredienserne sammen i en skål.</p><p>Vend laksetern med marinaden og kom dem på en bageplade med bagepapir. Bag dem i en forvarmet ovn ved 175 grader varmluft i 7-10 minutter, til laksen er perfekt tilberedt.</p><h3>Stegt asiatisk kål</h3><p>Rør grøntsagsbouillon, karrypasta, soja, hvidløg og ingefær godt sammen i en skål til en marinade.</p><p>Steg gulerødder, spidskål og pak choi i olie på en pande ved middelvarme, til kålen falder sammen. Hæld marinaden på panden med kål og vend det godt sammen. Smag til med lidt limesaft.</p><p>Server teriyakilaks med ris, lynstegte grøntsager og limebåde. Drys med sesamfrø og koriander eller persille inden servering.</p>",
+    "Note": "Brug de grøntsager til retten, som du bedst kan lide. Spidskål og gulerødder er særligt gode, for de giver masse af fibre og en mild smag, når de lynsteges. Pak choi kan erstattes af broccoli i buketter eller spinat. Du kan også tilføje en håndfuld grønkål, fintsnittet hvidkål eller lidt blomkål i buketter, hvis du ønsker det.",
+    "ImageUrl": "images/recipe-images/225. Teriyakilaks med sesam.jpg",
+    "Source": "Valdemarsro - nem aftensmad",
+    "Keywords": ["Laks", "Asiatisk", "Ris", "Teriyaki", "Hverdagsmad"]
+}

@@ -1,10 +1,11 @@
 # WhatsForDinner – add a new recipe
 ## Your task
-You are helping with the **WhatsForDinner** project (Blazor WebAssembly). When I provide **a photo of a recipe** (and/or a **URL**), you must:
+You are helping with the **WhatsForDinner** project . When I provide **a photo of a recipe** (and/or a **URL**), you must:
 1. **Extract** all relevant data (title, times, servings, ingredients, steps, notes, source).
 2. **Create** a new recipe JSON file with the **next available Id** (I may specify it, or you determine it by reading `UI/wwwroot/recipes/index.json` and using `max(Id) + 1`).
 3. **Update** `UI/wwwroot/recipes/index.json` with a new entry for this recipe.
-4. **Rename the image file** (if there is an image) to match the convention below.
+4. **Rename the image file** (if there is an image) to match the convention below. Image files are by default named with just an Id, of type jpg, located in the `UI/wwwroot/images/recipe-images` folder. You must rename the file to match the convention below.
+
 ## Language
 - Recipe text in JSON must be in **Danish** (titles may follow the source, e.g. English book titles, when that fits better).
 - If the source is in English/German, **translate** into natural Danish.

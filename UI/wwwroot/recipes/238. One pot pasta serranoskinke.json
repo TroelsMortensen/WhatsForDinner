@@ -1,0 +1,39 @@
+{
+    "Id": 238,
+    "Title": "One pot pasta serranoskinke",
+    "SubHeader": "Cremet one pot pasta med serranoskinke, soltørrede tomater og basilikum.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 350, "Unit": "g", "Name": "pastaskruer", "PreparationNote": null },
+                { "Quantity": 90, "Unit": "g", "Name": "serranoskinke", "PreparationNote": "skåret i fine strimler" },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soltørrede tomater i olie", "PreparationNote": "finthakkede" },
+                { "Quantity": 10, "Unit": null, "Name": "cherrytomater", "PreparationNote": "skåret i både" },
+                { "Quantity": 20, "Unit": null, "Name": "friske basilikumblade", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret eller frisk timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "friske krydderurter", "PreparationNote": "fx basilikum og rucola" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom alle ingredienserne i en stor gryde. Kog op, rør rundt og skru ned for varmen. Læg låg på gryden og lad pastaen simre ved middelvarme, til pastaen er perfekt mør og cremet. Drys de friske krydderurter over og server.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/238. One pot pasta serranoskinke.jpg",
+    "Source": null,
+    "Keywords": ["Pasta", "One Pot", "Serranoskinke", "Italiensk", "Hverdagsmad"]
+}

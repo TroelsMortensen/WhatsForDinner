@@ -1,0 +1,57 @@
+{
+    "Id": 224,
+    "Title": "Kinesisk kung pao med kylling",
+    "SubHeader": "Traditionelt laves Kung Pao kun med forårsløg og ikke med peberfrugter eller andre grøntsager, men jeg synes, det klæder den lækre ret med lidt grønt.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "i tern" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "bagepulver", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "riseddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kung pao sauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "riseddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sriracha chilisauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "kyllingebouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hoisinsauce", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbered retten",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "sichuanpeber", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "forårsløg", "PreparationNote": "snittede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "jasminris", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "saltede peanuts", "PreparationNote": "hakkede" },
+                { "Quantity": 2, "Unit": null, "Name": "forårsløg", "PreparationNote": "snittede" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Rør bagepulver, soja, riseddike og majsstivelse sammen i en skål og vend kyllingekødet i. Lad det marinere, mens du forbereder resten af retten.</p><h3>Kung pao sauce</h3><p>Kom ingredienserne til saucen i en skål og rør dem sammen til en ensartet konsistens.</p><h3>Tilbered retten</h3><p>Rist sichuanpeber på en tør pande og knus dem fint i en morter. Rist hvidløg, ingefær og chiliflager i olie på panden under omrøring, til det dufter skønt. Tilsæt den marinerede kylling med marinaden og steg kødet hurtigt ved middelhøj varme.</p><p>Tilsæt kung pao-saucen og lad retten simre, til kyllingen er mør. Rør derefter peberfrugt og forårsløg i.</p><p>Kog risene efter anvisning på pakken. Anret med ris i skåle og drys med forårsløg og peanuts inden servering.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/224. Kinesisk kung pao med kylling.jpg",
+    "Source": "Valdemarsro - nem aftensmad",
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Wok", "Hverdagsmad"]
+}

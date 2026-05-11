@@ -1,0 +1,41 @@
+{
+    "Id": 223,
+    "Title": "Kylling cashew",
+    "SubHeader": "Cashewnødder giver en skøn cremet smag til retten, som spiller perfekt sammen med kylling og den lækre krydrede sauce. Jeg kommer broccoli i, for det passer perfekt til og giver lidt grønt til retten. Du kan evt. også supplere med peberfrugt, blomkålsbuketter, squash eller hvad du har lyst til. Saucen er ikke stærk, men dejlig krydret, så alle kan spise med.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 60, "Unit": "g", "Name": "cashewnødder", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "i tern" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "fishsauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": 20, "Unit": "g", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "broccoli", "PreparationNote": "i buketter" },
+                { "Quantity": 1, "Unit": null, "Name": "øko lime", "PreparationNote": "saft og finrevet skal" },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sesamolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": "kogt efter anvisning på emballagen" },
+                { "Quantity": 3, "Unit": null, "Name": "forårsløg", "PreparationNote": "finthakkede" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Rist cashewnødderne på en tør pande. De skal blot lige have en anelse farve, men ikke være mørke. Tag dem af varmen og sæt til side i en skål.</p><p>Sauter løg på panden i lidt olie, til de er klare og bløde. Tilsæt kyllingestykker og brun dem af under omrøring.</p><p>Rør hvidløg, ingefær, fishsauce, soja, grøntsagsbouillon, brun farin og majsstivelse godt sammen i en skål. Kom saucen, broccoli og cashew (gem lidt til servering) på panden til kyllingen og varm det op under omrøring. Lad det simre i 10-15 minutter, til kyllingen er gennemstegt. Smag til med lidt limesaft og finrevet limeskal - gem resten af limen til servering - samt friskkværnet peber og evt. lidt ekstra soja eller fishsauce.</p><p>Server i skåle med ris og cashewkylling. Drys med forårsløg og lidt cashewnødder og server lime til at dyppe over.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/223. Kylling cashew.jpg",
+    "Source": "Aftensmad på max 30 minutter - Fjerkræ",
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Cashew", "Hverdagsmad"]
+}

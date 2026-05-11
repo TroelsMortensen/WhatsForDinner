@@ -1,0 +1,42 @@
+{
+    "Id": 211,
+    "Title": "Kylling stroganoff med kartoffelmos",
+    "SubHeader": "Her får man tidsmæssigt et forspring i den ellers traditionelle simreret, da kyllingen ikke skal simre for at blive mør og lækker. Derfor er retten meget hverdagsvenlig. Vil du have mere grønt i retten, kan du tilføje blomkål eller rodfrugter til kartoflerne.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling stroganoff",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "i tern" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "bacon", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "champignoner", "PreparationNote": "i kvarte" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "koncentreret tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": null, "Name": "laurbærblade", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": "finthakket" }
+            ]
+        },
+        {
+            "Title": "Kartoffelmos",
+            "Ingredients": [
+                { "Quantity": 1.5, "Unit": "kg", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "knivspids", "Name": "muskatnød", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Kylling stroganoff</h3><p>Dup kødet let med et stykke køkkenrulle. Rør paprika, mel, salt og peber sammen og vend kyllingestrimlerne i blandingen. Steg bacon i en gryde med olie ved middelvarme, lad den dryppe af på en tallerken med køkkenrulle. Rist champignoner gyldne i baconfedtet ved høj varme under omrøring, tilføj evt. ekstra olivenolie efter behov.</p><p>Kom derefter kyllingekødet i og brun det af. Tilsæt tomatpuré og lad det riste et kort øjeblik og tilsæt derefter løg, finthakket bacon, champignoner, laurbærblade og først halvdelen af grøntsagsbouillonen. Læg låg på og lad det simre i 15 minutter, tilføj ekstra grøntsagsbouillon, hvis nødvendigt. Tilsæt til sidst fløde og smag til med salt og peber.</p><h3>Kartoffelmos</h3><p>Kog kartoflerne i usaltet vand, til de er møre. Mos først kartoflerne med smør og pisk derefter kartoffelmosen med en elpisker. Tilsæt mælk lidt efter lidt, til mosen er cremet og flødeblød. Smag til med salt og peber samt friskrevet muskatnød.</p><p>Server kylling stroganoff med kartoffelmos og drys bredbladet persille.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/211. Kylling stroganoff med kartoffelmos.jpg",
+    "Source": "Valdemarsro - nem aftensmad",
+    "Keywords": ["Kylling", "Gryderet", "Bacon", "Kartoffelmos", "Hverdagsmad"]
+}

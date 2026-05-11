@@ -1,0 +1,64 @@
+{
+    "Id": 232,
+    "Title": "Kofta med tabbouleh-bulgursalat",
+    "SubHeader": "Krydrede kofta serveret med frisk tabbouleh-bulgursalat og tahindressing.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kofta",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "hakket lammekød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "pinjekerner", "PreparationNote": "ristede" },
+                { "Quantity": 50, "Unit": "g", "Name": "persille", "PreparationNote": "finthakket" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tabbouleh-bulgursalat",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "kogende vand", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "persille og mynte", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": null, "Name": "forårsløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 3, "Unit": null, "Name": "tomater", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg eller skalotteløg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "granatæblekerner", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "hakkede cashewnødder", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tabbouleh-dressing",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "dl", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": "saft og revet skal" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "kokossukker eller rørsukker", "PreparationNote": null }
+                
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "granatæblekerner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": "grofthakket" },
+                { "Quantity": null, "Unit": null, "Name": "tahindressing", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Kofta</h3><p>Rør alle ingredienserne til kofta godt sammen og lad gerne farsen hvile i ca. 1-2 timer i køleskabet. Form 8-10 aflange kødboller med lettere spidse ender.</p><p>Sæt koftaerne på spyd og steg dem i olie på en pande, til de er gyldne og gennemstegte. Vend dem jævnligt, så de får stegeskorpe på alle sider.</p><h3>Tabbouleh-bulgursalat</h3><p>Kom bulgur i en skål og hæld det kogende vand over. Lad det trække, mens resten forberedes.</p><p>Rør ingredienserne til tabbouleh-dressingen sammen og smag til med salt og peber. Vend dressingen i bulguren, når væsken er absorberet, og vend derefter urter og grøntsager i salaten.</p><h3>Servering</h3><p>Server kofta med tabbouleh-bulgursalat, tahindressing, granatæblekerner og grofthakket persille.</p>",
+    "Note": "Farsen til kofta kan fryses eller laves dagen før og opbevares på køl. Tabboulehsalaten kan holde 1-2 dage på køl.",
+    "ImageUrl": "images/recipe-images/232. Kofta med tabbouleh-bulgursalat.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Lammekød", "Kofta", "Bulgur", "Mellemøstlig", "Salat"]
+}

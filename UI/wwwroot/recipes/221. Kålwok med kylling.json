@@ -1,0 +1,46 @@
+{
+    "Id": 221,
+    "Title": "Kålwok med kylling",
+    "SubHeader": "Fyldt med fibre og grøntsager, der mætter dejligt og længe.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "i tern" },
+                { "Quantity": 400, "Unit": "g", "Name": "spidskål", "PreparationNote": "finsnittet" },
+                { "Quantity": 100, "Unit": "g", "Name": "rødkål", "PreparationNote": "finsnittet" },
+                { "Quantity": 300, "Unit": "g", "Name": "gulerødder", "PreparationNote": "i strimler" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Woksauce",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "hoisinsauce", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "honning", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "lime", "PreparationNote": "saften" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "fintrevet" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 30, "Unit": "g", "Name": "cashewnødder", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "stænger", "Name": "forårsløg", "PreparationNote": "finsnittede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sesamfrø", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Woksauce</h3><p>Kom alle ingredienserne til saucen i en skål og rør dem sammen.</p><p>Varm en wok eller pande op med olie og brun hurtigt kyllingen af ved høj varme under omrøring. Kom kål og gulerødder på panden og steg i et minuts tid under omrøring. Tilsæt woksaucen og vend den godt rundt i retten. Skru ned for varmen og lad det simre i 4-5 minutter, til kyllingen er perfekt gennemstegt. Smag til med friskkværnet peber, samt eventuelt lidt ekstra soja eller limesaft.</p><p>Server på tallerkener eller i skåle og drys med cashewnødder, forårsløg og sesamfrø.</p>",
+    "Note": "Vil du have endnu mere grønt, kan du tilsætte broccoli i buketter, grønkål, edamamebønner, pak choi eller squash i tern.",
+    "ImageUrl": "images/recipe-images/221. Kålwok med kylling.jpg",
+    "Source": "Aftensmad på max 30 minutter",
+    "Keywords": ["Kylling", "Wok", "Asiatisk", "Kål", "Hverdagsmad"]
+}
