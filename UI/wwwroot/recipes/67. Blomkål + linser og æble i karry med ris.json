@@ -9,7 +9,7 @@
     {
       "Title": "Ris",
       "Ingredients": [
-        { "Quantity": 1, "Unit": "pose", "Name": "ris", "PreparationNote": null },
+        { "Quantity": 160, "Unit": "g", "Name": "ris", "PreparationNote": null },
         { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
       ]
     },
@@ -33,6 +33,6 @@
   ],
   "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Skyl ris grundigt under koldt vand i en si.</p><p>Kom dem i en gryde med friskt vand og lidt salt. Beregn dobbelt så meget vand som ris.</p><p>Bring gryden i kog, læg låg på og lad risene simre i 10 min.</p><p>Sluk for blusset og lad risene hvile i 10 min.</p><h3>Karry</h3><p>Pil og hak løg. Skræl halvdelen af æblerne og riv dem.</p><p>Varm en gryde op med olie og steg løgene, til de er klare. Tilsæt karry og steg videre i et minuts tid. Kom nu det revne æble i, rør det hele godt sammen og tilsæt bouillon, vand og mælk. Bring grydens indhold i kog og lad det simre i ca. 5-10 min. Blend evt. saucen med en stavblender for en finere konsistens og jævn med majsstivelse rørt ud i vand til den ønskede konsistens.</p><p>Skyl og skær blomkål og broccoli i små buketter. Kom begge dele i karrysaucen, bring saucen i kog og lad den simre videre, til grøntsagerne er møre.</p><p>Vend til sidst linserne i, lun dem igennem og smag til med salt og peber.</p><p>Skær den resterende del af æblerne i tern – kassér kernehuset.</p><p>Servér karry pyntet med æble. Nyd med ris til.</p>",
   "Note": "Har du mangochutney på lager, kan du evt. smage karryen til med den.",
-  "ImageUrl": null,
+  "ImageUrl": "images/recipe-images/67. Blomkål + linser og æble i karry med ris.jpg",
   "Keywords": ["Vegetar"]
 }

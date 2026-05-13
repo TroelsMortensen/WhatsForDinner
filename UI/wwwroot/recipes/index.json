@@ -540,7 +540,7 @@
     },
     {
         "Id":  67,
-        "Title":  "Blomkål, linser og æble i karry med ris",
+        "Title":  "Blomkål + linser og æble i karry med ris",
         "Keywords":  [
                          "Vegetar"
                      ],
@@ -590,7 +590,7 @@
     },
     {
         "Id":  73,
-        "Title":  "Græsk fad med salatost, bulgur og tzatziki - til to dage",
+        "Title":  "Græsk fad med salatost + bulgur og tzatziki - til to dage",
         "Keywords":  [
                          "Oksekød"
                      ],
@@ -1067,7 +1067,7 @@
     },
     {
         "Id":  127,
-        "Title":  "Risotto med kylling, ærter og prosciutto",
+        "Title":  "Risotto med kylling + ærter og prosciutto",
         "Keywords":  [
                          "Kylling",
                          "Pasta"
@@ -1095,7 +1095,7 @@
     },
     {
         "Id":  130,
-        "Title":  "Kylling, spinat og forårsløg",
+        "Title":  "Kylling + spinat og forårsløg",
         "Keywords":  [
                          "One Pot",
                          "Kylling",
@@ -1354,7 +1354,7 @@
     },
     {
         "Id":  159,
-        "Title":  "Karryret med kylling, grøntsager og kokosmælk",
+        "Title":  "Karryret med kylling + grøntsager og kokosmælk",
         "Keywords":  [
                          "Kylling",
                          "Karry",
@@ -1479,7 +1479,7 @@
     },
     {
         "Id":  171,
-        "Title":  "Gryderet med kylling, bacon og porrer",
+        "Title":  "Gryderet med kylling + bacon og porrer",
         "Keywords":  [
                          "Kylling",
                          "Gryderet",
