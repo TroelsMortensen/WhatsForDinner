@@ -15,7 +15,7 @@ public partial class RecipePage : ComponentBase
     private bool IsLoading { get; set; }
     private string? ErrorMessage { get; set; }
     private int? SelectedPersons { get; set; }
-    private string PageTitle => RecipeData is null ? "Opskrift" : RecipeData.Title;
+    // private string PageTitle => RecipeData is null ? "Opskrift" : RecipeData.Title;
 
     protected override async Task OnParametersSetAsync()
     {
