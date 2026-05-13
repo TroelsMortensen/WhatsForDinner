@@ -1,0 +1,55 @@
+{
+    "Id": 216,
+    "Title": "Vegetarisk brændende kærlighed",
+    "SubHeader": null,
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kartoffelmos",
+            "Ingredients": [
+                { "Quantity": 775, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "drys", "Name": "muskatnød", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Ristede kikærter",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "flagesalt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 50, "Unit": "g", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "i små tern" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sriracha chilisauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 100, "Unit": "g", "Name": "syltede rødbeder", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "purløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "persille", "PreparationNote": "finthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Kartoffelmos</h2><p>Kog kartoflerne i rigeligt vand uden salt, til de er møre. Hæld vandet fra, tilsæt smør i små tern og pisk med en håndmikser, til mosen er luftig. Pisk derefter mælk i, til mosen har den rette konsistens. Smag til med salt, peber og muskatnød.</p><h2>Ristede kikærter</h2><p>Skyl kikærterne og tør dem i et klæde. Vend dem godt i olie og derefter krydderier. Fordel dem på en bageplade med bagepapir og bag dem i en forvarmet ovn ved 175 grader varmluft i 20-25 minutter, til de er lækre og sprøde. Vend dem eventuelt en gang eller to undervejs.</p><h2>Topping</h2><p>Kom smør i en gryde og sauter løg og gulerødder ved lav-middel varme i ca. 15-20 minutter, til løgene er bløde og begynder at blive let karamelliserede. Tilsæt soja, piskefløde, røget paprika og lidt sriracha chilisauce efter smag. Kog op, så det simrer i et par minutter, og smag til med friskkværnet peber.</p><p>Server kartoffelmosen på tallerkener toppet med løg, sprøde kikærter, syltede rødbeder og friske krydderurter.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/216. Vegetarisk brændende kærlighed.jpg",
+    "Source": "Aftensmad på max 45 minutter - vegetar",
+    "Keywords": ["Vegetar", "Kartoffelmos", "Kikærter", "Rødbeder", "Hverdagsmad"]
+}

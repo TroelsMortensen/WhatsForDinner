@@ -1,0 +1,35 @@
+{
+    "Id": 159,
+    "Title": "Karryret med kylling, grøntsager og kokosmælk",
+    "SubHeader": "Nem one pot karryret med kylling, kartofler, gulerødder og blomkål i fyldig karrysovs med kokosmælk.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "gulerødder", "PreparationNote": "skrællede og skåret i mundrette tern" },
+                { "Quantity": 300, "Unit": "g", "Name": "kartofler", "PreparationNote": "skrællede og skåret i mundrette tern" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": "deles i to" },
+                { "Quantity": 4, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "mælk", "PreparationNote": "eller vand" },
+                { "Quantity": 0.75, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "citron", "PreparationNote": "saften" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "blomkål", "PreparationNote": "i grove buketter, stok revet" },
+                { "Quantity": null, "Unit": null, "Name": "persille", "PreparationNote": "valgfrit, til pynt" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan laver du karryretten</h2><p>Skræl gulerødder og kartofler, og skær dem i mundrette tern. Pil løg og hvidløg, og hak det fint.</p><p>Brun kyllingeinderfileterne i halvdelen af olien ved høj varme. Tag dem op og sæt til side.</p><p>Kom resten af olien i gryden, og svits løg og hvidløg ved middel varme. Tilsæt gulerødder, kartofler og karry, og steg i et par minutter.</p><p>Tilsæt mælk (eller vand), hønsebouillon, kokosmælk og citronsaft. Krydr med salt og peber, bring i kog, og lad retten simre i ca. 20 minutter under omrøring.</p><p>Forbered blomkålen imens: fjern blade, skyl, skær toppen i grove buketter og riv stokken.</p><p>Tilsæt blomkål og de brunede kyllingeinderfileter, og lad retten simre yderligere ca. 10 minutter, til både grøntsager og kylling er møre.</p><p>Smag til med salt og peber, og drys eventuelt med persille før servering.</p>",
+    "Note": "Retten kan spises som den er, men kan også serveres med ris eller brød.",
+    "ImageUrl": "images/recipe-images/159. Karryret med kylling + grøntsager og kokosmælk.jpg",
+    "Source": "https://www.webopskrifter.dk/opskrifter/karryret-med-kylling-groentsager-kokosmaelk-23874/",
+    "Keywords": ["Kylling", "One Pot"]
+}

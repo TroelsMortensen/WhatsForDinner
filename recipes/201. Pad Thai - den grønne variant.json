@@ -1,0 +1,51 @@
+{
+    "Id": 201,
+    "Title": "Pad Thai - den grønne variant",
+    "SubHeader": "Pad Thai er en af de klassiske retter i det thailandske køkken, og den serveres i de mange gadekøkkener. Her er den i en ren vegetarisk version.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "brede nudler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "delt i buketter" },
+                { "Quantity": 1, "Unit": null, "Name": "spidskål", "PreparationNote": "skåret i strimler" },
+                { "Quantity": 4, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "bønnespirer", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "forårsløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Pad Thai-sauce",
+            "Ingredients": [
+                { "Quantity": 6, "Unit": "spsk", "Name": "tamarindpasta", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "æblecidereddike", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rørsukker", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": "grofthakket" },
+                { "Quantity": 50, "Unit": "g", "Name": "peanuts", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": null, "Name": "lime", "PreparationNote": "skåret i både" },
+                { "Quantity": 1, "Unit": null, "Name": "rød chili", "PreparationNote": "skåret i ringe" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Rør ingredienserne til pad thai-saucen sammen til en ensartet konsistens, og stil den til side.</p><p>Kog nudler efter anvisning på pakken, og skyl dem straks med iskoldt vand, så de ikke klistrer sammen. Lad dem dryppe af i en sigte.</p><p>Varm olie op i en wok eller en stor pande, og tilsæt løg, hvidløg, ingefær og chiliflager. Steg det hurtigt. Vend derefter squash, broccoli og spidskål i retten. Kom nudlerne i wokken, og steg dem hurtigt, mens de vendes flere gange undervejs.</p><p>Slå æggene ud i wokken, og vend retten sammen flere gange, mens æggene sætter sig. Tilsæt derefter pad thai-saucen, bønnespirer og forårsløg. Vend det godt sammen.</p><p>Server i dybe tallerkener med frisk koriander, finthakkede peanuts, lime i både og finthakket rød chili.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/201. Pad Thai - den grønne variant.jpg",
+    "Source": "Varme retter - året rundt",
+    "Keywords": ["Vegetar", "Asiatisk", "Nudler", "Pad Thai", "Wok"]
+}

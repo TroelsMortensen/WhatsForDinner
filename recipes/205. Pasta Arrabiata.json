@@ -1,0 +1,38 @@
+{
+    "Id": 205,
+    "Title": "Pasta Arrabiata",
+    "SubHeader": null,
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": null, "Name": "rød chili", "PreparationNote": "uden frø, skåret i skiver" },
+                { "Quantity": 400, "Unit": "g", "Name": "pastapenne", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "flåede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "rød balsamico", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "rørsukker", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "øko citron", "PreparationNote": "fintrevet skal" },
+                { "Quantity": 2, "Unit": "håndfulde", "Name": "frisk basilikum", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 50, "Unit": "g", "Name": "parmesan", "PreparationNote": "friskrevet" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk basilikum", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom olien i en lille gryde sammen med den friske chili i skiver. Sæt varmen på lav til middelvarme og lad olien varme langsomt op. Olien skal ikke blive varmere, end at man kan stikke en lillefinger i den uden at brænde sig. Lad den stå i 30 minutter, sluk derefter for varmen og sigt chilien gennem en sigte. Olien kan gemmes til andre retter som chiliolie.</p><p>Kog pastaen al dente i en gryde med rigeligt letsaltet vand, mens resten af retten tilberedes.</p><p>Kom chilien tilbage i gryden sammen med hvidløg, tomater, salt og friskkværnet peber. Bring i kog og lad det simre under låg i 5 minutter. Smag til med balsamico, lidt rørsukker, fintrevet citronskal og finthakket basilikum, og vend saucen med den friskkogte pasta.</p><p>Server med friskrevet parmesan og et drys basilikum.</p>",
+    "Note": "Arrabiata betyder vred på italiensk. Den klassiske version kan blive meget stærk, men her er chilien varmet nænsomt i olien, så retten får masser af smag uden at blive for stærk.",
+    "ImageUrl": "images/recipe-images/205. Pasta Arrabiata.jpg",
+    "Source": "Valdemarsro - grøn efter smag",
+    "Keywords": ["Vegetar", "Pasta", "Italiensk", "Hverdagsmad"]
+}

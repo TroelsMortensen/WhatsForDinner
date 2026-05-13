@@ -1,0 +1,29 @@
+{
+    "Id": 191,
+    "Title": "Squashdeller",
+    "SubHeader": "Ovnbagte deller med squash, cheddar og spidskommen.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 60, "Unit": "g", "Name": "fuldkornshvedemel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 40, "Unit": "g", "Name": "cheddarost", "PreparationNote": "friskrevet" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til pensling" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pres den overskydende saft fra squash gennem en sigte. Kom squash i en skål sammen med de øvrige ingredienser, og rør det godt sammen til en fars. Lad farsen trække på køl i 30 minutter.</p><p>Form 8 deller og læg dem på en bradepande med bagepapir. Pensl med olie og bag dem i en forvarmet ovn ved 190 grader varmluft i ca. 25 minutter. Vend dem, når halvdelen af tiden er gået.</p>",
+    "Note": "Dellerne er også gode kolde, og de gør sig glimrende i madpakken eller som tilbehør til en salat dagen efter.",
+    "ImageUrl": "images/recipe-images/191. Squashdeller.jpg",
+    "Source": null,
+    "Keywords": ["Vegetar", "Squash", "Ovnbagt", "Deller"]
+}

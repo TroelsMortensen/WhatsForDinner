@@ -1,0 +1,41 @@
+{
+    "Id": 119,
+    "Title": "Dhal på grøn karry, aubergine og kokos",
+    "SubHeader": "Smæk på det veganske køkken.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 40,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "aubergine", "PreparationNote": "skåret i tern, let saltet og afdryppet i 20 minutter" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ristet sesamolie", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rapsolie", "PreparationNote": "til stegning" },
+                { "Quantity": 1, "Unit": "tommel", "Name": "frisk ingefær", "PreparationNote": "revet" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "grøn karrypasta", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "grønne linser", "PreparationNote": "skyllede" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "flåede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "citrongræs", "PreparationNote": "banket godt åben med bagsiden af kokkekniven" },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "skåret i grove skiver på skrå" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "øko lime", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "raita", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "hakkede salte peanuts eller cashewnødder", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>I gryden</h2><p>Aubergine steges hårdt af i olierne.</p><p>Herefter tilsættes ingefær, hvidløg, karry, linser, flåede tomater, kokosmælk, vand og citrongræs. Retten simrer med låg på i cirka 30 minutter, til linserne er møre.</p><p>Vend forårsløg i retten, og lad dem dampe med på eftervarmen i 3 minutter.</p><p>Smag til med salt, peber og lime, og server med pynt.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/119. Dhal på grøn karry + aubergine og kokos.jpg",
+    "Source": "Gorm's One Pot",
+    "Keywords": ["One Pot", "Vegetar"]
+}

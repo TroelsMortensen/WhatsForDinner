@@ -1,0 +1,40 @@
+{
+    "Id": 182,
+    "Title": "Gulerodssuppe",
+    "SubHeader": "Mild og krydret gulerodssuppe med linser og kokosmælk.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 700, "Unit": "g", "Name": "gulerødder", "PreparationNote": "skrællet og skåret i små stykker" },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "rød chili", "PreparationNote": "evt. efter smag" },
+                { "Quantity": 1, "Unit": "dl", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Vi tror, at du har",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "limejuice", "PreparationNote": "til smag" },
+                { "Quantity": null, "Unit": null, "Name": "koriander", "PreparationNote": "til servering (valgfrit)" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Varm olien i en gryde ved middel varme, og steg løg i 3-5 minutter, til de er bløde.</p><p>Tilsæt hvidløg, ingefær, gurkemeje, karry og chili, og steg kort under omrøring.</p><p>Kom gulerødder, linser og grøntsagsbouillon i gryden, og lad suppen simre i ca. 20 minutter, til grøntsager og linser er møre.</p><p>Tilsæt kokosmælk, og blend suppen helt cremet med stavblender eller i blender.</p><p>Smag til med limejuice, salt og peber.</p><p>Server med lidt finthakket ingefær og evt. koriander på toppen.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/182. Gulerodssuppe.jpg",
+    "Source": null,
+    "Keywords": ["Vegetar", "Suppe", "Gulerod", "Kokosmælk", "Linser"]
+}

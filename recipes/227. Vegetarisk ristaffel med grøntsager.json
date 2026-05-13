@@ -1,0 +1,47 @@
+{
+    "Id": 227,
+    "Title": "Vegetarisk ristaffel med grøntsager",
+    "SubHeader": null,
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Karrysauce med grøntsager",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "medium karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "rød karrypasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "blomkål", "PreparationNote": "i små buketter" },
+                { "Quantity": 75, "Unit": "g", "Name": "gulerod", "PreparationNote": "groftrevet" },
+                { "Quantity": 250, "Unit": "g", "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 1, "Unit": null, "Name": "æble", "PreparationNote": "groftrevet" },
+                { "Quantity": 4, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "citron", "PreparationNote": "saft" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": "kogt efter anvisning på emballagen" },
+                { "Quantity": 30, "Unit": "g", "Name": "kokosflager eller kokosmel", "PreparationNote": null },
+                { "Quantity": 30, "Unit": "g", "Name": "rosiner", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "bananer", "PreparationNote": "i skiver" },
+                { "Quantity": 50, "Unit": "g", "Name": "saltede peanuts", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": "finthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Karrysauce med grøntsager</h3><p>Rist karry, spidskommen og koriander i en gryde ved middelvarme, til det dufter skønt. Tilsæt olie, løg og hvidløg og sauter, til løgene er klare og bløde.</p><p>Kom karrypasta, gurkemeje, blomkål, gulerod, squash, æble og grøntsagsbouillon i gryden og rør det godt igennem. Læg låg på og lad det simre i ca. 5 minutter, til blomkålen er mør.</p><p>Kom det i en blender og blend, til det har en cremet konsistens. Kom det tilbage i en ren gryde og smag godt til med piskefløde, citronsaft, salt og peber. Juster konsistensen med ekstra grøntsagsbouillon, hvis saucen er for tyk.</p><p>Server ris og karrysauce i skåle og alle toppings på et fad til at forsyne sig ved bordet.</p>",
+    "Note": "Man kan frit vælge at servere retten med ris eller finthakket blomkål eller spidskål. Min favorit er at mikse 50/50 ris og finthakket kål på de dage, jeg har lyst til lidt ekstra grøntsager i maden. Vil du gerne have endnu mere grønt, kan du komme broccolibuketter i saucen, efter den er blendet, og servere retten kun med blomkålsris og toppings.",
+    "ImageUrl": "images/recipe-images/227. Vegetarisk ristaffel med grøntsager.jpg",
+    "Source": "Valdemarsro - nem aftensmad",
+    "Keywords": ["Vegetarisk", "Karry", "Ris", "Indisk", "Hverdagsmad"]
+}

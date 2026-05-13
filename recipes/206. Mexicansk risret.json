@@ -1,0 +1,48 @@
+{
+    "Id": 206,
+    "Title": "Mexicansk risret",
+    "SubHeader": null,
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "grofrevet" },
+                { "Quantity": 0.5, "Unit": null, "Name": "rød chili", "PreparationNote": "uden frø, finthakket" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 140, "Unit": "g", "Name": "majskerner", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "røde peberfrugter", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 125, "Unit": "g", "Name": "cherrytomater", "PreparationNote": "skåret i tynde både" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "avocado", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": "grofthakket" },
+                { "Quantity": 125, "Unit": "g", "Name": "cheddarost", "PreparationNote": "friskrevet" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "Sriracha chilisauce", "PreparationNote": "efter smag og behag" },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "skåret i både" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom løg, hvidløg og gulerødder i en gryde med olie og sauter ved middelvarme, til løgene er bløde og klare.</p><p>Tilsæt squash, rød chili, spidskommen, koriander, kanel og røget paprika, og rør godt sammen.</p><p>Skyl basmatirisene meget grundigt i en sigte. Rør dem derefter i gryden sammen med grøntsagsbouillon og hakkede tomater. Bring i kog under omrøring, skru ned for varmen og lad retten simre under låg i 15 minutter.</p><p>Tilsæt bønner, majskerner og rød peberfrugt, og varm op til kogepunktet igen. Læg låg på og sluk for varmen. Lad retten trække, så risene bliver møre, i 15 minutter.</p><p>Smag til med salt og peber. Rør tomaterne i og anret risretten på et fad med tilbehøret til servering.</p>",
+    "Note": "I stedet for at komme chili i retten kan du alternativt servere finthakket chili som tilbehør til at drysse over.",
+    "ImageUrl": "images/recipe-images/206. Mexicansk risret.jpg",
+    "Source": null,
+    "Keywords": ["Vegetar", "Mexicansk", "Ris", "Gryderet", "Hverdagsmad"]
+}

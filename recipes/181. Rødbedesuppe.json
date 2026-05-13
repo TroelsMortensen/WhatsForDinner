@@ -1,0 +1,35 @@
+{
+    "Id": 181,
+    "Title": "Rødbedesuppe",
+    "SubHeader": "Smuk og cremet rødbedesuppe med kartofler, løg og urter.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "løg", "PreparationNote": "fintsnittede" },
+                { "Quantity": 2, "Unit": "kg", "Name": "rødbeder", "PreparationNote": "skrællet og skåret i mindre stykker" },
+                { "Quantity": 400, "Unit": "g", "Name": "kartofler", "PreparationNote": "skrællet og skåret i mindre stykker" },
+                { "Quantity": 1, "Unit": "l", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "æblecidereddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "portion", "Name": "syrnet creme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "persille", "PreparationNote": "grofthakket" },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": "skåret i både" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Varm olivenolien op i en stor gryde ved middel varme.</p><p>Steg løg i et par minutter, til de er bløde og let gyldne.</p><p>Tilsæt rødbeder og kartofler, og lad det stege kort med.</p><p>Hæld grøntsagsbouillon over, og bring suppen i kog. Skru ned, og lad den simre i ca. 25 minutter, til grøntsagerne er møre.</p><p>Blend suppen glat med stavblender eller i blender.</p><p>Smag til med salt og æblecidereddike.</p><p>Server med syrnet creme, grofthakket persille og citronbåde.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/181. Rødbedesuppe.jpg",
+    "Source": null,
+    "Keywords": ["Suppe", "Vegetar", "Rødbede", "Aftensmad"]
+}

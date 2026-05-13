@@ -1,0 +1,46 @@
+{
+    "Id": 220,
+    "Title": "Kylling i sursød sauce",
+    "SubHeader": null,
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Sursød sauce",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "dl", "Name": "ananasjuice", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "riseddike", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "ketchup", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "fintrevet" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Derudover",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": "tilberedt efter pakkens anvisning" },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "i buketter" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "røde peberfrugter", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "forårsløg", "PreparationNote": "finsnittede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sesamfrø", "PreparationNote": "ristet på en tør pande" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sursød sauce</h2><p>Rør alle ingredienserne til saucen i en skål.</p><p>Kog risene efter anvisning på emballagen og damp gerne broccoli samtidig.</p><p>Sauter løg og hvidløg i olie på en sauterpande. Kom kyllingetern på panden og brun dem under omrøring. Kom derefter rød peber på panden og varm det godt igennem i et par minutter.</p><p>Tilsæt saucen, rør godt igennem og lad retten simre i 10 minutter. Rør nogle gange undervejs.</p><p>Server i skåle med ris, toppet med kylling i sursød sauce, et drys forårsløg og lidt ristet sesam.</p>",
+    "Note": "Har du lyst til endnu mere grønt i retten, kan du mikse ris og blomkålsris eller mikse ris og fintrevet spidskål - eller for endnu mere grønt rive blandet spidskål og blomkål i en foodprocessor og bruge det i stedet for ris.",
+    "ImageUrl": "images/recipe-images/220. Kylling i sursød sauce.jpg",
+    "Source": null,
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Hverdagsmad", "Sursød"]
+}

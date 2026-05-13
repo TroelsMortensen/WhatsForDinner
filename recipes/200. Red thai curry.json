@@ -1,0 +1,45 @@
+{
+    "Id": 200,
+    "Title": "Red thai curry",
+    "SubHeader": "Også en af de typiske retter i det thailandske gadekøkken. Du kan skrue op og ned for styrken og krydringen, alt efter hvor meget rød karrypasta, du kommer i gryden.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "skåret i både" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "rød karrypasta", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåser", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "fishsauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "skåret i tynde stave" },
+                { "Quantity": 2, "Unit": null, "Name": "kartofler", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "delt i buketter" },
+                { "Quantity": 100, "Unit": "g", "Name": "grønne bønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "skåret i tern" },
+                { "Quantity": 100, "Unit": "g", "Name": "blomkål", "PreparationNote": "delt i buketter" },
+                { "Quantity": 1, "Unit": null, "Name": "øko lime", "PreparationNote": "saft og finrevet skal" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "oliven- eller kokosolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "dl", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "saltede peanuts", "PreparationNote": "grofthakkede" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": "grofthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Sæt risene til at koge efter anvisning på emballagen.</p><p>Varm olie op i en gryde, og sautér løg og hvidløg ved middelvarme under omrøring, til de er bløde og klare.</p><p>Kom ingefær, karry og rød karrypasta i gryden, og rør det godt sammen. Kom kokosmælk, fishsauce, brun farin, gulerødder og kartofler i gryden. Kog op, sæt låg på, og skru derefter ned for varmen, til det blot simrer sagte. Lad det simre i 15 minutter.</p><p>Tilsæt broccoli, grønne bønner, squash og blomkål i gryden, og lad dem koge med i 5 minutter. Smag retten til med limesaft, finrevet limeskal, peber og eventuelt salt eller mere fishsauce, rød karrypasta og brun farin - alt efter smag.</p><p>Server retten i skåle med ris, et drys peanuts og koriander.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/200. Red thai curry.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Curry", "Thailandsk", "Kokosmælk", "Hverdagsmad"]
+}

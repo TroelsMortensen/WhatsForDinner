@@ -540,7 +540,7 @@
     },
     {
         "Id":  67,
-        "Title":  "Blomkål, linser og æble i karry med ris",
+        "Title":  "Blomkål + linser og æble i karry med ris",
         "Keywords":  [
                          "Vegetar"
                      ],
@@ -590,7 +590,7 @@
     },
     {
         "Id":  73,
-        "Title":  "Græsk fad med salatost, bulgur og tzatziki - til to dage",
+        "Title":  "Græsk fad med salatost + bulgur og tzatziki - til to dage",
         "Keywords":  [
                          "Oksekød"
                      ],
@@ -989,7 +989,7 @@
     },
     {
         "Id":  119,
-        "Title":  "Dhal på grøn karry, aubergine og kokos",
+        "Title":  "Dhal på grøn karry + aubergine og kokos",
         "Keywords":  [
                          "One Pot",
                          "Vegetar"
@@ -1067,7 +1067,7 @@
     },
     {
         "Id":  127,
-        "Title":  "Risotto med kylling, ærter og prosciutto",
+        "Title":  "Risotto med kylling + ærter og prosciutto",
         "Keywords":  [
                          "Kylling",
                          "Pasta"
@@ -1095,7 +1095,7 @@
     },
     {
         "Id":  130,
-        "Title":  "Kylling, spinat og forårsløg",
+        "Title":  "Kylling + spinat og forårsløg",
         "Keywords":  [
                          "One Pot",
                          "Kylling",
@@ -1354,7 +1354,7 @@
     },
     {
         "Id":  159,
-        "Title":  "Karryret med kylling, grøntsager og kokosmælk",
+        "Title":  "Karryret med kylling + grøntsager og kokosmælk",
         "Keywords":  [
                          "Kylling",
                          "Karry",
@@ -1479,7 +1479,7 @@
     },
     {
         "Id":  171,
-        "Title":  "Gryderet med kylling, bacon og porrer",
+        "Title":  "Gryderet med kylling + bacon og porrer",
         "Keywords":  [
                          "Kylling",
                          "Gryderet",
@@ -1558,5 +1558,767 @@
                          "Bælgfrugter"
                      ],
         "TotalMinutes":  null
+    },
+    {
+        "Id":  179,
+        "Title":  "Stegte ris med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Ris",
+                         "Hurtig mad",
+                         "Asiatisk"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  180,
+        "Title":  "Cremet bønnegryde",
+        "Keywords":  [
+                         "Vegetar",
+                         "Gryderet",
+                         "Bønner",
+                         "Hurtig mad"
+                     ],
+        "TotalMinutes":  20
+    },
+    {
+        "Id":  181,
+        "Title":  "Rødbedesuppe",
+        "Keywords":  [
+                         "Suppe",
+                         "Vegetar",
+                         "Rødbede",
+                         "Aftensmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  182,
+        "Title":  "Gulerodssuppe",
+        "Keywords":  [
+                         "Vegetar",
+                         "Suppe",
+                         "Gulerod",
+                         "Kokosmælk",
+                         "Linser"
+                     ],
+        "TotalMinutes":  50
+    },
+    {
+        "Id":  183,
+        "Title":  "Grønkålssuppe",
+        "Keywords":  [
+                         "Suppe",
+                         "Vegetar",
+                         "Grønkål",
+                         "Kartofler"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  184,
+        "Title":  "Grillet grøntsagssuppe med tomater og peberfrugt",
+        "Keywords":  [
+                         "Suppe",
+                         "Vegetar",
+                         "Tomat",
+                         "Peberfrugt"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  185,
+        "Title":  "Broccolisuppe",
+        "Keywords":  [
+                         "Suppe",
+                         "Vegetar",
+                         "Broccoli",
+                         "Kartofler"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  186,
+        "Title":  "Harira - Marokkansk suppe",
+        "Keywords":  [
+                         "Suppe",
+                         "Vegetar",
+                         "Marokkansk",
+                         "Kikærter",
+                         "Linser"
+                     ],
+        "TotalMinutes":  35
+    },
+    {
+        "Id":  187,
+        "Title":  "Kikærtebøffer",
+        "Keywords":  [
+                         "Vegetar",
+                         "Kikærter",
+                         "Ovnbagt",
+                         "Bøffer"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  188,
+        "Title":  "Krydrede bønnedeller",
+        "Keywords":  [
+                         "Vegetar",
+                         "Bønner",
+                         "Ovnbagt",
+                         "Krydret",
+                         "Deller"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  189,
+        "Title":  "Quinoadeller med kikærter",
+        "Keywords":  [
+                         "Vegetar",
+                         "Kikærter",
+                         "Quinoa",
+                         "Ovnbagt",
+                         "Deller"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  190,
+        "Title":  "Rødbededeller",
+        "Keywords":  [
+                         "Vegetar",
+                         "Rødbede",
+                         "Ovnbagt",
+                         "Deller"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  191,
+        "Title":  "Squashdeller",
+        "Keywords":  [
+                         "Vegetar",
+                         "Squash",
+                         "Ovnbagt",
+                         "Deller"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  192,
+        "Title":  "Rodfrugter i kokosmælk",
+        "Keywords":  [
+                         "Vegetar",
+                         "Gryderet",
+                         "Rodfrugter",
+                         "Kokosmælk"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  193,
+        "Title":  "Grøntsagswok med kokosnudler og cashewnødde-smør",
+        "Keywords":  [
+                         "Vegetar",
+                         "Wok",
+                         "Nudler",
+                         "Kokosmælk",
+                         "Edamame"
+                     ],
+        "TotalMinutes":  25
+    },
+    {
+        "Id":  194,
+        "Title":  "Dhal med kokosmælk og grønne linser",
+        "Keywords":  [
+                         "Vegetar",
+                         "Indisk",
+                         "Dhal",
+                         "Linser",
+                         "Gryderet"
+                     ],
+        "TotalMinutes":  50
+    },
+    {
+        "Id":  195,
+        "Title":  "Grøn lady og vagabonden",
+        "Keywords":  [
+                         "Vegetar",
+                         "Linser",
+                         "Quinoa",
+                         "Ovnbagt"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  196,
+        "Title":  "Bønnegryde",
+        "Keywords":  [
+                         "Vegetar",
+                         "Gryderet",
+                         "Simreret"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  197,
+        "Title":  "Bolognese med linser",
+        "Keywords":  [
+                         "Vegetar",
+                         "Pasta",
+                         "Bolognese",
+                         "Linser",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  198,
+        "Title":  "Kikærtegryde med linser og kokosmælk",
+        "Keywords":  [
+                         "Vegetar",
+                         "Gryderet",
+                         "Linser",
+                         "Kikærter",
+                         "Kokosmælk"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  199,
+        "Title":  "Chili sin carne",
+        "Keywords":  [
+                         "Vegetar",
+                         "Chili",
+                         "Gryderet",
+                         "Bønner",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  200,
+        "Title":  "Red thai curry",
+        "Keywords":  [
+                         "Vegetar",
+                         "Curry",
+                         "Thailandsk",
+                         "Kokosmælk",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  201,
+        "Title":  "Pad Thai - den grønne variant",
+        "Keywords":  [
+                         "Vegetar",
+                         "Asiatisk",
+                         "Nudler",
+                         "Pad Thai",
+                         "Wok"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  202,
+        "Title":  "Tortilla-pizza",
+        "Keywords":  [
+                         "Vegetar",
+                         "Pizza",
+                         "Tortilla",
+                         "Hurtig mad",
+                         "Børnevenlig"
+                     ],
+        "TotalMinutes":  15
+    },
+    {
+        "Id":  203,
+        "Title":  "Chana masala med kikærter",
+        "Keywords":  [
+                         "Vegetar",
+                         "Indisk",
+                         "Kikærter",
+                         "Gryderet",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  204,
+        "Title":  "Stegte ris med æg",
+        "Keywords":  [
+                         "Vegetar",
+                         "Asiatisk",
+                         "Ris",
+                         "Wok",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  205,
+        "Title":  "Pasta Arrabiata",
+        "Keywords":  [
+                         "Vegetar",
+                         "Pasta",
+                         "Italiensk",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  206,
+        "Title":  "Mexicansk risret",
+        "Keywords":  [
+                         "Vegetar",
+                         "Mexicansk",
+                         "Ris",
+                         "Gryderet",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  207,
+        "Title":  "Vikingegryde",
+        "Keywords":  [
+                         "Kylling",
+                         "Gryderet",
+                         "Bacon",
+                         "Paprika",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  50
+    },
+    {
+        "Id":  208,
+        "Title":  "Tex-Mex risret med oksekød",
+        "Keywords":  [
+                         "Oksekød",
+                         "Mexicansk",
+                         "Ris",
+                         "Gryderet",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  209,
+        "Title":  "Orientalsk risret med oksekød",
+        "Keywords":  [
+                         "Oksekød",
+                         "Asiatisk",
+                         "Ris",
+                         "Gryderet",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  210,
+        "Title":  "Græske kødboller med orzo",
+        "Keywords":  [
+                         "Oksekød",
+                         "Græsk",
+                         "Gryderet",
+                         "Orzo",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  211,
+        "Title":  "Kylling stroganoff med kartoffelmos",
+        "Keywords":  [
+                         "Kylling",
+                         "Gryderet",
+                         "Bacon",
+                         "Kartoffelmos",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  212,
+        "Title":  "Katsukylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Asiatisk",
+                         "Karry",
+                         "Ris",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  213,
+        "Title":  "Ingefærkylling med appelsin",
+        "Keywords":  [
+                         "Kylling",
+                         "Asiatisk",
+                         "Ris",
+                         "Ingefær",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  214,
+        "Title":  "Bulgursalat med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Salat",
+                         "Bulgur",
+                         "Sprød kylling",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  40
+    },
+    {
+        "Id":  215,
+        "Title":  "Bulgursalat med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Salat",
+                         "Bulgur",
+                         "Sprød kylling",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  40
+    },
+    {
+        "Id":  216,
+        "Title":  "Vegetarisk brændende kærlighed",
+        "Keywords":  [
+                         "Vegetar",
+                         "Kartoffelmos",
+                         "Kikærter",
+                         "Rødbeder",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  217,
+        "Title":  "Tomatrisotto",
+        "Keywords":  [
+                         "Vegetar",
+                         "Risotto",
+                         "Tomat",
+                         "Italiensk",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  40
+    },
+    {
+        "Id":  218,
+        "Title":  "Wok med kylling og grøntsager",
+        "Keywords":  [
+                         "Kylling",
+                         "Wok",
+                         "Asiatisk",
+                         "Nudler",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  219,
+        "Title":  "Teriyakikylling med ris og grøntsager",
+        "Keywords":  [
+                         "Kylling",
+                         "Asiatisk",
+                         "Ris",
+                         "Teriyaki",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  220,
+        "Title":  "Kylling i sursød sauce",
+        "Keywords":  [
+                         "Kylling",
+                         "Asiatisk",
+                         "Ris",
+                         "Hverdagsmad",
+                         "Sursød"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  221,
+        "Title":  "Kålwok med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Wok",
+                         "Asiatisk",
+                         "Kål",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  20
+    },
+    {
+        "Id":  222,
+        "Title":  "Kylling i paprikasauce",
+        "Keywords":  [
+                         "Kylling",
+                         "Paprika",
+                         "Ris",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  223,
+        "Title":  "Kylling cashew",
+        "Keywords":  [
+                         "Kylling",
+                         "Asiatisk",
+                         "Ris",
+                         "Cashew",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  224,
+        "Title":  "Kinesisk kung pao med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Asiatisk",
+                         "Ris",
+                         "Wok",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  225,
+        "Title":  "Teriyakilaks med sesam",
+        "Keywords":  [
+                         "Laks",
+                         "Asiatisk",
+                         "Ris",
+                         "Teriyaki",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  226,
+        "Title":  "BBQ-laks med ris og bønner",
+        "Keywords":  [
+                         "Laks",
+                         "Ris",
+                         "Bønner",
+                         "BBQ",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  227,
+        "Title":  "Vegetarisk ristaffel med grøntsager",
+        "Keywords":  [
+                         "Vegetarisk",
+                         "Karry",
+                         "Ris",
+                         "Indisk",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  228,
+        "Title":  "Tikka chicken masala",
+        "Keywords":  [
+                         "Kylling",
+                         "Indisk",
+                         "Gryderet",
+                         "Masala",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  120
+    },
+    {
+        "Id":  229,
+        "Title":  "Kylling korma",
+        "Keywords":  [
+                         "Kylling",
+                         "Indisk",
+                         "Korma",
+                         "Gryderet",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  720
+    },
+    {
+        "Id":  230,
+        "Title":  "Butter Chicken",
+        "Keywords":  [
+                         "Kylling",
+                         "Indisk",
+                         "Gryderet",
+                         "Karry",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  60
+    },
+    {
+        "Id":  231,
+        "Title":  "Enchiladas med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Mexicansk",
+                         "Tortilla",
+                         "Ovnret",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  45
+    },
+    {
+        "Id":  232,
+        "Title":  "Kofta med tabbouleh-bulgursalat",
+        "Keywords":  [
+                         "Lammekød",
+                         "Kofta",
+                         "Bulgur",
+                         "Mellemøstlig",
+                         "Salat"
+                     ],
+        "TotalMinutes":  35
+    },
+    {
+        "Id":  233,
+        "Title":  "Fried rice med kylling",
+        "Keywords":  [
+                         "Kylling",
+                         "Asiatisk",
+                         "Ris",
+                         "Wok",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  234,
+        "Title":  "Massaman curry",
+        "Keywords":  [
+                         "Asiatisk",
+                         "Thailandsk",
+                         "Curry",
+                         "Kartofler",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  235,
+        "Title":  "Kyllingesharwarma",
+        "Keywords":  [
+                         "Kylling",
+                         "Mellemøstlig",
+                         "Shawarma",
+                         "Fladbrød",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  236,
+        "Title":  "One pot pasta vegetar",
+        "Keywords":  [
+                         "Vegetar",
+                         "Pasta",
+                         "One Pot",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  20
+    },
+    {
+        "Id":  237,
+        "Title":  "One pot pasta kylling og bacon",
+        "Keywords":  [
+                         "Kylling",
+                         "Bacon",
+                         "Pasta",
+                         "One Pot",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  20
+    },
+    {
+        "Id":  238,
+        "Title":  "One pot pasta serranoskinke",
+        "Keywords":  [
+                         "Pasta",
+                         "One Pot",
+                         "Serranoskinke",
+                         "Italiensk",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  25
+    },
+    {
+        "Id":  239,
+        "Title":  "One pot pasta - min klassiske udgave",
+        "Keywords":  [
+                         "Pasta",
+                         "One Pot",
+                         "Chorizo",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  20
+    },
+    {
+        "Id":  240,
+        "Title":  "Tomatsuppe med nudler",
+        "Keywords":  [
+                         "Suppe",
+                         "Vegetar",
+                         "Tomat",
+                         "Nudler",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes":  30
+    },
+    {
+        "Id":  241,
+        "Title":  "Kyllingenuggets med rasp",
+        "Keywords": [
+            "Kylling",
+            "Ovnret",
+            "Børnevenlig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes":  null
+    },
+    {
+        "Id": 242,
+        "Title": "Jambalaya med kylling og chorizo",
+        "Keywords":  [
+                         "Kylling",
+                         "Chorizo",
+                         "Risret",
+                         "Cajun",
+                         "Hverdagsmad"
+                     ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 243,
+        "Title": "Boller i karry",
+        "Keywords": [
+            "Svinekød",
+            "Karry",
+            "Kødboller",
+            "Gryderet",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
     }
 ]

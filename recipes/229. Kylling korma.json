@@ -1,0 +1,54 @@
+{
+    "Id": 229,
+    "Title": "Kylling korma",
+    "SubHeader": "Mild og lækker, så hele familien kan være med. Retten er nem og tager ikke lang tid at tilberede – blot skal man huske at marinere kyllingen dagen før eller min. 12 timer forinden.",
+    "TotalMinutes": 720,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "stk.", "Name": "kyllingebryst", "PreparationNote": "skåret i tern" }
+            ]
+        },
+        {
+            "Title": "Kormamarinade",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "ingefær", "PreparationNote": "fintrevet" },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "saft" },
+                { "Quantity": 1, "Unit": "dl", "Name": "græsk yoghurt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kormasauce",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "rødløg", "PreparationNote": "skåret i tynde både" },
+                { "Quantity": 75, "Unit": "g", "Name": "koncentreret tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "mandler", "PreparationNote": "hakkede – valgfrit om de er smuttede eller ej" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "kokosolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 30, "Unit": "g", "Name": "smuttede mandelsplitter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": "hakket" },
+                { "Quantity": null, "Unit": null, "Name": "limesaft", "PreparationNote": "lidt" },
+                { "Quantity": null, "Unit": null, "Name": "basmatiris eller brune ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "naan", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Kormamarinade</h3><p>Begynd i god tid, da kødet skal marinere længe. Bland marinaden sammen og vend kyllingestykkerne grundigt i marinaden, så de bliver helt dækket af marinaden. Stil det på køl og lad det trække i ca. 12-24 timer.</p><h3>Inden servering</h3><p>Smelt kokosolie på en pande og sauter kort løgene heri, til de er blevet bløde.</p><p>Kom kyllingestykkerne på sammen med marinaden og steg kyllingestykkerne grundigt under omrøring. Tilsæt tomatpuré og kokosmælk, læg låg på og lad retten simre i 30 minutter.</p><p>Rør de hakkede mandler i inden servering og smag til med salt og friskkværnet peber. Server retten i dybe tallerkener sammen med ris og drys til sidst med grofthakket koriander. Server evt. naan til.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/229. Kylling korma.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Kylling", "Indisk", "Korma", "Gryderet", "Hverdagsmad"]
+}

@@ -1,0 +1,43 @@
+{
+    "Id": 218,
+    "Title": "Wok med kylling og grøntsager",
+    "SubHeader": null,
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i tynde strimler" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "gul karrypasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "hg", "Name": "tynde båndnudler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "fintrevet" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 200, "Unit": "g", "Name": "broccoli", "PreparationNote": "i buketter" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "i tern" },
+                { "Quantity": 150, "Unit": "g", "Name": "gulerødder", "PreparationNote": "i julienne" },
+                { "Quantity": 400, "Unit": "ml", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "nudler", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "stænger", "Name": "forårsløg", "PreparationNote": "finsnittede" },
+                { "Quantity": 40, "Unit": "g", "Name": "cashewnødder", "PreparationNote": "grofthakket" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "koriander", "PreparationNote": "grofthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pisk æg og vand godt sammen med lidt salt og peber, til det er luftigt, og kom det på en meget varm wok eller pande med olie. Rør hurtigt igennem og lad det derefter sætte sig til en luftig omelet. Sæt omeletten til side på en tallerken.</p><p>Kom ekstra olie i den varme wok og steg kylling, karrypasta og løg i et par minutter under omrøring. Skru ned på middelvarme og tilsæt ingefær, hvidløg, broccoli, peberfrugt, gulerødder og kokosmælk. Lad det simre i 5 minutter og kog imens nudlerne efter anvisning på emballagen.</p><p>Skær omeletten i strimler og vend omelet, nudler og spinat i retten. Anret i skåle og top med cashewnødder, finthakket forårsløg og koriander.</p>",
+    "Note": "Find alle ingredienserne frem og gør alle grøntsagerne klar med det samme, så tager det ingen tid at bikse en ret som denne sammen.",
+    "ImageUrl": "images/recipe-images/218. Wok med kylling og grøntsager.jpg",
+    "Source": "Aftensmad på max 30 minutter",
+    "Keywords": ["Kylling", "Wok", "Asiatisk", "Nudler", "Hverdagsmad"]
+}

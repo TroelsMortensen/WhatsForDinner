@@ -1,0 +1,50 @@
+{
+    "Id": 222,
+    "Title": "Kylling i paprikasauce",
+    "SubHeader": null,
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Paprikasauce",
+            "Ingredients": [
+                { "Quantity": 25, "Unit": "g", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fintrevne" },
+                { "Quantity": 0.5, "Unit": null, "Name": "løg", "PreparationNote": "fintrevet" },
+                { "Quantity": 3, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "knivspids", "Name": "cayennepeber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i tykke strimler" },
+                { "Quantity": 20, "Unit": "g", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie og smør", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": "tilberedt efter pakkens anvisning" },
+                { "Quantity": 100, "Unit": "g", "Name": "grønne bønner fra frost", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "i små buketter" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "persille", "PreparationNote": "finthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<p>Kog risene efter anvisning på emballagen. Kom bønner og broccoli i en lille kasserolle med kogende letsaltet vand. Sæt låg på gryden og kog dem i 2 minutter. Hæld vandet fra og hold bønner og broccoli lune i gryden med låg på.</p><h2>Kylling i paprikasauce</h2><p>Smelt smørret i en gryde og pisk hvedemel i med et piskeris, til det samler sig til en smørbolle. Pisk straks efter grøntsagsbouillon i og kog det op under omrøring. Pisk fløden og resten af ingredienserne i og smag til sidst til med brun farin, salt og peber.</p><p>Vend kyllingestykkerne i en skål med hvedemel, paprika, salt og peber. Brun kødet af på en varm pande med smør og olie. Skru ned for varmen og hæld den færdige paprikasauce over kyllingekødet. Lad det simre i 10 minutter, til kødet er gennemstegt.</p><p>Server kylling i paprika med ris, broccoli, bønner og et drys persille.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/222. Kylling i paprikasauce.jpg",
+    "Source": "Valdemarsro – nem aftensmad",
+    "Keywords": ["Kylling", "Paprika", "Ris", "Hverdagsmad"]
+}

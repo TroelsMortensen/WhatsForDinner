@@ -1,0 +1,51 @@
+{
+    "Id": 235,
+    "Title": "Kyllingesharwarma",
+    "SubHeader": "Shawarma med marineret kylling, fladbrød og tilbehør.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "stk", "Name": "kyllingebryst", "PreparationNote": "skåret i strimler" }
+            ]
+        },
+        {
+            "Title": "Marinade",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "dl", "Name": "kærnemælk", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt cayennepeber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "saft" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "skåret i ringe" },
+                { "Quantity": 2, "Unit": "håndfulde", "Name": "salatblade", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "koriander", "PreparationNote": "grofthakket" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk mynte", "PreparationNote": "grofthakket" },
+                { "Quantity": null, "Unit": null, "Name": "hummus", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "haydari dip", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "chilisauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "fladbrød", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Rør marinaden godt sammen i en skål og vend kyllingestrimlerne godt rundt i marinaden. Dæk skålen til og lad kødet marinere natten over i køleskabet.</p><p>Kom kylling og marinade i et smurt ovnfast fad og bag i en forvarmet ovn i 25 minutter ved 175 grader varmluft.</p><p>Tag kyllingen ud af ovnen, hæld overskydende væde fra og træk det møre shawarma-kyllingekød fra hinanden med to gafler.</p><p>Server fladbrød, kylling og alt tilbehøret i små skåle, så man selv kan samle shawarmaen ved bordet.</p>",
+    "Note": "Kyllingen kan forberedes dagen før.",
+    "ImageUrl": "images/recipe-images/235. Kyllingesharwarma.jpg",
+    "Source": "Valdemarsro",
+    "Keywords": ["Kylling", "Mellemøstlig", "Shawarma", "Fladbrød", "Hverdagsmad"]
+}

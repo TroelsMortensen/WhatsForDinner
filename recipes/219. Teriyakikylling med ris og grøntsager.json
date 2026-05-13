@@ -1,0 +1,46 @@
+{
+    "Id": 219,
+    "Title": "Teriyakikylling med ris og grøntsager",
+    "SubHeader": null,
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "kyllingefilet", "PreparationNote": "i tern" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Teriyakimarinade",
+            "Ingredients": [
+                { "Quantity": 6, "Unit": "spsk", "Name": "teriyakisauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "friskrevet" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "riseddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "majsstivelse", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "broccoli", "PreparationNote": "i buketter" },
+                { "Quantity": 150, "Unit": "g", "Name": "edamamebønner", "PreparationNote": "uden bælg" },
+                { "Quantity": 2, "Unit": "stænger", "Name": "forårsløg", "PreparationNote": "i skiver" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "i både" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene i en gryde efter anvisningen på emballagen, mens kylling og grøntsager tilberedes.</p><h3>Teriyakikylling</h3><p>Kom teriyakisauce, soja, hvidløg, brun farin, ingefær, riseddike og vand i en skål. Sigt majsstivelse i og rør det godt sammen til en marinade. Steg kyllingen i olie på en pande ved høj varme i 3-4 minutter på alle sider. Skru ned til lav varme og tilsæt teriyakimarinaden. Vend kyllingen med jævne mellemrum og lad den tilberede ved lav varme i 10 minutter, til kyllingen er gylden og gennemstegt.</p><h3>Grøntsager</h3><p>Kog letsaltet vand op i en gryde og kog broccolibuketterne i 1 minut. Tilsæt de frosne edamamebønner, rør rundt og hæld straks vandet fra.</p><h3>Servering</h3><p>Anret ris, broccoli, edamamebønner og kylling i dybe tallerkener eller skåle. Drys sesamfrø og forårsløg over og server med lime i både til at dryppe over.</p>",
+    "Note": "Traditionelt bruges der riseddike i asiatiske retter, men hvis du ikke har det på lager, kan du erstatte og smage til med æblecidereddike, citronsaft, lime eller hvidvinseddike.",
+    "ImageUrl": "images/recipe-images/219. Teriyakikylling med ris og grøntsager.jpg",
+    "Source": "Valdemarsro - nem aftensmad",
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Teriyaki", "Hverdagsmad"]
+}

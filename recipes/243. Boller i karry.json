@@ -1,0 +1,49 @@
+{
+    "Id": 243,
+    "Title": "Boller i karry",
+    "SubHeader": "Klassiske kødboller i karrysauce serveret med ris og frisk topping.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kødboller",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "svinekød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "havregryn", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Karrysauce",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "karry", "PreparationNote": "1-3 tsk" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "grøntsagsbouillon", "PreparationNote": "2-4 dl" },
+                { "Quantity": null, "Unit": null, "Name": "vand", "PreparationNote": "evt. til at spæde op med" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "mango", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": null, "Name": "æble", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": "finthakket" },
+                { "Quantity": null, "Unit": null, "Name": "basmatiris", "PreparationNote": "kogte" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Kødboller</h3><p>Rør alle ingredienserne sammen i en skål med en håndmixer og tilbered saucen, mens farsen hviler.</p><h3>Karrysauce</h3><p>Smelt smør ved svag varme i en gryde sammen med karry, koriander og spidskommen. Drys melet i og pisk sammen.</p><p>Pisk langsomt mælken i, til opbagningen har en ensartet konsistens. Kog saucen op og tilsæt grøntsagsbouillon, til saucen har den rette tykkelse. Juster med mere mel, hvis den er for tynd, eller mere væske, hvis den er for tyk.</p><p>Smag saucen til med salt og peber samt eventuelt mere karry, når den har den rette konsistens.</p><p>Form farsen til ca. 14-15 kødboller. Kom kødbollerne direkte i saucen, hvor de tilberedes og giver god smag til saucen. Lad sauce og kødboller simre ved lav varme i ca. 15 minutter, til de er gennemtilberedte.</p><p>Server med ris og toppings efter smag.</p>",
+    "Note": "Der er stor forskel på styrken og smagen i karry, så smag dig frem og juster mængden efter om du bruger en mild eller stærk karry.",
+    "ImageUrl": "images/recipe-images/243. Boller i karry.jpg",
+    "Source": "Hverdagsmad",
+    "Keywords": ["Svinekød", "Karry", "Kødboller", "Gryderet", "Hverdagsmad"]
+}

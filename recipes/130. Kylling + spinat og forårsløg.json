@@ -1,0 +1,40 @@
+{
+    "Id": 130,
+    "Title": "Kylling, spinat og forårsløg",
+    "SubHeader": "Et tvist på min teenage-scorepasta.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "pasta", "PreparationNote": "fx pastarør" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakket, evt. 3 fed" },
+                { "Quantity": 1, "Unit": "dusk", "Name": "frisk timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i strimler" },
+                { "Quantity": 0.75, "Unit": "terning", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 1.75, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "friske grønne bønner", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "bundter", "Name": "forårsløg", "PreparationNote": "i 1 cm skrå skiver, kan erstattes af et par store porrer" },
+                { "Quantity": 400, "Unit": "g", "Name": "spinat", "PreparationNote": "gerne grov, ellers 150 g fra frost" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "vand", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "olivenmix", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "parmesan", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sprødstegt bacon i tern", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>I gryden</h2><p>Kom ingredienserne i i denne rækkefølge: pasta, hvidløg, urter, kylling, vand, bouillon, fløde, bønner, forårsløg, salt og peber og spinat, og skru op for blusset.</p><p>Kog i 10 minutters tid, til pastaen er al dente.</p><p>Rør sammen, og smag til med salt og peber.</p><p>Server med olivenmix.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/130. Kylling + spinat og forårsløg.jpg",
+    "Source": "Gorm's One Pot",
+    "Keywords": ["One Pot", "Kylling", "Pasta"]
+}

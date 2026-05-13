@@ -1,0 +1,47 @@
+{
+    "Id": 195,
+    "Title": "Grøn lady og vagabonden",
+    "SubHeader": "Linser fås i mange varianter. Du kan sagtens erstatte de smagfulde franske puy-linser - også kaldet delikatesselinser - med andre linser som fx grønne linser, belugalinser eller sågar kogte kikærter.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser - tomatsauce",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "dåser", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "friske timianblade", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "æblecidereddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "soltørrede tomater", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Ingredienser - quinoa- og linseboller",
+            "Ingredients": [
+                { "Quantity": 100, "Unit": "g", "Name": "quinoa", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "puy-linser", "PreparationNote": "delikatesselinser" },
+                { "Quantity": 4, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "champignoner", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "persille", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "feta", "PreparationNote": "smuldret" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Tomatsauce</h3><p>Kom løg og hvidløg i gryden med smør og sauter, til løgene er klare og bløde. Tilsæt alle de andre ingredienser. Lad det simre uden låg, mens resten af retten tilberedes. Blend evt. saucen med en stavblender, hvis du ønsker en fin og ensartet konsistens.</p><h3>Quinoa- og linseboller</h3><p>Skyl quinoa og linser grundigt i en sigte og kom dem derefter i en gryde sammen med grøntsagsbouillon. Læg låg på, bring i kog og lad det simre i 20 minutter, til linserne er knap møre.</p><p>Kom de kogte linser og quinoa i en skål og rør grundigt sammen med champignoner, æg, rødløg, hvidløg, persille, krydderier, smuldret feta, salt og peber. Form en masse små boller af farsen. Læg dem på en bageplade med bagepapir og bag i ovnen ved 175 grader i 25-30 minutter.</p><p>Server med friskkogt spaghetti, varm tomatsauce og rigeligt revet parmesan og lidt timian til at drysse over.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/195. Grøn lady og vagabonden.jpg",
+    "Source": null,
+    "Keywords": ["Vegetar", "Linser", "Quinoa", "Tomatsauce", "Boller", "Ovnbagt"]
+}

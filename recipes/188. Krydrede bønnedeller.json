@@ -1,0 +1,31 @@
+{
+    "Id": 188,
+    "Title": "Krydrede bønnedeller",
+    "SubHeader": "Ovnbagte bønnefritter med sorte bønner, varme krydderier og sprød overflade.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dåse", "Name": "sorte bønner", "PreparationNote": "drænede og skyllede" },
+                { "Quantity": 2, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 30, "Unit": "g", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "cayennepeber", "PreparationNote": "1 knivspids" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til pensling" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom de sorte bønner i en blenderskål eller foodprocessor sammen med resten af ingredienserne. Blend det hele til en ensartet fars, og lad farsen trække på køl i 30 minutter.</p><p>Form 10 deller og læg dem på en bageplade med bagepapir. Pensl med olie og bag dem i en forvarmet ovn ved 190 grader varmluft i ca. 25 minutter. Vend dem, når halvdelen af tiden er gået.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/188. Krydrede bønnedeller.jpg",
+    "Source": null,
+    "Keywords": ["Vegetar", "Bønner", "Ovnbagt", "Krydret", "Deller"]
+}

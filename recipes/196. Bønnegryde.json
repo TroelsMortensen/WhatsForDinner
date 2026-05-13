@@ -1,0 +1,50 @@
+{
+    "Id": 196,
+    "Title": "Bønnegryde",
+    "SubHeader": "Krydret simreret med kidneybønner, grøntsager og topping på bordet.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kardemomme", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 3, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "finrevet" },
+                { "Quantity": 1, "Unit": null, "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 3, "Unit": "stængler", "Name": "bladselleri", "PreparationNote": "groftrevne" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåser", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "skåret i tern" },
+                { "Quantity": 250, "Unit": "g", "Name": "majskerner", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "mørk chokolade", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "cremefraiche 18 %", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null },
+                { "Quantity": 125, "Unit": "g", "Name": "nachos", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "syltede rødløg", "PreparationNote": "se side 300" },
+                { "Quantity": 150, "Unit": "g", "Name": "majskerner", "PreparationNote": "ristede" },
+                { "Quantity": 1, "Unit": null, "Name": "avocado", "PreparationNote": "skåret i skiver" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom karry, spidskommen, kardemomme, kanel, røget paprika og koriander i en tør gryde og varm det godt igennem under omrøring, til det begynder at dufte skønt.</p><p>Skru ned for varmen, kom løg, hvidløg, ingefær og olie i gryden og sautér, til løgene er bløde.</p><p>Kom squash, bladselleri, hakkede tomater og grøntsagsbouillon i gryden og lad det simre under låg i mindst 30 minutter og gerne 1 time, hvis der er tid.</p><p>Tilsæt til sidst kidneybønner, peberfrugt og majskerner og varm det godt igennem i 5 minutter. Smag til med chokolade, salt og peber.</p><p>Server toppings i små skåle ved siden af, så man selv kan forsyne sig ved bordet.</p>",
+    "Note": "Hvis tiden ikke er til en simreret, men du alligevel har lyst til bønnegryde, så lad det blot simre i ca. 15-20 minutter, inden bønnerne tilsættes. Retten bliver mere rustik og knap så cremet, men smager stadig pragtfuldt.",
+    "ImageUrl": "images/recipe-images/196. Bønnegryde.jpg",
+    "Source": "Valdemarsro - grøn aftensmad",
+    "Keywords": ["Vegetar", "Gryderet", "Bønner", "Kidneybønner", "Simreret"]
+}

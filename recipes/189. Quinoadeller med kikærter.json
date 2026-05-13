@@ -1,0 +1,34 @@
+{
+    "Id": 189,
+    "Title": "Quinoadeller med kikærter",
+    "SubHeader": "Sprøde quinoadeller med kikærter, feta og krydderurter.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 150, "Unit": "g", "Name": "quinoa", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 3, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "pressede" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "persille", "PreparationNote": "finthakket" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "skyllede og finthakkede" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "feta", "PreparationNote": "smuldret" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til pensling" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skyl quinoa grundigt gennem en sigte.</p><p>Kom quinoa og grøntsagsbouillon i en gryde, og lad det simrekoge i 15 minutter under låg.</p><p>Kom den kogte quinoa i en skål og rør den grundigt sammen med æg, rødløg, hvidløg, persille, kikærter, spidskommen, timian, oregano, hvedemel og smuldret feta.</p><p>Rør det hele godt sammen til en fars, og lad farsen trække på køl i 30 minutter.</p><p>Form 10 deller og læg dem på en bradepande med bagepapir.</p><p>Pensl med olie og bag dem i en forvarmet ovn ved 190 grader varmluft i ca. 25 minutter. Vend dem, når halvdelen af tiden er gået.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/189. Quinoadeller med kikærter.jpg",
+    "Source": "Valdemarsro - Grøn aftensmad",
+    "Keywords": ["Vegetar", "Kikærter", "Quinoa", "Ovnbagt", "Deller"]
+}

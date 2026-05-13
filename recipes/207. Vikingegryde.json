@@ -1,0 +1,45 @@
+{
+    "Id": 207,
+    "Title": "Vikingegryde",
+    "SubHeader": null,
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 5, "Unit": "skiver", "Name": "bacon", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "champignoner", "PreparationNote": "i kvarte" },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": "i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 300, "Unit": "g", "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 150, "Unit": "g", "Name": "peberfrugt", "PreparationNote": "i skiver" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "sød paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "koncentreret tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "røde peberfrugter", "PreparationNote": "i små tern" },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": "kogt efter anvisning på pakken" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": "grofthakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Steg bacon sprød i en sauterpande eller stegegryde, og læg den til side på et stykke køkkenrulle. Kom lidt olie i den samme pande eller stegegryde, og skru op for varmen. Steg champignoner og kylling ved høj varme under omrøring, til de er brunede. Skru ned for varmen og tilsæt løg og hvidløg. Sauter under omrøring, til løgene er klare og bløde. Skær den ristede bacon i mindre stykker og tilsæt bacon, squash, peberfrugt, røget paprika, sød paprika og oregano. Rør det godt sammen.</p><p>Rør hvedemel ud i et glas med grøntsagsbouillon, og tilsæt blandingen samt tomatpuré og hakkede tomater til retten. Rør godt igennem, læg låg på og lad vikingegryden simre i 15 minutter. Kog imens ris efter anvisning på emballagen.</p><p>Rør de finthakkede peberfrugter i gryderetten og smag til med piskefløde, salt og friskkværnet peber.</p><p>Server med ris og et drys bredbladet persille.</p>",
+    "Note": "Jeg kommer indimellem ekstra grøntsager i retten. Det kan være dobbelt op på groftrevet squash, eller fint hakkede champignoner, groftrevet aubergine, gulerod eller bladselleri. Har du en enkelt porre eller en stængel bladselleri i overskud, kan det også kommes i retten.",
+    "ImageUrl": "images/recipe-images/207. Vikingegryde.jpg",
+    "Source": "Aftensmad +45 minutter - Gris",
+    "Keywords": ["Kylling", "Gryderet", "Bacon", "Paprika", "Hverdagsmad"]
+}

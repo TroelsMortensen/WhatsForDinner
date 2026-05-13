@@ -1,0 +1,40 @@
+{
+    "Id": 239,
+    "Title": "One pot pasta - min klassiske udgave",
+    "SubHeader": "En hurtig one pot pasta med chorizo, tomat og basilikum.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "spaghetti", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "stor håndfuld friske basilikumblade", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 20, "Unit": null, "Name": "cherrytomater", "PreparationNote": "skåret i både" },
+                { "Quantity": 0.5, "Unit": null, "Name": "squash", "PreparationNote": "groftrevet" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "chorizopølse", "PreparationNote": "finthakket" },
+                { "Quantity": 5, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørrede chiliflager", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "parmesan", "PreparationNote": "friskrevet til servering" },
+                { "Quantity": 1, "Unit": null, "Name": "håndfuld friske basilikumblade", "PreparationNote": "til anretning" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom alle ingredienserne i en stor gryde. Kog retten op, rør godt rundt i gryden og skru ned for varmen. Lad det simrekoge i 10 minutter, til spaghettien er perfekt kogt al dente med lidt bid i. Server med revet parmesan og basilikum.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/239. One pot pasta - min klassiske udgave.jpg",
+    "Source": null,
+    "Keywords": ["Pasta", "One Pot", "Chorizo", "Hverdagsmad"]
+}

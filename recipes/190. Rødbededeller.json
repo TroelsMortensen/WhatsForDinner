@@ -1,0 +1,30 @@
+{
+    "Id": 190,
+    "Title": "Rødbededeller",
+    "SubHeader": "Ovnbagte rødbededeller med havregryn, dijonsennep og kapers.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "rødbeder", "PreparationNote": "groftrevne" },
+                { "Quantity": 50, "Unit": "g", "Name": "gulerødder", "PreparationNote": "fintrevne" },
+                { "Quantity": 50, "Unit": "g", "Name": "havregryn", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "dijonsennep", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "kapers", "PreparationNote": "finthakkede" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til pensling" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom de revne rødbeder og gulerødder i en sigte, og pres overskydende saft fra. Kom grøntsagerne i en skål.</p><p>Tilsæt havregryn, rødløg, hvidløg, æg, dijonsennep og kapers. Krydr med salt og friskkværnet peber, og rør farsen godt sammen.</p><p>Lad farsen trække i 30 minutter på køl.</p><p>Form 8 deller og læg dem på en bageplade med bagepapir. Pensl med olie og bag dem i en forvarmet ovn ved 190 grader varmluft i ca. 25 minutter. Vend dem, når halvdelen af tiden er gået.</p>",
+    "Note": "Den overskydende saft fra grøntsagerne kan drikkes som en sund juice. Dellerne er især gode i vegetarburgere eller som grønt alternativ til klassisk parisertoast.",
+    "ImageUrl": "images/recipe-images/190. Rødbededeller.jpg",
+    "Source": "Valdemarsro - Grøn aftensmad",
+    "Keywords": ["Vegetar", "Rødbede", "Ovnbagt", "Deller"]
+}

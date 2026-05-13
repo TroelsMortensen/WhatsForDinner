@@ -1,0 +1,27 @@
+{
+    "Id": 202,
+    "Title": "Tortilla-pizza",
+    "SubHeader": "En hverdagsredning og perfekt til de lynhurtige måltider og børnenes egne køkkendage. Varier endelig med topping frit inspireret af din egen favorit.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 125, "Unit": "g", "Name": "frisk mozzarella", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "tortillapandekager", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "tomatpure", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "parmesan", "PreparationNote": "friskrevet" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soltørrede tomater", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "portion", "Name": "pesto", "PreparationNote": "se side 326-327" },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "rucola", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Hæld væden fra den friske mozzarella, og dup den godt med et stykke køkkenrulle.</p><p>Kom tortillapandekagerne på to bageplader med bagepapir. Fordel tomatpureen på tortillapandekagerne, og drys derefter parmesan og frisk mozzarella revet i mindre stykker over. Fordel de finthakkede soltørrede tomater ovenpå.</p><p>Varm ovnen op til 180 grader varmluft, og bag tortillaerne i 10 minutter, til de er sprøde, og osten er smeltet.</p><p>Kom pesto og rucola over inden servering.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/202. Tortilla-pizza.jpg",
+    "Source": "Varme retter - året rundt",
+    "Keywords": ["Vegetar", "Pizza", "Tortilla", "Hurtig mad", "Børnevenlig"]
+}

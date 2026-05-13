@@ -1,0 +1,37 @@
+{
+    "Id": 179,
+    "Title": "Stegte ris med kylling",
+    "SubHeader": "Hurtig hverdagsret med stegte ris, kylling, grøntsager, æg og fiskesauce.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingestrimler", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "gulerødder", "PreparationNote": "i tynde stænger" },
+                { "Quantity": 1, "Unit": null, "Name": "peberfrugt", "PreparationNote": "i tynde stænger" },
+                { "Quantity": 1, "Unit": "bdt", "Name": "forårsløg", "PreparationNote": "i små stykker" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "fiskesauce", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Vi tror, at du har",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "soya", "PreparationNote": "til tilsmagning" },
+                { "Quantity": 1, "Unit": null, "Name": "bouillonterning", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Kog risene efter anvisningerne på pakken, med en bouillonterning i vandet.</p><p>Skær gulerødderne og peberfrugten i tynde stænger, og skær ligeledes forårsløg i små stykker.</p><h3>Stegning</h3><p>Steg kyllingen kort ved høj varme, til den er gylden.</p><p>Tilsæt hvidløg på panden, og lad det stege lidt. Tilsæt derefter de kogte ris og grøntsagerne.</p><p>Tilsæt soya, fiskesauce, salt og peber.</p><h3>Æg og servering</h3><p>Pisk æggene sammen i en skål, og tilsæt dem derefter til panden. Rør rundt, indtil æggene har sat sig.</p><p>Smag til med salt, peber og soya.</p><p>Velbekomme!</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/179. Stegte ris med kylling.jpg",
+    "Source": "https://www.foetex.dk/stegte-ris-kylling/",
+    "Keywords": ["Kylling", "Ris", "Hurtig mad", "Asiatisk"]
+}

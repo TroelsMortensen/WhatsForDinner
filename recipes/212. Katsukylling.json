@@ -1,0 +1,53 @@
+{
+    "Id": 212,
+    "Title": "Katsukylling",
+    "SubHeader": null,
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 45,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Karrysauce",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "karry", "PreparationNote": "medium" },
+                { "Quantity": 300, "Unit": "g", "Name": "squash", "PreparationNote": "i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": "i tern" },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": "finthakkede" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": null, "Name": "æble", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "ml", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sprød kylling",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "pankorasp", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "sesamolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "spidskål", "PreparationNote": "fintstrimlet" },
+                { "Quantity": 2, "Unit": null, "Name": "forårsløg", "PreparationNote": "finsnittet" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Karrysauce</h2><p>Rist karryen i en tør gryde, til det dufter dejligt. Tilsæt olie, squash, gulerødder, løg, hvidløg, æble og gurkemeje og rør det godt sammen i et par minutter i gryden.</p><p>Tilsæt kokosmælk og rør rundt. Læg låg på og lad det simre i ca. 15 minutter, til gulerødderne er møre. Blend saucen, til den er helt cremet. Juster evt. konsistensen med hønsebouillon og smag godt til med salt og peber. Kog risene efter anvisning på pakken.</p><h2>Sprød kylling</h2><p>Bank kyllingebrystfileterne lidt flade. Det sikrer en kortere stegning, så kødet fortsat er saftigt, uden at paneringen bliver for mørk. Pisk æg i en dyb tallerken og kom pankorasp i en anden dyb tallerken. Vend kyllingefileterne med hvedemel, salt og peber. Vend dem derefter i sammenpisket æg og til sidst i tallerkenen med pankorasp.</p><p>Varm en pande op med olie og steg kyllingefileterne ved middelvarme i ca. 6 minutter på hver side, til de er sprøde og gyldne. Tjek, at de er gennemstegte.</p><p>Kom den fintstrimlede spidskål i en skål med et nip salt og masser den med hænderne i et minuts tid, for at gøre kålen mør og lækker. Server din katsukylling med ris, spidskål, finsnittet forårsløg og et drys sesamfrø og chiliflager.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/212. Katsukylling.jpg",
+    "Source": "Valdemarsro - nem aftensmad",
+    "Keywords": ["Kylling", "Asiatisk", "Karry", "Ris", "Hverdagsmad"]
+}
