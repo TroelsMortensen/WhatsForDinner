@@ -1,0 +1,35 @@
+{
+    "Id": 248,
+    "Title": "Linguine med kikærter og tomatsauce",
+    "SubHeader": "Linguine med kikærter, spinat og tomatsauce – serveret med revet parmesan.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Sauce",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "ekstra jomfruolivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "knust" },
+                { "Quantity": 1, "Unit": "stængel", "Name": "bladselleri", "PreparationNote": "snittet" },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede dåsetomater", "PreparationNote": null },
+                { "Quantity": 175, "Unit": "g", "Name": "babyspinatblade", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kikærter", "PreparationNote": "på dåse, drænet og skyllet" },
+                { "Quantity": 350, "Unit": "g", "Name": "linguine", "PreparationNote": null },
+                { "Quantity": 10, "Unit": null, "Name": "basilikumblade", "PreparationNote": "iturevet" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 50, "Unit": "g", "Name": "parmesan", "PreparationNote": "revet" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Opvarm olien i en stor gryde, tilsæt løg, hvidløg og selleri, og steg i 3-4 minutter, til det er blødt. Tilsæt tomaterne, og bring i kog. Skru ned for varmen, og lad retten simre i 10 minutter. Rør spinat og kikærter i, og lad retten simre videre, til spinaten er faldet sammen.</p><p>Kog imens pastaen al dente i en gryde med saltet vand i 6-8 minutter eller efter anvisningerne på pakken. Hæld vandet fra, tilsæt tomatsaucen med basilikumbladene, og vend sammen.</p><p>Server med revet parmesan drysset over.</p><h2>Pastasalat med kikærter og tomater</h2><p>Kog 300 g farfalle al dente i en gryde med saltet vand i 7-8 minutter eller efter anvisningerne på pakken. Hæld vandet fra, skyl under den kolde hane, og hæld vandet fra igen. Kom pastaen i en skål, og vend den med 400 g drænede og skyllede dåsekikærter, 1 rødløg i tern, 4 hakkede tomater, 6 iturevne basilikumblade, 50 g rucola, 2 spsk. parmesanflager, 2 spsk. ekstra jomfruolivenolie og 1 spsk. balsamicoeddike. Smag til, og server.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/248. Linguine med kikærter og tomatsauce.jpg",
+    "Source": null,
+    "Keywords": ["Pasta", "Vegetar", "Italiensk", "Hverdagsmad"]
+}

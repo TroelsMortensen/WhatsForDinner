@@ -1,0 +1,45 @@
+{
+    "Id": 246,
+    "Title": "Stærke kalkunbøffer med peberfrugtsalsa",
+    "SubHeader": "Krydrede kalkunbøffer med ingefær, chili og koriander – serveret med frisk peberfrugtsalsa på little gem-salat.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kalkunbøffer",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kalkunkød", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "skrællet og revet" },
+                { "Quantity": 4, "Unit": null, "Name": "forårsløg", "PreparationNote": "hakket fint" },
+                { "Quantity": 1, "Unit": null, "Name": "rød chili", "PreparationNote": "uden kerner og hakket fint" },
+                { "Quantity": 1, "Unit": null, "Name": "æggeblomme", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "korianderblade", "PreparationNote": "hakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "vegetabilsk olie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Peberfrugtsalsa",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "uden frøstol og frø, skåret i tern" },
+                { "Quantity": 100, "Unit": "g", "Name": "tomater", "PreparationNote": "skåret i tern" },
+                { "Quantity": 1, "Unit": null, "Name": "lille rødløg", "PreparationNote": "skåret i små tern" },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "persille", "PreparationNote": "hakket" },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "korianderblade", "PreparationNote": "hakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "rødvinseddike", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "ekstra jomfruolivenolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "little gem-salatblade", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Bland kalkunkød, ingefær, forårsløg, chili, æggeblomme og koriander. Fugt hænderne, og form farsen til 4 bøffer.</p><p>Opvarm den vegetabilske olie på en stegepande, og steg bøfferne i 5-6 minutter på hver side, til de er gyldne og gennemstegte.</p><p>Lav imens salsaen: Bland peberfrugt, tomater, løg, persille, koriander, eddike og ekstra jomfruolivenolie.</p><p>Server bøfferne på et leje af salatblade, og top med salsa.</p><h2>Kalkunsalat af rester</h2><p>Bland 3 fintsnittede skalotteløg med 1/4 tsk. salt, og lad det trække i 10 minutter. Pisk saft af 1 lime med 2 spsk. økologisk thaifiskesauce, 1 spsk. riseddike, 1 spsk. sukker, 2 knuste fed hvidløg og 1 rød chili i små tern. Vend 350 g tilberedt kalkunkød i strimler med 400 g fintsnittet kinakål, 1 stor, skrællet og revet gulerod, 100 g bønnespirer og en lille håndfuld henholdsvis mynte og basilikum i en stor skål. Vend skalotteløgene og dressingen i, og lad salaten trække i 5 minutter. Server med et drys af 50 g hakkede, ristede peanuts.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/246. Stærke kalkunbøffer med peberfrugtsalsa.jpg",
+    "Source": null,
+    "Keywords": ["Kalkun", "Hverdagsmad"]
+}
