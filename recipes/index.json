@@ -2320,5 +2320,60 @@
             "Hverdagsmad"
         ],
         "TotalMinutes": 30
+    },
+    {
+        "Id": 244,
+        "Title": "Oksekøds- og linsegryde",
+        "Keywords": [
+            "Oksekød",
+            "Gryderet",
+            "Linser",
+            "Bønner",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 25
+    },
+    {
+        "Id": 245,
+        "Title": "Grøn thaicurry med kylling",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Thailandsk",
+            "Curry",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 246,
+        "Title": "Stærke kalkunbøffer med peberfrugtsalsa",
+        "Keywords": [
+            "Kalkun",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 247,
+        "Title": "Kyllinge- og spinatgryde",
+        "Keywords": [
+            "Kylling",
+            "Gryderet",
+            "Linser",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 248,
+        "Title": "Linguine med kikærter og tomatsauce",
+        "Keywords": [
+            "Pasta",
+            "Vegetar",
+            "Italiensk",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
     }
 ]

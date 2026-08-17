@@ -1,0 +1,38 @@
+{
+    "Id": 247,
+    "Title": "Kyllinge- og spinatgryde",
+    "SubHeader": "Krydret gryderet med kyllingelår, linser, cherrytomater og spinat – server med couscous eller ris.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 625, "Unit": "g", "Name": "kyllingelår", "PreparationNote": "uden skind og ben, snittet fint" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt ingefær", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "ekstra jomfruolivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 800, "Unit": "g", "Name": "cherrytomater", "PreparationNote": "på dåse" },
+                { "Quantity": 50, "Unit": "g", "Name": "rosiner", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "brune eller grønne linser", "PreparationNote": "på dåse, drænet og skyllet" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "revet citronskal", "PreparationNote": "af økologisk citron" },
+                { "Quantity": 150, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "friskhakket persille", "PreparationNote": "til pynt (valgfrit)" },
+                { "Quantity": null, "Unit": null, "Name": "dampet couscous eller ris", "PreparationNote": "valgfrit" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Bland kyllingen med de stødte krydderier, til den er helt dækket. Opvarm olien i en stor gryde, kom kyllingen i, og steg den i 2-3 minutter, til den er lysebrun.</p><p>Tilsæt tomatpuré, tomater, rosiner, linser og citronskal, krydr med salt og peber, og lad retten simre i cirka 12 minutter, til den er blevet lidt tykkere, og kyllingen er tilberedt.</p><p>Tilsæt spinat, og rør, til den er faldet sammen. Kom retten i skåle, drys med persille (valgfrit), og server med dampet couscous eller ris (valgfrit).</p><h2>Hurtig spinat- og brøndkarsesuppe</h2><p>Smelt 25 g smør i en stor gryde, og svits 1 hakket fed hvidløg og 2 hakkede forårsløg ved middel varme i 2-3 minutter. Tilsæt 175 g kogte, pillede nye kartofler og 1 liter varm grøntsagsbouillon. Bring i kog, tilsæt 150 g brøndkarse og 200 g hakkede spinatblade. Opvarm i 1-2 minutter, og blend dernæst suppen jævn. Smag til, og tilsæt et nip stødt muskat. Øs suppen i skåle, og top hver portion med cremefraiche og et drys stødt muskat.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/247. Kyllinge- og spinatgryde.jpg",
+    "Source": null,
+    "Keywords": ["Kylling", "Gryderet", "Linser", "Hverdagsmad"]
+}

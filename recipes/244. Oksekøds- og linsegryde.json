@@ -1,0 +1,40 @@
+{
+    "Id": 244,
+    "Title": "Oksekøds- og linsegryde",
+    "SubHeader": "Krydret gryderet med hakket oksekød, grønne linser og kidneybønner i tomatsauce – server med ris.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "ekstra jomfruolivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "stort løg", "PreparationNote": "skåret i tern" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "knust" },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": "uden frøstol og frø, skåret i tern" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "grønne linser", "PreparationNote": "på dåse, drænet og skyllet" },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakkede dåsetomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kidneybønner", "PreparationNote": "på dåse, drænet og skyllet" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "kogte, langkornede ris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Opvarm olien i en gryde, tilsæt løg, og svits i 1 minut. Tilsæt hvidløg og peberfrugt, og steg i 1 minut. Rør krydderierne i. Tilsæt oksekød, og steg i 4 minutter, til det er brunet – rør rundt en gang imellem.</p><p>Rør linserne i sammen med den afmålte mængde vand, tomater, sukker og tomatpuré. Bring i kog, og lad retten simre i 10-12 minutter. Rør kidneybønner i, og kog videre i 2 minutter, til de er blevet varme. Server retten med kogte ris.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/244. Oksekøds- og linsegryde.jpg",
+    "Source": null,
+    "Keywords": ["Oksekød", "Gryderet", "Linser", "Bønner", "Hverdagsmad"]
+}
