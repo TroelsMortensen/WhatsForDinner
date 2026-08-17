@@ -2320,5 +2320,29 @@
             "Hverdagsmad"
         ],
         "TotalMinutes": 30
+    },
+    {
+        "Id": 244,
+        "Title": "Oksekøds- og linsegryde",
+        "Keywords": [
+            "Oksekød",
+            "Gryderet",
+            "Linser",
+            "Bønner",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 25
+    },
+    {
+        "Id": 245,
+        "Title": "Grøn thaicurry med kylling",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Thailandsk",
+            "Curry",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
     }
 ]

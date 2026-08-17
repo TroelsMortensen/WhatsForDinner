@@ -1,0 +1,55 @@
+{
+    "Id": 245,
+    "Title": "Grøn thaicurry med kylling",
+    "SubHeader": "Cremet grøn thaicurry med kyllingelår, aubergine og grønne bønner – server med jasminris.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 40,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Curry",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "ml", "Name": "økologisk kokosmælk", "PreparationNote": "på dåse" },
+                { "Quantity": 100, "Unit": "g", "Name": "hakket koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "vegetabilsk olie", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "grøn thaicurrypasta", "PreparationNote": "se nedenfor" },
+                { "Quantity": 2, "Unit": null, "Name": "grønne chilier", "PreparationNote": "uden kerner, hakket fint" },
+                { "Quantity": 800, "Unit": "g", "Name": "kyllingelår", "PreparationNote": "uden ben og skind, skåret i mundrette stykker" },
+                { "Quantity": 2, "Unit": "dl", "Name": "varm hønsebouillon", "PreparationNote": null },
+                { "Quantity": 6, "Unit": null, "Name": "kaffirlimeblade", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "økologisk thaifiskesauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "palmesukker eller sukker", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "små thaiauberginer", "PreparationNote": "halveret, hvis store, eller skåret i 1,5 cm store tern" },
+                { "Quantity": 100, "Unit": "g", "Name": "grønne bønner", "PreparationNote": "trimmet" },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "saften" }
+            ]
+        },
+        {
+            "Title": "Grøn thaicurrypasta",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "lange grønne chilier", "PreparationNote": "4-6 stk., hakkede" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "citrongræsstilke", "PreparationNote": "hakkede" },
+                { "Quantity": 4, "Unit": null, "Name": "skalotteløg", "PreparationNote": "finthakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "galangarod eller frisk ingefær", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "kaffirlimeblade", "PreparationNote": "finthakkede" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "hvide peberkorn", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "vegetabilsk olie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "strimler af rød chili", "PreparationNote": "til pynt" },
+                { "Quantity": null, "Unit": null, "Name": "dampede jasminris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kom kokosmælk og koriander i en foodprocessor eller en blender, og blend, til det er blandet godt. Si blandingen fint ned i en kande, og kassér korianderen.</p><p>Opvarm olien i en stor wok eller en tykbundet gryde, til den er varm, og tilsæt currypastaen og de grønne chilier. Steg ved høj varme i 2-3 minutter. Tilsæt kyllingen, og steg i yderligere 5-6 minutter, eller til kødet er lysebrunt.</p><p>Tilsæt kokosmælkblandingen, bouillon, kaffirlimeblade, fiskesauce, sukker og aubergine, skru ned for varmen, og lad retten simre uden låg i 10-15 minutter, til kyllingen er tilberedt – rør rundt en gang imellem. Tilsæt de grønne bønner, og lad retten simre i 2-3 minutter mere, eller til bønnerne er møre.</p><p>Tag wokken af varmen, og rør limesaft i. Øs retten i varme skåle, drys med strimler af rød chili, og server med jasminris.</p><h3>Grøn thaicurrypasta</h3><p>Blend alle ingredienserne til pastaen til en jævn pasta i en foodprocessor eller en blender.</p>",
+    "Note": "Opbevar pastaen på køl i en lufttæt beholder i op til 1 måned.",
+    "ImageUrl": "images/recipe-images/245. Grøn thaicurry med kylling.jpg",
+    "Source": null,
+    "Keywords": ["Kylling", "Asiatisk", "Thailandsk", "Curry", "Hverdagsmad"]
+}
