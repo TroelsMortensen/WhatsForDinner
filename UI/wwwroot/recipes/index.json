@@ -2375,5 +2375,16 @@
             "Hverdagsmad"
         ],
         "TotalMinutes": 20
+    },
+    {
+        "Id": 249,
+        "Title": "Gullasch-inspireret kyllingepande",
+        "Keywords": [
+            "Kylling",
+            "Gryderet",
+            "Paprika",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
     }
 ]
