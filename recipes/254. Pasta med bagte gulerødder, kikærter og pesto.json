@@ -1,0 +1,42 @@
+{
+    "Id": 254,
+    "Title": "Pasta med bagte gulerødder, kikærter og pesto",
+    "SubHeader": "Her er masser af smag. Pestoen er lavet med basilikum, gulerødderne er bagt med olivenolie og oregano, og kikærterne har fået en omgang hvidløgspulver og paprika.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Retten",
+            "Ingredients": [
+                {"Quantity": 6, "Unit": null, "Name": "gulerødder", "PreparationNote": "mellemstore, i skiver"},
+                {"Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null},
+                {"Quantity": 2, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null},
+                {"Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "ds", "Name": "kikærter", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "tsk", "Name": "hvidløgspulver", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": null},
+                {"Quantity": 400, "Unit": "g", "Name": "pasta", "PreparationNote": "penne eller skruer"},
+                {"Quantity": 100, "Unit": "g", "Name": "frisk spinat", "PreparationNote": null},
+                {"Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": null},
+                {"Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null}
+            ]
+        },
+        {
+            "Title": "Basilikumpesto",
+            "Ingredients": [
+                {"Quantity": 30, "Unit": "g", "Name": "pinjekerner", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "dl", "Name": "olivenolie", "PreparationNote": null},
+                {"Quantity": 30, "Unit": "g", "Name": "basilikumblade", "PreparationNote": null},
+                {"Quantity": 40, "Unit": "g", "Name": "parmesan", "PreparationNote": null},
+                {"Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": null},
+                {"Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null}
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 200 °C varmluft, og læg et stykke bagepapir på en bageplade.</p><p>Skyl gulerødderne, skær dem i skiver, og kom dem i en skål. Vend dem med lidt olivenolie, oregano og salt, og fordel dem på halvdelen af bagepladen.</p><p>Skyl kikærterne i en sigte, lad dem dryppe af, og kom dem i skålen. Vend kikærterne med hvidløgspulver, paprika og salt. Fordel dem på den anden halvdel af bagepladen.</p><p>Bag gulerødder og kikærter i ca. 20 minutter.</p><p>Kog imens pastaen som anvist på pakken. Dryp dem af i et dørslag, når de er møre.</p><h3>Basilikumpesto</h3><p>Lav basilikumpestoen imens. Rist pinjekerner let på en varm pande.</p><p>Hæld olivenolien i din blender, pluk bladene af basilikumplanten, skyl dem, og kom dem ned til olien. Tilsæt også de ristede pinjekerner. Blend pestoen. Riv parmesan, og kom den i sammen med 1 spsk. citronsaft og et lille nip salt. Blend hurtigt igen, til den har den konsistens, du ønsker.</p><p>Skyl spinat, og afdryp den.</p><p>Anret pasta, frisk spinat, bagte gulerødder, kikærter og basilikumpesto i en skål eller på et fad. Dryp lidt friskpresset citronsaft over. Krydr også med friskkværnet peber.</p><p>Server pastasalaten med et stykke brød til.</p>",
+    "Note": "Pasta med bagte gulerødder kan du servere, som den er, men du kan også komme stykker af mozzarella i. Hvis du ikke har tid til at lave din egen pesto, kan du bare købe en god færdiglavet.",
+    "ImageUrl": "images/recipe-images/254. Pasta med bagte gulerødder, kikærter og pesto.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Vegetar", "Pasta", "Gulerødder", "Kikærter", "Pesto", "Hverdagsmad"]
+}

@@ -1,0 +1,32 @@
+{
+    "Id": 260,
+    "Title": "Spinatgryde med kylling og karry",
+    "SubHeader": "Masser af spinat, kylling og karry. Kom det hele i en gryde, og så har du aftensmaden klar på 20 minutter.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 450, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "stort" },
+                { "Quantity": 2, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "frisk spinat", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingebrystfileterne i grove tern, og brun dem godt af i lidt olie i en stegegryde.</p><p>Pil imens løget, og skær det i skiver. Skær bunden af forårsløg, skyl dem, og skær dem i 1 cm tykke skiver.</p><p>Når kyllingekødet har fået lidt farve, kommer du forårsløg og rødløg ved. Svits et par minutter.</p><p>Tilsæt karry og spidskommen.</p><p>Hæld vand ved, og smuldr bouillonterningen i.</p><p>Tilsæt piskefløde, og lad det simre i 10 minutter under låg.</p><p>Skyl spinaten, og tilsæt den en håndfuld ad gangen, indtil den er faldet sammen i retten.</p><p>Lad spinatgryden simre et par minutter, og smag så til med salt og peber og evt. citronsaft og lidt mere karry.</p><p>Server med ris og evt. minigrovflutes til retten.</p>",
+    "Note": "Husk altid at smage din mad til, inden du serverer den. Dels kan saltindholdet i bouillon variere en del, dels er smag og behag jo forskellig. Nogle kan lide det stærkt, andre kan lide det mildere. Det er tit en god ide at smage mad til med citron, eventuelt i kombination med lidt sukker, fordi det fremhæver de andre smage.",
+    "ImageUrl": "images/recipe-images/260. Spinatgryde med kylling og karry.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Gryderet", "Karry", "Spinat", "Hverdagsmad", "One-pot"]
+}

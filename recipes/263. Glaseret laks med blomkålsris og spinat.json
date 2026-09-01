@@ -1,0 +1,59 @@
+{
+    "Id": 263,
+    "Title": "Glaseret laks med blomkålsris og spinat",
+    "SubHeader": "Her har vi glaseret laksen med soja og honning og serveret den med sauteret spinat og blomkålsris, der er stegt i lidt olie og karry.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Laks",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "laksebøffer", "PreparationNote": "ca. 150 g pr. stk." },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Blomkålsris med karry",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "blomkål", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Glasering",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "honning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": "saft" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "vand", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sauteret spinat",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "frisk spinat", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til pynt",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "saltede peanuts", "PreparationNote": "½-1 dl, hakkede" },
+                { "Quantity": null, "Unit": null, "Name": "dild", "PreparationNote": "lidt" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Start med at klargøre blomkål til blomkålsris. Skyl blomkålen, og riv den groft på et rivejern. Du skal bruge omkring 300 g, men du kan sagtens lave lidt mere, hvis I er meget sultne. Kom lidt olie på en pande, og steg blomkålsris i ca. 6-7 minutter sammen med karry, salt og friskkværnet peber. Vend det rundt nogle gange, og stil det til side.</p><p>Imens du steger blomkålsris, steger du også laksebøffer på en varm pande i lidt olie. Steg dem først på skindsiden i ca. 3 minutter og derefter et minuts tid på oversiden. Laksen skal ikke være helt gennemstegt, da den skal i glaseringen til sidst. Krydr med salt og friskkværnet peber, og sæt til side.</p><p>Lav nu glaseringen. Pil hvidløgsfeddene, og hak dem fint. Vask panden af, og stil den tilbage på kogepladen ved middel varme. Kom smør på, og når det er bruset af, kommer du hvidløg på panden. Lad det sautere et minuts tid uden at tage farve. Kom soja, honning og sød chilisauce i sammen med saften af en lime og vand. Lad det koge et par minutter. Tilsæt lidt mere vand, hvis det er ved at koge tørt.</p><p>Skyl spinaten, og afdryp. Pil hvidløg, og hak det fint. Sauter spinaten i lidt olie sammen med hvidløg, indtil spinaten falder sammen. Krydr med salt og friskkværnet peber, og stil det til side.</p><p>Nu skal du glasere laksen. Tag evt. skindet af laksen. Det er nemt at trække af. Men husk, hvis du gør det, at behandle laksestykkerne forsigtigt, da de nemt går i stykker uden skind. Læg laksebøfferne ned i glaseringen på panden. Varm nu laksen igennem i glaseringen på overside, vend forsigtigt, og gentag. Dryp undervejs glasering op over laksen.</p><p>Anret retten ved at lægge blomkålsris på bunden af fire lune tallerkener. Læg spinat ovenpå, og top med glaseret laks, hvor du drypper lidt glasering over fisken. Drys med lidt hakkede peanuts, og slut med lidt dild. Server retten straks og gerne med et lækkert stykke ciabattabrød til.</p>",
+    "Note": "Du kan eventuelt købe en hel side laks, som du skærer ud i passende bøffer. Vi plejer at lave dem på omkring 150 g stykket. Husk i øvrigt at fjerne eventuelle ben fra laksestykkerne.",
+    "ImageUrl": "images/recipe-images/263. Glaseret laks med blomkålsris og spinat.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Laks", "Blomkålsris", "Spinat", "Fisk", "Karry", "Hverdagsmad"]
+}

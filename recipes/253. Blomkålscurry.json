@@ -1,0 +1,40 @@
+{
+    "Id": 253,
+    "Title": "Blomkålscurry",
+    "SubHeader": "Curry-retter er kendt for deres varme krydderier. Denne ret er ikke stærk, men har masser af dejlig varme.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "cm", "Name": "ingefær", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie til stegning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "grønne linser", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lille blomkål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "lime", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "kogte ris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil hvidløg, og hak det fint. Skær bunden af forårsløgene, skyl dem, og skær dem i 1 centimeter tykke skiver. Skræl ingefæren, og riv den.</p><p>Sauter forårsløg og hvidløg i en god sjat olie ved middel varme. Tilsæt ingefær, karry, gurkemeje, garam masala og spidskommen. Lad det svitse et par minutter.</p><p>Skyl de grønne linser grundigt i en sigte under den kolde hane, og kom linserne i sammen med hakkede tomater og kokosmælk. Læg låg på, og lad retten simre i ca. 20 minutter.</p><p>Skær blomkål ud i mindre buketter, og kom dem i, når det har simret i de 20 minutter. Lad det simre i yderligere 10 minutter.</p><p>Smag blomkålscurryen til med limesaft, salt og friskkværnet peber, og server curryen med kogte ris.</p>",
+    "Note": "Tilføj lidt kanel og kardemomme sammen med de øvrige krydderier, hvis du vil have lidt mere varme til curryen. Du kan også vende frisk babyspinat og/eller koriander i din blomkålscurry, lige inden du serverer den.",
+    "ImageUrl": "images/recipe-images/253. Blomkålscurry.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Vegetar", "Karry", "Blomkål", "Linser", "Hverdagsmad"]
+}

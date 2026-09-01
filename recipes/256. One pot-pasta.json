@@ -1,0 +1,33 @@
+{
+    "Id": 256,
+    "Title": "One pot-pasta",
+    "SubHeader": "One pot-pasta er en genial ret, fordi du koger pastaen sammen med de øvrige ingredienser. Det gør det nemmere at lave en god pasta med kødsovs og giver utrolig meget smag.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "One pot-pasta",
+            "Ingredients": [
+                {"Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": null},
+                {"Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null},
+                {"Quantity": 3, "Unit": null, "Name": "gulerødder", "PreparationNote": null},
+                {"Quantity": 400, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null},
+                {"Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning"},
+                {"Quantity": 1, "Unit": "spsk", "Name": "balsamico", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "tsk", "Name": "tørret basilikum", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null},
+                {"Quantity": 6, "Unit": "dl", "Name": "vand", "PreparationNote": null},
+                {"Quantity": 1, "Unit": null, "Name": "bouillonterning", "PreparationNote": null},
+                {"Quantity": 300, "Unit": "g", "Name": "tørret pasta", "PreparationNote": null},
+                {"Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null}
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil løg og hvidløg, og hak dem fint.</p><p>Skyl gulerødderne, og skær dem i små tern.</p><p>Varm en stor gryde op med lidt olie, og brun kødet grundigt.</p><p>Tilsæt løg, hvidløg og gulerødder, og svits et par minutter.</p><p>Tilsæt balsamico, basilikum og oregano, og lad det stege videre et par minutter.</p><p>Tilsæt hakkede tomater, vand og bouillonterning.</p><p>Kog op, og lad det koge i fem minutter.</p><p>Tilsæt tørret pasta, og kog nu retten under låg, indtil pastaen er næsten mør, men stadig har bid. Kogetiden afhænger af, hvilken pastatype du har valgt. Se evt. på pakken.</p><p>Smag til med salt og peber.</p><p>Server one pot-pasta med hjemmebagt focaccia.</p>",
+    "Note": "Husk at brune det hakkede oksekød godt af. Det er nemlig i stegningen, at det frigiver smagen. Kødet skal ikke blot skifte farve, men stege. Kom derfor ikke for meget kød i ad gangen, og lad det ligge, indtil det har dannet stegeskorpe, før du rører rundt. På den måde undgår du også, at det koger.",
+    "ImageUrl": "images/recipe-images/256. One pot-pasta.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Pasta", "One Pot", "Oksekød", "Kødsovs", "Hverdagsmad"]
+}

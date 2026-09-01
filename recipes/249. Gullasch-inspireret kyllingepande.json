@@ -1,0 +1,38 @@
+{
+    "Id": 249,
+    "Title": "Gullasch-inspireret kyllingepande",
+    "SubHeader": "Denne ret er inspireret af ungarsk gullasch, men lavet med kylling, masser af paprika og peberfrugt. Server den med ris eller kartoffelmos.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Pande",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "champignon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie til stegning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "madlavningsfløde", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "persille", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris eller kartoffelmos", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil løg og hvidløg, og hak dem fint. Skær roden af champignonerne, børst dem rene for jord, og skær dem i kvarte. Skyl peberfrugten, og skær den i mindre tern. Svits champignon på en varm pande uden fedtstof, og læg dem derefter til side.</p><p>Steg kyllingebrystfileterne møre i lidt olie på panden, og krydr med lidt paprika, salt og friskkværnet peber. Steg dem ca. fem minutter på hver side, og læg dem derefter til side.</p><p>Sauter løgene i lidt olie ved middel varme. Tilsæt peberfrugt, og lad dem sautere med et par minutter. Tilsæt resten af paprika og spidskommen.</p><p>Del kyllingebrystfileterne på langs, og skær dem i mundrette stykker på tværs, så du får 8-10 stykker kød af hvert kyllingebryst. Kom dem på panden sammen med de ristede champignoner. Tilsæt hakkede tomater og madlavningsfløde, og lad det koge op.</p><p>Skru ned for varmen, og lad retten simre i ca. 10 minutter. Smag til med salt, peber og eventuelt lidt mere paprika. Skyl persille, hak den og vend den i retten. Server med ris eller kartoffelmos.</p>",
+    "Note": "Vi har valgt at bruge madlavningsfløde med lidt lavere fedtprocent end almindelig fløde i denne opskrift for at holde kalorieindholdet lidt nede i retten. Det kan du ofte gøre i varme retter og på den måde spare på fedtet.",
+    "ImageUrl": "images/recipe-images/249. Gullasch-inspireret kyllingepande.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Gryderet", "Paprika", "Hverdagsmad"]
+}

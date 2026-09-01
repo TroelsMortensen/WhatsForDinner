@@ -1,0 +1,35 @@
+{
+    "Id": 261,
+    "Title": "Kylling stroganoff",
+    "SubHeader": "Kylling stroganoff er en lettere variant af den klassiske bøf stroganoff med kylling, champignon og lækker sovs.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "g", "Name": "kyllingeinderfilet eller kyllingebryst", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pakke", "Name": "bacon", "PreparationNote": "i skiver" },
+                { "Quantity": 1, "Unit": null, "Name": "løg", "PreparationNote": "stort" },
+                { "Quantity": 200, "Unit": "g", "Name": "champignon", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "rosmarin", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": 3, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "sennep", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingekødet i mindre stykker. Hvis du bruger inderfilet, så fjern den hvide sene.</p><p>Skær bacon i mindre stykker.</p><p>Pil løget, og hak det fint. Skær roden af champignonerne, børst dem fri for jord, og skær dem i skiver eller hak dem groft.</p><p>Hak rosmarin groft.</p><p>Brun kyllingekødet i lidt smør i en varm gryde, og tag det op.</p><p>Kom baconstykkerne i gryden, og steg dem i et minuts tid.</p><p>Tilsæt champignonerne, og lad dem stege lidt mere, inden du tilsætter løg og rosmarin.</p><p>Svits 2 min.</p><p>Tilsæt paprika, timian, sennep, vand og bouillonterning, og rør godt rundt.</p><p>Kom det brunede kyllingekød tilbage i gryden sammen med fløde, lidt citronsaft og sukker.</p><p>Lad gryderetten simre ca. 15 minutter under låg, og smag til med salt og peber.</p><p>Server kylling stroganoff med kogte ris og en lækker salat, for eksempel spidskålssalat med æble.</p>",
+    "Note": "Er du glad for kalkun, kan du sagtens lave retten med kalkunfilet i mindre tern. Du kan også servere kartoffelmos til i stedet for ris.",
+    "ImageUrl": "images/recipe-images/261. Kylling stroganoff.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Stroganoff", "Gryderet", "Champignon", "Bacon", "Hverdagsmad"]
+}

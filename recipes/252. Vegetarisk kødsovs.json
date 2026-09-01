@@ -1,0 +1,41 @@
+{
+    "Id": 252,
+    "Title": "Vegetarisk kødsovs",
+    "SubHeader": "Her har vi skiftet hakket oksekød ud med røde linser. Retten har stadig masser af smag og er lige så lækker som en god bolognese.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kødsovs",
+            "Ingredients": [
+                {"Quantity": 1, "Unit": null, "Name": "skalotteløg", "PreparationNote": null},
+                {"Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null},
+                {"Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning"},
+                {"Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": null},
+                {"Quantity": 2, "Unit": "stængler", "Name": "bladselleri", "PreparationNote": null},
+                {"Quantity": 200, "Unit": "g", "Name": "røde linser", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null},
+                {"Quantity": 2, "Unit": "spsk", "Name": "tomatpasta", "PreparationNote": null},
+                {"Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null},
+                {"Quantity": 2, "Unit": null, "Name": "grøntsagsbouillonterninger", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null},
+                {"Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "håndfuld", "Name": "persille", "PreparationNote": null},
+                {"Quantity": 1, "Unit": "håndfuld", "Name": "basilikum", "PreparationNote": null}
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {"Quantity": 500, "Unit": "g", "Name": "pasta", "PreparationNote": "pastaskruer, pastarør, makaroni eller lignende"}
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil løg, og hak det groft. Pil hvidløgsfed, og skær dem i tynde skiver. Skær bunden af forårsløgene, skyl dem, og skær dem i tynde skiver.</p><p>Varm en stegegryde op ved middel varme, og kom en god sjat olivenolie i. Tilsæt løg, hvidløg og forårsløg, og lad dem sautere et minuts tid ved middel varme, uden at de tager farve.</p><p>Skyl gulerødder og bladselleri, og skær begge dele i små tern. Kom dem i gryden, og sauter 1-2 minutter.</p><p>Skyl de røde linser i en sigte, lad dem dryppe af, og kom dem i gryden med grøntsagerne. Rør rundt. Tilsæt hakkede tomater, tomatpasta, vand, bouillonterninger og oregano.</p><p>Lad sovsen koge op, skru så ned for varmen igen, rør rundt, og læg låg på. Lad sovsen simre i 20 minutter, rør nogle gange undervejs. Smag til med salt og friskkværnet peber.</p><p>Kog imens pastaen som anvist på pakken.</p><p>Skyl persille, og hak den fint. Pluk bladene af basilikumstilkene, og vend dem i sovsen sammen med persille lige inden servering.</p><p>Server vegetarkødsovsen med pasta og et stykke ciabattabrød.</p>",
+    "Note": "Hvis du vil have mere smag, så tilsæt et par spiseskefulde engelsk sauce. Det giver en endnu mere fyldig smag. Du kan i øvrigt med fordel lave en dobbelt portion og fryse den ene halvdel ned til senere.",
+    "ImageUrl": "images/recipe-images/252. Vegetarisk kødsovs.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Vegetar", "Pasta", "Linser", "Bolognese", "Hverdagsmad"]
+}

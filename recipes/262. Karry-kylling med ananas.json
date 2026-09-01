@@ -1,0 +1,34 @@
+{
+    "Id": 262,
+    "Title": "Karry-kylling med ananas",
+    "SubHeader": "Lækker og mør kylling! Den er først banket og derefter vendt i mel og karry og brunet i lidt smør, inden den kommer i ovnen med grøntsager, lidt ananassaft og fløde.",
+    "TotalMinutes": 55,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Fad",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": null, "Name": "kyllingebrystfileter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "skiver", "Name": "ananas", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "champignon", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "hønsebouillonterninger", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "ananassaft", "PreparationNote": "fra ananasdåsen" },
+                { "Quantity": 2, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "karry", "PreparationNote": "lidt ekstra til smag" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 195 °C varmluft.</p><p>Del hvert stykke kyllingebryst på midten på den lange side, så du har 6 stykker kylling.</p><p>Læg et stykke ad gangen mellem to fryseposer på et skærebræt, og bank dem flade – uden at smadre dem.</p><p>Bland hvedemel og karry i en tallerken, og vend kyllingestykkerne i det.</p><p>Smelt en god klat smør på en varm pande, og brun hurtigt kyllingestykkerne på hver side, så de får lidt farve.</p><p>Krydr med salt og peber, og læg dem i et ildfast fad.</p><p>Svits nu ananasskiverne på panden, og læg dem oven på kødet.</p><p>Pil løg, og hak det fint. Skyl peberfrugten, og skær den i tynde strimler. Skær roden af champignon, børst jorden af, og skær dem i skiver.</p><p>Svits grøntsagerne på panden, og hæld dem i fadet.</p><p>Kog panden af med vand og bouillonterninger. Tilsæt ananassaft og fløde, og lad det koge op.</p><p>Smag til med karry, salt og peber, hæld det over kødet, og dæk fadet med sølvpapir.</p><p>Stil fadet i en forvarmet ovn i 40 minutter. Fjern sølvpapiret efter 20 minutter.</p><p>Server den færdige ret med kogte ris og dampet broccoli.</p>",
+    "Note": "Når du banker dit kyllingebryst fladt mellem to stykker plastik, får du et stykke kød, som er nogenlunde lige tykt over det hele. Det gør det både mere mørt, og så er det nemmere at stege ensartet.",
+    "ImageUrl": "images/recipe-images/262. Karry-kylling med ananas.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Karry", "Ananas", "Ovnret", "Champignon", "Hverdagsmad"]
+}

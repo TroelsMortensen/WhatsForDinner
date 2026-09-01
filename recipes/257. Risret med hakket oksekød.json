@@ -1,0 +1,35 @@
+{
+    "Id": 257,
+    "Title": "Risret med hakket oksekød",
+    "SubHeader": "Virkelig nem ret med masser af grøntsager. Og et sikkert hit hos både børn og voksne.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "stort" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "gul peberfrugt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 4, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": "ca. 10 % fedt" },
+                { "Quantity": 1, "Unit": "ds", "Name": "majs", "PreparationNote": "lille" },
+                { "Quantity": 175, "Unit": "g", "Name": "ærter", "PreparationNote": "frosne" },
+                { "Quantity": 250, "Unit": "g", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil løg og hvidløg, og hak dem fint.</p><p>Skyl gulerødder, og skær dem i tern.</p><p>Skyl peberfrugter, og skær dem i små tern.</p><p>Svits løg og hvidløg ved middel varme i en stor og dyb stegepande eller gryde med en god sjat olivenolie.</p><p>Tilsæt karry, spidskommen og derefter hakket oksekød. Svits et par minutter, til det er brunt, og hak det imens i mindre stykker.</p><p>Kom gulerødder, peberfrugt, majs, ærter, ris, vand og en bouillonterning i. Bland godt.</p><p>Skru ned for varmen til svag varme, når risretten koger, og lad den simre, indtil risene er kogt. Det tager 15-20 minutter.</p><p>Vend risretten rundt et par gange undervejs, og tjek, om der er væske nok. Tilsæt en smule kogende vand, hvis det er nødvendigt.</p><p>Smag retten til med salt og peber og evt. mere karry.</p><p>Server retten, som den er, eller med et stykke hjemmebagt grydebrød til.</p>",
+    "Note": "Det her er en ret, de fleste børn elsker. Det er også en ret, som mange børn vil elske at lave. Så tag dine børn med i køkkenet, og lad dem lave aftensmaden til dig.",
+    "ImageUrl": "images/recipe-images/257. Risret med hakket oksekød.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Oksekød", "Ris", "Karry", "Gryderet", "Hverdagsmad", "One-pot"]
+}

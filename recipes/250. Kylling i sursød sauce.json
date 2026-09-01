@@ -1,0 +1,45 @@
+{
+    "Id": 250,
+    "Title": "Kylling i sursød sauce",
+    "SubHeader": "Masser af grønt og kylling i den skønneste sursød sauce lavet med soja, sød chilisauce, hvidvinseddike og ketchup. Du kan lave retten både i wok og på pande.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Pande",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "ananas", "PreparationNote": "fra dåse" },
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie til stegning", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sursød sauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rørsukker", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "ketchup", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "ananassaft", "PreparationNote": "fra dåsen med ananas" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hvidvinseddike", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "kogte ris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær roden af forårsløg, og skær dem i tynde skiver. Skyl gulerødderne, og skær dem i små stave. Skyl peberfrugten, og skær den i strimler. Skær ananas i mindre stykker – husk at gemme lagen fra ananasdåsen.</p><p>Fjern gerne den hvide sene fra kyllingeinderfileterne, og skær dem i mindre stykker.</p><p>Lav den hjemmelavede sursøde sauce ved at røre vand og majsstivelse sammen, til der ikke er klumper i. Rør derefter de øvrige ingredienser i. Saucen virker lige nu lidt tynd, men når den kommer på panden, vil den tykne.</p><p>Kom lidt olie i en varm wok eller pande, og steg kyllingekødet i et par minutter. Vend det rundt undervejs. Kom alle grøntsagerne ved sammen med ananas, og steg videre i et par minutter ved høj varme.</p><p>Tilsæt nu den sursøde sauce, og rør rundt. Nu tykner saucen hurtigt. Du kan eventuelt tilsætte mere lage fra ananasdåsen eller lidt mere vand, hvis du synes, saucen er for tyk. Lad retten koge et minut mere, og smag derefter til med lidt salt.</p><p>Server med kogte ris.</p>",
+    "Note": "Du kan også servere retten med ægnudler. Bræk nudlerne i mindre stykker, kom dem i en skål, og overhæld med kogende vand. Rør rundt, og lad nudlerne trække 4-5 minutter. Hæld vandet fra, og så er de klar til brug.",
+    "ImageUrl": "images/recipe-images/250. Kylling i sursød sauce.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Asiatisk", "Wok", "Sursød", "Hverdagsmad"]
+}
