@@ -1,0 +1,33 @@
+{
+    "Id": 259,
+    "Title": "Gulerodsgryde med kylling og spinat",
+    "SubHeader": "Få brugt de sidste gulerødder i køleskabet og lav denne gulerodsgryde med kylling og spinat. Server som den er eller med kogte ris til.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "stort" },
+                { "Quantity": 5, "Unit": null, "Name": "gulerødder", "PreparationNote": "ca. 4-6" },
+                { "Quantity": 1, "Unit": null, "Name": "grøn peberfrugt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "frisk spinat", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingekødet i mindre tern. Pil løg, og hak det fint. Skyl gulerødderne, og skær dem i små tern. Skyl peberfrugt, og skær den i mindre tern.</p><p>Varm en stor pande eller stegegryde op, og kom en klat smør i. Svits kyllingekødet et par minutter, til det begynder at blive brunt.</p><p>Tilsæt rødløg, peberfrugt, gulerødder, karry og paprika, og svits 1 minuts tid, mens du rører.</p><p>Tilsæt hakkede tomater, vand, bouillonterning og fløde.</p><p>Lad retten koge 10-12 minutter ved middel varme. Tilsæt mere vand eller fløde, hvis der er behov for det.</p><p>Skyl spinat, afdryp den, og kom den i gryden. Rør, til spinaten falder sammen.</p><p>Smag til med salt og peber.</p><p>Server gulerodsgryden med ris og et stykke hjemmebagt kuvertbrød med kærnemælk til.</p>",
+    "Note": "Du kan sagtens gemme rester af gulerodsgryden til dagen efter. Husk at stille maden hurtigt på køl, så kan du uden problemer varme den op igen. Sørg for at varme retten ordentligt igennem, inden du serverer.",
+    "ImageUrl": "images/recipe-images/259. Gulerodsgryde med kylling og spinat.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Gryderet", "Gulerod", "Karry", "Spinat", "Hverdagsmad"]
+}

@@ -1,0 +1,33 @@
+{
+    "Id": 258,
+    "Title": "Toscansk gryde",
+    "SubHeader": "Denne gryderet er inspireret af det toscanske køkken. Der er både kylling, kikærter og hvide bønner i, så den mætter dejligt.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 450, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 150, "Unit": "g", "Name": "spinat", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "hvide bønner", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "majs", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpasta", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "bouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "potte", "Name": "basilikum", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingebrystfileterne i små tern.</p><p>Pil løg og hvidløg, og hak dem fint.</p><p>Brun kyllingekødet godt i lidt olie i en varm stegegryde, og kom derefter løg og hvidløg ved. Svits et halvt minut mere under omrøring.</p><p>Skyl spinat, og kom den i gryden. Lad den koge med, til den falder sammen.</p><p>Hæld kikærter og de hvide bønner i en si, skyl dem godt under den kolde hane, og kom dem i gryden.</p><p>Tilsæt majs, hakkede tomater, tomatpasta og bouillon.</p><p>Pluk bladene af basilikum, skyl dem og kom dem i retten.</p><p>Vend det hele rundt, og lad det koge i 10 minutter.</p><p>Server den toscanske gryde straks med hjemmebagt focaccia til.</p>",
+    "Note": "Når du skal bruge kikærter eller hvide bønner i en opskrift, kan du med fordel købe dem på dåse. Så sparer du tid, fordi de ikke skal sættes i blød og koges. I stedet kan du hælde dem fra dåsen i sigte og skylle med koldt vand.",
+    "ImageUrl": "images/recipe-images/258. Toscansk gryde.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Gryderet", "Kikærter", "Bønner", "Hverdagsmad", "One-pot", "Italiensk"]
+}

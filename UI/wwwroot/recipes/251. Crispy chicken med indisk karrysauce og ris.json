@@ -1,0 +1,56 @@
+{
+    "Id": 251,
+    "Title": "Crispy chicken med indisk karrysauce og ris",
+    "SubHeader": "Her har vi først paneret kyllingen og derefter bagt den i ovnen, så stykkerne bliver lækre sprøde. Og de smager skønt med ris og indisk karrysauce.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Crispy chicken",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 3, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "rasp", "PreparationNote": "2-3 dl" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Indisk karrysauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie til stegning", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "tomatpasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "naanbrød", "PreparationNote": "evt." }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Crispy chicken</h3><p>Tænd ovnen på 200 °C varmluft, og læg bagepapir på en bageplade.</p><p>Skær kyllingekødet i strimler på langs, 3 til 4 strimler af hvert kyllingebryst.</p><p>Slå æg ud i en dyb tallerken, og pisk dem sammen.</p><p>Kom rasp i en anden dyb tallerken, og vend det med lidt karry.</p><p>Paner nu kyllingestykkerne i æg og rasp, og læg dem på bagepladen. De må ikke overlappe hinanden.</p><p>Dryp lidt olie over de panerede stykker kylling, og krydr med salt og peber.</p><p>Sæt kyllingestykkerne i ovnen i 20-25 minutter, indtil de er sprøde og lækre. Du kan eventuelt vende dem efter 15 minutter.</p><h3>Ris</h3><p>Kog ris som anvist på pakken.</p><h3>Indisk karrysauce</h3><p>Imens laver du indisk karrysauce.</p><p>Pil løg og hvidløg, og hak det fint.</p><p>Sauter det i en god sjat olie, men uden at det tager farve.</p><p>Tilsæt karry og garam masala, og svits 1 minut.</p><p>Kom vand i sammen med en smuldret bouillonterning, kokosmælk og tomatpasta. Lad det koge ca. fem minutter.</p><p>Smag saucen til med salt, friskkværnet peber og eventuelt lidt mere karry.</p><p>Skyl persillen, hak den fint, og kom den i saucen lige inden servering.</p><p>Server crispy chicken med karrysauce, ris og eventuelt et stykke naanbrød.</p>",
+    "Note": "Har du rester tilbage af kyllingen, er den virkelig god at bruge i en sandwich dagen derpå. Skær den i skiver, og brug den som fyld i en sandwich med salat og en karrydressing.",
+    "ImageUrl": "images/recipe-images/251. Crispy chicken med indisk karrysauce og ris.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Karry", "Indisk", "Ris", "Hverdagsmad"]
+}

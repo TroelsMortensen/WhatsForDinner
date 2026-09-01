@@ -1,0 +1,32 @@
+{
+    "Id": 255,
+    "Title": "Bulgur med grøntsager og kylling",
+    "SubHeader": "Prøv den her lækre opskrift på bulgur med grøntsager og kylling. Det er en let ret til aftensmad, hvor du laver hele retten i samme gryde.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 450, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "røde peberfrugter", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "lille bundt", "Name": "persille", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "citron", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingebrystfileterne ud i mindre tern, og brun dem i lidt smør i en gryde.</p><p>Skær imens bunden af forårsløg, skyl dem, og skær dem i tynde skiver. Pil hvidløgsfed, og hak dem fint. Skyl peberfrugter, og skær dem i små tern.</p><p>Kom forårsløg og hvidløg i gryden til kyllingen, og svits i et minut. Tilsæt rød peberfrugt, og svits yderligere et minut.</p><p>Kom bulgur i gryden sammen med vand og en bouillonterning. Skyl spinat, og kom den i gryden, og lad nu retten koge, indtil bulguren er mør. Det tager typisk ca. fem minutter, men der er forskel, så smag dig frem.</p><p>Hvis retten bliver for tør, så tilsæt mere vand. Det kan være lidt forskelligt, hvor meget vand bulguren kan optage.</p><p>Skyl persillen, tag lidt fra til pynt, og hak resten. Vend den i. Smag til med friskpresset citronsaft, salt og peber.</p><p>Server bulgur med grøntsager og kylling med det samme. Pynt evt. med ekstra persille.</p>",
+    "Note": "Hvis du har grøntsager liggende, kan du sagtens bruge for eksempel squash eller spidskål og på den måde undgå madspild.",
+    "ImageUrl": "images/recipe-images/255. Bulgur med grøntsager og kylling.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Bulgur", "Gryderet", "Hverdagsmad", "One-pot"]
+}

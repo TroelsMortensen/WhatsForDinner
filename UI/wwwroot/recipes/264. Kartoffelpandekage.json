@@ -1,0 +1,26 @@
+{
+    "Id": 264,
+    "Title": "Kartoffelpandekage",
+    "SubHeader": "Kartoffelpandekagen er lavet af revne bagekartofler, og er god både som lækkert tilbehør på hverdage og til weekendmaden.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "bagekartofler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "persille", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skræl bagekartoflerne, og riv dem på den grove side af rivejernet.</p><p>Klem så meget væde ud af de revne kartofler, du kan, og kom dem i en skål.</p><p>Skyl persille, og hak den fint.</p><p>Tilsæt hvedemel, æg, persille, salt og friskkværnet peber, og bland godt.</p><p>Varm en stor pande op til en god varme, 7 på en skala fra 1-9. Kom en god sjat olivenolie på panden.</p><p>Fordel kartoffelmassen på panden, og form den til én stor kartoffelpandekage. Tryk kanten lidt ned med en ske. Den bør være omkring halvanden centimeter tyk.</p><p>Steg kartoffelpandekagen i ca. 15 minutter. Efter fem minutter skruer du ned for varmen til 4-5, så pandekagen ikke bliver for mørk.</p><p>Efter 15 minutter vender du kartoffelpandekagen. Læg et skærebræt eller en tallerken over panden, og vend den med et hurtigt snuptag. Lad kartoffelpandekagen glide tilbage på panden, og steg den færdig de sidste 15 minutter.</p>",
+    "Note": "Du kan også lave små kartoffelpandekager, hvor du kan have 5-6 pandekager ad gangen på panden. Stegetiden afhænger af, hvor tykke kartoffelpandekagerne er.",
+    "ImageUrl": "images/recipe-images/264. Kartoffelpandekage.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kartoffel", "Pandekage", "Tilbehør", "Vegetar", "Hverdagsmad"]
+}

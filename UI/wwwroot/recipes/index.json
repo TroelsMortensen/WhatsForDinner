@@ -2386,5 +2386,194 @@
             "Hverdagsmad"
         ],
         "TotalMinutes": 40
+    },
+    {
+        "Id": 250,
+        "Title": "Kylling i sursød sauce",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Wok",
+            "Sursød",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 251,
+        "Title": "Crispy chicken med indisk karrysauce og ris",
+        "Keywords": [
+            "Kylling",
+            "Karry",
+            "Indisk",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 252,
+        "Title": "Vegetarisk kødsovs",
+        "Keywords": [
+            "Vegetar",
+            "Pasta",
+            "Linser",
+            "Bolognese",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 253,
+        "Title": "Blomkålscurry",
+        "Keywords": [
+            "Vegetar",
+            "Karry",
+            "Blomkål",
+            "Linser",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 254,
+        "Title": "Pasta med bagte gulerødder, kikærter og pesto",
+        "Keywords": [
+            "Vegetar",
+            "Pasta",
+            "Gulerødder",
+            "Kikærter",
+            "Pesto",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 255,
+        "Title": "Bulgur med grøntsager og kylling",
+        "Keywords": [
+            "Kylling",
+            "Bulgur",
+            "Gryderet",
+            "Hverdagsmad",
+            "One-pot"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 256,
+        "Title": "One pot-pasta",
+        "Keywords": [
+            "Pasta",
+            "One Pot",
+            "Oksekød",
+            "Kødsovs",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 257,
+        "Title": "Risret med hakket oksekød",
+        "Keywords": [
+            "Oksekød",
+            "Ris",
+            "Karry",
+            "Gryderet",
+            "Hverdagsmad",
+            "One-pot"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 258,
+        "Title": "Toscansk gryde",
+        "Keywords": [
+            "Kylling",
+            "Gryderet",
+            "Kikærter",
+            "Bønner",
+            "Hverdagsmad",
+            "One-pot",
+            "Italiensk"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 259,
+        "Title": "Gulerodsgryde med kylling og spinat",
+        "Keywords": [
+            "Kylling",
+            "Gryderet",
+            "Gulerod",
+            "Karry",
+            "Spinat",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 260,
+        "Title": "Spinatgryde med kylling og karry",
+        "Keywords": [
+            "Kylling",
+            "Gryderet",
+            "Karry",
+            "Spinat",
+            "Hverdagsmad",
+            "One-pot"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 261,
+        "Title": "Kylling stroganoff",
+        "Keywords": [
+            "Kylling",
+            "Stroganoff",
+            "Gryderet",
+            "Champignon",
+            "Bacon",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 262,
+        "Title": "Karry-kylling med ananas",
+        "Keywords": [
+            "Kylling",
+            "Karry",
+            "Ananas",
+            "Ovnret",
+            "Champignon",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 55
+    },
+    {
+        "Id": 263,
+        "Title": "Glaseret laks med blomkålsris og spinat",
+        "Keywords": [
+            "Laks",
+            "Blomkålsris",
+            "Spinat",
+            "Fisk",
+            "Karry",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 264,
+        "Title": "Kartoffelpandekage",
+        "Keywords": [
+            "Kartoffel",
+            "Pandekage",
+            "Tilbehør",
+            "Vegetar",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
     }
 ]
