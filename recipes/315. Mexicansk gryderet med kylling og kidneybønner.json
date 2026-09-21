@@ -1,0 +1,32 @@
+{
+    "Id": 315,
+    "Title": "Mexicansk gryderet med kylling og kidneybønner",
+    "SubHeader": "En lækker mexicansk gryderet med kylling i tern, hakkede tomater, kidneybønner og taco-mix. Serveret med brune ris, sprøde majs og creme fraiche.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "fersk kylling i tern", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "tacomix", "PreparationNote": null },
+                { "Quantity": 285, "Unit": "g", "Name": "løse majs", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "creme fraiche 9 %", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Pil skrællen af løget og hak det fint. Skræl gulerødderne og riv dem på den grove side af et rivejern. Skyl kidneybønnerne.</p><p>Varm en gryde op med olivenolie og svits løg og kylling. Tilsæt gulerødder, hakkede tomater, kidneybønner og taco-mix. Lad retten simre i ca. 20 min. Ønsker du en tyndere sauce, skal du blot tilsætte lidt vand. Smag til med salt og peber.</p><p>Kom majs og creme fraiche i små skåle.</p><p>Server den lækre gryderet med dampende varme ris og top med sprøde majs og creme fraiche. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme ris, vand og salt i en gryde. Ekstra smag: Top med limesaft og friske koriander.",
+    "ImageUrl": "images/recipe-images/315. Mexicansk gryderet med kylling og kidneybønner.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Mexicansk", "Gryderet", "Ris", "Bønner", "Hverdagsmad"]
+}

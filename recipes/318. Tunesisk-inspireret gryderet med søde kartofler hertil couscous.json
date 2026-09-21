@@ -1,0 +1,38 @@
+{
+    "Id": 318,
+    "Title": "Tunesisk-inspireret gryderet med søde kartofler hertil couscous",
+    "SubHeader": "En mega lækker gryderet inspireret af det nordafrikanske køkken, fyldt med smagfulde krydderier, søde kartofler, kikærter og tørrede abrikoser. Serveres med couscous og hakkede mandler.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "stk", "Name": "søde kartofler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "spsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "tørrede koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "tørrede abrikoser", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "kogende vand", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "mandler", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil løg, skræl gulerødderne og de søde kartofler og skær alle grøntsagerne i grove tern. Steg dem i lidt olie i en gryde.</p><p>Tilsæt paprika, spidskommen, kanel og koriander og steg videre i 1-2 minutter. Tilsæt de hakkede tomater, drænede kikærter, vand og smuldret grøntsagsbouillon. Skær abrikoserne i mindre stykker og tilsæt dem.</p><p>Lad det hele simre i ca. 15 min. til kartoflerne er møre. Smag til med salt og peber.</p><p>Kog vandet til couscous. Hæld couscous og lidt salt i en gryde og hæld kogende vand over. Læg låg på og lad couscousen trække i fem til ti minutter frem til serveringen.</p><p>Hak mandlerne groft og server den smagfulde gryderet med couscous og mandler på toppen. Velbekomme!</p>",
+    "Note": "Opgaver til børn i køkkenet: Lad dine børn være med til at skrælle grøntsagerne og skære dem i grove tern. De kan også smage retten til, da den nok smager lidt anderledes end så meget andet, de er vant til.",
+    "ImageUrl": "images/recipe-images/318. Tunesisk-inspireret gryderet med søde kartofler hertil couscous.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Tunesisk", "Gryderet", "Couscous", "Kikærter", "Hverdagsmad"]
+}

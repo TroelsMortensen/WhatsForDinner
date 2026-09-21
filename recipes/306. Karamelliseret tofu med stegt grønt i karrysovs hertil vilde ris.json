@@ -1,0 +1,32 @@
+{
+    "Id": 306,
+    "Title": "Karamelliseret tofu med stegt grønt i karrysovs hertil vilde ris",
+    "SubHeader": "En hurtig ret med masser af grøntsager og smag. Frossen wokblanding stegt med karry og kokosmælk, serveret med karamelliseret tofu, peanuts og vilde ris.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "vilde ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "frossen wokblanding", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "tofu", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "østerssauce", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Pil skrællen af hvidløget og hak det fint. Varm en wok eller dyb pande op med olivenolie og svits karry heri. Tilsæt hvidløg og den frosne thaiblanding og lad det hele stege i et par minutter. Tilsæt kokosmælk og bouillon og lad det simre i ca. 10 min.</p><p>Skær tofuen i små tern. Varm en pande op med olivenolie og steg tofustykkerne gyldne. Tilsæt østerssauce og steg tofu-stykkerne i ca. 5 min. til østerssaucen bliver tykkere og karamelliserer.</p><p>Server de stegte grøntsager i karrysovs med dampende varme ris og top med karamelliseret tofu og peanuts. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme vand, salt og ris i en gryde. Og så kan de jo altid dække bord. Ekstra smag: Top med friske koriander.",
+    "ImageUrl": "images/recipe-images/306. Karamelliseret tofu med stegt grønt i karrysovs hertil vilde ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Tofu", "Karry", "Wok", "Ris", "Hverdagsmad"]
+}

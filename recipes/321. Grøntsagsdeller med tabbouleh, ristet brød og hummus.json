@@ -1,0 +1,35 @@
+{
+    "Id": 321,
+    "Title": "Grøntsagsdeller med tabbouleh, ristet brød og hummus",
+    "SubHeader": "Lækre grøntsagsdeller med finthakkede grøntsager og bulgur, serveret med arabisk-inspireret tabbouleh, ristet brød og hummus.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 450, "Unit": "g", "Name": "frossen wokblanding", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "rasp", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "stk", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "frossen persille", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "citron", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "skive", "Name": "groft sandwichbrød", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "hummus", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog bulguren som anvist på posen. Du skal bruge 1/4 af den færdigkogte bulgur i dellerne og resten i tabboulehen.</p><p>Hæld den frosne wokblanding i en minihakker ad flere omgange, hvis det hele ikke kan være der på samme tid. Hak grøntsagerne helt fint og pres herefter væden ud af grøntsagerne med hænderne.</p><p>Bland de finthakkede grøntsager med kogt bulgur, karry, æg, rasp, salt og peber til en sammenhængende fars. Tilsæt evt. lidt mere rasp, hvis farsen er for tynd. Form farsen til deller med en ske og steg dem på begge sider på en pande i olie, til de er gyldne og sprøde udenpå og gennemstegte indeni.</p><p>Skyl tomater og agurk og skær begge dele i tern. Skyl forårsløgene, fjern top og bund og skær i ringe. Bland grøntsagerne med bulgur og hakket persille og smag til med saften fra en citron, olie, salt og peber.</p><p>Rist brødet i en brødrister og skær i trekanter.</p><p>Server grøntsagsdellerne med tabbouleh, ristet brød og hummus. Velbekomme!</p>",
+    "Note": "Opgaver til børn i køkkenet: Lad dine børn være med til at skære tomat, agurk og forårsløg i tern og blande salaten.",
+    "ImageUrl": "images/recipe-images/321. Grøntsagsdeller med tabbouleh, ristet brød og hummus.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Deller", "Tabbouleh", "Bulgur", "Mellemøstlig", "Hverdagsmad"]
+}

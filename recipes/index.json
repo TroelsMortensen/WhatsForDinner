@@ -3075,5 +3075,283 @@
             "Hverdagsmad"
         ],
         "TotalMinutes": 35
+    },
+    {
+        "Id": 303,
+        "Title": "Vegetarisk risret med karry",
+        "Keywords": [
+            "Vegetar",
+            "Karry",
+            "Ris",
+            "Kikærter",
+            "Wok",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 304,
+        "Title": "Stegt kylling med grøntsager og østerssauce hertil ris",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Ris",
+            "Østerssauce",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 305,
+        "Title": "Vegetarisk wok med grøntsager, østerssauce og cashewnødder",
+        "Keywords": [
+            "Vegetar",
+            "Wok",
+            "Asiatisk",
+            "Ris",
+            "Østerssauce",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 306,
+        "Title": "Karamelliseret tofu med stegt grønt i karrysovs hertil vilde ris",
+        "Keywords": [
+            "Vegetar",
+            "Tofu",
+            "Karry",
+            "Wok",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 307,
+        "Title": "Lynhurtig wok med kikærter og kokosmælk",
+        "Keywords": [
+            "Vegetar",
+            "Wok",
+            "Asiatisk",
+            "Kikærter",
+            "Kokosmælk",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 308,
+        "Title": "Vietnamesisk risret med kylling og ristede løg",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Ris",
+            "Karry",
+            "Kokosmælk",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 309,
+        "Title": "Kokos- og peanutnudler med kylling",
+        "Keywords": [
+            "Kylling",
+            "Nudler",
+            "Asiatisk",
+            "Wok",
+            "Kokosmælk",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 310,
+        "Title": "Super nem chicken tikka masala - til to dage",
+        "Keywords": [
+            "Kylling",
+            "Indisk",
+            "Tikka Masala",
+            "Ris",
+            "Kikærter",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 25
+    },
+    {
+        "Id": 311,
+        "Title": "Mexicansk risret med peberfrugt og kidneybønner hertil guacamole og majskolber",
+        "Keywords": [
+            "Vegetar",
+            "Mexicansk",
+            "Ris",
+            "Bønner",
+            "Fajita",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 312,
+        "Title": "Vegetarisk risret med tacokrydderi",
+        "Keywords": [
+            "Vegetar",
+            "Mexicansk",
+            "Ris",
+            "Taco",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 313,
+        "Title": "Fajita med kidneybønner og spidskål hertil ris og creme fraiche",
+        "Keywords": [
+            "Mexicansk",
+            "Fajita",
+            "Ris",
+            "Bønner",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 314,
+        "Title": "Fyldig fajitasuppe med sorte bønner hertil hjemmelavede tortillachips",
+        "Keywords": [
+            "Vegetar",
+            "Mexicansk",
+            "Suppe",
+            "Bønner",
+            "Fajita",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 315,
+        "Title": "Mexicansk gryderet med kylling og kidneybønner",
+        "Keywords": [
+            "Kylling",
+            "Mexicansk",
+            "Gryderet",
+            "Ris",
+            "Bønner",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 316,
+        "Title": "Tacogryde med ris, majs, avocado og tortillachips - til to dage",
+        "Keywords": [
+            "Oksekød",
+            "Mexicansk",
+            "Taco",
+            "Gryderet",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 317,
+        "Title": "Lahmancun med kylling og persilledressing",
+        "Keywords": [
+            "Kylling",
+            "Tyrkisk",
+            "Pizza",
+            "Tortilla",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 318,
+        "Title": "Tunesisk-inspireret gryderet med søde kartofler hertil couscous",
+        "Keywords": [
+            "Vegetar",
+            "Tunesisk",
+            "Gryderet",
+            "Couscous",
+            "Kikærter",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 319,
+        "Title": "Tyrkiskinspireret pastaret med hakket kylling",
+        "Keywords": [
+            "Kylling",
+            "Pasta",
+            "Tyrkisk",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 320,
+        "Title": "Marokkansk kylling serveret med tomatsovs og bulgur",
+        "Keywords": [
+            "Kylling",
+            "Marokkansk",
+            "Bulgur",
+            "Ovn",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 321,
+        "Title": "Grøntsagsdeller med tabbouleh, ristet brød og hummus",
+        "Keywords": [
+            "Vegetar",
+            "Deller",
+            "Tabbouleh",
+            "Bulgur",
+            "Mellemøstlig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 322,
+        "Title": "Smagfuld kyllingegryde med grøntsager og oliven hertil couscous",
+        "Keywords": [
+            "Kylling",
+            "Arabisk",
+            "Gryderet",
+            "Couscous",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 323,
+        "Title": "Kofta med kylling hertil bulgur, sprød salat og hvidløgsdressing",
+        "Keywords": [
+            "Kylling",
+            "Kofta",
+            "Bulgur",
+            "Salat",
+            "Mellemøstlig",
+            "Ovn",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 324,
+        "Title": "Samosaer med rissalat og raita",
+        "Keywords": [
+            "Vegetar",
+            "Indisk",
+            "Samosa",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
     }
 ]

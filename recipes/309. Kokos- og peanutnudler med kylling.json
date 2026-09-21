@@ -1,0 +1,38 @@
+{
+    "Id": 309,
+    "Title": "Kokos- og peanutnudler med kylling",
+    "SubHeader": "En virkelig hurtig og lækker ret med nudler, kylling, kokos, peanutbutter og grønt. God i ungernes madpakker dagen derpå.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "gul peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 175, "Unit": "g", "Name": "fuldkornsnudler", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kyllingekød", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "peanutbutter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "fiskesauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "peanuts", "PreparationNote": "saltede, kan udelades" },
+                { "Quantity": null, "Unit": null, "Name": "soya", "PreparationNote": "kan udelades" },
+                { "Quantity": null, "Unit": null, "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Bring en gryde med vand og salt i kog til nudlerne.</p><p>Hak løg og hvidløg fint. Skyl peberfrugterne og fjern kernerne. Skær peberfrugterne i strimler. Vask forårsløgene, fjern top og bund og skær forårsløgene i skrå stykker.</p><p>Kog nudlerne efter anvisningen på pakken, men tag dem af blusset et minut før tid. Hæld vandet fra og lad dem stå og køle lidt af i gryden.</p><p>Svits løg og hvidløg i lidt olivenolie i en wok eller en dyb pande. Tilsæt det hakkede kyllingekød, krydr med salt og peber og steg videre, til det er blevet brunet godt af på alle sider.</p><p>Tilsæt grøntsagerne – men gem halvdelen af forårsløgene til pynt. Svits et minuts tid og tilsæt derefter kokosmælk, peanutbutter, vand og fiskesauce. Rør godt til peanutbutteren er opløst. Smag til med limesaft og lidt mere fiskesauce, hvis du synes.</p><p>Vend nu nudlerne sammen med kød, grøntsager og sauce og hæld det hele op på et fad. Pynt med forårsløg og peanuts. Server med lidt soya og sød chilisauce, hvis du synes. Velbekomme!</p>",
+    "Note": "Hvis du vælger at købe den søde chilisauce, er vores erfaring, at Nettos er den mildeste og mest børnevenlige. Har du kokosmælk tilovers, kan du sagtens fryse det i en beholder med låg.",
+    "ImageUrl": "images/recipe-images/309. Kokos- og peanutnudler med kylling.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Nudler", "Asiatisk", "Wok", "Kokosmælk", "Hverdagsmad"]
+}

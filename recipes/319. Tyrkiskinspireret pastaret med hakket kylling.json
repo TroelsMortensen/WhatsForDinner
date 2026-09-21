@@ -1,0 +1,33 @@
+{
+    "Id": 319,
+    "Title": "Tyrkiskinspireret pastaret med hakket kylling",
+    "SubHeader": "En nem og meget lækker tyrkiskinspireret pastaret smagt til med varme krydderier og toppet med hvidløgsdressing og cherrytomater.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "dl", "Name": "creme fraiche 13 %", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kyllingekød", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 90, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "pastaskruer", "PreparationNote": null },
+                { "Quantity": 10, "Unit": "stk", "Name": "cherrytomater", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Rør creme fraiche sammen med presset hvidløg og smag til med salt og peber.</p><p>Pil skrællen af løget og hak det fint.</p><p>Varm en gryde op med olie og svits hakket kyllingekød, løg, spidskommen og paprika. Tilsæt tomatpuré og hakkede tomater og lad kødsovsen simre. Smag til med salt og peber.</p><p>Imens kødsovsen simrer: Kog pastaerne efter anvisningen på posen.</p><p>Skyl cherrytomaterne og skær dem i skiver.</p><p>Server den lækre pastaret toppet med hvidløgsdressing og cherrytomater. Top evt. med friskhakket persille, hvis du har det på lager. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn røre hvidløgsdressingen sammen, skylle cherrytomaterne og smage til. Ekstra smag: Top med friskhakket persille.",
+    "ImageUrl": "images/recipe-images/319. Tyrkiskinspireret pastaret med hakket kylling.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Pasta", "Tyrkisk", "Hverdagsmad"]
+}

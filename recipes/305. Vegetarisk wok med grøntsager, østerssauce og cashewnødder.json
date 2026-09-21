@@ -1,0 +1,31 @@
+{
+    "Id": 305,
+    "Title": "Vegetarisk wok med grøntsager, østerssauce og cashewnødder",
+    "SubHeader": "En nem og lækker vegetarisk wok med masser af grøntsager, østerssauce og cashewnødder. Serveret med ris.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "porre", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 225, "Unit": "g", "Name": "babymajs", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "østerssauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 45, "Unit": "g", "Name": "cashewnødder", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Rens og skær porren i tynde skiver og pluk små buketter af broccolien. Skyl det hele grundigt. Skræl gulerødderne og skær dem i tynde skiver. Skyl peberfrugten og skær den i strimler. Dræn babymajsene for vand. Pil skrællen af hvidløget og hak det fint.</p><p>Varm en wok eller dyb pande op med olivenolie og svits hvidløget. Tilsæt porre, broccoli og gulerødder og lad det stege i ca. 5 min. Husk at røre undervejs.</p><p>Tilsæt peberfrugt og babymajs og lad det simre videre i ca. 5 min. Husk at røre undervejs.</p><p>Rør østerssauce og vand sammen og vend det i wokretten. Lad det simre i et par minutter til grøntsagerne er gennemvarme, men stadig har bid.</p><p>Server den vegetariske wok med dampende varme ris og cashewnødder på toppen. Velbekomme!</p>",
+    "Note": "Vælg gerne fuldkornsris – vær opmærksom på længere kogetid. Tips til mindre børn i køkkenet: Lad dine børn komme ris, vand og salt i en gryde og skrælle gulerødderne. Ekstra smag: Top med limesaft og soya.",
+    "ImageUrl": "images/recipe-images/305. Vegetarisk wok med grøntsager, østerssauce og cashewnødder.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Wok", "Asiatisk", "Ris", "Østerssauce", "Hverdagsmad"]
+}
