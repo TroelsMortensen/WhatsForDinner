@@ -1,0 +1,39 @@
+{
+    "Id": 286,
+    "Title": "Vegetarisk butter chicken med blomkål og ris",
+    "SubHeader": "En vegetarisk udgave af klassisk butter chicken, hvor blomkål og kikærter erstatter kyllingen. Krydret, cremet og serveret med ris.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "blomkål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænet" },
+                { "Quantity": 2, "Unit": "dl", "Name": "creme fraiche", "PreparationNote": "9 %" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "spsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "spsk", "Name": "kardemomme", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "spsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "tørret chili", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 140, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Skyl blomkålen og pluk små buketter. Dræn kikærterne.</p><p>Vend blomkål og kikærter med creme fraiche, presset hvidløg, skrællet og fintrevet ingefær og spidskommen, gurkemeje, kardemomme, koriander, kanel og tørret chili. Hold lidt af chilien tilbage og tilsæt det evt. senere efter smag. Lad det hele trække i 10-15 minutter.</p><p>Hak imens løgene og steg dem blanke i smør. Tilsæt de marinerede blomkålsbuketter, kikærter og marinaden og lad det stege med et par minutter.</p><p>Tilsæt tomatpuré, fløde og vand og lad det simre i 5-10 minutter. Smag til med salt og peber og evt. lidt flere krydderier.</p><p>Server den vegetariske butter chicken med ris. Velbekomme!</p>",
+    "Note": "Opgaver til mindre børn i køkkenet: Lad dine børn være med til at rive ingefær og hvidløg. De kan også røre i gryden og smage til. Du kan erstatte stødt koriander, kardemomme og kanel med en færdig garam masala-blanding, hvis du ikke har de enkelte krydderier på lager. Retten kan fryses.",
+    "ImageUrl": "images/recipe-images/286. Vegetarisk butter chicken med blomkål og ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Indisk", "Blomkål", "Kikærter", "Ris", "Gryderet", "Hverdagsmad"]
+}

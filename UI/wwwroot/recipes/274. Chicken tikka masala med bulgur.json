@@ -1,0 +1,28 @@
+{
+    "Id": 274,
+    "Title": "Chicken tikka masala med bulgur",
+    "SubHeader": "En super hurtig og simpel chicken tikka masala med færdig tikka masala-blanding, kyllingestrimler, tomatpuré og kokosmælk, serveret med bulgur.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "kyllingestrimler", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "frossen tikka masala-blanding", "PreparationNote": null },
+                { "Quantity": 70, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog bulguren efter anvisningen på posen.</p><p>Varm en dyb pande eller gryde op med olivenolie, og svits kyllingestrimlerne og tikka masala-blandingen. Lad det stege i et par minutter.</p><p>Tilsæt tomatpuré og kokosmælk, og lad retten simre i ca. 10 min. Smag til med salt og peber.</p><p>Server chicken tikka masala i skåle med dampende varm bulgur. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn dække et fint bord. Ekstra smag: Top med frisk koriander.",
+    "ImageUrl": "images/recipe-images/274. Chicken tikka masala med bulgur.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Indisk", "Tikka Masala", "Bulgur", "Hurtig", "Hverdagsmad"]
+}

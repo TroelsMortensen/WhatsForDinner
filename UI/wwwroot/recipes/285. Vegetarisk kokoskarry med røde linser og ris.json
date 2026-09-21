@@ -1,0 +1,34 @@
+{
+    "Id": 285,
+    "Title": "Vegetarisk kokoskarry med røde linser og ris",
+    "SubHeader": "En lækker vegetarisk ret med en fyldig sovs af gulerødder, peberfrugt, røde linser, kokosmælk, spidskommen og karry. Serveret med ris og peanuts på toppen.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 40,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 70, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Pil skrællen af hvidløgene og hak dem fint. Skræl gulerødderne, skyl peberfrugten og skær det hele i små tern.</p><p>Varm en gryde op med olivenolie og svits karry, spidskommen, hvidløg, gulerødder og peberfrugt. Skyl de røde linser og lad dem stege med i et par minutter.</p><p>Tilsæt kokosmælk, tomatpuré og smuldret bouillon og lad det simre i 25-30 min. Husk at røre i gryden undervejs, så linserne ikke brænder på.</p><p>Server kokoskarryen med dampende varme ris og peanuts på toppen. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme ris, vand og salt i en gryde og pille skrællen af hvidløgene. De kan også smage retten til. Ekstra smag: Top med frisk koriander.",
+    "ImageUrl": "images/recipe-images/285. Vegetarisk kokoskarry med røde linser og ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Karry", "Linser", "Kokosmælk", "Ris", "Gryderet", "Hverdagsmad"]
+}

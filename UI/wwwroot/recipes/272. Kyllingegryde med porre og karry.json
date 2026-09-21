@@ -1,0 +1,66 @@
+{
+
+    "Id": 272,
+
+    "Title": "Kyllingegryde med porre og karry",
+
+    "SubHeader": "Lynhurtig gryderet med hakket kyllingekød, karry, porre og snittet hvidkål, toppet med chilimayo og peanuts.",
+
+    "TotalMinutes": 15,
+
+    "MinutesOfPreparation": 15,
+
+    "NumberOfPersons": 4,
+
+    "RecipeGroups": [
+
+        {
+
+            "Title": "Ingredienser",
+
+            "Ingredients": [
+
+                { "Quantity": 650, "Unit": "g", "Name": "små kartofler", "PreparationNote": null },
+
+                { "Quantity": 2, "Unit": null, "Name": "porre", "PreparationNote": null },
+
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kyllingekød", "PreparationNote": null },
+
+                { "Quantity": 400, "Unit": "g", "Name": "frossen snittet hvidkål", "PreparationNote": null },
+
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+
+                { "Quantity": 1, "Unit": null, "Name": "grøntsagsbouillonterning", "PreparationNote": null },
+
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+
+                { "Quantity": 100, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+
+                { "Quantity": null, "Unit": null, "Name": "chilimayonnaise", "PreparationNote": null },
+
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+
+            ]
+
+        }
+
+    ],
+
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skrub kartoflerne, og kog dem møre i letsaltet vand. Det tager 10-12 minutter.</p><p>Skyl og rens porrerne grundigt, halver dem på langs, og skær dem i tynde skiver. Steg kyllingekødet i lidt olivenolie i en gryde eller en dyb pande, og tilsæt porrer, frossen hvidkål og karry. Lad hele molevitten stege i ca. fem minutter, til kødet er brunet godt af.</p><p>Tilsæt kokosmælk, smuldret bouillon og vand, og lad retten simre i et par minutter. Smag til med salt og peber.</p><p>Server retten med kartofler, chilimayo og peanuts på toppen.</p>",
+
+    "Note": "Opgaver til børn i køkkenet: Lad dine børn rense porrerne og skære dem i skiver.",
+
+    "ImageUrl": "images/recipe-images/272. Kyllingegryde med porre og karry.jpg",
+
+    "Source": "Mambeno",
+
+    "Keywords": ["Kylling", "Karry", "Gryderet", "Porre", "Hurtig", "Hverdagsmad"]
+
+}
+

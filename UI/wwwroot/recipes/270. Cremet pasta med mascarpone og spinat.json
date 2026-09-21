@@ -1,0 +1,29 @@
+{
+    "Id": 270,
+    "Title": "Cremet pasta med mascarpone og spinat",
+    "SubHeader": "En hurtig pasta vendt i cremet sauce med tomat, hvidløg, paprika, mascarpone, frisk spinat og ristede pinjekerner på toppen.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "pastaskruer", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "færdig pastasauce med hvidløg", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "mascarpone", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "spæde spinatblade", "PreparationNote": null },
+                { "Quantity": 30, "Unit": "g", "Name": "pinjekerner", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog pastaerne efter anvisningen på posen.</p><p>Varm en gryde op med lidt olie, og svits paprikapulveret. Tilsæt pastasauce og mascarpone, og lad det simre i et par minutter. Skyl spinaten grundigt, og vend den i saucen. Smag til med salt og peber.</p><p>Hæld vandet fra pastaerne, og vend dem sammen med saucen. Du kan også tilsætte lidt af pastavandet til saucen, hvis du synes.</p><p>Rist pinjekernerne på en tør pande, til de får lidt farve.</p><p>Server den cremede pasta med mascarpone og spinat i skåle, og top med ristede pinjekerner.</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn smage retten til og dække et fint bord.",
+    "ImageUrl": "images/recipe-images/270. Cremet pasta med mascarpone og spinat.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Pasta", "Mascarpone", "Spinat", "Vegetar", "Hurtig", "Hverdagsmad"]
+}

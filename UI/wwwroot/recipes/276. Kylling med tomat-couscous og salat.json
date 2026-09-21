@@ -1,0 +1,29 @@
+{
+    "Id": 276,
+    "Title": "Kylling med tomat-couscous og salat",
+    "SubHeader": "En hurtig opskrift med lækre kyllingeinderfileter serveret med tomatcouscous med paprika og tomatpuré og en færdig coleslaw som tilbehør.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 70, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "færdig coleslaw", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en gryde op med en god sjat olivenolie og svits paprikaen. Tilsæt vand, tomatpuré og salt og rør det godt sammen. Tilsæt couscous, kom låg på og sluk for blusset.</p><p>Varm en pande op med olivenolie og steg kyllingeinderfileterne på begge sider. Krydr med salt og peber.</p><p>Vend kålblandingen sammen med den tilhørende dressing.</p><p>Server kyllingen med tomatcouscous og coleslaw. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn dække et fint bord. Ekstra smag: Krydr kyllingeinderfileterne med husets yndlingskrydderi.",
+    "ImageUrl": "images/recipe-images/276. Kylling med tomat-couscous og salat.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Couscous", "Coleslaw", "Hurtig", "Hverdagsmad"]
+}

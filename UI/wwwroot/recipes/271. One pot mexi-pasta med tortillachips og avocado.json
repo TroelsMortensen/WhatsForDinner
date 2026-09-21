@@ -1,0 +1,33 @@
+{
+    "Id": 271,
+    "Title": "One pot mexi-pasta med tortillachips og avocado",
+    "SubHeader": "En virkelig nem og lækker kødfri one pot pasta med mexikanske krydderier, avocado på toppen og sprøde tortillachips som tilbehør.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 450, "Unit": "g", "Name": "færdig fajitablanding", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "suppehorn", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 70, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "avocado", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "cheddar", "PreparationNote": "revet" },
+                { "Quantity": 200, "Unit": "g", "Name": "tortillachips", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Steg de frosne grøntsager i lidt olie i en stor gryde.</p><p>Tilsæt vand, suppehorn, hakkede tomater, tomatpuré, stødt koriander og spidskommen. Bring det hele i kog, og lad retten simre, til suppehornene er færdigkogt. Smag til med salt og peber.</p><p>Flæk avocadoen, fjern stenen, og skær kødet i skiver.</p><p>Server retten med revet cheddar, avocado i skiver og tortillachips. Frisk koriander smager også godt som topping.</p>",
+    "Note": "Opgaver til mindre børn i køkkenet: Lad dine børn skære avocadoen i skiver og smage til.",
+    "ImageUrl": "images/recipe-images/271. One pot mexi-pasta med tortillachips og avocado.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Pasta", "One Pot", "Mexicansk", "Vegetar", "Hurtig", "Hverdagsmad"]
+}

@@ -1,0 +1,35 @@
+{
+    "Id": 289,
+    "Title": "One pot-nudler med pak choi, ananas og sød chilisauce",
+    "SubHeader": "En smagfuld nudelret med en masse grøntsager og en lækker sovs af karry, kokosmælk, ananasjuice og sød chilisauce.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "snackpeber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "terninger", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "nudler", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "edamamebønner", "PreparationNote": null },
+                { "Quantity": 160, "Unit": "g", "Name": "ananasstykker i egen juice", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "pak choi", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil skrællen af løg og hvidløg og hak dem fint. Skyl snackpeberen og skær den i små tern.</p><p>Varm en dyb gryde op med lidt sesamolie og svits karry, løg, hvidløg og peberfrugt. Tilsæt kokosmælk, sød chilisauce, vand og bouillon og bring det i kog. Tilsæt herefter nudlerne, edamamebønnerne, ananasstykkerne samt juicen. Lad det hele koge i ca. 5 minutter.</p><p>Skyl pak choi og skær dem i tynde både. Tilsæt dem suppen og lad det hele koge i yderligere 3 minutter under låg.</p><p>Server nudelretten i skåle og top evt. med frisk koriander, hvis du har det på lager. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn skylle snackpeberen og skære den i tern. Hvis ikke du har sesamolie, kan du sagtens bruge andre typer olie.",
+    "ImageUrl": "images/recipe-images/289. One pot-nudler med pak choi, ananas og sød chilisauce.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "One Pot", "Nudler", "Asiatisk", "Kokosmælk", "Hverdagsmad"]
+}

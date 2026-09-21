@@ -1,0 +1,33 @@
+{
+    "Id": 275,
+    "Title": "Tikka masala med blomkålsris, kikærter og Napolibrød",
+    "SubHeader": "En skøn og smagfuld vegetarisk tikka masala med blomkålsris, kikærter og lune Napolibrød som tilbehør – klar på 15 minutter.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "frossen tikka masala-blanding", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "blomkålsris", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "tikka masala sauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "grøntsagsbouillonterning", "PreparationNote": null },
+                { "Quantity": 140, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænet" },
+                { "Quantity": 0.5, "Unit": null, "Name": "citron", "PreparationNote": null },
+                { "Quantity": 4, "Unit": null, "Name": "napoli pitabrød", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Steg den frosne tikka masala-blanding og blomkålsris i en gryde med lidt olivenolie i 3-4 minutter.</p><p>Tilsæt tikka masala sauce. Ryst glasset med vandet for at få det hele med. Tilsæt kokosmælk, smuldret bouillon, tomatpuré og drænede kikærter.</p><p>Lad det hele simre i 5-7 minutter, og smag til med salt, peber og citronsaft.</p><p>Lun Napolibrødene i ovnen eller på brødristeren, og skær dem i mindre stykker.</p><p>Server tikka masalaen med brød og evt. en klat creme fraiche og lidt grønt på toppen. Velbekomme!</p>",
+    "Note": "Opgaver til mindre børn i køkkenet: Lad dine børn være med til at røre i gryden og smage til – på den måde er det nemmere at vænne sig til nye smage. Mere smag: Tilsæt spidskommen, stødt koriander eller frisk koriander.",
+    "ImageUrl": "images/recipe-images/275. Tikka masala med blomkålsris, kikærter og Napolibrød.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Indisk", "Tikka Masala", "Blomkålsris", "Kikærter", "Hurtig", "Hverdagsmad"]
+}

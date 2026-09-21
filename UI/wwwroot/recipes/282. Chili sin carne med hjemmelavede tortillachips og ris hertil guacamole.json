@@ -1,0 +1,38 @@
+{
+    "Id": 282,
+    "Title": "Chili sin carne med hjemmelavede tortillachips og ris hertil guacamole",
+    "SubHeader": "En lækker omgang chili sin carne uden kød, med varme krydderier og en smule mørk chokolade. Serveres med hjemmelavede tortillachips, ris og guacamole.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "squash", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "chokolade", "PreparationNote": "85%" },
+                { "Quantity": 3, "Unit": "stk", "Name": "fuldkornstortillas", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "dip med guacamolesmag", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken og tænd ovnen på 175 grader varmluft.</p><p>Pil skrællen af løg og hvidløg og hak begge dele fint. Skyl squashen og skær den i tern.</p><p>Varm en gryde op med olivenolie og svits spidskommen, koriander, kanel, paprika, hvidløg, løg og squash. Du kan evt. holde lidt af krydderierne tilbage og gemme dem til at smage til, til sidst.</p><p>Kom kidneybønnerne og de sorte bønner i en si og skyl dem. Tilsæt halvdelen af bønnerne i gryden sammen med hakkede tomater og smuldret bouillon. Blend saucen med en stavblender så den får en tyk konsistens.</p><p>Tilsæt resten af bønnerne og chokoladen og lad saucen simre. Smag til med salt og peber.</p><p>Pensl tortillapandekagerne med olivenolie og skær eller klip dem herefter i trekanter. Fordel stykkerne på en bageplade eller to beklædt med bagepapir og drys med salt.</p><p>Bag tortillachipsene ved 175 grader i ca. 7 min. til de er gyldne og sprøde.</p><p>Server chili sin carnen med dampende varme ris, hjemmelavede tortillachips og guacamole. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn pensle tortillapandekagerne. Ekstra smag: Tilsæt frisk eller tørret chili og top med friske krydderurter.",
+    "ImageUrl": "images/recipe-images/282. Chili sin carne med hjemmelavede tortillachips og ris hertil guacamole.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Mexicansk", "Chili", "Bønner", "Tortilla", "Ris", "Hverdagsmad"]
+}

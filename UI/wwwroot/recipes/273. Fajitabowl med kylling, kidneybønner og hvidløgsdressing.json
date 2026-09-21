@@ -1,0 +1,33 @@
+{
+    "Id": 273,
+    "Title": "Fajitabowl med kylling, kidneybønner og hvidløgsdressing",
+    "SubHeader": "En lækker bowl med hakket kylling og kidneybønner stegt med fajita-krydderi, bulgur, færdigblandet salat, peberfrugt, agurk, avocado og hvidløgsdressing.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kyllingekød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "fajita spice mix", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "avocado", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "fraiche 5%", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 235, "Unit": "g", "Name": "salatblanding", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog bulguren efter anvisningen på posen.</p><p>Varm en pande op med olivenolie, og steg kyllingekødet. Kom kidneybønnerne i en si, og overhæld dem med vand. Tilsæt kidneybønner, og smag til med fajita-krydderi, salt og peber.</p><p>Skyl agurk og rød peber, og skær begge dele i tern. Flæk avocadoerne, fjern stenene, og skær kødet i tern.</p><p>Rør fraiche sammen med presset hvidløg.</p><p>Stil alle ingredienserne på bordet, og lad hele familien sammensætte deres egen yndlingsbowl. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn dække et fint bord. Ekstra smag: Top med frisk koriander og limesaft.",
+    "ImageUrl": "images/recipe-images/273. Fajitabowl med kylling, kidneybønner og hvidløgsdressing.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Bowl", "Mexicansk", "Fajita", "Hurtig", "Hverdagsmad"]
+}
