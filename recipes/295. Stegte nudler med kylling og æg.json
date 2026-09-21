@@ -1,0 +1,30 @@
+{
+    "Id": 295,
+    "Title": "Stegte nudler med kylling og æg",
+    "SubHeader": "En simpel og lækker nudelret med wokblanding, hakket kyllingekød, æg og peanuts på toppen.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "nudler", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kyllingekød", "PreparationNote": null },
+                { "Quantity": 450, "Unit": "g", "Name": "frossen wokblanding", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "soya", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "østerssauce", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog nudlerne efter anvisningen på posen og hæld vandet fra. Vend de varme nudler med lidt olie, så de ikke klumper sammen.</p><p>Slå æggene ud i en skål og pisk dem. Varm en pande eller wok op med olie, steg æggene til røræg og stil til side.</p><p>Pil skrællen af hvidløgene og hak dem fint.</p><p>Kom lidt mere olie på panden eller i wokken og svits hvidløg og hakket kyllingekød. Tilsæt wokblandingen og steg i ca. 5 min. Tilsæt soya og østerssauce og vend til sidst røræggene og nudlerne i.</p><p>Server nudelretten med peanuts og sød chilisauce på toppen og friske krydderurter, hvis du har dem på lager. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn pille skrællen af hvidløgene og smage om nudlerne er \"al dente\". Ekstra smag: Top med friske krydderurter.",
+    "ImageUrl": "images/recipe-images/295. Stegte nudler med kylling og æg.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Nudler", "Asiatisk", "Wok", "Hverdagsmad"]
+}

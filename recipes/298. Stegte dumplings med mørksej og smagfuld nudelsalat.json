@@ -1,0 +1,42 @@
+{
+    "Id": 298,
+    "Title": "Stegte dumplings med mørksej og smagfuld nudelsalat",
+    "SubHeader": "Stegte dumplings af rispapir fyldt med mørksej og forårsløg, serveret med en frisk nudelsalat med edamame, agurk, peberfrugt og gulerødder, toppet med peanuts og koriander.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 40,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Stegte dumplings og nudler",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "fuldkornsnudler", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "mørksejfilet", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "soya", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "rispapir", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "rapsolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Nudelsalat",
+            "Ingredients": [
+                { "Quantity": 150, "Unit": "g", "Name": "edamamebønner", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "stk", "Name": "blandede peberfrugter", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "potte", "Name": "friske koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Stegte dumplings og nudler</h3><p>Kog nudlerne som anvist på pakken. Dryp dem af og overhæld dem med koldt vand. Stil til side.</p><p>Skær top og bund af forårsløgene og vask dem. Hak både forårsløg og mørksejfileterne i små stykker og kom det hele i en skål.</p><p>Bland soya, sød chilisauce, revet ingefær og presset hvidløg godt sammen til en dressing. Tilføj et par spiseskefulde af dressingen til skålen med forårsløg og mørksejstykkerne. Gem resten af dressingen til nudelsalaten.</p><p>Fyld et fad med koldt vand og dyp et stykke rispapir ned i vandet i ca. 5-10 sekunder. Læg det derefter på et skærebræt.</p><p>Læg en spiseske mørksejfyld i midten af rispapiret. Pak det sammen som en firkantet gave, hvor du folder siderne ind over hinanden og sikrer, at fyldet ikke kan ryge ud. Steg de små pakker på begge sider på en pande med olie.</p><h3>Nudelsalat og dressing</h3><p>Tilbered edamamebønnerne som anvist på pakken. Skær top og bund af forårsløgene, vask dem og skær dem i tynde ringe. Vask agurk og peberfrugt. Rens peberfrugten for kerner og skræl gulerødderne. Skær det hele i tynde strimler.</p><p>Bland grøntsagerne med nudler, saften fra en lime, dressingen, peanuts og top med friske koriander.</p><p>Server de stegte dumplings med nudelsalat. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Der er masser af snittearbejde, så lad dine børn være med til at snitte agurk og peberfrugt. De kan også være med til at røre dressingen sammen og smage den til.",
+    "ImageUrl": "images/recipe-images/298. Stegte dumplings med mørksej og smagfuld nudelsalat.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Fisk", "Mørksej", "Nudler", "Asiatisk", "Dumplings", "Hverdagsmad"]
+}

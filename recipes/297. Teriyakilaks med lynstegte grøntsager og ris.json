@@ -1,0 +1,34 @@
+{
+    "Id": 297,
+    "Title": "Teriyakilaks med lynstegte grøntsager og ris",
+    "SubHeader": "Ovnbagt laks marineret i teriyakisauce og toppet med sesamfrø, serveret med lynstegte grøntsager i sød chilisauce og soya samt dampende varme ris.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "fersk laks", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "teriyakisauce", "PreparationNote": null },
+                { "Quantity": 10, "Unit": "g", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 125, "Unit": "g", "Name": "frosne bønner", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "edamamebønner", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soya", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 200 grader varmluft.</p><p>Læg laksesiden med skindsiden nedad på en bageplade beklædt med bagepapir. Fordel teriyakisaucen over laksen og drys med sesamfrø, salt og peber. Bag laksesiden i ovnen i ca. 25 min.</p><p>Kog risene efter anvisningen på pakken.</p><p>Skræl gulerødderne og skær dem i tynde skiver - brug evt. et mandolinjern. Pil skrællen af rødløg og hvidløg. Skær rødløget i tynde både og hak hvidløget fint.</p><p>Varm en pande op med olivenolie og lynsteg gulerødder, rødløg, hvidløg, grønne bønner og edamamebønner. Tilsæt sød chilisauce og soya og steg i et par minutter.</p><p>Server teriyakilaksen med de lynstegte grøntsager og dampende varme ris. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn drysse sesamfrø på laksesiden og pille skrællen af rødløg og hvidløg. Ekstra smag: Kan du finde sukkerærter, også kaldet sugar snaps, så brug dem i stedet for de grønne bønner. Det giver en ekstra lækker sprødhed til retten.",
+    "ImageUrl": "images/recipe-images/297. Teriyakilaks med lynstegte grøntsager og ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Laks", "Fisk", "Asiatisk", "Ris", "Teriyaki", "Hverdagsmad"]
+}

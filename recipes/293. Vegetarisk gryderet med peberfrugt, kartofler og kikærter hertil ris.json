@@ -1,0 +1,34 @@
+{
+    "Id": 293,
+    "Title": "Vegetarisk gryderet med peberfrugt, kartofler og kikærter hertil ris",
+    "SubHeader": "En smagfuld gryderet med peberfrugter, kartofler og kikærter i en sauce af kokosmælk, hakkede tomater, paprika, karry og spidskommen. Serveret med ris.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "blandede peberfrugter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på posen.</p><p>Skræl kartoflerne og skær dem i små tern. Skyl peberfrugterne, fjern kernehuset og skær dem i små tern. Pil skrællen af løget og hak det fint.</p><p>Varm en gryde op med olivenolie og svits karry, paprika, spidskommen, løg og peberfrugter. Tilsæt hakkede tomater, kokosmælk, bouillon og kartofler og lad retten simre i ca. 15 min.</p><p>Dræn og skyl kikærterne, tilsæt dem retten og lad det hele simre i yderligere 5 min.</p><p>Server gryderetten med dampende varme ris. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme vand, salt og ris i en gryde og pille skrællen af løget. Vælg gerne fuldkornsris, men vær opmærksom på længere kogetid.",
+    "ImageUrl": "images/recipe-images/293. Vegetarisk gryderet med peberfrugt, kartofler og kikærter hertil ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Gryderet", "Kartofler", "Kikærter", "Ris", "Kokosmælk", "Hverdagsmad"]
+}

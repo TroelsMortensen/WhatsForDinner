@@ -1,0 +1,28 @@
+{
+    "Id": 300,
+    "Title": "Masala med kylling, kokosmælk og ris",
+    "SubHeader": "En ultra hurtig masala-gryde med kylling, karry og kokosmælk, serveret med ris.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "frossen tikka masala-blanding", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog ris efter anvisningen på pakken.</p><p>Steg masalablandingen i en dyb pande eller wok sammen med karry i lidt olie. Pas på at olien ikke sprutter, hvis grøntsagerne indeholder meget vand.</p><p>Skær kyllingefileterne i mindre tern og tilsæt dem i gryden og lad dem stege med, indtil kødet begynder at tage lidt farve.</p><p>Tilsæt kokosmælk og bring det i kog. Smag til med salt og peber, når kødet er gennemstegt.</p><p>Server masala-gryden med ris. Velbekomme!</p>",
+    "Note": "Opgaver til mindre børn i køkkenet: Lad dine børn tage tid på, hvor hurtig du faktisk kan lave denne ret - de kan også smage retten til!",
+    "ImageUrl": "images/recipe-images/300. Masala med kylling, kokosmælk og ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Indisk", "Masala", "Ris", "Hurtig", "Hverdagsmad"]
+}

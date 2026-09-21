@@ -1,0 +1,33 @@
+{
+    "Id": 301,
+    "Title": "Kylling i karry med blomkål, gulerødder og peberfrugt hertil ris",
+    "SubHeader": "En simpel og lækker omgang kylling i karry med blomkål, gulerødder, peberfrugt og kokosmælk. Serveret med ris.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "fersk kylling i tern", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "blomkål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Pil skrællen af løg og hvidløg. Skær løget i tern og hak hvidløget fint.</p><p>Varm en dyb gryde eller wok op med olivenolie og svits karryen. Tilsæt kyllingetern og brun dem af. Tilsæt løg og hvidløg og lad det stege videre i et par minutter. Tilsæt kokosmælk og bouillon.</p><p>Skræl gulerødderne. Skyl blomkålen og peberfrugten. Skær grøntsagerne ud efter eget ønske og tilsæt dem. Lad retten simre i ca. 15 min. Smag til med salt og peber.</p><p>Server kylling i karry med dampende varme ris. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme ris, vand og salt i en gryde. Ekstra smag: Top med peanuts eller cashewnødder og frisk koriander. Vælg gerne fuldkornsris, men vær opmærksom på længere kogetid.",
+    "ImageUrl": "images/recipe-images/301. Kylling i karry med blomkål, gulerødder og peberfrugt hertil ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Karry", "Gryderet", "Ris", "Blomkål", "Kokosmælk", "Hverdagsmad"]
+}

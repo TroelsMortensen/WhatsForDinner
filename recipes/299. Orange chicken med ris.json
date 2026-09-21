@@ -1,0 +1,41 @@
+{
+    "Id": 299,
+    "Title": "Orange chicken med ris",
+    "SubHeader": "Panerede kyllingestykker vendt i en sød og saltet appelsinsauce, serveret med ris og edamamebønner.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ris og kylling",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "fersk kylling i tern", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sauce og edamamebønner",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "stk", "Name": "appelsiner", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "soya", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "edamamebønner", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris og kylling</h3><p>Kog risene efter anvisningen på pakken.</p><p>Pisk æggene sammen og hæld dem i en dyb tallerken. Bland hvedemel, majsstivelse, salt og peber sammen på en flad tallerken.</p><p>Vend kyllingestykkerne først i æg og herefter i melblandingen. Steg dem på en pande i rigeligt med olie til de er sprøde og gennemstegte.</p><h3>Sauce og edamamebønner</h3><p>Halvér appelsinerne og pres saften fra appelsinerne i en gryde. Pil skrællen af hvidløg og skræl ingefæren og riv begge dele fint.</p><p>Bland hvidløg og ingefær med appelsinsaft, soya og sukker i en gryde. Hvis du har en økologisk appelsin, så riv lidt fintrevet appelsinskal i også.</p><p>Varm blandingen op og jævn med majsstivelse rørt ud i vand. Smag til med salt og peber. Vend kyllingestykkerne i saucen.</p><p>Tilbered edamamebønnerne som anvist på pakken.</p><p>Server den lækre orange chicken med ris og edamamebønner. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn presse saften fra appelsinerne.",
+    "ImageUrl": "images/recipe-images/299. Orange chicken med ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Appelsin", "Hverdagsmad"]
+}
