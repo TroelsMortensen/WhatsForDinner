@@ -1,0 +1,41 @@
+{
+    "Id": 267,
+    "Title": "Fyldte bagekartofler med kylling og spinat",
+    "SubHeader": "Virkelig lækre fyldte bagekartofler med kyllingebryst, spinat, persillerødder og champignon i en fantastisk sovs. De bagte kartofler er gode som et helt måltid til aftensmad.",
+    "TotalMinutes": 75,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 6,
+    "RecipeGroups": [
+        {
+            "Title": "Bagte kartofler",
+            "Ingredients": [
+                { "Quantity": 6, "Unit": null, "Name": "bagekartofler", "PreparationNote": "store" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "flagesalt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Fyld",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "stort" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "champignon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "persillerødder", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": 450, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "frisk spinat", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 200 °C varmluft.</p><p>Vask bagekartoflerne, og tør dem i et rent viskestykke. Skær det nederste af bunden af, så de netop kan stå fast. Smør et ildfast fad med lidt olie, og stil bagekartoflerne i fadet.</p><p>Skær også et snit midt i hver bagekartoffel på langs. Du skal skære lidt mere end halvvejs ned. Pensl bagekartoflerne med lidt olivenolie, og drys med flagesalt. Sæt dem ind i ovnen i ca. 1 time. Prik i dem for at tjekke, om de er gennembagte.</p><p>Lav imens fyldet.</p><p>Pil løg og hvidløg, og hak dem.</p><p>Skær roden af champignonerne, børst dem rene for jord, og skær dem i grove tern.</p><p>Skræl persillerødder, og skær dem i små tern.</p><p>Kom en klat smør på en varm pande, og steg kyllingekødet i ca. 5-6 minutter, så det er gennemstegt og har fået lidt stegeskorpe. Læg kødet til side.</p><p>Kom en klat smør mere på panden, og sauter løg, champignon og persillerødder. Det tager 2-3 minutter.</p><p>Kog vand op sammen med en hønsebouillonterning i en lille gryde, og stil det til side.</p><p>Drys hvedemel over indholdet i panden, og vend det rundt. Tilsæt derefter gradvis bouillonen og til sidst fløde, så sovsen bliver tilpas tyk. Hvis du ønsker den lidt tyndere, så tilsæt lidt mere vand.</p><p>Lad det simre 5 minutter.</p><p>Skyl spinat, afdryp den, og kom den i stuvningen på panden. Vend rundt, og lad den falde sammen.</p><p>Smag stuvningen til med lidt friskpresset citronsaft, salt og friskkværnet peber.</p><p>Tag de færdigbagte bagekartofler ud af ovnen, og åbn dem lidt op med en kniv. Det er nemt at åbne dem i det snit, du skar før bagningen.</p><p>Kom fyld i hver bagekartoffel, og server.</p>",
+    "Note": "Du skal altid bage dine bagekartofler uden sølvpapir. Hvis de er pakket ind i sølvpapir, vil de koge frem for at bage. Spis gerne skrællen på bagekartoflerne. Den er fuld af vitaminer og fibre, og hvis du sørger for, at den er vasket helt ren, inden bagekartoflerne kommer i ovnen, er det ikke noget problem.",
+    "ImageUrl": "images/recipe-images/267. Fyldte bagekartofler med kylling og spinat.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kartoffel", "Kylling", "Spinat", "Bagekartoffel", "Champignon", "Ovn", "Hverdagsmad"]
+}

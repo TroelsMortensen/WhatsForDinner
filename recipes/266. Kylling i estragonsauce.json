@@ -1,0 +1,33 @@
+{
+    "Id": 266,
+    "Title": "Kylling i estragonsauce",
+    "SubHeader": "Denne ret passer stort set sig selv i ovnen. Og den egner sig lige så godt til hverdagsmad som til gæstemad. Server den gerne med hasselback-gulerødder og ris, der kan suge masser af den gode estragonsauce.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": null, "Name": "kyllingebrystfileter", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peberblanding", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 3, "Unit": "tsk", "Name": "sennep", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "fløde", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "hvidvinseddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "estragon", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sukker", "PreparationNote": "evt. en smule" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm ovnen til 200 °C almindelig over- og undervarme.</p><p>Krydr kyllingebrystfileterne med lidt paprika, peberblanding og salt.</p><p>Varm en pande op, og kom lidt olie på den.</p><p>Steg kyllingefileterne 4-5 minutter på hver side, og læg dem til side.</p><p>Kom sennep og vand på panden, og kog panden af.</p><p>Smuldr bouillonterningen i, og tilsæt fløde og hvidvinseddike.</p><p>Lad det koge en smule ind. Saucen skal hverken være for tynd eller tyk.</p><p>Pil blade af estragonplanten svarende til 3 spsk., og hak dem fint. Vend dem herefter i estragonsaucen.</p><p>Hvis saucen er for tyk, kan du tilsætte lidt mere vand.</p><p>Smag saucen til med salt, peber og en smule sukker.</p><p>Hæld saucen i en lille bradepande.</p><p>Skær kyllingebrystfileterne i skrå skiver, 5-6 skiver af hvert stykke bryst, og læg dem forsigtigt ned i saucen, så de stadig ligger nogenlunde samlet.</p><p>Læg et par kviste estragon over, og steg det hele 10 minutter i ovnen.</p><p>Server kylling i estragonsauce med ris og hasselback-gulerødder.</p>",
+    "Note": "Estragon er nok bedst kendt fra bearnaisesovs, og den har en karakteristisk smag af anis. Estragonen kan købes både som plante og frysetørret. Den friske er bedst, fordi den er mildere i smagen. Den tørrede udgave er mere skarp.",
+    "ImageUrl": "images/recipe-images/266. Kylling i estragonsauce.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Kylling", "Estragon", "Fløde", "Ovn", "Sauce", "Hverdagsmad"]
+}
