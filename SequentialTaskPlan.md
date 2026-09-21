@@ -24,16 +24,17 @@ read @ConvertRecipePrompt.md on instructions. The recipe to convert is attached 
 
 ### Task data
 
-1. https://mambeno.dk/opskrifter/indisk-chanagryde-med-aubergine-hertil-couscous/
-2. https://mambeno.dk/opskrifter/one-pot-couscous-med-kokosmaelk-groentsager-og-kikaerter/
-3. https://mambeno.dk/opskrifter/vegetarisk-kokoskarry-med-roede-linser-og-ris/
-4. https://mambeno.dk/opskrifter/vegetarisk-butter-chicken-med-blomkaal-og-ris/
-5. https://mambeno.dk/opskrifter/max-15-min-mexi-style-pasta-med-revet-cheddar/
-6. https://mambeno.dk/opskrifter/vegetarisk-gryderet-med-kartofler-boenner-og-kokosmaelk-hertil-bulgur-og-peanuts/
-7. https://mambeno.dk/opskrifter/one-pot-nudler-med-pak-choi-ananas-og-soed-chilisauce/
-8. https://mambeno.dk/opskrifter/boenneboeffer-med-graesk-pastasalat-og-tzatziki/
-9. https://mambeno.dk/opskrifter/risret-med-aeg-og-peanuts/
-10. https://mambeno.dk/opskrifter/vegetarisk-gryderet-med-bulgur/
+1. https://mambeno.dk/opskrifter/vegetarisk-gryderet-med-peberfrugt-kartofler-og-kikaerter-hertil-ris/
+2. https://mambeno.dk/opskrifter/vegetarisk-karryret-med-broccoli-og-granataebler-hertil-ris/
+3. https://mambeno.dk/opskrifter/stegte-nudler-med-kylling-og-aeg/
+4. https://mambeno.dk/opskrifter/crispy-kylling-med-stegte-nudler/
+5. https://mambeno.dk/opskrifter/teriyakilaks-med-lynstegte-groentsager-og-ris/
+6. https://mambeno.dk/opskrifter/stegte-dumplings-med-moerksej-og-smagfuld-nudelsalat/
+7. https://mambeno.dk/opskrifter/orange-chicken-med-ris/
+8. https://mambeno.dk/opskrifter/max-15-min-masala-med-kylling-kokosmaelk-og-ris/
+9. https://mambeno.dk/opskrifter/kylling-i-karry-med-blomkaal-guleroedder-og-peberfrugt-hertil-ris/
+10. https://mambeno.dk/opskrifter/wok-med-kylling-kartofler-og-broccoli-i-peanutsauce-hertil-ris/
+
 
 ## Orchestrator rules
 

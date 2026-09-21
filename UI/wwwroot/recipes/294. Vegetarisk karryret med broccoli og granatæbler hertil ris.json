@@ -1,0 +1,33 @@
+{
+    "Id": 294,
+    "Title": "Vegetarisk karryret med broccoli og granatæbler hertil ris",
+    "SubHeader": "En lækker karryret med masser af grøntsager og kokosmælk. Serveret med ris, broccoli, peanuts og granatæblekerner som tilbehør.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "frossen grøntsagsbund", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "granatæble", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Varm en gryde op med olivenolie og svits karry, spidskommen og grøntsagsblandingen.</p><p>Tilsæt kokosmælk, vand og bouillon og lad sovsen simre i ca. 15 min.</p><p>Pluk små buketter af broccolien og kog dem møre i letsaltet vand.</p><p>Blend sovsen med en stavblender og smag til med salt og peber.</p><p>Halver granatæblet og pres kernerne ud i en skål.</p><p>Server den vegetariske karryret med dampende varme ris og peanuts og granatæblekerner som topping. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme vand, ris og salt i en gryde.",
+    "ImageUrl": "images/recipe-images/294. Vegetarisk karryret med broccoli og granatæbler hertil ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Karry", "Broccoli", "Kokosmælk", "Ris", "Gryderet", "Hverdagsmad"]
+}

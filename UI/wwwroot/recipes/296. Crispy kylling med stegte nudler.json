@@ -1,0 +1,34 @@
+{
+    "Id": 296,
+    "Title": "Crispy kylling med stegte nudler",
+    "SubHeader": "Lækre, saftige og sprøde kyllingestykker vendt i pankorasp og serveret med stegte nudler med porre, gulerødder, broccoli, spidskål og sød chilisauce på toppen.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "porre", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "spidskål", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "nudler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "panko eller almindelig rasp", "PreparationNote": null },
+                { "Quantity": 450, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sesam- eller olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "rapsolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil skrællen af hvidløget og hak det fint. Rens og skyl porren og skær den i tynde skiver. Skræl gulerødderne og skær dem i tynde skiver. Skær små buketter af broccolien og snit spidskålen fint.</p><p>Kog nudlerne efter anvisningen på pakken.</p><p>Pisk ægget sammen i en dyb tallerken. Hæld raspen op i en anden dyb tallerken og vend med lidt salt og peber.</p><p>Del kyllingefileterne i halve og vend først i æg og herefter i rasp. Steg kyllingefileterne på en pande i en god sjat olie til de er sprøde og gyldne.</p><p>Varm en wok eller dyb pande op med lidt olie og svits alle grøntsagerne. Hvis du har sesamolie på lager så brug det. Det giver en virkelig god smag. Vend nudlerne sammen med grøntsagerne og smag til med salt og peber.</p><p>Server de crispy kyllingestykker med stegte nudler og top med sød chilisauce. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn skrælle gulerødderne. Ekstra smag: Top med friske koriander, friskpresset limesaft og soya.",
+    "ImageUrl": "images/recipe-images/296. Crispy kylling med stegte nudler.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Nudler", "Asiatisk", "Wok", "Hverdagsmad"]
+}

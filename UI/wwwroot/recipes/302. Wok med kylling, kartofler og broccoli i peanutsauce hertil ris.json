@@ -1,0 +1,33 @@
+{
+    "Id": 302,
+    "Title": "Wok med kylling, kartofler og broccoli i peanutsauce hertil ris",
+    "SubHeader": "En lækker wokret med kylling, kartofler, broccoli og porre i peanutsauce af karry, kokosmælk og peanutbutter. Serveret med ris.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "porre", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "peanutbutter", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Skær kyllingen i tern. Rens porren for jord, vask den grundigt og skær den i tynde skiver. Pil skrællen af hvidløget og hak det fint.</p><p>Varm en wok eller dyb gryde op med olivenolie og svits karryen. Tilsæt kylling og brun det af. Tilsæt porre og hvidløg og steg videre i et par minutter.</p><p>Tilsæt kokosmælk, bouillon og peanutbutter og lad det simre.</p><p>Skræl kartoflerne, skær dem i små tern og tilsæt dem retten.</p><p>Pluk små buketter af broccolien og skyl dem. Tilsæt broccolibuketterne og lad det hele simre under låg i ca. 10 min. Smag til med salt og peber.</p><p>Server wokretten i skåle med dampende varme ris. Velbekomme!</p>",
+    "Note": "Vælg fuldkornsris hvis du kan – vær opmærksom på længere kogetid. Tips til mindre børn: Lad dine børn skrælle kartoflerne. Ekstra smag: Top med limesaft. Du kan også bruge inderfilet eller lårfilet i stedet for kyllingefilet.",
+    "ImageUrl": "images/recipe-images/302. Wok med kylling, kartofler og broccoli i peanutsauce hertil ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Wok", "Asiatisk", "Ris", "Peanutbutter", "Hverdagsmad"]
+}
