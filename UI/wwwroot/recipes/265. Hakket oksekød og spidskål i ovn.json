@@ -1,0 +1,34 @@
+{
+    "Id": 265,
+    "Title": "Hakket oksekød og spidskål i ovn",
+    "SubHeader": "Retten er dejligt krydret med paprika, spidskommen, oregano og cayennepeber, og du kan servere den, som den er, eller med ris til.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "spidskål", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "muskatnød", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": "ca. 10 % fedt" },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "cayennepeber", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "persille", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kalvefond eller hønsebouillon", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil løg og hvidløg, og hak dem fint.</p><p>Skyl gulerødder, og skær dem i små tern.</p><p>Tag de yderste blade af spidskålen, hvis de er grimme, og hak den fint.</p><p>Varm lidt olie på en meget varm pande, og sauter gulerødder og spidskål i tre minutter. Gør det ad flere omgange.</p><p>Kom det i et ildfast fad.</p><p>Riv lidt muskatnød over.</p><p>Kom lidt mere olie på panden, og brun nu det hakkede oksekød. Tilsæt løg og hvidløg, og sauter.</p><p>Kom cayennepeber, spidskommen, paprika og oregano ved, og steg det hele et par minutter. Hæld det over i fadet.</p><p>Skyl persille, hak den, og kom den i fadet sammen med et drys salt og friskkværnet peber.</p><p>Vend det hele godt rundt, og hæld kalvefond ved.</p><p>Stil fadet i en forvarmet ovn ved 190 °C varmluft, og steg retten i ca. 30 minutter. Vend det gerne nogle gange undervejs, så kålen ikke bliver alt for mørk.</p><p>Server retten, som den er, eller med ris eller brød til.</p>",
+    "Note": "Det smager også godt at vende kogte ris i den færdige ret. Det giver retten mere fylde og får den til at række længere.",
+    "ImageUrl": "images/recipe-images/265. Hakket oksekød og spidskål i ovn.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Oksekød", "Spidskål", "Ovn", "Gulerødder", "Hverdagsmad"]
+}

@@ -1,0 +1,41 @@
+{
+    "Id": 268,
+    "Title": "Fyldt spidskål med kylling",
+    "SubHeader": "En skøn ret, hvor du udhuler et spidskål, fylder det med en god, krydret kødsauce og bager det hele i ovnen. Sundt og smagfuldt.",
+    "TotalMinutes": 55,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Spidskål",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": null, "Name": "spidskål", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kødsovs",
+            "Ingredients": [
+                { "Quantity": 2.5, "Unit": "dl", "Name": "spidskål", "PreparationNote": "indmad fra de fire halve spidskål" },
+                { "Quantity": 1, "Unit": null, "Name": "rødløg", "PreparationNote": "stort" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": null, "Name": "squash", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kylling", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 3, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "engelsk sauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": null, "Name": "citron", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og friskkværnet peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Fjern de yderste af spidskålenes blade, hvis de er grimme. Halver dem, men lad stokken blive på, da den holder kålen sammen.</p><p>Tag den inderste del ud af hver halve spidskål, så der kommer en lille fordybning i spidskålen.</p><p>Snit det inderste fra kålen fint. Du skal ikke bruge det hele, så gem resten på køl.</p><p>Pil løg og hvidløg, og hak dem fint.</p><p>Skyl squashen, og skær den i små tern.</p><p>Varm en stor pande op, og brun det hakkede kyllingekød i lidt olie.</p><p>Tilsæt løg og hvidløg, og lad det sautere med et par minutter.</p><p>Tilsæt squash, spidskål, paprika og karry, og svits det et minuts tid under omrøring.</p><p>Kom de hakkede tomater i sammen med vand, bouillonterning, engelsk sauce og tomatpasta.</p><p>Bring retten i kog, og lad den simre ca. 10-15 minutter.</p><p>Smag til med lidt friskpresset citronsaft, salt og friskkværnet peber.</p><p>Tænd ovnen på 200 °C varmluft.</p><p>Læg de halve spidskål i et ildfast fad. Fyld kødsovs i hver halve spidskål.</p><p>Bag nu de fyldte spidskål i ca. 25 minutter i ovnen.</p><p>Server retten, som den er, eller med kogte ris.</p>",
+    "Note": "I stedet for hakket kylling kan retten også laves med hakket oksekød eller kalve- og svinekød. Har du en rest af en klassisk kødsovs, kan du også komme den i spidskålene. For at strække mængden af kød kan du blande kogte ris i kødsovsen.",
+    "ImageUrl": "images/recipe-images/268. Fyldt spidskål med kylling.jpg",
+    "Source": "Madens verden: aftensmad - Katrine Rørby Madsen",
+    "Keywords": ["Spidskål", "Kylling", "Ovn", "Kødsovs", "Hverdagsmad"]
+}
