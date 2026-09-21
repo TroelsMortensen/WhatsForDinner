@@ -1,0 +1,36 @@
+{
+    "Id": 290,
+    "Title": "Bønnebøffer med græsk pastasalat og tzatziki",
+    "SubHeader": "En lækker vegetarisk sommerret med pastasalat og bøffer - helt uden kød! Her får du opskriften på lækre vegetarbøffer med kidneybønner, paprika og rygeost.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "fuldkornspasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "cherrytomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "kalamataoliven", "PreparationNote": "uden sten" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 60, "Unit": "g", "Name": "havregryn", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "rygeost", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "tzatziki", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "rapsolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog pastaerne efter anvisningen på pakken og overhæld dem herefter med koldt vand.</p><p>Skyl agurken og tomaterne og pil skrællen af rødløget. Skær agurken, tomaterne og halvdelen af rødløget efter eget ønske - gem den anden halvdel af rødløget til bønnebøfferne.</p><p>Vend pastaerne sammen med agurk, tomat, rødløg, oliven, en god sjat olivenolie, salt og peber.</p><p>Skyl kidneybønnerne og skær den anden halvdel af rødløget i grove tern. Kom kidneybønner, løg, hvidløg, paprika, havregryn, æg, rygeost, salt og peber sammen i en blender. Du kan også bruge en stavblender. Blend det hele sammen, til du har en fast og ensartet masse.</p><p>Varm en pande op med en blanding af rapsolie og olivenolie. Steg en lille prøvedelle for at smage til. Steg herefter bønnebøfferne ved middelvarme, til de har en fast konsistens og en gylden overflade på begge sider.</p><p>Server bønnebøfferne med den græske pastasalat og tzatziki. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn skylle agurken og tomaterne og pille skrællen af rødløget.",
+    "ImageUrl": "images/recipe-images/290. Bønnebøffer med græsk pastasalat og tzatziki.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Pasta", "Græsk", "Bønner", "Salat", "Hverdagsmad"]
+}

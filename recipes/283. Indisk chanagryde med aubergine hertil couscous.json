@@ -1,0 +1,37 @@
+{
+    "Id": 283,
+    "Title": "Indisk chanagryde med aubergine hertil couscous",
+    "SubHeader": "Chana betyder kikærter på indisk. En lækker indisk vegetarret med masser af krydderier i en sauce af tomater, aubergine og kikærter, serveret med couscous.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "aubergine", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænet" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 90, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "citron", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog couscous efter anvisningen på pakken.</p><p>Pil skrællen af hvidløg og løg og hak det fint. Skyl auberginen og skær den i små tern.</p><p>Varm en gryde op med en god sjat olie og svits spidskommen, karry, koriander, hvidløg, løg og aubergine.</p><p>Hæld vandet fra kikærterne og skyl dem. Tilsæt friskrevet ingefær, hakkede tomater, tomatpuré, vand, smuldret bouillon og kikærter til gryden og lad gryderetten simre i ca. 20 min. eller længere. Smag til med citronsaft, salt og peber.</p><p>Server chanagryden med couscous og top evt. med friske krydderurter, hvis du har det på lager. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme couscous, vand og salt i en gryde og smage retten til.",
+    "ImageUrl": "images/recipe-images/283. Indisk chanagryde med aubergine hertil couscous.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Indisk", "Kikærter", "Aubergine", "Couscous", "Gryderet", "Hverdagsmad"]
+}

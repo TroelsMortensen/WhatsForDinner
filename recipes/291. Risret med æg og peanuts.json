@@ -1,0 +1,32 @@
+{
+    "Id": 291,
+    "Title": "Risret med æg og peanuts",
+    "SubHeader": "En lækker wokret med masser af grøntsager, æg, ris og peanuts på toppen.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "spidskål", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "bønnespirer", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "soya", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "fiskesauce", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Pil skrællen af løg og hvidløg. Skær løget i tynde både og hak hvidløget fint.</p><p>Snit spidskålen fint - brug evt. et mandolinjern. Skræl gulerødderne og riv dem på den grove side af et rivejern. Skyl bønnespirerne.</p><p>Varm en wok op med olivenolie. Slå æggene ud i wokken og rør det sammen til røræg. Stil æggene til siden.</p><p>Kom lidt mere olie i wokken og svits karry, løg og hvidløg. Tilsæt spidskål, gulerødder og bønnespirer. Tilsæt soya og fiskesauce. Vend til sidst røræg og ris i retten.</p><p>Server risretten med peanuts på toppen og friske krydderurter, hvis du har dem på lager. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme vand, ris og salt i en gryde. Ekstra smag: Tilsæt friskhakket chili.",
+    "ImageUrl": "images/recipe-images/291. Risret med æg og peanuts.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Asiatisk", "Ris", "Wok", "Karry", "Hverdagsmad"]
+}

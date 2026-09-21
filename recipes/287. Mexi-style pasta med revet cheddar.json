@@ -1,0 +1,31 @@
+{
+    "Id": 287,
+    "Title": "Mexi-style pasta med revet cheddar",
+    "SubHeader": "En hurtig og lækker pastaret med grøntsager, kidneybønner, masser af tex-mex-smag og revet cheddarost på toppen.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "fuldkornspastaskruer", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 285, "Unit": "g", "Name": "løse majs", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "taco krydderimix", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "cheddarost", "PreparationNote": "revet" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog pastaerne efter anvisningen på pakken.</p><p>Pil skrællen af løget, og hak det fint. Skyl peberfrugten, fjern kernehuset, og skær kødet i små tern. Kom kidneybønnerne i en si, og skyl dem med koldt vand.</p><p>Varm en pande op med olivenolie, og svits løg og rød peber. Tilsæt hakkede tomater, kidneybønner, majs og tacomix. Lad saucen simre, til pastaerne er færdige. Smag til med salt og peber.</p><p>Hæld vandet fra pastaerne, og vend dem sammen med sovsen.</p><p>Server pastaretten i skåle, og top med revet cheddar. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn dække et fint bord. Ekstra smag: Top med creme fraiche og frisk koriander.",
+    "ImageUrl": "images/recipe-images/287. Mexi-style pasta med revet cheddar.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Pasta", "Mexicansk", "Vegetar", "Cheddar", "Hurtig", "Hverdagsmad"]
+}

@@ -1,0 +1,34 @@
+{
+    "Id": 284,
+    "Title": "One pot-couscous med kokosmælk, grøntsager og kikærter",
+    "SubHeader": "En cremet og smagfuld couscousret med peberfrugt, squash, kikærter, hakkede tomater, kokosmælk, spidskommen, paprika og mangochutney. Det hele tilberedes i én gryde.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "squash", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænet" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "mangochutney", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil skrællen af løgene og hak dem fint. Skyl peberfrugt og squash og skær begge dele i små tern.</p><p>Varm en gryde op med en god sjat olivenolie og svits spidskommen, paprika, løg, peberfrugt og squash. Tilsæt drænede kikærter, hakkede tomater, kokosmælk, smuldret bouillon og mangochutney.</p><p>Bring hele molevitten i kog. Tilsæt couscous, sluk for blusset og læg låg på. Lad gryden stå med låg på i ca. 15 min. Rør gerne i gryden undervejs. Smag til med salt og peber.</p><p>Server den lækre one pot-couscous i skåle og top evt. med friskhakket persille. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn pille skrællen af løgene og skylle peberfrugt og squash. Ekstra smag: Top med friskhakket persille og mangochutney.",
+    "ImageUrl": "images/recipe-images/284. One pot-couscous med kokosmælk, grøntsager og kikærter.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Couscous", "Kikærter", "Kokosmælk", "One Pot", "Hverdagsmad"]
+}

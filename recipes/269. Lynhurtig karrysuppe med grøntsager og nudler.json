@@ -1,0 +1,30 @@
+{
+    "Id": 269,
+    "Title": "Lynhurtig karrysuppe med grøntsager og nudler",
+    "SubHeader": "En lynhurtig og lækker asiatisk-inspireret suppe med karry, kokosmælk, færdigsnittede grøntsager, nudler og peanuts på toppen.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "frossen grøntsagsbund", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": null, "Name": "grøntsagsbouillonterning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soya", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "nudler", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil skrællen af hvidløgene, og hak dem fint.</p><p>Varm en gryde op med lidt olie, og svits hvidløg, karry og grøntsager. Tilsæt kokosmælk, vand, smuldret bouillon og soya, og bring det hele i kog.</p><p>Kog nudlerne efter anvisningen på pakken.</p><p>Server suppen i skåle med nudler, og top med peanuts.</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn dække et fint bord. Ekstra smag: Top med limesaft og frisk koriander.",
+    "ImageUrl": "images/recipe-images/269. Lynhurtig karrysuppe med grøntsager og nudler.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Suppe", "Karry", "Vegetar", "Nudler", "Kokosmælk", "Hverdagsmad"]
+}

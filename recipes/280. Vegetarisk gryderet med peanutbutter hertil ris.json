@@ -1,0 +1,35 @@
+{
+    "Id": 280,
+    "Title": "Vegetarisk gryderet med peanutbutter hertil ris",
+    "SubHeader": "En nem gryderet med masser af grøntsager og kikærter vendt i en sovs af hakkede tomater, kokosmælk, spidskommen, paprika og peanutbutter.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "revne gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "peanutbutter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Pil skrællen af rødløg og hvidløg og hak begge dele fint. Skyl peberfrugten, fjern kernerne og skær kødet i små tern.</p><p>Varm en gryde op med olie og svits paprika, spidskommen, rødløg, hvidløg og peberfrugt. Tilsæt de revne gulerødder og lad dem stege med i et par minutter.</p><p>Tilsæt hakkede tomater, kokosmælk, smuldret bouillon og peanutbutter og lad det hele simre i ca. 15 min.</p><p>Kom kikærterne i en si og skyl dem. Tilsæt kikærterne og lad retten simre i yderligere 5 min. eller længere, hvis du har tid. Smag til med salt og peber.</p><p>Server den vegetariske gryderet med dampende varme ris. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme ris, vand og salt i en gryde og smage retten til. Ekstra smag: Top med friske krydderurter og peanuts.",
+    "ImageUrl": "images/recipe-images/280. Vegetarisk gryderet med peanutbutter hertil ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Peanutbutter", "Kikærter", "Gryderet", "Ris", "Kokosmælk", "Hverdagsmad"]
+}

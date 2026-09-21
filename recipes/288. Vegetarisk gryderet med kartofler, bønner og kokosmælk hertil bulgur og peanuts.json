@@ -1,0 +1,36 @@
+{
+    "Id": 288,
+    "Title": "Vegetarisk gryderet med kartofler, bønner og kokosmælk hertil bulgur og peanuts",
+    "SubHeader": "En lækker gryderet med kartofler og bønner i en sovs af kokosmælk, hakkede tomater, karry, paprika og spidskommen. Serveret med bulgur og peanuts på toppen.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 450, "Unit": "g", "Name": "frosne bønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "peanuts", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog bulguren efter anvisningen på pakken.</p><p>Skræl kartoflerne og skær i små tern. Pil skrællen af løget og hvidløgene og hak dem fint.</p><p>Varm en gryde op med lidt olivenolie og svits spidskommen, karry og paprika. Tilsæt hakkede tomater, kokosmælk, bouillon og kartoffelternene. Lad det simre i ca. 15 minutter.</p><p>Tilsæt de frosne bønner og lad retten simre yderligere i 10 minutter.</p><p>Rør majsstivelsen sammen med en lille smule vand i et glas og hæld det i sovsen under omrøring. Smag til med salt og peber.</p><p>Server den vegetariske gryderet med bulguren og peanuts på toppen. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn skrælle kartoflerne. Ekstra smag: Top med friske krydderurter.",
+    "ImageUrl": "images/recipe-images/288. Vegetarisk gryderet med kartofler, bønner og kokosmælk hertil bulgur og peanuts.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Gryderet", "Kartofler", "Bønner", "Kokosmælk", "Bulgur", "Hverdagsmad"]
+}

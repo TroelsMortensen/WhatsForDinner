@@ -1,0 +1,39 @@
+{
+    "Id": 279,
+    "Title": "Vegetargryde med æble og kikærter hertil ris og spidskålssalat",
+    "SubHeader": "En virkelig lækker og smagfuld vegetargryde med kartofler, æbler, soltørrede tomater og kikærter vendt i en sovs af kokosmælk, tomatpuré, oregano og timian. Serveret med ris og en sprød spidskålssalat med koriander og limesaft.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "æbler", "PreparationNote": null },
+                { "Quantity": 90, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "soltørrede tomater i olie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "spidskål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "potte", "Name": "friske koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil skrællen af løg og hvidløg, skræl kartoflerne og skyl æblerne. Hak løg og hvidløg fint og skær kartofler og æbler i små tern.</p><p>Varm en gryde op med olie og svits løg, hvidløg, kartofler og æbler i et par minutter. Tilsæt tomatpuré, kokosmælk, vand, smuldret bouillon, oregano og timian og lad det hele simre i ca. 20 min.</p><p>Kog risene efter anvisning på posen.</p><p>Hak de soltørrede tomater fint. Kom kikærterne i en si og overhæld dem med vand. Tilsæt de soltørrede tomater og kikærter i sovsen og lad den simre i ca. 5 min. Smag til med salt og peber.</p><p>Snit spidskålen fint - brug evt. et mandolinjern, men pas på fingrene! Hak koriander fint og vend dem sammen med spidskål, friskpresset limesaft, olie, salt og peber.</p><p>Server vegetargryden med dampende varme ris og spidskålssalat. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme ris, vand og salt i en gryde og smage retten til.",
+    "ImageUrl": "images/recipe-images/279. Vegetargryde med æble og kikærter hertil ris og spidskålssalat.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Kikærter", "Æble", "Gryde", "Ris", "Spidskål", "Hverdagsmad"]
+}

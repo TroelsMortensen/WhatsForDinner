@@ -1,0 +1,35 @@
+{
+    "Id": 292,
+    "Title": "Vegetarisk gryderet med bulgur",
+    "SubHeader": "En lækker vegetarisk gryderet med masser af grøntsager og kikærter og smag fra paprika, karry, spidskommen og kokosmælk. Serveret med bulgur.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "gul peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog bulguren efter anvisningen på pakken.</p><p>Skræl gulerødderne og pil skrællen af løget. Skyl peberfrugterne og fjern kernehuset. Skær det hele i små tern.</p><p>Varm en gryde op med olivenolie og svits karry, paprika, spidskommen, gulerødder, løg og peberfrugter. Tilsæt hakkede tomater, kokosmælk og bouillon og lad retten simre i ca. 20 min.</p><p>Kom kikærterne i en si og skyl dem med vand. Tilsæt kikærterne og lad dem simre med i yderligere 5 min. Smag til med salt og peber.</p><p>Server den vegetariske gryderet med dampende varme bulgur. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn skrælle gulerødderne og skylle peberfrugterne.",
+    "ImageUrl": "images/recipe-images/292. Vegetarisk gryderet med bulgur.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Gryderet", "Kikærter", "Bulgur", "Kokosmælk", "Hverdagsmad"]
+}
