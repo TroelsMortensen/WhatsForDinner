@@ -1,0 +1,34 @@
+{
+    "Id": 324,
+    "Title": "Samosaer med rissalat og raita",
+    "SubHeader": "Sprøde samosaer eller forårsruller serveret med rissalat med peberfrugt, ærter og gulerødder samt hjemmerørt raita med agurk og mynte.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "frosne ærter", "PreparationNote": null },
+                { "Quantity": 8, "Unit": "stk", "Name": "samosaer eller forårsruller", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "potte", "Name": "frisk mynte", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "yoghurt naturel", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken. Hak løg og hvidløg fint. Skyl og rens peberfrugten, skræl gulerødderne og skær begge dele i tynde strimler. Svits løg, hvidløg og karry i et par minutter i lidt olivenolie på en pande.</p><p>Tilsæt peberfrugt, gulerødder og frosne ærter og steg videre, til det hele er brunet godt af. Bland grøntsagerne med risene og smag til med salt og peber.</p><p>Opvarm en god sjat olie i en dyb pande. Steg samosaer eller forårsruller, til de er gyldne, og læg dem til afdrypning på lidt køkkenrulle. Husk at vende dem undervejs. Du kan også lave dem i ovnen efter anvisningen på pakken.</p><p>Og nu til raitaen. Skyl og hak mynten fint – du bestemmer selv mængden alt efter smag. Vask agurken, del den på langs og fjern kernerne. Riv agurken groft og pres så meget væde ud af den revne agurk, som du kan. Du kan evt. vride agurken i et rent viskestykke.</p><p>Bland agurk, mynte og yoghurt sammen i en skål og smag til med salt. Servér de sprøde samosaer med raita og rissalat. Velbekomme!</p>",
+    "Note": "Opgaver til børn i køkkenet: Lad dine børn være med til at lave raita. De kan skylle agurken, rive den og presse væden fra. Lad dem røre det hele sammen og smage raitaten til.",
+    "ImageUrl": "images/recipe-images/324. Samosaer med rissalat og raita.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Indisk", "Samosa", "Ris", "Hverdagsmad"]
+}

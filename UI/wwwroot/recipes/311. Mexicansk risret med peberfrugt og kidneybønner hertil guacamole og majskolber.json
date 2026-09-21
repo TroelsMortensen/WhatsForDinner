@@ -1,0 +1,31 @@
+{
+    "Id": 311,
+    "Title": "Mexicansk risret med peberfrugt og kidneybønner hertil guacamole og majskolber",
+    "SubHeader": "En smagfuld vegetarisk risret med peberfrugt, kidneybønner, hakkede tomater og fajita-krydderier. Serveres med guacamole og majskolber. Vælg gerne fuldkornsris, men vær opmærksom på længere kogetid.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "blandede peberfrugter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "fajita spice mix", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "majskolber", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "guacamole", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på posen.</p><p>Pil skrællen af løget og skær det i tern. Skyl peberfrugten, fjern kernehuset og skær peberfrugten i små tern.</p><p>Varm en dyb pande op med lidt olivenolie og svits løg og peberfrugt.</p><p>Skyl kidneybønnerne og hæld dem i panden sammen med hakkede tomater og fajita-krydderiet. Lad det hele simre i ca. 10 minutter og smag til med salt og peber.</p><p>Kog majskolberne efter anvisning på pakken og skær dem herefter i halve.</p><p>Vend risene og bønnegryden sammen. Server retten i skåle toppet med guacamole og majskolber som tilbehør. Du kan også tilføje friske koriander og creme fraiche, hvis du har det på lager. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme vand, ris og salt i en gryde. De kan også skylle kidneybønnerne. Ekstra smag: Top med creme fraiche og friske koriander.",
+    "ImageUrl": "images/recipe-images/311. Mexicansk risret med peberfrugt og kidneybønner hertil guacamole og majskolber.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Mexicansk", "Ris", "Bønner", "Fajita", "Hverdagsmad"]
+}

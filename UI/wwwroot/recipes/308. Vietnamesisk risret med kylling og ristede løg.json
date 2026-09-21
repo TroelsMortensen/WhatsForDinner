@@ -1,0 +1,35 @@
+{
+    "Id": 308,
+    "Title": "Vietnamesisk risret med kylling og ristede løg",
+    "SubHeader": "En hurtig og lækker ret med karry, kokos, kylling og grønt. Toppet med dekorative gulerodsstrimler og ristede løg.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "champignon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "fiskesauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "økologisk lime", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "potte", "Name": "friske koriander", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "ristede løg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sukker", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken. Rens og vask champignonerne og skær dem i kvarte. Hak løget i grove tern.</p><p>Skær kyllingen i små tern og husk at vaske fingre og køkkenredskaber efterfølgende.</p><p>Steg champignoner, løg og kylling i lidt olivenolie i en gryde. Tilsæt karry, kokosmælk, fiskesauce, vand og hønsebouillon.</p><p>Riv limeskal på den fine side af rivejernet og tilsæt den i sovsen. Smag til med limesaft, lidt sukker og evt. mere fiskesauce og karry.</p><p>Skræl gulerødderne og smid de yderste og beskidte skræller væk. Fortsæt herefter med at skrælle gulerødderne i tynde strimler og brug strimlerne som pynt.</p><p>Server retten med dampende ris og top med gulerødder, friske koriander og ristede løg. Velbekomme!</p>",
+    "Note": "Opgaver til mindre børn i køkkenet: Lad dine børn rense og skære champignoner i stykker. De kan også lave gulerodsstrimler. Vi har brugt kyllingeinderfilet, men har du travlt, kan du også bruge kylling i tern.",
+    "ImageUrl": "images/recipe-images/308. Vietnamesisk risret med kylling og ristede løg.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Karry", "Kokosmælk", "Hverdagsmad"]
+}

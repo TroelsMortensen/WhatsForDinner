@@ -16,7 +16,7 @@ Run these tasks in order as separate subagents. Wait for each to finish before s
 
 ## Paste tasks here
 
-For each of the following numbered points, use this task description, with the link in the points
+For each of the following numbered points in Task data section, use the below Standard task description, with the link in the points list.
 
 ### Standard task description
 
@@ -24,16 +24,28 @@ read @ConvertRecipePrompt.md on instructions. The recipe to convert is attached 
 
 ### Task data
 
-1. https://mambeno.dk/opskrifter/vegetarisk-gryderet-med-peberfrugt-kartofler-og-kikaerter-hertil-ris/
-2. https://mambeno.dk/opskrifter/vegetarisk-karryret-med-broccoli-og-granataebler-hertil-ris/
-3. https://mambeno.dk/opskrifter/stegte-nudler-med-kylling-og-aeg/
-4. https://mambeno.dk/opskrifter/crispy-kylling-med-stegte-nudler/
-5. https://mambeno.dk/opskrifter/teriyakilaks-med-lynstegte-groentsager-og-ris/
-6. https://mambeno.dk/opskrifter/stegte-dumplings-med-moerksej-og-smagfuld-nudelsalat/
-7. https://mambeno.dk/opskrifter/orange-chicken-med-ris/
-8. https://mambeno.dk/opskrifter/max-15-min-masala-med-kylling-kokosmaelk-og-ris/
-9. https://mambeno.dk/opskrifter/kylling-i-karry-med-blomkaal-guleroedder-og-peberfrugt-hertil-ris/
-10. https://mambeno.dk/opskrifter/wok-med-kylling-kartofler-og-broccoli-i-peanutsauce-hertil-ris/
+1. https://mambeno.dk/opskrifter/vegetarisk-risret-med-karry/
+2. https://mambeno.dk/opskrifter/stegt-kylling-med-groentsager-og-oesterssauce-hertil-ris/
+3. https://mambeno.dk/opskrifter/vegetarisk-wok-med-groentsager-oesterssauce-og-cashewnoedder/
+4. https://mambeno.dk/opskrifter/karamelliseret-tofu-med-stegt-groent-i-karrysovs-hertil-vilde-ris/
+5. https://mambeno.dk/opskrifter/lynhurtig-wok-med-kikaerter-og-kokosmaelk/
+6. https://mambeno.dk/opskrifter/vietnamesisk-risret-med-kylling-og-ristede-log/
+7. https://mambeno.dk/opskrifter/kokos-peanutnudler-kylling/
+8. https://mambeno.dk/opskrifter/super-nem-chicken-tikka-masala-til-to-dage/
+9. https://mambeno.dk/opskrifter/mexicansk-risret-med-peberfrugt-og-kidneyboenner-hertil-guacamole-og-majskolber/?_gl=1*1jsrhzb*_up*MQ..*_ga*NDQ0MjYwNTAzLjE3ODY2OTIyMDc.*_ga_MFPYKW15ZT*czE3ODgzNTg4NjEkbzIkZzEkdDE3ODgzNTg4NzUkajQ2JGwwJGgw
+10. https://mambeno.dk/opskrifter/vegetarisk-risret-med-tacokrydderi/?_gl=1*1jsrhzb*_up*MQ..*_ga*NDQ0MjYwNTAzLjE3ODY2OTIyMDc.*_ga_MFPYKW15ZT*czE3ODgzNTg4NjEkbzIkZzEkdDE3ODgzNTg4NzUkajQ2JGwwJGgw
+11. https://mambeno.dk/opskrifter/fajita-med-kidneyboenner-og-spidskaal-hertil-ris-og-creme-fraiche/?_gl=1*1jsrhzb*_up*MQ..*_ga*NDQ0MjYwNTAzLjE3ODY2OTIyMDc.*_ga_MFPYKW15ZT*czE3ODgzNTg4NjEkbzIkZzEkdDE3ODgzNTg4NzUkajQ2JGwwJGgw
+12. https://mambeno.dk/opskrifter/fyldig-fajitasuppe-med-sorte-boenner-hertil-hjemmelavede-tortillachips/?_gl=1*1jsrhzb*_up*MQ..*_ga*NDQ0MjYwNTAzLjE3ODY2OTIyMDc.*_ga_MFPYKW15ZT*czE3ODgzNTg4NjEkbzIkZzEkdDE3ODgzNTg4NzUkajQ2JGwwJGgw
+13. https://mambeno.dk/opskrifter/mexicansk-gryderet-med-kylling-og-kidneyboenner/?_gl=1*1jsrhzb*_up*MQ..*_ga*NDQ0MjYwNTAzLjE3ODY2OTIyMDc.*_ga_MFPYKW15ZT*czE3ODgzNTg4NjEkbzIkZzEkdDE3ODgzNTg4NzUkajQ2JGwwJGgw
+14. https://mambeno.dk/opskrifter/tacogryde-med-ris-majs-avocado-og-tortillachips-til-to-dage/?_gl=1*qjctih*_up*MQ..*_ga*NDQ0MjYwNTAzLjE3ODY2OTIyMDc.*_ga_MFPYKW15ZT*czE3ODgzNTg4NjEkbzIkZzEkdDE3ODgzNTg4NzUkajQ2JGwwJGgw
+15. https://mambeno.dk/opskrifter/lahmancun-med-kylling-og-persilledressing/
+16. https://mambeno.dk/opskrifter/tunesisk-inspireret-gryderet-med-soede-kartofler-hertil-couscous/
+17. https://mambeno.dk/opskrifter/tyrkiskinspireret-pastaret-med-hakket-kylling/
+18. https://mambeno.dk/opskrifter/marokkansk-kylling-serveret-med-tomatsovs-og-bulgur/
+19. https://mambeno.dk/opskrifter/groentsagsdeller-med-tabbouleh-ristet-broed-og-hummus/
+20. https://mambeno.dk/opskrifter/smagfuld-kyllingegryde-med-groentsager-og-oliven-hertil-couscous/
+21. https://mambeno.dk/opskrifter/kofta-med-kylling-hertil-bulgur-sproed-salat-og-hvidloegsdressing/
+22. https://mambeno.dk/opskrifter/samosaer-med-rissalat-og-raita/
 
 
 ## Orchestrator rules

@@ -1,0 +1,33 @@
+{
+    "Id": 314,
+    "Title": "Fyldig fajitasuppe med sorte bønner hertil hjemmelavede tortillachips",
+    "SubHeader": "Lækker mexicansk-inspireret suppe med en færdig fajitablanding, hakkede tomater og varme krydderier. Suppen bliver serveret med hjemmelavede tortillachips og creme fraiche.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 450, "Unit": "g", "Name": "færdig fajitablanding", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "fuldkornstortillas", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "creme fraiche 18 %", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Varm en gryde op med olivenolie og svits spidskommen og paprika. Tilsæt fajita-blandingen og lad det stege et par minutter.</p><p>Kom de sorte bønner i en si og skyl dem med vand. Tilsæt hakkede tomater, vand, bouillon, sorte bønner og oregano og lad suppen simre under låg i ca. 15 min.</p><p>Tænd ovnen på 175 grader varmluft.</p><p>Pensl tortillapandekagerne med olivenolie og skær eller klip dem herefter i trekanter. Fordel stykkerne på en bageplade eller to beklædt med bagepapir og drys med salt.</p><p>Bag tortillachipsene ved 175 grader i ca. 7 min. til de er gyldne og sprøde.</p><p>Blend suppen og smag til med salt og peber.</p><p>Server suppen i skåle med hjemmelavede tortillachips og creme fraiche på toppen. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn pensle tortillapandekagerne. Ekstra smag: Top med friske koriander og limesaft.",
+    "ImageUrl": "images/recipe-images/314. Fyldig fajitasuppe med sorte bønner hertil hjemmelavede tortillachips.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Mexicansk", "Suppe", "Bønner", "Fajita", "Hverdagsmad"]
+}

@@ -1,0 +1,35 @@
+{
+    "Id": 317,
+    "Title": "Lahmancun med kylling og persilledressing",
+    "SubHeader": "Sprøde tyrkiske pizzaer toppet med hakket kyllingekød rørt med grøntsager og krydderier og serveret med vindruer som tilbehør.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kyllingekød", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "stk", "Name": "tortillapandekager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "potte", "Name": "persille", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "creme fraiche 9 %", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hjertesalat", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "vindruer", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil skrællen af løg og hvidløg og hak begge dele groft. Skyl peberfrugt og tomater. Skær peberfrugten og halvdelen af tomaterne i grove tern - stil resten af tomaterne til side til senere.</p><p>Kom det hele i en minihakker og giv det en snurretur eller blend det med en stavblender. Kom den blendede grøntsagsblanding i en si og sigt væden fra.</p><p>Rør grøntsagerne sammen med hakket kyllingekød, spidskommen, paprika, salt og peber.</p><p>Tænd ovnen på 240 grader varmluft.</p><p>Fordel farsen på tortillapandekagerne og læg dem på en bageplade beklædt med bagepapir. Bag dem i ovnen i ca. 10 min.</p><p>Imens pizzaerne bager: Skyl persillen, hak den fint og rør det sammen med fraiche, salt og peber.</p><p>Skyl agurken og hjertesalaten. Skær de resterende tomater og agurken i skiver og snit hjertesalaten fint. Skyl vindruerne.</p><p>Server de sprøde lahmacun med salat, agurk, tomat og persilledressing på toppen og vindruer som tilbehør. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme fyldet i tortillapandekagerne.",
+    "ImageUrl": "images/recipe-images/317. Lahmancun med kylling og persilledressing.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Tyrkisk", "Pizza", "Tortilla", "Hverdagsmad"]
+}

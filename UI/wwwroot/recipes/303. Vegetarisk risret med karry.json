@@ -1,0 +1,32 @@
+{
+    "Id": 303,
+    "Title": "Vegetarisk risret med karry",
+    "SubHeader": "En super nem og lækker risret med fuldkornsris, kikærter, spidskål, snackpeber, ærter og majs. Stegt sammen med karry og hvidløg, der giver masser af smag.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "fuldkornsris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "snackpeber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "spidskål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "frosne ærter", "PreparationNote": null },
+                { "Quantity": 285, "Unit": "g", "Name": "løse majs", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Skyl snackpeber og skær i små tern. Pil skrællen af løg og hvidløg og hak det fint. Snit spidskålen fint - brug evt. et mandolinjern.</p><p>Varm en wok eller dyb pande op med olivenolie og svits karryen. Tilsæt snackpeber, løg, hvidløg og spidskål og steg det i ca. 5 min.</p><p>Kom kikærterne i en si og skyl dem. Tilsæt kikærter, ærter og majs og lad det hele stege i ca. 10 min.</p><p>Vend risene sammen med grøntsagerne og smag til med salt og peber.</p><p>Server risretten i skåle og top evt. med friske krydderurter, hvis du har det på lager. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme vand, ris og salt i en gryde. Ekstra smag: Top med friske krydderurter - f.eks. koriander.",
+    "ImageUrl": "images/recipe-images/303. Vegetarisk risret med karry.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Karry", "Ris", "Kikærter", "Wok", "Hverdagsmad"]
+}

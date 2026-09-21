@@ -1,0 +1,33 @@
+{
+    "Id": 310,
+    "Title": "Super nem chicken tikka masala - til to dage",
+    "SubHeader": "En ekstra nem indisk chicken tikka masala med færdiglavet tikka masala-sauce, kylling, blomkål og kikærter. Serveres med ris og creme fraiche. Opskriften er til to dage.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 700, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "blomkål", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "tikka masala-sauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "creme fraiche 9 %", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Skær kyllingen i grove tern. Husk at vaske skærebræt og kniv grundigt efter brug.</p><p>Hak løg og hvidløg fint. Skær stokken af blomkålen og skær eller knæk små buketter af.</p><p>Steg løg, hvidløg og kylling et par minutter i lidt olivenolie i en gryde. Tilsæt herefter blomkålen og lad det stege i 5 minutter, til kødet og blomkålen har fået lidt farve.</p><p>Tilsæt tikka masala-sauce, hakkede tomater, vand og skyllede kikærter, og lad saucen simre i ca. 10 minutter.</p><p>Server med ris og en klat creme fraiche og lidt grønt på toppen, hvis du har det på lager. Velbekomme!</p>",
+    "Note": "Retten kan fryses. Husk at gemme halvdelen til i morgen. Opgaver til børn i køkkenet: Lad dine børn være med til at plukke små buketter af blomkålen. De kan også smage saucen til. Selvom der normalt hører koriander til retten, synes de fleste børn, at koriander smager som shampoo – så lad ungerne smage, før du pynter deres tallerken.",
+    "ImageUrl": "images/recipe-images/310. Super nem chicken tikka masala - til to dage.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Indisk", "Tikka Masala", "Ris", "Kikærter", "Hverdagsmad"]
+}

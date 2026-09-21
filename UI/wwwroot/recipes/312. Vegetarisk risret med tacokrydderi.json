@@ -1,0 +1,29 @@
+{
+    "Id": 312,
+    "Title": "Vegetarisk risret med tacokrydderi",
+    "SubHeader": "En lækker risret med spidskål, rød peberfrugt, gulerødder og majs stegt med tacokrydderi, der giver masser af smag. Vælg gerne fuldkornsris, men vær opmærksom på længere kogetid.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "spidskål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 285, "Unit": "g", "Name": "løse majs", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "taco krydderimix", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på posen.</p><p>Snit spidskålen fint - brug evt. et mandolinjern (pas på fingrene!). Skyl peberfrugten og pil skrællen af løget. Skær peberfrugt og løg i små tern.</p><p>Varm en dyb pande eller wok op med olivenolie og steg alle grøntsagerne.</p><p>Vend risene sammen med grøntsagerne og smag til med tacokrydderi, salt og peber.</p><p>Server den vegetariske risret og top evt. med friske krydderurter, hvis du har det på lager. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme vand, ris og salt i en gryde. Ekstra smag: Top med friske krydderurter.",
+    "ImageUrl": "images/recipe-images/312. Vegetarisk risret med tacokrydderi.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Mexicansk", "Ris", "Taco", "Hverdagsmad"]
+}

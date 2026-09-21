@@ -1,0 +1,32 @@
+{
+    "Id": 304,
+    "Title": "Stegt kylling med grøntsager og østerssauce hertil ris",
+    "SubHeader": "En super simpel og lækker ret med kylling i tern, peberfrugter, squash og østerssauce. Serveret med ris og cashewnødder.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "fersk kylling", "PreparationNote": "i tern" },
+                { "Quantity": 3, "Unit": "stk", "Name": "blandede peberfrugter", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "squash", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "østerssauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 45, "Unit": "g", "Name": "cashewnødder", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Varm en pande op med olivenolie og steg kyllingen.</p><p>Imens kyllingen steger: Skyl peberfrugterne og squashen og skær begge dele i tern. Pil skrællen af løg og hvidløg og hak det fint.</p><p>Tilsæt peberfrugt, squash, løg og hvidløg og lad det stege sammen med kyllingen i ca. 15 min.</p><p>Rør østerssauce og vand sammen og tilsæt det retten. Lad det simre i ca. 10 min. og smag til med salt og peber.</p><p>Server med dampende varme ris og cashewnødder på toppen. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn skylle peberfrugterne og squashen. Ekstra smag: Top med forårsløg i skiver og lidt soya.",
+    "ImageUrl": "images/recipe-images/304. Stegt kylling med grøntsager og østerssauce hertil ris.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Asiatisk", "Ris", "Østerssauce", "Hverdagsmad"]
+}

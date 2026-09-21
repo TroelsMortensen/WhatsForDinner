@@ -1,0 +1,28 @@
+{
+    "Id": 307,
+    "Title": "Lynhurtig wok med kikærter og kokosmælk",
+    "SubHeader": "En super nem vegetarisk wok med frossen wokmix, kikærter og kokosmælk. Serveret med ris.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "frossen wokmix med rød karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "rød karrypasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "soya", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Steg nu alle grøntsager i en dyb pande eller wok sammen med karrypasta i lidt olivenolie – pas på, at olien ikke sprutter, hvis grøntsagerne har meget vand i sig.</p><p>Tilsæt drænede kikærter og steg videre, indtil grøntsagerne er lidt brune i kanterne.</p><p>Tilsæt kokosmælk, sød chilisauce og soya. Smag til med salt og peber.</p><p>Wupti, så er der lynhurtig aftensmad. Server wokken med de dampende varme ris. Velbekomme!</p>",
+    "Note": "Opgaver til børn i køkkenet: Lad dine børn være med til at tage tid på, hvor hurtigt du faktisk kan lave denne ret! De kan også smage retten til. Vi har brugt sorte kikærter, men du kan bruge både de sorte og de hvide. Hvis det skal gå ekstra hurtigt med risene, så køb f.eks. ris i kogepose. De tager kun 10 minutter at tilberede.",
+    "ImageUrl": "images/recipe-images/307. Lynhurtig wok med kikærter og kokosmælk.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Vegetar", "Wok", "Asiatisk", "Kikærter", "Kokosmælk", "Hverdagsmad"]
+}

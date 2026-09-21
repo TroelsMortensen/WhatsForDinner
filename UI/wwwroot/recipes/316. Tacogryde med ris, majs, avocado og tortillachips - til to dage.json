@@ -1,0 +1,36 @@
+{
+    "Id": 316,
+    "Title": "Tacogryde med ris, majs, avocado og tortillachips - til to dage",
+    "SubHeader": "En virkelig god og børnevenlig tacogryde, som vi serverer med ris og lækker topping som majs, avocado, jalapenos, lime og friske koriander. Opskriften er beregnet til to dage.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 900, "Unit": "g", "Name": "færdig fajitablanding", "PreparationNote": null },
+                { "Quantity": 40, "Unit": "g", "Name": "taco krydderimix", "PreparationNote": null },
+                { "Quantity": 800, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 70, "Unit": "g", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåse", "Name": "kidneybønner i chilisauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "avocado", "PreparationNote": null },
+                { "Quantity": 140, "Unit": "g", "Name": "løse majs", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "potte", "Name": "friske koriander", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "tortillachips", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "jalapenos i skiver", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken. Tag halvdelen af de færdigkogte ris fra til i morgen - husk at køle dem hurtigt ned i køleskabet.</p><p>Steg de frosne grøntsager i en stor gryde i olie. Tilsæt hakket oksekød og tacomix. Lad kødet brune af.</p><p>Når kødet er brunet af tilsættes hakkede tomater, tomatpuré og drænede kidneybønner - der må gerne komme lidt væde fra bønnerne med. Smag til med salt og peber.</p><p>Flæk avocadoen, fjern stenen og skær kødet i enten tern eller skiver. Dræn og skyl majsene og kom dem i en skål.</p><p>Server den lækre tacogryde med ris og top med jalapenos, skiver af lime, majs, avocado, friske koriander og tortillachips. Velbekomme!</p>",
+    "Note": "Opgaver til mindre børn i køkkenet: Lad dine børn være med til at skære peberfrugterne i tern. De kan også skære avocadoen og smage til.",
+    "ImageUrl": "images/recipe-images/316. Tacogryde med ris, majs, avocado og tortillachips - til to dage.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Oksekød", "Mexicansk", "Taco", "Gryderet", "Ris", "Hverdagsmad"]
+}

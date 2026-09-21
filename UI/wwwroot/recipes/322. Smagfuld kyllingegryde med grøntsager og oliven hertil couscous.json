@@ -1,0 +1,37 @@
+{
+    "Id": 322,
+    "Title": "Smagfuld kyllingegryde med grøntsager og oliven hertil couscous",
+    "SubHeader": "En lækker arabiskinspireret gryderet med hakket kyllingekød, rød peberfrugt, squash, oliven, citron og varme krydderier. Serveret med couscous.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 40,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "squash", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "stk", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kyllingekød", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "kalamataoliven", "PreparationNote": "uden sten" },
+                { "Quantity": 3, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "terning", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "økologisk citron", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog couscous efter anvisningen på posen.</p><p>Pil skrællen af løg og hvidløg og hak det fint. Skyl peberfrugt, squash og tomater og skær det hele i grove tern.</p><p>Varm en gryde op med olivenolie og svits spidskommen, karry, kanel, løg og hvidløg. Tilsæt hakket kyllingekød og brun det af. Tilsæt peberfrugt og squash og lad det stege med i ca. 5 min.</p><p>Tilsæt tomater, oliven, vand, smuldret bouillon og skyllet og revet citronskal og lad det simre under låg i ca. 25 min. Smag til med salt, peber og citronsaft.</p><p>Server den smagfulde kyllingegryde med dampende varme couscous. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme couscous, vand og salt i en gryde og lad dem skylle grøntsagerne. Ekstra smag: Top med friskhakket bredbladet persille.",
+    "ImageUrl": "images/recipe-images/322. Smagfuld kyllingegryde med grøntsager og oliven hertil couscous.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Arabisk", "Gryderet", "Couscous", "Hverdagsmad"]
+}

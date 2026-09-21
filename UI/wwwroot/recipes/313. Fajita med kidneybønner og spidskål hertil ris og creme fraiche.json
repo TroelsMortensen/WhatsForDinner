@@ -1,0 +1,28 @@
+{
+    "Id": 313,
+    "Title": "Fajita med kidneybønner og spidskål hertil ris og creme fraiche",
+    "SubHeader": "Nem aftensmad med fajita. Vi har brugt en færdig fajitablanding fra frost, spidskål og kidneybønner. Retten serveres med ris og creme fraiche på toppen. Vælg gerne fuldkornsris, men vær opmærksom på længere kogetid.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 250, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 450, "Unit": "g", "Name": "færdig fajitablanding", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "spidskål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "creme fraiche 9 %", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Kog risene efter anvisningen på pakken.</p><p>Varm en dyb pande op med olivenolie og steg fajitablandingen.</p><p>Snit spidskålen fint - brug evt. et mandolinjern, men pas på fingrene! Kom kidneybønnerne i en si og skyl dem.</p><p>Tilsæt spidskålen til fajitablandingen og steg det i ca. 5 min. Tilsæt kidneybønnerne og steg videre i ca. 5 min. Smag til med salt og peber.</p><p>Server fajitaen med kidneybønner og spidskål med dampende varme ris og creme fraiche på toppen. Velbekomme!</p>",
+    "Note": "Tips til mindre børn i køkkenet: Lad dine børn komme ris, vand og salt i en gryde. Ekstra smag: Top med friske krydderurter og friskpresset limesaft.",
+    "ImageUrl": "images/recipe-images/313. Fajita med kidneybønner og spidskål hertil ris og creme fraiche.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Mexicansk", "Fajita", "Ris", "Bønner", "Hverdagsmad"]
+}

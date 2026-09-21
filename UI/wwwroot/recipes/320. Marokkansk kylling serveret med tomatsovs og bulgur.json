@@ -1,0 +1,33 @@
+{
+    "Id": 320,
+    "Title": "Marokkansk kylling serveret med tomatsovs og bulgur",
+    "SubHeader": "Saftige kyllingelår marineret i karry, spidskommen og kanel og serveret med en lækker tomatsovs med grønne snitbønner, oliven og bulgur som tilbehør.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 700, "Unit": "g", "Name": "kyllingelår", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "snitbønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "kalamataoliven", "PreparationNote": "uden sten" },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 210 grader varmluft.</p><p>Vend kyllingelårene i olivenolie, halvdelen af spidskommen, karry, kanel, salt og peber efter smag. Læg dem herefter i et ovnfast fad og bag dem i ovnen i ca. 30 min.</p><p>Kog bulguren efter anvisningen på posen.</p><p>Pil skrællen af rødløget og skær det i tynde strimler. Skyl bønnerne, skær enderne af og skær dem i ca. 2 cm tykkelse. Bruger du frosne bønner, så overhæld dem med kogende vand i en skål og lad dem herefter dryppe af. Skær dem evt. i mindre stykker på skrå.</p><p>Varm en pande op med olivenolie og svits resten af spidskommen, karry og kanel sammen med løg og bønner. Tilsæt hakkede tomater, vand og oliven og lad det simre til kyllingelårene er færdige. Smag til med salt og peber og evt. flere krydderier.</p><p>Server den marokkanske kylling med tomatsovs og bulgur. Velbekomme!</p>",
+    "Note": "Kan du ikke få snitbønner, kan du bruge almindelige grønne bønner. Tips til mindre børn i køkkenet: Lad dine børn marinere kyllingelårene og komme dem i et ovnfast fad. Ekstra smag: Top med friskhakket persille.",
+    "ImageUrl": "images/recipe-images/320. Marokkansk kylling serveret med tomatsovs og bulgur.jpg",
+    "Source": "Mambeno",
+    "Keywords": ["Kylling", "Marokkansk", "Bulgur", "Ovn", "Hverdagsmad"]
+}
