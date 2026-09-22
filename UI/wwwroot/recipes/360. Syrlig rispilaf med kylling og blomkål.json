@@ -1,0 +1,41 @@
+{
+    "Id": 360,
+    "Title": "Syrlig rispilaf med kylling og blomkål",
+    "SubHeader": "Nem og lækker hverdagsret med skøn citronsmag. Retten er også god med revet squash, porre eller lidt revet parmesan.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "350–400 g, inderfilet eller lårfilet" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "citronsaft", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "balsamico", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Rispilaf",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "tsk", "Name": "smør", "PreparationNote": "eller olie" },
+                { "Quantity": 300, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "blomkålsris", "PreparationNote": null },
+                { "Quantity": 10, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "spsk", "Name": "citronsaft", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "persille", "PreparationNote": "evt. en håndfuld" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Bland olie, oregano, citronsaft, balsamico, presset hvidløg og salt og peber. Vend kyllingen i marinaden, og lad den trække 5–10 minutter (eller længere, hvis du har tid).</p><p>Rens forårsløgene, og skær dem i skiver.</p><p>Opvarm en stor gryde. Tag kyllingen op af marinaden, og kassér den overskydende marinade. Steg kyllingen i gryden ved middelvarme på begge sider, til den er gennemstegt – ca. 5–7 minutter alt efter tykkelsen.</p><p>Tag kyllingen op af gryden, pak den ind i staniol, og hold den varm.</p><p>Smelt smøret i gryden, og tilsæt forårsløg i skiver samt risen. Steg ris og forårsløg et par minutter. Tilsæt blomkålsris, vand, bouillonterning og citronsaft.</p><p>Lad vandet koge stille ind, til risen er mør. Smag til med salt og peber.</p><p>Server rispilaffen med kylling på toppen.</p>",
+    "Note": "Skal det være ekstra lækkert, så erstat 1–2 dl vand med tør hvidvin.",
+    "ImageUrl": "images/recipe-images/360. Syrlig rispilaf med kylling og blomkål.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Ris", "Blomkål", "Rispilaf", "Citron", "Hverdagsmad", "Hurtig"]
+}

@@ -1,0 +1,34 @@
+{
+    "Id": 361,
+    "Title": "One pot pasta med krydret kylling og peberfrugt",
+    "SubHeader": "Nem one pot pasta med cremet paprikasauce og peberfrugt.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "chili eller cayennepeber", "PreparationNote": "efter smag" },
+                { "Quantity": 2, "Unit": "stk", "Name": "peberfrugter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": "alm. eller rødløg" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "fuldkornspasta", "PreparationNote": null },
+                { "Quantity": 7.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "madlavningsfløde", "PreparationNote": "4%" },
+                { "Quantity": 1, "Unit": "stk", "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": "saften" },
+                { "Quantity": 50, "Unit": "g", "Name": "revet ost", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kylling, løg og peberfrugt i strimler.</p><p>Opvarm lidt olie i en stor gryde.</p><p>Tilsæt kylling samt paprika og chili. Lad det stege et par minutter, til kyllingen har taget farve.</p><p>Tilsæt løg og peberfrugt samt presset hvidløg, og lad det stege med et par minutter.</p><p>Tilsæt pasta, vand, madlavningsfløde og bouillonterning, og bring retten i kog.</p><p>Lad retten simre, til pastaen er kogt mør og saucen er kogt ind. Rør undervejs, så det ikke brænder på i bunden.</p><p>Tilsæt revet ost og limesaft, og rør det ud i retten. Smag til med salt og peber.</p>",
+    "Note": "Har du en rest squash, frisk spinat eller aubergine, smager det også rigtig godt i retten.",
+    "ImageUrl": "images/recipe-images/361. One pot pasta med krydret kylling og peberfrugt.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Pasta", "One pot", "Peberfrugt", "Paprika", "Fløde", "Hurtig", "Hverdagsmad"]
+}

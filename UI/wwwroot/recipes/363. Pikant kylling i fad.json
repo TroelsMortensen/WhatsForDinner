@@ -1,0 +1,38 @@
+{
+    "Id": 363,
+    "Title": "Pikant kylling i fad",
+    "SubHeader": "Nem ovnret med kylling, peberfrugt og cremet pikant sauce – serveret med ris og blomkålsris.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Pikant kylling",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "lårfilet eller inderfilet" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": "stk", "Name": "peberfrugter", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": "alm." },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pk", "Name": "buko pikant ost", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "ml", "Name": "madlavningsfløde", "PreparationNote": "4 %, fx Oma" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "ps", "Name": "blomkålsris", "PreparationNote": "350 g" },
+                { "Quantity": 300, "Unit": "g", "Name": "ris eller grov bulgur", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Pikant kylling</h2><p>Tænd ovnen på 200 grader.</p><p>Vask og snit grøntsagerne. Skær kyllingen i mundrette tern eller strimler.</p><p>Opvarm lidt olie på en pande, og steg kyllingen, til den har taget let farve. Fordel den i et ildfast fad.</p><p>Svits grøntsagerne kort på panden et par minutter, og hæld dem over kyllingen.</p><p>Kom hakkede tomater, pikantost, madlavningsfløde, paprika og bouillonterning på panden, og varm det igennem. Smag til med salt og peber.</p><p>Hæld saucen over grøntsagerne og kyllingen i fadet.</p><p>Sæt fadet i ovnen, og bag det i ca. 25 minutter.</p><h2>Tilbehør</h2><p>Kog risen eller bulguren som anvist på posen. Blomkålsrisen kan varmes i mikroovnen og blandes i den kogte ris, eller koges med sammen med risen.</p><p>Server risen sammen med den pikante kylling.</p>",
+    "Note": "Tip! Er du til spicy mad, er retten også rigtig god med chili – både frisk og stødt. Har man en rest squash, aubergine eller et par gulerødder, gør det også rigtig godt i retten.",
+    "ImageUrl": "images/recipe-images/363. Pikant kylling i fad.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Pikant", "Ovnret", "Fad", "Peberfrugt", "Fløde", "Ris", "Hverdagsmad"]
+}

@@ -3845,5 +3845,194 @@
             "Hverdagsmad"
         ],
         "TotalMinutes": 20
+    },
+    {
+        "Id": 357,
+        "Title": "Chicken Keema",
+        "Keywords": [
+            "Kylling",
+            "Keema",
+            "Indisk",
+            "Hakket kød",
+            "Ris",
+            "Garam masala",
+            "Hverdagsmad",
+            "Hurtig"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 358,
+        "Title": "Rød risret med kylling og peberfrugt",
+        "Keywords": [
+            "Kylling",
+            "Ris",
+            "Peberfrugt",
+            "One pot",
+            "Risret",
+            "Hurtig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 359,
+        "Title": "One pot pasta med kyllingekebab",
+        "Keywords": [
+            "Kylling",
+            "Kebab",
+            "Pasta",
+            "One pot",
+            "Spaghetti",
+            "Flødeost",
+            "Hurtig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 360,
+        "Title": "Syrlig rispilaf med kylling og blomkål",
+        "Keywords": [
+            "Kylling",
+            "Ris",
+            "Blomkål",
+            "Rispilaf",
+            "Citron",
+            "Hverdagsmad",
+            "Hurtig"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 361,
+        "Title": "One pot pasta med krydret kylling og peberfrugt",
+        "Keywords": [
+            "Kylling",
+            "Pasta",
+            "One pot",
+            "Peberfrugt",
+            "Paprika",
+            "Fløde",
+            "Hurtig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 362,
+        "Title": "One pot risret med chimichurri og kylling",
+        "Keywords": [
+            "Kylling",
+            "Ris",
+            "One pot",
+            "Chimichurri",
+            "Tomater",
+            "Ærter",
+            "Hverdagsmad",
+            "Hurtig"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 363,
+        "Title": "Pikant kylling i fad",
+        "Keywords": [
+            "Kylling",
+            "Pikant",
+            "Ovnret",
+            "Fad",
+            "Peberfrugt",
+            "Fløde",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 364,
+        "Title": "One pot pasta med kylling, tomat og squash",
+        "Keywords": [
+            "Kylling",
+            "Pasta",
+            "One pot",
+            "Tomat",
+            "Squash",
+            "Gulerødder",
+            "Hurtig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 365,
+        "Title": "Rød pastasalat med kylling",
+        "Keywords": [
+            "Kylling",
+            "Pasta",
+            "Pastasalat",
+            "Pesto",
+            "Tomater",
+            "Peberfrugt",
+            "Gulerødder",
+            "Madpakke",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 366,
+        "Title": "One pot taco-risret",
+        "Keywords": [
+            "Vegetar",
+            "Ris",
+            "One pot",
+            "Taco",
+            "Mexicansk",
+            "Bønner",
+            "Guacamole",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 367,
+        "Title": "Bønne”kød”boller i tomatsauce",
+        "Keywords": [
+            "Vegetar",
+            "Pasta",
+            "Italiensk",
+            "Bønner",
+            "Tomatsauce",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 60
+    },
+    {
+        "Id": 368,
+        "Title": "Tomatrisotto med sorte bønner",
+        "Keywords": [
+            "Vegetar",
+            "Ris",
+            "Risotto",
+            "Tomat",
+            "Bønner",
+            "One Pot",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 25
+    },
+    {
+        "Id": 369,
+        "Title": "Quinoadeller med broccoli",
+        "Keywords": [
+            "Vegetar",
+            "Quinoa",
+            "Broccoli",
+            "Deller",
+            "Wraps",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
     }
 ]

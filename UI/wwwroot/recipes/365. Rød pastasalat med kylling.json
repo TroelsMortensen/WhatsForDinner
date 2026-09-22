@@ -1,0 +1,27 @@
+{
+    "Id": 365,
+    "Title": "Rød pastasalat med kylling",
+    "SubHeader": "Super nem og lækker rød pastasalat – god både som hurtig aftensmad, som tilbehør og til madpakken.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "fuldkornspasta", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "cherrytomater", "PreparationNote": "eller tomater" },
+                { "Quantity": 1, "Unit": "stk", "Name": "peberfrugt", "PreparationNote": "i tern" },
+                { "Quantity": 4, "Unit": "stk", "Name": "gulerødder", "PreparationNote": "revet" },
+                { "Quantity": 1, "Unit": "glas", "Name": "rød pesto", "PreparationNote": "ca. 90 g" },
+                { "Quantity": 350, "Unit": "g", "Name": "kylling", "PreparationNote": "i tern, fersk, eller rest kogt kyllingebryst (300–400 g)" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Hvis du bruger fersk kylling, kog den i letsaltet vand i 20 minutter og skær den ud i mundrette bidder. Lad kyllingen køle af, inden den puttes i salaten.</p><p>Kog pastaen som anvist på posen, og køl den af, f.eks. under den kolde hane.</p><p>Vask og hak tomater og peberfrugt i mundrette stykker.</p><p>Gulerødderne skrælles og rives.</p><p>Vend den afkølede pasta sammen med grøntsagerne, kyllingen og et glas rød pesto.</p><p>Smag til med salt og peber.</p>",
+    "Note": "Pris pr. person: ca. 13 kr. God til madpakken.",
+    "ImageUrl": "images/recipe-images/365. Rød pastasalat med kylling.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Pasta", "Pastasalat", "Pesto", "Tomater", "Peberfrugt", "Gulerødder", "Madpakke", "Hverdagsmad"]
+}
