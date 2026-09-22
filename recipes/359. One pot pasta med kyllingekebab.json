@@ -1,0 +1,33 @@
+{
+    "Id": 359,
+    "Title": "One pot pasta med kyllingekebab",
+    "SubHeader": "Nem og lækker one pot med kyllingekebab (du kan også bruge okse/lam, hvis du hellere vil det).",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingekebab", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": "alm." },
+                { "Quantity": 2, "Unit": "stk", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "peberfrugter", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "fuldkornsspaghetti", "PreparationNote": "eller anden pasta" },
+                { "Quantity": 125, "Unit": "g", "Name": "flødeost med hvidløg", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "paprika", "PreparationNote": "evt. røget" },
+                { "Quantity": null, "Unit": null, "Name": "chili eller cayennepeber", "PreparationNote": "efter smag" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Rengør og hak løg, peberfrugt og tomater i tern.</p><p>Opvarm olie i en stor gryde og svits kyllingekebaben et par minutter. Tilsæt grøntsagerne og lad det svitse med yderligere 2 minutter.</p><p>Tilsæt spaghetti, flødeost, vand, bouillonterning og krydderier.</p><p>Lad retten simre ved middelvarme, til spaghettien er al dente og vandet er kogt næsten ind til en cremet sauce.</p><p>Smag til med salt og peber.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/359. One pot pasta med kyllingekebab.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Kebab", "Pasta", "One pot", "Spaghetti", "Flødeost", "Hurtig", "Hverdagsmad"]
+}

@@ -1,0 +1,32 @@
+{
+    "Id": 358,
+    "Title": "Rød risret med kylling og peberfrugt",
+    "SubHeader": "Skøn one pot risret – perfekt til travle dage, hvor der hverken er tid eller lyst til at bruge lang tid i køkkenet.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "inderfilet eller lårfilet" },
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "stk", "Name": "peberfrugt", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 8, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpure", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": "gerne røget" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "hvidløgspulver", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "chili", "PreparationNote": "efter smag" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Vask og hak peberfrugt og løg fint. Skær kyllingen i mundrette bidder.</p><p>Opvarm olien i en gryde og brun kyllingen. Den skal ikke gennemsteges, men bare tage farve.</p><p>Tilsæt løg og peberfrugt og svits, til løgene er klare.</p><p>Tilsæt ris, vand, tomatpure, bouillon og krydderier, og lad retten simre ved middelvarme, indtil risene er møre og vandet kogt ind. Rør undervejs.</p><p>Smag til med salt og peber.</p><p>Lad retten trække under låg i 5–10 minutter inden servering.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/358. Rød risret med kylling og peberfrugt.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Ris", "Peberfrugt", "One pot", "Risret", "Hurtig", "Hverdagsmad"]
+}

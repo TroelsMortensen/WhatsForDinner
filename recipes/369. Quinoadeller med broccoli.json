@@ -1,0 +1,48 @@
+{
+    "Id": 369,
+    "Title": "Quinoadeller med broccoli",
+    "SubHeader": "En lækker vegetarisk frikadelle med broccoli, velegnet både som tilbehør eller i wraps og pita.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Quinoadeller",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "quinoa", "PreparationNote": "hvid" },
+                { "Quantity": 1, "Unit": "stk", "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": "alm." },
+                { "Quantity": 1, "Unit": "stk", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "parmesan, cheddar el. emmentaler", "PreparationNote": "revet" },
+                { "Quantity": 1, "Unit": "dl", "Name": "rasp", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Hvidløgsdressing",
+            "Ingredients": [
+                { "Quantity": 2.5, "Unit": "dl", "Name": "fraiche 5%", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "citronsaft", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "iceberg", "PreparationNote": "el. spidskål el. hvidkål" },
+                { "Quantity": 2, "Unit": "stk", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "peberfrugt", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "fuldkornstortillas", "PreparationNote": "el. fuldkornspita" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Vask quinoaen og kog den i 10–15 minutter. Hæld vandet fra og vrid quinoaen for vand.</p><p>Broccolien vaskes og skæres i grove buketter. Broccolibuketterne dampes i en lille smule vand – det er vigtigt, at broccolien stadig har en del bid og ikke bliver udkogt. Hvis broccolien bliver for blød, bliver dellerne nemlig også ret bløde.</p><p>Hæld vandet fra den dampede broccoli og dup det sidste vand væk fra dem, så det ikke kommer med i dellerne.</p><p>Kom broccoli, løg, quinoa, hvidløg og revet ost i en hakker eller foodprocessor og hak det hele fint. Tilsæt æg, rasp og krydderier og kør det med et øjeblik, til det hele er blandet sammen. Synes du, at farsen er meget våd, så tilsæt lidt mere rasp.</p><p>Form farsen til ikke alt for store deller og steg dem på begge sider i lidt olie på panden ved middelvarme. Lad være med at vende dem for tidligt, da de kan gå i stykker.</p><h3>Hvidløgsdressing</h3><p>Bland fraiche med hvidløg, citronsaft og salt og peber. Du kan evt. tilsætte lidt hakket persille eller purløg, hvis du har lyst.</p><p>Skær grøntsagerne ud og server dem sammen med quinoadellerne, hvidløgsdressing og enten fuldkornstortillas eller pitabrød.</p>",
+    "Note": "Dellerne er milde i smagen – tilsæt gerne lidt chili for mere spark.",
+    "ImageUrl": "images/recipe-images/369. Quinoadeller med broccoli.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Vegetar", "Quinoa", "Broccoli", "Deller", "Wraps", "Hverdagsmad"]
+}

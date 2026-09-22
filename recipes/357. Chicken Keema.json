@@ -1,0 +1,41 @@
+{
+    "Id": 357,
+    "Title": "Chicken Keema",
+    "SubHeader": "Krydret indisk-inspireret ret med hakket kylling, tomater og varme krydderier – nem hverdagsmiddag serveret med ris.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Chicken Keema",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "ingefær", "PreparationNote": "gerne frisk" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "koriander", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "chilipulver eller cayennepeber", "PreparationNote": "efter smag" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": "kan undlades" },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket kylling", "PreparationNote": "max 10 %" },
+                { "Quantity": 1, "Unit": "stk", "Name": "peberfrugt", "PreparationNote": "gerne grøn" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "fraiche eller græsk yoghurt", "PreparationNote": "max 5 %" },
+                { "Quantity": 5, "Unit": "spsk", "Name": "citron- eller limesaft", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "naanbrød", "PreparationNote": "efter ønske" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pil og hak løg og hvidløg fint. Skær peberfrugten i fine tern.</p><p>Opvarm olien i en gryde eller dyb pande. Svits løgene, til de er klare.</p><p>Tilsæt hvidløg og krydderier, og lad det stege med i ca. 30 sekunder.</p><p>Tilsæt den hakkede kylling og brun den af. Tilsæt peberfrugt, og lad det stege med i 1–2 minutter.</p><p>Tilsæt hakkede tomater, og lad retten simre nogle minutter.</p><p>Rør fraiche eller græsk yoghurt samt citron- eller limesaft i. Smag til med salt, peber og evt. flere krydderier.</p><p>Server med kogte ris og evt. naanbrød.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/357. Chicken Keema.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Keema", "Indisk", "Hakket kød", "Ris", "Garam masala", "Hverdagsmad", "Hurtig"]
+}

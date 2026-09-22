@@ -1,0 +1,41 @@
+{
+    "Id": 366,
+    "Title": "One pot taco-risret",
+    "SubHeader": "Virkelig lækker vegetarret med masser af smag og en skøn guacamole på toppen.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "peberfrugter", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 8, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tacokrydderi", "PreparationNote": "eller 2 tsk spidskommen, 1 tsk chili og 1 spsk paprika" },
+                { "Quantity": null, "Unit": null, "Name": "chili", "PreparationNote": "efter smag" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Guacamole",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "avocadoer", "PreparationNote": "modne" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "lime- eller citronsaft", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Vask og hak løg, peberfrugt og tomater i tern. Dræn bønnerne for lage og skyl dem.</p><p>Opvarm lidt olie i en gryde. Svits først løgene, til de er klare, og tilsæt derefter resten af grøntsagerne. Lad det hele stege 1–2 minutter.</p><p>Tilsæt ris, vand, bouillonterning, krydderier og tomatpuré.</p><p>Lad retten simre ved middelvarme, indtil risene er møre og vandet er kogt ind. Rør undervejs. Retten skal ikke bulderkoge, for så når risene ikke at blive møre, inden vandet er kogt væk.</p><p>Smag til med salt og peber.</p><p>Lad retten trække under låg i 5–10 minutter.</p><p>Fjern skræl og sten på avocadoerne. Mos dem sammen med presset hvidløg, limesaft og salt. Smag til.</p><p>Server risretten med en klat guacamole på toppen.</p>",
+    "Note": "Limesaft, jalapeños samt fraiche er også lækkert som topping.",
+    "ImageUrl": "images/recipe-images/366. One pot taco-risret.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Vegetar", "Ris", "One pot", "Taco", "Mexicansk", "Bønner", "Guacamole", "Hverdagsmad"]
+}

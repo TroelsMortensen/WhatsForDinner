@@ -1,0 +1,43 @@
+{
+    "Id": 362,
+    "Title": "One pot risret med chimichurri og kylling",
+    "SubHeader": "En anderledes men utrolig nem og lækker risret med chimichurri – en krydret olie/eddike-dressing, der vendes i til sidst.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "inderfilet eller lårfilet" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": "alm." },
+                { "Quantity": 2, "Unit": "dl", "Name": "ærter", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Chimichurri",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "raps- eller olivenolie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "balsamico", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "koriander", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chili eller cayennepeber", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "frisk persille", "PreparationNote": "hakket, kan undlades" },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "salt", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kyllingen i mundrette stykker.</p><p>Opvarm 1 spsk olie i en stor gryde, og brun kyllingestykkerne – de skal ikke gennemsteges.</p><p>Skær løg og tomater i grove tern, og hæld dem ved kyllingen. Lad det svitse 1–2 minutter.</p><p>Tilføj ris, ærter, vand og bouillonterning, evt. lidt salt og peber.</p><p>Bring retten i kog, og lad den simre i ca. 15 minutter ved middelvarme uden låg, indtil vandet er kogt næsten ind og risene er møre. Rør undervejs, så den ikke brænder på.</p><p>Imens retten simrer, bland chimichurrien af olie, balsamico, krydderier samt hakket persille.</p><p>Når vandet er kogt næsten ind, tages gryden af varmen. Læg låg på gryden, og lad den trække i 10 minutter.</p><p>Vend chimichurrien forsigtigt i risretten. Smag til med salt, og server straks.</p>",
+    "Note": "Flere oplever, at 5 dl vand er nok, da tomaterne afgiver væske – især hvis kyllingen er tilsat lage.",
+    "ImageUrl": "images/recipe-images/362. One pot risret med chimichurri og kylling.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Ris", "One pot", "Chimichurri", "Tomater", "Ærter", "Hverdagsmad", "Hurtig"]
+}

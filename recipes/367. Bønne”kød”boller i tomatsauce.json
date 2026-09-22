@@ -1,0 +1,49 @@
+{
+    "Id": 367,
+    "Title": "Bønne”kød”boller i tomatsauce",
+    "SubHeader": "En rigtig god begynder vegetarret med smagfulde ”kød”boller og en skøn (og nem!) tomatsauce.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Sorte bønnefrikadeller",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "ds", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": "alm." },
+                { "Quantity": 100, "Unit": "g", "Name": "revet ost", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "bbq-sauce", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "spsk", "Name": "havregryn", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "hvidløgspulver", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "timian", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tomatsauce",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "ml", "Name": "tomatpassata", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "løgpulver", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "fuldkornsspaghetti", "PreparationNote": "eller anden pasta" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen på 180 grader varmluft.</p><p>Hæld væden fra de sorte bønner og skyl dem under den kolde hane. Sørg for, at de er dryppet godt af, inden du moser dem, da farsen ellers godt kan blive tynd.</p><p>Skræl og riv løget.</p><p>Kom bønnerne i en skål og mos dem med en gaffel eller stavblender. De må gerne have lidt struktur – det giver bid til bollerne frem for en helt jævn mos.</p><p>Rør de mosede bønner sammen med resten af frikadellingredienserne. Er farsen for våd, tilsættes mere havregryn; er den for tør, kan der tilsættes lidt ekstra æg eller vand.</p><p>Form farsen til små runde boller (ca. 1 stor tsk fars pr. bolle), og fordel dem på en bageplade med bagepapir.</p><p>Bag bollerne i ovnen i ca. 25–30 minutter.</p><h3>Tomatsauce</h3><p>Kom saucingredienserne i en gryde, og lad saucen småsimre, indtil bollerne er færdige. Tilsæt evt. en lille smule vand, hvis saucen bliver for tyk. Smag til med salt og peber.</p><p>Kog spaghetti/pastaen som anvist på posen, og server den sammen med bollerne og tomatsaucen.</p>",
+    "Note": "Bønnebollerne kan fryses.",
+    "ImageUrl": "images/recipe-images/367. Bønne”kød”boller i tomatsauce.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Vegetar", "Pasta", "Italiensk", "Bønner", "Tomatsauce", "Hverdagsmad"]
+}

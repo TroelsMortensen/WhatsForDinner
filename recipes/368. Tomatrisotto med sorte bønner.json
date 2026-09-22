@@ -1,0 +1,34 @@
+{
+    "Id": 368,
+    "Title": "Tomatrisotto med sorte bønner",
+    "SubHeader": "En nem og virkelig skøn hverdagsret.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 5,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": "alm." },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "ris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "bouillonterning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "ds", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "revet parmesan", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Hak løg og hvidløg fint.</p><p>Opvarm lidt olie i en stor gryde. Svits løg og hvidløg, til løgene er klare.</p><p>Tilsæt ris, hakkede tomater, vand, bouillonterning og krydderier.</p><p>Lad retten simre ved lav varme, indtil væden er kogt ind. Er risene ikke helt møre, tilsæt da lidt mere vand og lad det koge ind.</p><p>Når risene er møre, tilsættes de sorte bønner (de skal drænes og skylles inden) samt revet parmesan.</p><p>Smag retten til med salt og peber og evt. flere krydderier efter smag.</p>",
+    "Note": "Har du en rest revet gulerod, squash eller aubergine, er det også meget velegnet i retten. Ønsker du kød, kan man tilføje lidt hakket kylling eller oksekød. Vandmængden kan variere efter ristype – tilsæt mere efter behov.",
+    "ImageUrl": "images/recipe-images/368. Tomatrisotto med sorte bønner.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Vegetar", "Ris", "Risotto", "Tomat", "Bønner", "One Pot", "Hverdagsmad"]
+}

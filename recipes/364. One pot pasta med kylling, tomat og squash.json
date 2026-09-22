@@ -1,0 +1,33 @@
+{
+    "Id": 364,
+    "Title": "One pot pasta med kylling, tomat og squash",
+    "SubHeader": "Nem one pot pasta med kylling og en god portion grøntsager – cherrytomater, squash og gulerødder.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "fuldkornspasta", "PreparationNote": "eller spaghetti" },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "eller inderfilet" },
+                { "Quantity": 250, "Unit": "g", "Name": "cherrytomater", "PreparationNote": "eller tomater" },
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": "alm." },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "squash", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "stk", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "timian", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "kyllingebouillon", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skyl og skær cherrytomater i både, og hak løgene fint.</p><p>Skræl gulerødderne og riv dem fint. Vask squashen og riv den fint.</p><p>Skær de optøede kyllingebryster ud i tern.</p><p>Varm olien i en stor gryde, og svits kyllingen et kort øjeblik.</p><p>Kom alle ingredienserne (tomat, pasta, squash, gulerod, løg, presset hvidløg og krydderier) op i gryden, og dæk med kyllingebouillon.</p><p>Kog pastaretten op, og rør undervejs.</p><p>Lad retten koge i ca. 10–12 minutter, til pastaen er mør.</p><p>Serveres straks.</p>",
+    "Note": "Hvis du bruger frossen kylling, så husk at sætte den til optøning i køleskabet om morgenen, så den er klar til aftensmaden.",
+    "ImageUrl": "images/recipe-images/364. One pot pasta med kylling, tomat og squash.jpg",
+    "Source": "Sund på budget",
+    "Keywords": ["Kylling", "Pasta", "One pot", "Tomat", "Squash", "Gulerødder", "Hurtig", "Hverdagsmad"]
+}
