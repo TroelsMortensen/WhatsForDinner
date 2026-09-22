@@ -1,0 +1,50 @@
+{
+    "Id": 329,
+    "Title": "Spansk mandelkylling med sofrito og paprikakartofler",
+    "SubHeader": "De salte mandler giver kyllingen en skøn og fyldig smag, serveret med spanskinspireret sofrito og paprikakrydrede kartofler.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Paprikakartofler",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kartofler", "PreparationNote": "medium, i mundrette tern" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til bagning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Mandelkylling",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "saltede mandler", "PreparationNote": "fint hakkede" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pk", "Name": "bredbladet persille", "PreparationNote": "hakket, gem lidt til drys" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Sofrito",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "rødløg", "PreparationNote": "hakket" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "stk", "Name": "gulerod", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 1, "Unit": "stilk", "Name": "bladselleri", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Tænd ovnen og varm op til 220°C.</p><h3>Paprikakartofler</h3><p>Skær kartoflerne i mundrette tern. Pil og pres hvidløg. Bland med lidt olie og vend godt med paprika, salt og peber. Læg dem i et stort ovnfast fad eller en bradepande med bagepapir og bag i ovnen ca. 20-25 min. Vend lidt rundt undervejs, så kartoflerne ikke brænder fast.</p><h3>Mandelkylling</h3><p>Skyl og hak persillen. Hak mandlerne fint. Bland mandler med paprika og persille (gem lidt til drys) i en plastpose og vend kyllingen godt i blandingen. Brun kyllingen på en pande på begge sider i lidt olie, til den er gylden. Læg dem ved kartoflerne og steg med i ovnen de sidste 12-15 min.</p><h3>Sofrito</h3><p>Pil og hak løg. Skyl gulerod og bladselleri og skær i tynde skiver. Steg det hele i lidt olie et par min. uden at det tager farve. Skær peberfrugt i tern og steg med 2-3 min. ved jævn varme. Tilsæt hakket tomat og vand. Lad det simre 8-10 min. uden låg. Smag til med salt og peber.</p><h3>Anretning</h3><p>Servér sofritoen til kyllingen sammen med paprikakartofler drysset med persille.</p>",
+    "Note": "Allergener: nødder (mandler).",
+    "ImageUrl": "images/recipe-images/329. Spansk mandelkylling med sofrito og paprikakartofler.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Spansk", "Mandel", "Sofrito", "Kartofler", "Paprika", "Hverdagsmad"]
+}

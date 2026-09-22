@@ -1,0 +1,43 @@
+{
+    "Id": 327,
+    "Title": "Hvid fisk i karry-kokossauce med æble",
+    "SubHeader": "Lækker hvid fisk af torskefamilien i en smagfuld karry-kokossauce der sammen med æble og gulerod giver en fantastisk smag til retten. Serveres med ris og et drys peanuts.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "jasminris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Fisk i karry-kokossauce",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "porre", "PreparationNote": "i ½ cm tykke skiver" },
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerod", "PreparationNote": "groftrevet" },
+                { "Quantity": 1, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "hvid fisk", "PreparationNote": "fileter, har været frosset" },
+                { "Quantity": 1, "Unit": "stk", "Name": "æble", "PreparationNote": "i tynde skiver" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pose", "Name": "hakkede peanuts", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Karry-kokossauce</h3><p>Rens porre og skær i ½ cm tykke skiver. Skræl gulerødder og riv dem groft. Steg porre sammen med revet gulerod i olie på en pande eller gryde 2-3 min. ved middel varme, uden at de bliver brune.</p><p>Tilsæt karry, kokoscreme og vand og lad simre ved svag varme i 5 min. Smag til med salt og peber.</p><h3>Fisk</h3><p>Skær fisken i mundrette stykker. Læg dem ned til grøntsagerne og lad simre med i 4-5 min.</p><h3>Anretning</h3><p>Skyl æblet, del i kvarte og fjern kernehuset. Skær hver båd i tynde skiver. Kom æble i gryden og vend rundt. Drys med peanuts og koriander lige inden servering. Servér med ris til.</p>",
+    "Note": "Opbevar fisk ved 2°C. For den bedste smagsoplevelse anbefaler vi, at retten spises som en af de første. Allergener: fisk, jordnødder og nødder.",
+    "ImageUrl": "images/recipe-images/327. Hvid fisk i karry-kokossauce med æble.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Fisk", "Karry", "Kokos", "Ris", "Asiatisk", "Hverdagsmad"]
+}

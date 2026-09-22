@@ -1,0 +1,50 @@
+{
+    "Id": 338,
+    "Title": "Marokkansk kikærtesalat med kylling, granatæble og sesamdressing",
+    "SubHeader": "Salat med kikærter, granatæbler, stegt kylling, gulerødder og sesamdressing.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                { "Quantity": 280, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Ristet kikærter",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "drænet" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Salat",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerod", "PreparationNote": "groft revet" },
+                { "Quantity": 1, "Unit": "stk", "Name": "rødløg", "PreparationNote": "i skiver" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "granatæble", "PreparationNote": "kerner" },
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk mynte", "PreparationNote": "fint hakket" }
+            ]
+        },
+        {
+            "Title": "Sesamdressing",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "citron", "PreparationNote": "saft" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "tahin", "PreparationNote": "sesampasta" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Kylling</h3><p>Del kyllingebrysterne på langs og krydr med salt og peber. Varm lidt olie op på en stegepande. Steg kyllingen ved middelhøj varme på begge sider i ca. 10 min. til de er faste og færdige (kernetemperatur 75°).</p><h3>Ristet kikærter</h3><p>Dræn kikærterne i en si for at fjerne vandet. Varm en pande med lidt olivenolie og kom kikærterne på. Tilsæt spidskommen, karry og lidt salt og steg i ca. 5-10 min. Rør godt rundt undervejs.</p><h3>Salat</h3><p>Skræl gulerødderne, riv dem groft og læg dem i en skål. Pil løg og skær det i skiver. Del granatæblet, hold skærefladen nedad over en skål og bank på den anden side med en grydeske til kernerne løsner sig. Bland dem med gulerødderne. Pluk mynten, hak den fint og bland det med resten.</p><h3>Dressing</h3><p>Pres citron, bland saften med tahin i en lille skål. Hæld dressingen over salaten og bland den godt sammen med kikærterne.</p><h3>Servering</h3><p>Servér kikærtesalaten med de stegte kyllingebryster.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/338. Marokkansk kikærtesalat med kylling, granatæble og sesamdressing.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Marokkansk", "Salat", "Kikærter", "Granatæble", "Tahin", "Gulerødder", "Mynte", "Hverdagsmad"]
+}

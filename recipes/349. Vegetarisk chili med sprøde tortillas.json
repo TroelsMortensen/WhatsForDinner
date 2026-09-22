@@ -1,0 +1,38 @@
+{
+    "Id": 349,
+    "Title": "Vegetarisk chili med sprøde tortillas",
+    "SubHeader": "En meget lækker og fyldig chili til en kødfri dag tilberedt med svampe, som giver retten god smag og masser af umami. En ret med både saft og kraft.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Vegetarisk chili",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "champignon", "PreparationNote": "i skiver" },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "fint snittet" },
+                { "Quantity": 0.75, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerod", "PreparationNote": "skrællet og groft revet" },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peber", "PreparationNote": "i små tern" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "three spices", "PreparationNote": "mexico-mix" },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "stk", "Name": "tortilla-wrap", "PreparationNote": "delt i kvarte" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "creme fraiche 18%", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Tænd ovnen og varm op til 200°C.</p><p>Fjern evt. jordrester fra svampene med en blød børste eller et stykke køkkenrulle. Skær svampene i skiver. Skyl forårsløg og snit dem fint. Hak hvidløg fint. Skræl gulerod og riv groft. Skyl peberfrugt, fjern kernerne og skær i små tern.</p><h3>Chili</h3><p>Varm 1 spsk olie i en tykbundet gryde og svits svampe, forårsløg, hvidløg, gulerod og peberfrugt i 4 min. Smag til med salt og peber.</p><p>Tilsæt kidneybønner, mexico-mix og hakkede tomater og bring retten i kog. Skru ned for varmen og lad retten simre under låg i ca. 10 min.</p><h3>Sprøde tortillas</h3><p>Del imens tortillas i kvarte og læg dem på en bageplade beklædt med bagepapir. Varm dem i ovnen i ca. 10 min. til de er gyldne og sprøde.</p><h3>Servering</h3><p>Anret portionsvis og servér med creme fraiche.</p>",
+    "Note": "Allergener: gluten, mælk, hvede, laktose.",
+    "ImageUrl": "images/recipe-images/349. Vegetarisk chili med sprøde tortillas.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Chili", "Tortillas", "Kidneybønner", "Champignon", "Mexicansk", "Creme fraiche", "Hverdagsmad"]
+}

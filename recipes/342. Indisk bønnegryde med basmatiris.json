@@ -1,0 +1,46 @@
+{
+    "Id": 342,
+    "Title": "Indisk bønnegryde med basmatiris",
+    "SubHeader": "Cremet indisk gryderet med butterbeans, karry og garam masala. Serveret med basmatiris og frisk koriander.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "basmatiris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Bønnegryde",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "ingefær", "PreparationNote": "fint hakket" },
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerod", "PreparationNote": "skrællet, i ca. 1 cm tern" },
+                { "Quantity": 1, "Unit": "stk", "Name": "bagekartoffel", "PreparationNote": "skrællet, i ca. 1 cm tern" },
+                { "Quantity": 1, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "butterbeans", "PreparationNote": "lagen hældt fra" },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "hvidvinseddike", "PreparationNote": "15 ml" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": "groft hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Bønnegryde</h3><p>Pil løg, hvidløg og ingefær og hak det hele fint. Skræl gulerod og kartoffel og skær i ca. 1 cm tern. Varm en gryde op med 1 spsk smør og steg det hele ved middelvarme i 5 min.</p><p>Tilsæt karry og garam masala og steg med 1 min. Hæld lagen fra bønnerne. Tilsæt fløde, tomater, bønner og hvidvinseddike. Kog videre ca. 10 min. og smag til med salt og peber.</p><h3>Servering</h3><p>Hak koriander groft og drys over retten. Servér med de kogte ris.</p>",
+    "Note": "Allergener: mælk, laktose, svovldioxid.",
+    "ImageUrl": "images/recipe-images/342. Indisk bønnegryde med basmatiris.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Indisk", "Bønner", "Butterbeans", "Karry", "Garam masala", "Ris", "Gryderet", "Fløde", "Koriander", "Hverdagsmad"]
+}

@@ -1,0 +1,41 @@
+{
+    "Id": 333,
+    "Title": "Cashew kylling med ris og broccoli",
+    "SubHeader": "Lækker asiatisk inspireret ret.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Cashew kylling",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "ingefær", "PreparationNote": "fintrevet, ca. ½ spsk" },
+                { "Quantity": 1, "Unit": "pose", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "rød balsamicoeddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "chiliflager", "PreparationNote": "efter smag" },
+                { "Quantity": 1, "Unit": "stk", "Name": "broccoli", "PreparationNote": "i buketter, stok i tynde skiver" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "gul peberfrugt", "PreparationNote": "i tern" },
+                { "Quantity": 0.5, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "cashewnødder", "PreparationNote": "groft hakket" },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": "delt på midten" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "jasminris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Sauce</h3><p>Skræl og riv ingefær fint til ca. ½ spsk. Bland med soja i en skål og tilsæt majsstivelse, balsamico, 1 spsk sukker, 1 dl vand, presset hvidløg og chiliflager (mindre eller undlad, hvis du ikke vil have det for stærkt). Rør det godt sammen.</p><h3>Forberedelse</h3><p>Skær broccoli i buketter. Brug gerne stokken på broccolien og skær den i tynde skiver. Rens peberfrugt og skær i tern. Skær forårsløg i tynde skiver og skyl i vand. Hak cashewnødder groft. Del inderfileterne på midten.</p><h3>Wok</h3><p>Varm en stegepande eller wok op med lidt olie. Steg kyllingen ved høj varme 4-5 min. Læg dem på en tallerken og stil panden tilbage på varmen med lidt mere olie. Steg grøntsagerne i 1-2 min. Kom kyllingen tilbage på panden sammen med saucen og kog i 2-3 min. til kyllingen er færdig. Smag til med salt.</p><h3>Anretning</h3><p>Servér wokretten med ris. Strø cashewnødder og chiliflager over efter smag.</p>",
+    "Note": "Allergener: soja, nødder, svovldioxid og cashewnødder. Spor af jordnødder og hasselnødder.",
+    "ImageUrl": "images/recipe-images/333. Cashew kylling med ris og broccoli.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Asiatisk", "Cashew", "Broccoli", "Ris", "Wok", "Hverdagsmad"]
+}

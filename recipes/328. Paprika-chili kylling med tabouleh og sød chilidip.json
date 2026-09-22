@@ -1,0 +1,53 @@
+{
+    "Id": 328,
+    "Title": "Paprika-chili kylling med tabouleh og sød chilidip",
+    "SubHeader": "Krydret paneret kylling serveret med bulgur-tabouleh og sød chili-creme fraiche-dip.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Bulgur",
+            "Ingredients": [
+                { "Quantity": 125, "Unit": "g", "Name": "bulgur", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Paprika-chili kylling",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 1, "Unit": "pose", "Name": "rasp", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "chiliflager", "PreparationNote": "undlad eller reducér efter smag" },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": "friskkværnet" }
+            ]
+        },
+        {
+            "Title": "Tabouleh",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "tomat", "PreparationNote": "i små tern" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "citron", "PreparationNote": "saften" },
+                { "Quantity": 1, "Unit": "pk", "Name": "tranebær", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sød chili dressing",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pose", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "creme fraiche 18%", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Bulgur</h3><p>Kog bulguren efter anvisningerne på pakken.</p><h3>Paprika-chili kylling</h3><p>Pres hvidløg og bland med rasp, første portion paprika, chili (undlad eller reducér mængden, hvis du ikke vil have det så stærkt), ½ tsk salt og friskkværnet peber i en plastpose. Skyl kyllingefileterne i koldt vand og vend dem med paneringen i posen. Sørg for, at de alle bliver dækket godt med panering.</p><p>Steg kyllingen i ½ spsk olie på en slip-let pande ved middel varme ca. 8 min. i alt. Vend dem jævnligt.</p><h3>Tabouleh</h3><p>Skyl og skær tomat i små tern. Hak hvidløg fint og skær forårsløg i tynde skiver. Bland det hele med bulgur, tranebær, 1 spsk olivenolie, citronsaft og paprika.</p><h3>Sød chili dressing</h3><p>Rør sød chilisauce med creme fraiche og servér dippen til den stegte kylling sammen med tabouleh.</p>",
+    "Note": "Chiliflager kan undlades eller reduceres, hvis du ikke vil have retten så stærk. Allergener: gluten, mælk, hvede og laktose.",
+    "ImageUrl": "images/recipe-images/328. Paprika-chili kylling med tabouleh og sød chilidip.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Bulgur", "Chili", "Paprika", "Tabouleh", "Hverdagsmad"]
+}

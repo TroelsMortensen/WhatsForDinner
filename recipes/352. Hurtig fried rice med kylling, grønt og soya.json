@@ -1,0 +1,39 @@
+{
+    "Id": 352,
+    "Title": "Hurtig fried rice med kylling, grønt og soya",
+    "SubHeader": "Så kan det næsten ikke blive nemmere – risene er kogte, og resten er hurtigt klaret. Nem og lækker aftensmad i en fart.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Det skal du bruge",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "hakket" },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peber", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "stk", "Name": "æg", "PreparationNote": "pisket" },
+                { "Quantity": 1, "Unit": "pose", "Name": "kogte ris", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "coleslaw-blanding", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "hakket kylling", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "snit" }
+            ]
+        },
+        {
+            "Title": "Basisvarer",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Pil løg og hvidløg. Hak begge. Skær peberfrugt i tern. Pisk æg i en lille skål. Del risene med fingrene, mens de stadig er i pakken – det er nemmest.</p><h3>Kylling og grønt</h3><p>Varm en stegepande/wok op med lidt olie. Steg løg, hvidløg, peberfrugt og coleslaw-blanding i 1-2 min. Tilsæt kylling, del fra hinanden og steg videre i 2-3 min. Kom det hele over på en tallerken.</p><h3>Sauce</h3><p>Rør soja, sød chilisauce og sesamolie sammen i en lille skål. Skyl og snit forårsløg.</p><h3>Fried rice</h3><p>Kom lidt mere olie på panden, kom æg på og lad det sætte sig. Tilsæt ris, skil dem godt fra hinanden og steg under omrøring ca. 5 min. Tilsæt kylling/grønt, sauce og forårsløg. Steg videre 1-2 min. under omrøring. Smag til med salt og peber og servér med det samme.</p>",
+    "Note": "Tip: Undlad eller reducér mængden af chilisauce, hvis du ikke vil have det så stærkt. Allergener: soja, æg, sesamfrø.",
+    "ImageUrl": "images/recipe-images/352. Hurtig fried rice med kylling, grønt og soya.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Fried rice", "Asiatisk", "Wok", "Ris", "Soja", "Hurtig", "Æg", "Hverdagsmad"]
+}

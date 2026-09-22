@@ -1,0 +1,42 @@
+{
+    "Id": 346,
+    "Title": "Kylling i rød karry med cashewnødder og fuldkornsris",
+    "SubHeader": "Nem orientalsk kyllingeret med rød karry, ananas og kokosmælk, toppet med cashewnødder og sesam.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "fuldkornsris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Rød karry",
+            "Ingredients": [
+                { "Quantity": 280, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i strimler" },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "rød karrypaste", "PreparationNote": "reducer evt. mængden, da den er meget stærk" },
+                { "Quantity": 0.75, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": "i strimler" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "ananas i tern", "PreparationNote": "uden væde" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": "hakket" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "sesamfrø", "PreparationNote": "ristede" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "cashewnødder", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Rød karry</h3><p>Skær kyllingen i strimler. Varm ½ spsk olie op i en wok eller en dyb pande og steg kyllingestrimlerne til de er let gyldne. Tilsæt kokoscreme, vand og karrypasta. TIP: Reducér evt. mængden af karrypasta, da den er meget stærk, og vend det godt rundt.</p><p>Rens peberfrugt og skær i strimler. Skyl, tør og hak koriander.</p><p>Rist sesamfrø på en tør pande til de har taget let farve.</p><p>Kom peberfrugt og ananas uden væde i wokken og varm kort igennem.</p><h3>Servering</h3><p>Servér med ris og drys med cashewnødder, sesamfrø og koriander.</p>",
+    "Note": "Allergener: nødder, cashewnødder, sesamfrø. Spor af jordnødder og hasselnødder.",
+    "ImageUrl": "images/recipe-images/346. Kylling i rød karry med cashewnødder og fuldkornsris.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Rød karry", "Asiatisk", "Thai", "Cashew", "Ananas", "Kokos", "Ris", "Fuldkorn", "Wok", "Hverdagsmad"]
+}

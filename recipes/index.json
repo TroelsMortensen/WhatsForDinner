@@ -3353,5 +3353,497 @@
             "Hverdagsmad"
         ],
         "TotalMinutes": 35
+    },
+    {
+        "Id": 325,
+        "Title": "Massaman grøntsagscurry med ris og stegt broccoli",
+        "Keywords": [
+            "Vegetar",
+            "Asiatisk",
+            "Thailandsk",
+            "Curry",
+            "Broccoli",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 326,
+        "Title": "Knuste kartofler med kylling, feta og valnødder",
+        "Keywords": [
+            "Kylling",
+            "Kartofler",
+            "Ovn",
+            "Feta",
+            "Valnødder",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 327,
+        "Title": "Hvid fisk i karry-kokossauce med æble",
+        "Keywords": [
+            "Fisk",
+            "Karry",
+            "Kokos",
+            "Ris",
+            "Asiatisk",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 328,
+        "Title": "Paprika-chili kylling med tabouleh og sød chilidip",
+        "Keywords": [
+            "Kylling",
+            "Bulgur",
+            "Chili",
+            "Paprika",
+            "Tabouleh",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 329,
+        "Title": "Spansk mandelkylling med sofrito og paprikakartofler",
+        "Keywords": [
+            "Kylling",
+            "Spansk",
+            "Mandel",
+            "Sofrito",
+            "Kartofler",
+            "Paprika",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 330,
+        "Title": "Citronstegt kylling med broccolisalat og kartofler",
+        "Keywords": [
+            "Kylling",
+            "Citron",
+            "Broccoli",
+            "Kartofler",
+            "Salat",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 331,
+        "Title": "Kidneybønner i karry med cashewnødder og sultaner",
+        "Keywords": [
+            "Vegetar",
+            "Karry",
+            "Kidneybønner",
+            "Kikærter",
+            "Bulgur",
+            "Cashewnødder",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 332,
+        "Title": "Stegt kyllingebryst med cremet tomatsauce, rucola og pasta",
+        "Keywords": [
+            "Kylling",
+            "Pasta",
+            "Tomat",
+            "Rucola",
+            "Italiensk",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 333,
+        "Title": "Cashew kylling med ris og broccoli",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Cashew",
+            "Broccoli",
+            "Ris",
+            "Wok",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 334,
+        "Title": "Karrygryde med linser cashewnødder og ristet blomkål",
+        "Keywords": [
+            "Vegetar",
+            "Karry",
+            "Linser",
+            "Blomkål",
+            "Cashewnødder",
+            "Bulgur",
+            "Gryderet",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 335,
+        "Title": "Limekylling i kokoscreme med koriander og ris",
+        "Keywords": [
+            "Kylling",
+            "Lime",
+            "Kokos",
+            "Koriander",
+            "Ris",
+            "Broccoli",
+            "Asiatisk",
+            "Børnevenlig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 336,
+        "Title": "Krydret tomat-squashgryde med cashewnødder og lime",
+        "Keywords": [
+            "Vegetar",
+            "Squash",
+            "Tomat",
+            "Kikærter",
+            "Cashewnødder",
+            "Lime",
+            "Kokos",
+            "Fuldkornsris",
+            "Gryderet",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 337,
+        "Title": "Butter chicken Retnemt",
+        "Keywords": [
+            "Kylling",
+            "Indisk",
+            "Butter chicken",
+            "Ris",
+            "Fløde",
+            "Karry",
+            "Garam masala",
+            "Koriander",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 338,
+        "Title": "Marokkansk kikærtesalat med kylling, granatæble og sesamdressing",
+        "Keywords": [
+            "Kylling",
+            "Marokkansk",
+            "Salat",
+            "Kikærter",
+            "Granatæble",
+            "Tahin",
+            "Gulerødder",
+            "Mynte",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 339,
+        "Title": "Kylling Provencal med hvedekerner",
+        "Keywords": [
+            "Kylling",
+            "Fransk",
+            "Provence",
+            "Hvedekerner",
+            "Oliven",
+            "Tomater",
+            "Timian",
+            "Kapers",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 340,
+        "Title": "Kylling korma med sesamstegte gulerødder",
+        "Keywords": [
+            "Kylling",
+            "Indisk",
+            "Korma",
+            "Cashewnødder",
+            "Kokos",
+            "Yoghurt",
+            "Ris",
+            "Gulerødder",
+            "Sesam",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 341,
+        "Title": "Chana masala med kikærter og linser",
+        "Keywords": [
+            "Vegetar",
+            "Vegan",
+            "Indisk",
+            "Chana masala",
+            "Kikærter",
+            "Linser",
+            "Squash",
+            "Ris",
+            "Gryderet",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 342,
+        "Title": "Indisk bønnegryde med basmatiris",
+        "Keywords": [
+            "Vegetar",
+            "Indisk",
+            "Bønner",
+            "Butterbeans",
+            "Karry",
+            "Garam masala",
+            "Ris",
+            "Gryderet",
+            "Fløde",
+            "Koriander",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 343,
+        "Title": "Grøn karry med kylling og ris",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Thai",
+            "Grøn karry",
+            "Kokos",
+            "Ris",
+            "Peberfrugt",
+            "Forårsløg",
+            "Koriander",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 344,
+        "Title": "Sticky kylling i appelsinglace med hvidløgsgulerødder og pak choy",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Sticky",
+            "Appelsin",
+            "Teriyaki",
+            "Gulerødder",
+            "Pak choy",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 345,
+        "Title": "Kung pao kylling",
+        "Keywords": [
+            "Kylling",
+            "Asiatisk",
+            "Kinesisk",
+            "Kung pao",
+            "Stir fry",
+            "Peberfrugt",
+            "Peanuts",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 346,
+        "Title": "Kylling i rød karry med cashewnødder og fuldkornsris",
+        "Keywords": [
+            "Kylling",
+            "Rød karry",
+            "Asiatisk",
+            "Thai",
+            "Cashew",
+            "Ananas",
+            "Kokos",
+            "Ris",
+            "Fuldkorn",
+            "Wok",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 347,
+        "Title": "Kyllingenuggets med kartoffelbåde og æblesalat",
+        "Keywords": [
+            "Kylling",
+            "Nuggets",
+            "Kartoffelbåde",
+            "Æblesalat",
+            "Panko",
+            "Børnevenlig",
+            "Ovnstegt",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 348,
+        "Title": "Vegetarisk curry med søde kartofler og linser",
+        "Keywords": [
+            "Vegetar",
+            "Curry",
+            "Søde kartofler",
+            "Linser",
+            "Afrikansk",
+            "Kokos",
+            "Cashewnødder",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 349,
+        "Title": "Vegetarisk chili med sprøde tortillas",
+        "Keywords": [
+            "Vegetar",
+            "Chili",
+            "Tortillas",
+            "Kidneybønner",
+            "Champignon",
+            "Mexicansk",
+            "Creme fraiche",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 350,
+        "Title": "Grillede blomkålswings med bønnestuvning, syltede grøntsager og aioli",
+        "Keywords": [
+            "Vegetar",
+            "Grill",
+            "Blomkål",
+            "BBQ",
+            "Kidneybønner",
+            "Aioli",
+            "Syltede grøntsager",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 351,
+        "Title": "Sesamstegt laks med syrlig ingefær-gulerodssalat",
+        "Keywords": [
+            "Fisk",
+            "Laks",
+            "Sesam",
+            "Bulgur",
+            "Ingefær",
+            "Gulerod",
+            "Salat",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 352,
+        "Title": "Hurtig fried rice med kylling, grønt og soya",
+        "Keywords": [
+            "Kylling",
+            "Fried rice",
+            "Asiatisk",
+            "Wok",
+            "Ris",
+            "Soja",
+            "Hurtig",
+            "Æg",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 353,
+        "Title": "Tandoorikylling med mynteris og mangochutney",
+        "Keywords": [
+            "Kylling",
+            "Tandoori",
+            "Indisk",
+            "Ris",
+            "Mynte",
+            "Mangochutney",
+            "Kokos",
+            "Hurtig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
+    },
+    {
+        "Id": 354,
+        "Title": "Kyllingegyros i pitabrød med dildtzatziki, tomatsalat og pommes frites",
+        "Keywords": [
+            "Kylling",
+            "Gyros",
+            "Græsk",
+            "Pitabrød",
+            "Tzatziki",
+            "Pommes frites",
+            "Tomatsalat",
+            "Streetfood",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 355,
+        "Title": "Bagt laks med spicy sataysauce og thai salat",
+        "Keywords": [
+            "Laks",
+            "Fisk",
+            "Satay",
+            "Thai",
+            "Salat",
+            "Peanuts",
+            "Karry",
+            "Ris",
+            "Hurtig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 356,
+        "Title": "Wrap med kormakylling og friske grøntsager",
+        "Keywords": [
+            "Kylling",
+            "Korma",
+            "Indisk",
+            "Wrap",
+            "Tortilla",
+            "Kokoscreme",
+            "Karry",
+            "Hurtig",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 20
     }
 ]

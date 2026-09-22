@@ -1,0 +1,50 @@
+{
+    "Id": 347,
+    "Title": "Kyllingenuggets med kartoffelbåde og æblesalat",
+    "SubHeader": "Hjemmelavede, saftige kyllingenuggets serveret med ovnstegte kartoffelbåde og nem æblesalat. Et sikkert hit!",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Kartoffelbåde",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kartofler", "PreparationNote": "medium, i både" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kyllingenuggets",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pk", "Name": "panko", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Æblesalat",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "skoleagurk", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "stk", "Name": "æble", "PreparationNote": "i tern" },
+                { "Quantity": 50, "Unit": "g", "Name": "salatblanding", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "urtedressing", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pose", "Name": "ketchup", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Kartoffelbåde</h3><p>Tænd ovnen og varm op til 220°C (varmluft). Vask kartoflerne og skær dem i både. Læg kartoffelbådene på en bageplade med bagepapir og vend dem med olie, salt og peber. Steg dem i ovnen i ca. 25 min.</p><h3>Kyllingenuggets</h3><p>Hæld æg i en dyb tallerken. Bland panko med lidt salt og peber i en anden tallerken. Dup kyllingen tør med køkkenrulle og vend den først i æg og bagefter i panko. Brun kyllingen på begge sider på en pande med lidt olie ved høj varme. Skru ned til middel varme og steg ca. 8 min. til de er gyldne og sprøde.</p><h3>Æblesalat</h3><p>Skyl agurk og æble og skær i tern. Bland det sammen med salatblandingen. Dryp dressing på ved servering.</p><h3>Servering</h3><p>Servér nuggets og kartoffelbåde med æblesalat og ketchup.</p>",
+    "Note": "Allergener: æg, gluten, mælk, sennep, hvede, laktose.",
+    "ImageUrl": "images/recipe-images/347. Kyllingenuggets med kartoffelbåde og æblesalat.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Nuggets", "Kartoffelbåde", "Æblesalat", "Panko", "Børnevenlig", "Ovnstegt", "Hverdagsmad"]
+}

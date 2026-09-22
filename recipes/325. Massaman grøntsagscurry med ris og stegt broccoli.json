@@ -1,0 +1,49 @@
+{
+    "Id": 325,
+    "Title": "Massaman grøntsagscurry med ris og stegt broccoli",
+    "SubHeader": "Vegetarisk thailandsk massaman curry med peberfrugt, gulerod og kokoscreme, serveret med jasminris og smørstegt broccoli.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Massaman grøntsagscurry",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": "i grove stykker" },
+                { "Quantity": 1, "Unit": "stk", "Name": "gulerod", "PreparationNote": "i tern" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 135, "Unit": "g", "Name": "jasminris", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "massaman curry paste", "PreparationNote": "efter smag" },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "sukker", "PreparationNote": "1-2 tsk, efter smag" }
+            ]
+        },
+        {
+            "Title": "Stegt broccoli",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "smør", "PreparationNote": "1-2 spsk" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "hakkede peanuts", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bæger", "Name": "yoghurt naturel", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Pil og skær løg i tynde skiver. Skyl, rens og skær peberfrugt i grove stykker. Skræl og skær gulerod i tern. Del lime i to.</p><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Grøntsagscurry</h3><p>Varm lidt olie op i en wok eller gryde ved middel varme. Steg løgene et par minutter, til de er blanke. Tilsæt peberfrugt, gulerod og massaman paste efter smag (pas på, den er lidt stærk) og steg videre i 3-4 minutter. Tilføj kokoscreme, vand og bouillon, kog op og lad curryen småkoge på lav varme i 8-10 minutter. Smag til med limesaft, soja, 1-2 tsk sukker og evt. mere karrypaste. Kom lidt vand i, hvis saucen bliver for tyk.</p><h3>Stegt broccoli</h3><p>Skyl broccoli og skær i mindre buketter. Brug gerne stokken på broccolien også. Varm lidt olie op på en stegepande til middelhøj varme. Steg broccoli i 3-4 minutter. Tilsæt 1-2 spsk smør, når der er 1 minut tilbage af stegetiden. Krydr med lidt salt og peber.</p><h3>Anretning</h3><p>Skyl og hak koriander groft. Fordel ris i portionsskåle, kom grøntsagscurry på og top med stegt broccoli, hakkede peanuts og koriander. Servér yoghurt ved siden af.</p>",
+    "Note": "Massaman curry paste er lidt stærk – tilsæt efter smag. Allergener: jordnødder, soja, mælk, nødder og laktose.",
+    "ImageUrl": "images/recipe-images/325. Massaman grøntsagscurry med ris og stegt broccoli.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Asiatisk", "Thailandsk", "Curry", "Broccoli", "Ris", "Hverdagsmad"]
+}

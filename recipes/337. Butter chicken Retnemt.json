@@ -1,0 +1,56 @@
+{
+    "Id": 337,
+    "Title": "Butter chicken Retnemt",
+    "SubHeader": "Klassisk indisk ret, som blev skabt i 1950'erne på restaurant Moti Mahal i New Delhi. Serveret med gulerodsstave.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "basmatiris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Butter chicken sauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "ingefær", "PreparationNote": "fint hakket" },
+                { "Quantity": 1.5, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "hvidvinseddike", "PreparationNote": "15 ml; efter smag" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": "i mindre stykker" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Gulerodsstave",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerod", "PreparationNote": "i stave" }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": "efter smag, groft hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Butter chicken sauce</h3><p>Skræl løg, hvidløg og ingefær og hak det hele fint. Varm en gryde op med 1 spsk smør og steg det hele ved middelvarme i 5 min. Tilsæt karry og garam masala. Steg med 1 min. Tilsæt fløde, tomater og hvidvinseddike. Kog videre et par min. Smag til med salt og peber.</p><h3>Kylling</h3><p>Skær kylling i mindre stykker. Varm en stegepande op med lidt olie. Steg kyllingen ved høj varme i 2-3 min. til den får lidt farve. Kom kyllingen i saucen og kog det sammen i ca. 5 min. mere.</p><h3>Gulerodsstave</h3><p>Skræl gulerødder, skær top og bund af og skær dem i stave.</p><h3>Servering</h3><p>Hak koriander groft og drys over retten. Servér med kogte ris og gulerodsstave.</p>",
+    "Note": "Allergener: mælk, laktose, svovldioxid.",
+    "ImageUrl": "images/recipe-images/337. Butter chicken Retnemt.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Indisk", "Butter chicken", "Ris", "Fløde", "Karry", "Garam masala", "Koriander", "Hverdagsmad"]
+}

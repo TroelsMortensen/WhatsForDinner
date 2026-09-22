@@ -1,0 +1,56 @@
+{
+    "Id": 334,
+    "Title": "Karrygryde med linser cashewnødder og ristet blomkål",
+    "SubHeader": "Skøn vegetarisk karrygryde med hjemmelavet karrypasta, der giver en god og fyldig sauce med dejlig sprød blomkål toppet med cashewnødder.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ristet blomkål",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "blomkål", "PreparationNote": "i små buketter" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til ristning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Karrypasta",
+            "Ingredients": [
+                { "Quantity": 0.25, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "cashewnødder", "PreparationNote": "gem lidt til pynt" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "sambal oelek", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "ingefær", "PreparationNote": "revet" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": "lidt" }
+            ]
+        },
+        {
+            "Title": "Karrygryde",
+            "Ingredients": [
+                { "Quantity": 0.25, "Unit": "stk", "Name": "løg", "PreparationNote": "i både" },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pakke", "Name": "honning", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": 125, "Unit": "g", "Name": "bulgur", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen og varm op til 225°C.</p><h3>Ristet blomkål</h3><p>Skyl blomkål og del den i små buketter. Læg det på en bageplade med bagepapir og bland med lidt olie og salt. Steg det i ovnen i ca. 20 min.</p><h3>Bulgur</h3><p>Kog bulguren som anvist på posen.</p><h3>Karrypasta</h3><p>Pil løg og kom den ene del i en skål eller minihakker. Tilføj cashewnødder (gem lidt til pynt), hvidløg, tomatpuré, sambal oelek, spidskommen, karry, revet ingefær og lidt salt. Blend alt med en stavblender til en glat masse.</p><h3>Karrygryde</h3><p>Skær løg i både. Varm lidt olie op i en gryde og steg løget i ca. ½ min. Tilsæt karrypasta og steg videre i ca. 1 min. Tilsæt vand, kokoscreme, bouillon og honning. Kog op, tilsæt linser og lad det småkoge i ca. 15 min. til linserne er møre. Husk at røre i gryden undervejs.</p><h3>Anretning</h3><p>Skyl spinat og vend i til sidst sammen med den stegte blomkål. Drys cashewnødder på toppen og servér med bulgur.</p>",
+    "Note": "Allergener: gluten, nødder, hvede og cashewnødder.",
+    "ImageUrl": "images/recipe-images/334. Karrygryde med linser cashewnødder og ristet blomkål.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Karry", "Linser", "Blomkål", "Cashewnødder", "Bulgur", "Gryderet", "Hverdagsmad"]
+}

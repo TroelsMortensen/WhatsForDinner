@@ -1,0 +1,41 @@
+{
+    "Id": 341,
+    "Title": "Chana masala med kikærter og linser",
+    "SubHeader": "En dejlig medium krydret vegansk gryderet med gode proteiner man bliver behagelig mæt af.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "basmatiris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Chana masala",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "ingefær", "PreparationNote": "skrællet og revet" },
+                { "Quantity": 1, "Unit": "stk", "Name": "squash", "PreparationNote": "i mundrette stykker" },
+                { "Quantity": 1, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "lagen hældt fra" },
+                { "Quantity": 50, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": "evt. ekstra efter behov" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Grønt</h3><p>Pil og hak løg og hvidløg fint. Skræl og riv ingefær. Skyl og skær squash i mundrette stykker.</p><h3>Chana masala</h3><p>Sæt en gryde over med lidt olie og svits løg og hvidløg i ca. 2 min uden de tager farve. Tilsæt karry, spidskommen og ingefær og steg videre i 1 min. Tilsæt bouillon, 2 dl vand, hakkede tomater, linser og squash og kog i ca. 20 min. Tilsæt evt. lidt ekstra vand, hvis det koger for tørt.</p><p>Hæld lagen fra kikærterne og tilsæt dem sammen med spinat de sidste 3 min. af kogetiden. Smag til med salt.</p><h3>Servering</h3><p>Servér chana masala sammen med ris.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/341. Chana masala med kikærter og linser.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Vegan", "Indisk", "Chana masala", "Kikærter", "Linser", "Squash", "Ris", "Gryderet", "Hverdagsmad"]
+}
