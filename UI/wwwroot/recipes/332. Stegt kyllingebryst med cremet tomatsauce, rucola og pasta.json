@@ -1,0 +1,54 @@
+{
+    "Id": 332,
+    "Title": "Stegt kyllingebryst med cremet tomatsauce, rucola og pasta",
+    "SubHeader": "Italiensk inspireret pastaret.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Pasta",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "pasta", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tomatsauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "gulerod", "PreparationNote": "i tern" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "hønsebouillon", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "tsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "rød balsamicoeddike", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Stegt kyllingebryst",
+            "Ingredients": [
+                { "Quantity": 280, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "delt på langs" },
+                { "Quantity": 0.75, "Unit": "tsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 30, "Unit": "g", "Name": "rucola", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Bring en gryde med rigeligt letsaltet vand i kog.</p><h3>Tomatsauce</h3><p>Skræl gulerødder og løg og skær dem i tern. Varm en gryde op med lidt olivenolie og steg løg, gulerødder og presset hvidløg i ca. 3 min. Tilsæt tomat, bouillon, oregano, balsamico, ½ tsk sukker og ¾ dl vand. Kog videre ca. 10 min.</p><h3>Pasta</h3><p>Kom pastaen i det kogende vand og kog 8-12 min. efter hvor al dente du ønsker den.</p><h3>Stegt kyllingebryst</h3><p>Del kyllingebrysterne på langs og krydr med salt, peber og oregano. Varm en stegepande op med lidt olivenolie. Steg kyllingen i ca. 8 min. på begge sider til den er gennemstegt.</p><h3>Cremet tomatsauce</h3><p>Blend tomatsaucen med en stavblender, tilsæt fløde og kog den op. Tilsmag med salt og peber.</p><h3>Anretning</h3><p>Servér stegte kyllingebryster med cremet tomatsauce og pasta toppet med rucola.</p>",
+    "Note": "Allergener: gluten, mælk, svovldioxid, hvede og laktose.",
+    "ImageUrl": "images/recipe-images/332. Stegt kyllingebryst med cremet tomatsauce, rucola og pasta.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Pasta", "Tomat", "Rucola", "Italiensk", "Hverdagsmad"]
+}

@@ -1,0 +1,57 @@
+{
+    "Id": 336,
+    "Title": "Krydret tomat-squashgryde med cashewnødder og lime",
+    "SubHeader": "God vegetarret til de kolde dage – cremet gryde med squash, kikærter og fuldkornsris.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "fuldkornsris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tomat-squashgryde",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": "i skiver" },
+                { "Quantity": 1, "Unit": "stk", "Name": "tomat", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "stk", "Name": "squash", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "skyllet" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "pose", "Name": "timian", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "five spice", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "sambal oelek", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": "skal og saft; resten i både til servering" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Agurksalat",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "skoleagurk", "PreparationNote": "i stave" },
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk mynte", "PreparationNote": "fint hakket" }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.75, "Unit": "pose", "Name": "cashewnødder", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "chiliflager", "PreparationNote": "efter smag" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Forberedelse</h3><p>Skyl lime og riv skallen fint. Skær løg i skiver. Skær tomat og squash i tern. Sigt lagen fra kikærter og skyl dem.</p><h3>Tomat-squashgryde</h3><p>Varm lidt olie op i en gryde. Steg løg, tomat og squash sammen med presset hvidløg. Tilsæt spidskommen, timian, five spice, sambal oelek samt lidt peber.</p><p>Tilsæt kikærter, tomater, kokoscreme, vand og bouillonterning. Lad det småkoge i 10 min. Smag til med saften fra ½ lime, salt og peber.</p><h3>Agurksalat</h3><p>Hak mynte fint. Skær agurk i stave og bland med mynte og lidt salt. Skær resten af limen i både og server til retten.</p><h3>Servering</h3><p>Drys tomat-squashgryden med cashewnødder, revet limeskal og evt. chiliflager. Servér med ris, agurk og limebåde.</p>",
+    "Note": "Allergener: nødder, cashewnødder.",
+    "ImageUrl": "images/recipe-images/336. Krydret tomat-squashgryde med cashewnødder og lime.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Squash", "Tomat", "Kikærter", "Cashewnødder", "Lime", "Kokos", "Fuldkornsris", "Gryderet", "Hverdagsmad"]
+}

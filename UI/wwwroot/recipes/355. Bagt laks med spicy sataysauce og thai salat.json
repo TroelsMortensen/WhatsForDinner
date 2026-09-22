@@ -1,0 +1,54 @@
+{
+    "Id": 355,
+    "Title": "Bagt laks med spicy sataysauce og thai salat",
+    "SubHeader": "Hurtig nem hjemmelavet sataysauce. Sataysauce har sin oprindelse i Indonesien, men spises i hele Sydøstasien.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "jasminris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Bagt laks og sataysauce",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pose", "Name": "hakkede peanuts", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "rød karrypaste", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "sød chilisauce", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "laksefilet", "PreparationNote": "uden skind" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Dressing",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "fiskesauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "hvidvinseddike", "PreparationNote": "15 ml" },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Thai salat",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "skalotteløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerod", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "skoleagurk", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen og varm op til 210°C (varmluft).</p><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Bagt laks og sataysauce</h3><p>Kom peanuts, karrypaste (reducér mængden, hvis du ikke vil have det så stærkt), sød chilisauce og vand op i en blenderkop, og blend det hele i 1 min. med en stavblender/blender. Kom laksen i et smurt ovnfast fad og krydr med salt og peber. Hæld sataysauce over fisken. Bag i ovnen 10–12 min.</p><h3>Dressing</h3><p>Riv limeskal fint ned i en stor skål. Pil hvidløg og pres ned i skålen. Skyl og hak koriander, og bland det hele sammen med fiskesauce, hvidvinseddike, sukker, lidt salt og peber. Skær resten af limefrugten i både.</p><h3>Thai salat</h3><p>Pil løg og skær i skiver. Skræl gulerod og riv groft. Læg agurken på et skærebræt og bank den med hånden i hele længden, så den går let i stykker. Skær i skrå skiver på ca. 1 cm. Mix det godt sammen med dressingen.</p><h3>Servering</h3><p>Servér laksen med ris, thai salat og limebåde. Kom evt. lidt vand i fadet for at få det sidste sataysauce med.</p>",
+    "Note": "Allergener: fisk, jordnødder, nødder, svovldioxid.",
+    "ImageUrl": "images/recipe-images/355. Bagt laks med spicy sataysauce og thai salat.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Laks", "Fisk", "Satay", "Thai", "Salat", "Peanuts", "Karry", "Ris", "Hurtig", "Hverdagsmad"]
+}

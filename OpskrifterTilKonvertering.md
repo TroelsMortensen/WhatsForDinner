@@ -17,38 +17,7 @@ Mambeno:
 
 
 retnemt
-https://www.retnemt.dk/opskrift/32091/massaman-grontsagscurry-med-ris-og-stegt-broccoli
-https://www.retnemt.dk/opskrift/35717/knuste-kartofler-med-kylling-valnodder-og-sennepsvinaigrette
-https://www.retnemt.dk/opskrift/35815/hvid-fisk-i-karry-kokossauce-med-able
-https://www.retnemt.dk/opskrift/35894/paprika-chili-kylling-med-tabouleh-og-sod-chilidip
-https://www.retnemt.dk/opskrift/40333/spansk-mandelkylling-med-sofrito-og-paprikakartofler
-https://www.retnemt.dk/opskrift/40939/citronstegt-kylling-med-broccolisalat-og-kartofler
-https://www.retnemt.dk/opskrift/42049/kidneybonner-i-karry-med-cashewnodder-og-rosiner
-https://www.retnemt.dk/opskrift/42688/stegt-kyllingebryst-med-cremet-tomatsauce-rucola-og-pasta
-https://www.retnemt.dk/opskrift/42789/cashew-kylling-med-ris-og-broccoli
-https://www.retnemt.dk/opskrift/43566/karrygryde-med-linser-cashewnodder-og-ristet-blomkal
-https://www.retnemt.dk/opskrift/43565/limekylling-i-kokoscreme-med-koriander-og-ris
-https://www.retnemt.dk/opskrift/43590/krydret-tomat-og-squashgryde-med-cashewnodder-og-lime
-https://www.retnemt.dk/opskrift/44922/butter-chicken-retnemt
-https://www.retnemt.dk/opskrift/45331/marokkansk-kikartesalat-med-kylling-gulerodder-og-sesamdressing
-https://www.retnemt.dk/opskrift/47942/kylling-provencal-med-hvedekerner
-https://www.retnemt.dk/opskrift/51304/kylling-korma-med-sesamstegte-gulerodder
-https://www.retnemt.dk/opskrift/54192/chana-masala-med-kikarter-og-linser
-https://www.retnemt.dk/opskrift/54802/indisk-bonnegryde
-https://www.retnemt.dk/opskrift/56616/gron-karry-med-kylling-og-ris
-https://www.retnemt.dk/opskrift/57992/sticky-kylling-i-appelsinglace-med-hvidlogsgulerodder-og-pak-choy
-https://www.retnemt.dk/opskrift/65774/kung-pao-kylling
-https://www.retnemt.dk/opskrift/67207/kylling-i-rod-karry-med-cashewnodder-og-ris
-https://www.retnemt.dk/opskrift/67383/kyllingenuggets-med-kartoffelbade-og-ablesalat
-https://www.retnemt.dk/opskrift/67564/vegetarisk-curry-med-sode-kartofler-og-linser
-https://www.retnemt.dk/opskrift/67563/vegetarisk-chili-med-sprode-tortillas
-https://www.retnemt.dk/opskrift/68432/grillet-blomkalswings-med-bonnestuvning-syltede-grontsager-og-aioli
-https://www.retnemt.dk/opskrift/69494/sesamstegt-laks-med-syrlig-ingefar-gulerodssalat
-https://www.retnemt.dk/opskrift/71554/hurtig-fried-rice-med-kylling-gront-og-soya
-https://www.retnemt.dk/opskrift/81390/tandoorikylling-med-mynteris-og-mangochutney
-https://www.retnemt.dk/opskrift/86371/kyllingegyros-i-pitabrod-med-dildtzatziki-tomatsalat-og-pommes-frites
-https://www.retnemt.dk/opskrift/85749/bagt-laks-med-sataysauce-og-thai-salat
-https://www.retnemt.dk/opskrift/90672/wrap-med-kormakylling-og-friske-grontsager
+
 
 
 Sund på budget

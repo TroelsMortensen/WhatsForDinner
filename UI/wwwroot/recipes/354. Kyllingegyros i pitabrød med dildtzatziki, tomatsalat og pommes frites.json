@@ -1,0 +1,64 @@
+{
+    "Id": 354,
+    "Title": "Kyllingegyros i pitabrød med dildtzatziki, tomatsalat og pommes frites",
+    "SubHeader": "En streetfood-klassiker der fås overalt fra Thessaloniki til Kreta. Masser af smag fra kødet og friskhed fra salaten.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Kyllingegyros",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "three spices", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "timian", "PreparationNote": "tørret" },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": "i strimler" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Pommes frites",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pose", "Name": "kartofler", "PreparationNote": "store; i tynde både" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Dildtzatziki",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "skoleagurk", "PreparationNote": "groft revet, væden presset ud" },
+                { "Quantity": 1, "Unit": "pk", "Name": "dild", "PreparationNote": "frisk, fint hakket" },
+                { "Quantity": 1, "Unit": "dl", "Name": "græsk yoghurt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": "friskkværnet" }
+            ]
+        },
+        {
+            "Title": "Tomatsalat",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "tomat", "PreparationNote": "i tern" },
+                { "Quantity": 50, "Unit": "g", "Name": "salatblanding", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rødløg", "PreparationNote": "i tynde ringe" },
+                { "Quantity": 1, "Unit": "pose", "Name": "hvidvinseddike", "PreparationNote": "15 ml" },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": "friskkværnet" }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "pitabrød", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen og varm op til 220°C (varmluft).</p><h3>Marinade</h3><p>Pres hvidløg i en skål og bland sammen med three spices, tørret timian, salt og olie. Skær kyllingen i strimler, kom dem i skålen og bland godt rundt. Lad det marinere i mindst 10 min., men gerne mere.</p><h3>Pommes frites</h3><p>Skær kartoflerne i tynde både/pommes frites. Læg dem i et dørslag og skyl i koldt vand. Tør kartoflerne og læg dem på en bageplade med bagepapir. Bland med lidt olie og salt. Steg i den øverste del af ovnen ca. 20 min.</p><h3>Dildtzatziki</h3><p>Riv agurken groft. Pres væden ud og kom agurken i en skål. Hak dild fint. Bland dild, yoghurt, presset hvidløg, salt og friskkværnet sort peber i skålen.</p><h3>Tomatsalat</h3><p>Skyl tomat og salat. Skær tomat i tern. Pil rødløg og skær i tynde ringe. Kom det hele i en salatskål og bland med lidt olivenolie, eddike, salt og friskkværnet peber.</p><h3>Kyllingegyros</h3><p>Varm lidt olie op i en stegepande ved middelhøj varme. Steg den marinerede kylling ved høj varme ca. 6 min. til den har en god stegeflade og er helt gennemstegt.</p><h3>Servering</h3><p>Varm pitabrød i ovnen i 2-3 min. Del i halve. Servér kyllingegyros med pommes frites, dildtzatziki, tomatsalat og pitabrød.</p>",
+    "Note": "Allergener: gluten, hvede, mælk, laktose, svovldioxid.",
+    "ImageUrl": "images/recipe-images/354. Kyllingegyros i pitabrød med dildtzatziki, tomatsalat og pommes frites.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Gyros", "Græsk", "Pitabrød", "Tzatziki", "Pommes frites", "Tomatsalat", "Streetfood", "Hverdagsmad"]
+}

@@ -1,0 +1,58 @@
+{
+    "Id": 345,
+    "Title": "Kung pao kylling",
+    "SubHeader": "Klassisk kinesisk take away, nem at lave. Stir fry med peberfrugt, peanuts og forårsløg.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "jasminris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                { "Quantity": 280, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i tern ca. 2x2 cm" },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "rød balsamicoeddike", "PreparationNote": "til marinering" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Sauce",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pose", "Name": "rød balsamicoeddike", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "hoisinsauce", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "vand", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Grøntsager",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peber", "PreparationNote": "kerner fjernet, i grove tern" },
+                { "Quantity": 2, "Unit": "stilk", "Name": "bladselleri", "PreparationNote": "i 1 cm stykker" },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "i 3 cm lange stykker" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pose", "Name": "hakkede peanuts", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Kylling</h3><p>Skær kyllingen i tern ca. 2x2 cm. Kom dem i en skål, tilsæt majsstivelse og den ene del balsamico og bland godt rundt. Varm en stegepande op med lidt olie og steg kyllingen ved høj varme ca. 3-5 min. så de får noget farve. Kom dem over på en tallerken men gem panden.</p><h3>Sauce</h3><p>Rør balsamico, grøntsagsbouillon, soja, hoisinsauce, sesamolie, ½ spsk sukker og 1 spsk vand sammen i en lille skål.</p><h3>Grøntsager</h3><p>Fjern kerner fra peberfrugt og skær i grove tern. Skyl bladselleri og skær i 1 cm stykker. Varm stegepanden op med lidt mere olie. Steg peberfrugterne og bladselleri 4-5 min. ved høj varme. Skyl forårsløgene imens og skær i 3 cm lange stykker. Pil og pres hvidløg. Kom begge på panden og steg med ca. 1 min.</p><h3>Kung pao kylling</h3><p>Bland kylling og sauce på panden og lad det koge 2 min. Drys med peanuts.</p><h3>Servering</h3><p>Servér kung pao kylling med ris til.</p>",
+    "Note": "Allergener: jordnødder, soja, nødder, selleri, sesamfrø, svovldioxid.",
+    "ImageUrl": "images/recipe-images/345. Kung pao kylling.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Asiatisk", "Kinesisk", "Kung pao", "Stir fry", "Peberfrugt", "Peanuts", "Ris", "Hverdagsmad"]
+}

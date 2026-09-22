@@ -1,0 +1,53 @@
+{
+    "Id": 335,
+    "Title": "Limekylling i kokoscreme med koriander og ris",
+    "SubHeader": "Frisk og cremet kyllingeret med lime, kokoscreme og koriander, serveret med jasminris og broccoli.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 18,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "jasminris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Grønt",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "broccoli", "PreparationNote": "i små buketter" },
+                { "Quantity": 125, "Unit": "g", "Name": "cherrytomater", "PreparationNote": "i halve" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "ingefær", "PreparationNote": "fintrevet" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": "i både" }
+            ]
+        },
+        {
+            "Title": "Limekylling",
+            "Ingredients": [
+                { "Quantity": 280, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i tern 3x3 cm" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 1, "Unit": "pose", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "sambal oelek", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "hønsebouillon", "PreparationNote": "efter smag" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": "skal og saft" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": "efter smag, groft hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Grønt</h3><p>Del broccoli i små buketter. Brug gerne stokken på broccolien. Skær tomater i halve. Skræl ingefær og riv det fint. Skyl lime og riv skallen fint. Skær halvdelen af limen i både.</p><h3>Limekylling</h3><p>Skær kyllingebryst i tern 3x3 cm. Varm en stegepande eller wok op med ½ spsk olie og steg kyllingen ved høj varme i ca. 3 min. Tilsæt presset hvidløg, ca. 1 spsk revet ingefær, tomatpuré, sambal oelek, 1 tsk sukker, lidt salt og peber.</p><p>Tilfør kokoscreme, vand, bouillon, limeskal og saft af ½ lime, broccoli og halvdelen af tomaterne. Lad det koge i ca. 5 min. til kyllingen er færdig.</p><h3>Servering</h3><p>Hak koriander groft. Strø korianderen over kyllingen og servér med ris, resten af tomaterne og limebåde.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/335. Limekylling i kokoscreme med koriander og ris.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Lime", "Kokos", "Koriander", "Ris", "Broccoli", "Asiatisk", "Børnevenlig", "Hverdagsmad"]
+}

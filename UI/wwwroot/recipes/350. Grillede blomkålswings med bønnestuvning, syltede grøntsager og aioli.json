@@ -1,0 +1,69 @@
+{
+    "Id": 350,
+    "Title": "Grillede blomkålswings med bønnestuvning, syltede grøntsager og aioli",
+    "SubHeader": "Sprøde BBQ-blomkålswings med cremet bønnestuvning, syltede grøntsager, grillede kartofler og aioli – kan laves på grill eller i ovn.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 23,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Blomkålswings",
+            "Ingredients": [
+                { "Quantity": 0.75, "Unit": "pose", "Name": "BBQ-sauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "blomkål", "PreparationNote": "i grove buketter" },
+                { "Quantity": 1.5, "Unit": "pose", "Name": "rasp", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "pose", "Name": "three spices", "PreparationNote": "mexico-mix; ca. ¾ tsk" },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Grillede kartofler",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kartofler", "PreparationNote": "små" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Syltede grøntsager",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "rødløg", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 1, "Unit": "stk", "Name": "gulerod", "PreparationNote": "skrællet og i tynde skiver" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "rød chili", "PreparationNote": "fint hakket; efter smag" },
+                { "Quantity": 1, "Unit": "pose", "Name": "hvidvinseddike", "PreparationNote": "30 ml" },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sukker", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Bønnestuvning",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "rødløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": "skyllet og drænet" },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "pose", "Name": "three spices", "PreparationNote": "mexico-mix" },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "sukker", "PreparationNote": "efter smag" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pose", "Name": "aioli", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Tænd grillen, hvis du ønsker at tilberede retten på grill. Ellers tænd ovnen og varm op til 230°C (varmluft).</p><h3>Blomkålswings</h3><p>Smelt 1½ spsk smør i en lille gryde og bland det med barbecuesauce. Del blomkålen i grove buketter, skær også gerne stokken i mindre stykker. Vend det i smøret. Bland rasp, majsstivelse, ¾ tsk mexico-krydderi og lidt salt i en dyb tallerken og vend blomkålen deri.</p><p><strong>Grill:</strong> Kom blomkål i en foliebakke eller på et dobbelt ark staniol. Grill dem på direkte varme under låg i ca. 8 min. Vend dem undervejs. Flyt til indirekte varme og grill videre ca. 10 min.</p><p><strong>Ovn:</strong> Fordel blomkålen på en bageplade med bagepapir og bag i ca. 15 min. til de er gyldne.</p><h3>Grillede kartofler</h3><p>Vend kartoflerne med lidt olie, salt og peber.</p><p><strong>Grill:</strong> Grill i en alubakke på direkte varme i 5 min. under låg. Steg dem færdig på indirekte varme i yderligere 15 min.</p><p><strong>Ovn:</strong> Bag med i ovnen i ca. 15-20 min. til de er møre.</p><h3>Syltede grøntsager</h3><p>Pil rødløg og skær halvdelen i tynde skiver. Skræl gulerod og skær i tynde skiver. Hak chili fint (undlad eller reducér mængden, hvis du ikke vil have det så stærkt). Kog eddike, 1 dl vand og 2 spsk sukker op, kom grøntsagerne i og lad dem trække til servering.</p><h3>Bønnestuvning</h3><p>Pil hvidløg og hak det og resten af løget fint. Skyl bønnerne og dræn dem. Varm en gryde op med lidt olie. Steg løg og hvidløg i 2-3 min. uden det tager farve. Tilsæt mexico-krydderi, hakkede tomater, bouillon, 1 dl vand samt bønnerne. Lad det småkoge i 10 min. Smag til med salt, peber og sukker.</p><h3>Servering</h3><p>Servér blomkålswings med aioli sammen med kartofler, bønnestuvning og syltede grøntsager.</p>",
+    "Note": "Allergener: æg, gluten, mælk, sennep, svovldioxid, hvede.",
+    "ImageUrl": "images/recipe-images/350. Grillede blomkålswings med bønnestuvning, syltede grøntsager og aioli.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Grill", "Blomkål", "BBQ", "Kidneybønner", "Aioli", "Syltede grøntsager", "Hverdagsmad"]
+}

@@ -1,0 +1,48 @@
+{
+    "Id": 353,
+    "Title": "Tandoorikylling med mynteris og mangochutney",
+    "SubHeader": "\"Tandoori\" refererer ofte til retter fra det indiske køkken, hvor kød eller grøntsager marineres i krydderier og yoghurt og tilberedes i en tandoor-ovn.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "basmatiris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tandoorikylling",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "kyllingebryst", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "tandoori krydderi", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Grønt",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "skoleagurk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "tomat", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk mynte", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pose", "Name": "mangochutney", "PreparationNote": "stærk" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Tandoorikylling</h3><p>Varm lidt olie op til høj varme på en pande. Skær kyllingebrysterne igennem på langs og steg dem kort på begge sider, så de får farve. Skru ned for varmen og tilsæt tandoori krydderi og tomatpuré. Tilføj kokoscreme og vand og lad det småkoge i ca. 8 min. til kyllingen er gennemstegt. Smag til med lidt salt.</p><h3>Grønt</h3><p>Skyl agurk, tomat og mynte. Skær agurk og tomat i tern og hak mynten groft. Skær halvdelen af lime i både. Bland agurk, tomat og lidt mynte i en skål og dryp limesaft fra resten af limen over.</p><h3>Mynteris</h3><p>Bland hakket mynte (gem lidt til pynt) i de færdigkogte ris.</p><h3>Servering</h3><p>Drys mynte over tandoorikyllingen og servér med ris, grønt, mangochutney og limebåde.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/353. Tandoorikylling med mynteris og mangochutney.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Tandoori", "Indisk", "Ris", "Mynte", "Mangochutney", "Kokos", "Hurtig", "Hverdagsmad"]
+}

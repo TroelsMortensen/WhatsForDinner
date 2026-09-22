@@ -1,0 +1,58 @@
+{
+    "Id": 331,
+    "Title": "Kidneybønner i karry med cashewnødder og sultaner",
+    "SubHeader": "Dejlig krydret ret med bælgfrugter, bulgur og sprød salat - og så er den hurtig at lave.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Kidneybønner i karry",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "pose", "Name": "cashewnødder", "PreparationNote": "groft hakket" },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": "skyllet" },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "skyllet" },
+                { "Quantity": 1, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": "skal og saft" },
+                { "Quantity": 1, "Unit": "pose", "Name": "sultaner", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "chiliflager", "PreparationNote": "efter smag" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Bulgur",
+            "Ingredients": [
+                { "Quantity": 125, "Unit": "g", "Name": "bulgur", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Salat",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "hjertesalat", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "hvidvinseddike", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "chiliflager", "PreparationNote": "lidt" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": "groft hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Pil og hak løg og hvidløg fint. Hak cashewnødder groft. Hæld lagen fra bønner og kikærter og skyl dem.</p><h3>Bulgur</h3><p>Kog bulgur efter anvisningerne på pakken.</p><h3>Kidneybønner i karry</h3><p>Kom lidt olie i en gryde og steg løg og hvidløg i 2-3 min. til de er blanke. Tilsæt karry det sidste ½ min.</p><p>Tilsæt tomater, kikærter, kidneybønner, kokoscreme, vand, bouillon og halvdelen af cashewnødderne. Lad det småkoge 4-5 min.</p><p>Skyl limefrugten og riv skallen fint. Tilsæt limeskal og saft til retten. Kog videre i 2-3 min. Tilsæt sultaner og smag til med chili og salt.</p><h3>Salat</h3><p>Skyl salaten og bræk den i mindre stykker. Bland vineddike med 1 spsk olie, lidt chiliflager, salt og peber i en skål og vend sammen med salaten.</p><h3>Anretning</h3><p>Skyl og hak koriander groft og bland den med resten af cashewnødderne og drys det over retten. Servér med bulgur og salat.</p>",
+    "Note": "Allergener: gluten, nødder, svovldioxid, hvede og cashewnødder.",
+    "ImageUrl": "images/recipe-images/331. Kidneybønner i karry med cashewnødder og sultaner.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Karry", "Kidneybønner", "Kikærter", "Bulgur", "Cashewnødder", "Hverdagsmad"]
+}

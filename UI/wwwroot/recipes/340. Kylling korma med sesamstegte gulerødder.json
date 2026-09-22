@@ -1,0 +1,61 @@
+{
+    "Id": 340,
+    "Title": "Kylling korma med sesamstegte gulerødder",
+    "SubHeader": "Mild indisk karry med cashewnødder, kokosmælk og yoghurt. Serveret med ris.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "basmatiris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Marinade og kylling",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": "saft" },
+                { "Quantity": 0.5, "Unit": "bæger", "Name": "yoghurt naturel", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "ingefær/hvidløg/chili i olie", "PreparationNote": null },
+                { "Quantity": 280, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "i tern 2x2 cm" }
+            ]
+        },
+        {
+            "Title": "Kormasauce",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pose", "Name": "cashewnødder", "PreparationNote": "udblødt i kogende vand" },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": "i tern" },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sesamstegte gulerødder",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "stk", "Name": "gulerod", "PreparationNote": "i stave" },
+                { "Quantity": 1, "Unit": "pose", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til bagning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": "hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Tænd ovnen og varm op til 225°C (varmluft). Kom nødderne i en skål og hæld kogende vand over, så det lige dækker.</p><h3>Kylling</h3><p>Pres limesaften i en skål og rør sammen med yoghurt, garam masala, karry og ingefær/hvidløg/chili i olie. Skær kyllingen i tern 2x2 cm. Bland det med yoghurten og lad marinere i 10 min.</p><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Gulerødder</h3><p>Skræl gulerødderne og skær dem i stave. Læg dem på en bageplade med bagepapir og vend med lidt olie. Drys sesam over og krydr med salt og peber. Bag dem i 12-14 min.</p><h3>Kormasauce</h3><p>Pil løg og skær det i tern. Varm en gryde op med lidt olie og svits løgene i ca. 5 min. til det får lidt farve. Tilføj kokoscreme, vand, tomatpuré, bouillon og peber. Sigt vandet fra nødderne og kom dem i. Kog det i 3 min. og blend det med en stavblender. Kom kyllingen i og lad det simre 10-12 min.</p><h3>Anretning</h3><p>Hak koriander. Servér korma med ris og de sesamstegte gulerødder. Drys det hele med koriander.</p>",
+    "Note": "Tip: Du kan med fordel marinere kødet 2-4 timer på køl, hvis du har tid. Allergener: mælk, nødder, sesamfrø, cashewnødder, laktose.",
+    "ImageUrl": "images/recipe-images/340. Kylling korma med sesamstegte gulerødder.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Indisk", "Korma", "Cashewnødder", "Kokos", "Yoghurt", "Ris", "Gulerødder", "Sesam", "Hverdagsmad"]
+}

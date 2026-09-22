@@ -1,0 +1,42 @@
+{
+    "Id": 348,
+    "Title": "Vegetarisk curry med søde kartofler og linser",
+    "SubHeader": "Afrikansk inspireret vegetarisk curry med masser af smag fra de mange krydderier og god mæthed fra både søde kartofler og røde linser.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 23,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Vegetarisk curry",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "ingefær", "PreparationNote": "fint hakket" },
+                { "Quantity": 1, "Unit": "pose", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "sød kartoffel", "PreparationNote": "skrællet og i små tern" },
+                { "Quantity": 1, "Unit": "pose", "Name": "røde linser", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "babyspinat", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "cashewnødder", "PreparationNote": "groft hakket" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": "saft" },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": "hakket" },
+                { "Quantity": 2, "Unit": "stk", "Name": "brød", "PreparationNote": "lunet" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Forberedelse</h3><p>Pil løg og hvidløg og skræl ingefær. Hak det hele fint. Varm olie op i en stor gryde.</p><h3>Curry</h3><p>Svits løg, hvidløg og ingefær i olien. Tilsæt karry og spidskommen. Lad krydderierne \"brænde\" en smule af og tilsæt derefter de hakkede tomater. Kog ca. 5 min. og tilsæt så kokoscreme og vand.</p><p>Skræl sød kartoffel og skær i små tern. Kom kartoffeltern og linser i gryden og lad det hele simre i ca. 15 min. under låg. Rør et par gange undervejs.</p><p>Skyl spinat. Hak cashewnødder groft. Tilsæt spinat og nødder og lad det simre med i ca. 1 min.</p><h3>Servering</h3><p>Lun brødet på en brødrister. Skyl og pluk koriander. Smag retten til med limesaft og salt. Servér retten toppet med hakket koriander.</p>",
+    "Note": "Allergener: gluten, nødder, hvede, cashewnødder.",
+    "ImageUrl": "images/recipe-images/348. Vegetarisk curry med søde kartofler og linser.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Vegetar", "Curry", "Søde kartofler", "Linser", "Afrikansk", "Kokos", "Cashewnødder", "Hverdagsmad"]
+}

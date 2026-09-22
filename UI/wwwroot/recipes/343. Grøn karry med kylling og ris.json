@@ -1,0 +1,53 @@
+{
+    "Id": 343,
+    "Title": "Grøn karry med kylling og ris",
+    "SubHeader": "Thai grøn karry med kokosmælk, forårsløg og peberfrugt i stærk sauce.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "jasminris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Grøn karry",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "pose", "Name": "kokoscreme", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "glas", "Name": "grøn karrypaste", "PreparationNote": "reducér mængden, hvis du ikke vil have det så stærkt" },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "fiskesauce", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Grøntsager",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peber", "PreparationNote": "kerner fjernet, i grove stykker" },
+                { "Quantity": 1, "Unit": "stk", "Name": "skalotteløg", "PreparationNote": "i både" },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "i tynde skiver" }
+            ]
+        },
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": "i mindre stykker" }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pk", "Name": "frisk koriander", "PreparationNote": "hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Grøn karry</h3><p>Hæld halvdelen af kokoscremen i en gryde og reducér det ca. 3 min. til det tykner. Tilsæt karrypaste (reducér mængden, hvis du ikke vil have det så stærkt) og rør rundt. Tilsæt resten af kokoscremen, fiskesauce, ½ spsk sukker, bouillon og ½ dl vand. Lad det koge i 5 min.</p><h3>Grøntsager</h3><p>Fjern kerner fra peberfrugten og skær den i grove stykker. Pil skalotteløg og skær i både. Skyl forårsløg og skær i tynde skiver.</p><h3>Kylling</h3><p>Skær kyllingen i mindre stykker. Kom kylling og alle grøntsagerne i den grønne karry og kog det 7-8 min. under låg.</p><h3>Servering</h3><p>Hak koriander og drys over karryen. Servér med ris til.</p>",
+    "Note": "Allergener: fisk.",
+    "ImageUrl": "images/recipe-images/343. Grøn karry med kylling og ris.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Asiatisk", "Thai", "Grøn karry", "Kokos", "Ris", "Peberfrugt", "Forårsløg", "Koriander", "Hverdagsmad"]
+}

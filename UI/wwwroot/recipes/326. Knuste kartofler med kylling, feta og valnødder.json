@@ -1,0 +1,53 @@
+{
+    "Id": 326,
+    "Title": "Knuste kartofler med kylling, feta og valnødder",
+    "SubHeader": "Knuste kartofler vendt i sennepsvinaigrette, serveret med stegt kylling, grønne bønner, valnødder og feta.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Knuste kartofler",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "små kartofler", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sennepsvinaigrette",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "dijonsennep", "PreparationNote": null },
+                { "Quantity": 15, "Unit": "ml", "Name": "hvidvinseddike", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "dl", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sukker", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kylling og grønne bønner",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pk", "Name": "grønne bønner", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": "fintsnittet" },
+                { "Quantity": 1, "Unit": "pose", "Name": "valnøddebrud", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pk", "Name": "feta", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Kartofler</h3><p>Tænd ovnen og varm op til 220°C (varmluft). Vend kartoflerne godt med 1½ spsk olie, salt og peber i en frostpose. Hæld dem på en bageplade med bagepapir og bag dem møre i ovnen i ca. 25 min.</p><h3>Valnødder</h3><p>Rist valnødderne på en tør pande ved middel varme, til de begynder at dufte. Tag valnødderne af og læg dem på et stykke køkkenrulle.</p><h3>Sennepsvinaigrette</h3><p>Pil og pres hvidløg og bland med sennep og vineddike. Pisk ¼ dl olie forsigtigt i, lidt ad gangen, til sennepsvinaigretten tyknes. Smag til med 1 tsk sukker.</p><h3>Kylling og bønner</h3><p>Dup kyllingen tør med køkkenrulle og krydr med salt og peber. Steg på en pande med 1 tsk olie ved middelhøj varme i ca. 7 min. Skyl og nip imens bønnerne. Drys kyllingen med paprika og læg de grønne bønner på panden sammen med kyllingen. Steg videre i 7 min. og vend rundt i bønnerne undervejs.</p><h3>Anretning</h3><p>Skyl forårsløg og snit fint. Tag kartoflerne ud af ovnen og giv dem et lille tryk med en tommelfinger, så de sprækker (brug køkkenrulle, så du ikke brænder dig). Hæld kartoflerne i et stort fad og vend sennepsvinaigretten i.</p><p>Bland kylling og bønner med kartoflerne og læg forårsløg og valnødder på. Fordel feta på toppen og servér.</p>",
+    "Note": "Brug køkkenrulle, når du knuser kartoflerne, så du ikke brænder dig. Allergener: mælk, nødder, sennep, svovldioxid, valnødder og laktose.",
+    "ImageUrl": "images/recipe-images/326. Knuste kartofler med kylling, feta og valnødder.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Kartofler", "Ovn", "Feta", "Valnødder", "Hverdagsmad"]
+}

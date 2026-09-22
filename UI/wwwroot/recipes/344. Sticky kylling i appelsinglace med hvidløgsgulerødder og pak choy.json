@@ -1,0 +1,58 @@
+{
+    "Id": 344,
+    "Title": "Sticky kylling i appelsinglace med hvidløgsgulerødder og pak choy",
+    "SubHeader": "Serveret med ris.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 135, "Unit": "g", "Name": "jasminris", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sticky kylling",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "appelsin", "PreparationNote": "skal og saft" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": "skal og saft" },
+                { "Quantity": 300, "Unit": "g", "Name": "kyllingeinderfilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "teriyakisauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Hvidløgsgulerødder",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerod", "PreparationNote": "i skrå skiver" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 1, "Unit": "pose", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Pak choy",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "pak choy", "PreparationNote": "i kvarte" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Chili-mayonnaise",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pose", "Name": "mayonnaise", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "sambal oelek", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Ris</h3><p>Kog risene som anvist på posen.</p><h3>Sticky kylling</h3><p>Skyl appelsin og lime, riv skallen og pres saften fra begge. Varm en stegepande op med lidt olie og brun kyllingen ved høj varme. Krydr med peber og steg ca. 2 min på hver side ved medium varme. Tilsæt saft og skal fra appelsin og lime, teriyakisauce og 1 spsk sukker. Kog det sammen i 2-3 min.</p><h3>Hvidløgsgulerødder</h3><p>Skræl gulerødder og skær dem i skiver på skrå. Pil og pres hvidløg. Varm en stegepande op med lidt olie og steg gulerødderne ved middelhøj varme i ca. 4 min. Steg hvidløg og sesamfrø med det sidste min. Kom dem i en skål og brug panden igen.</p><h3>Pak choy</h3><p>Varm panden op igen med lidt olie. Del pak choy i kvarte. Steg dem ved høj varme ca. 1 min. Kom 2 spsk vand og lidt salt ved og lad det dampe under låg i yderligere 1 min. Bland det med gulerødderne.</p><h3>Chili-mayonnaise</h3><p>Rør mayonnaise og sambal oelek sammen.</p><h3>Servering</h3><p>Servér sticky kylling med ris, hvidløgsgulerødder og pak choy med chili-mayonnaise som dip.</p>",
+    "Note": "Allergener: æg, gluten, soja, sesamfrø, hvede. Basisvarer: sukker, olie, salt, peber.",
+    "ImageUrl": "images/recipe-images/344. Sticky kylling i appelsinglace med hvidløgsgulerødder og pak choy.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Asiatisk", "Sticky", "Appelsin", "Teriyaki", "Gulerødder", "Pak choy", "Ris", "Hverdagsmad"]
+}

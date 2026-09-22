@@ -1,0 +1,44 @@
+{
+    "Id": 339,
+    "Title": "Kylling Provencal med hvedekerner",
+    "SubHeader": "Fransk inspireret ret fra Provence-regionen med oliven, persille, skalotteløg og tomater. Serveres med hvedekerner.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Hvedekerner",
+            "Ingredients": [
+                { "Quantity": 125, "Unit": "g", "Name": "hvedekerner", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "grøntsagsbouillon", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Provencal",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "skalotteløg", "PreparationNote": "fint hakket" },
+                { "Quantity": 280, "Unit": "g", "Name": "kyllingebryst", "PreparationNote": "delt på langs" },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "presset" },
+                { "Quantity": 2, "Unit": "pk", "Name": "frisk timian", "PreparationNote": "skyllet, plukket og fint hakket" },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "hvidvin", "PreparationNote": "cooking wine" },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "pose", "Name": "oliven", "PreparationNote": "hakket" },
+                { "Quantity": 0.5, "Unit": "glas", "Name": "kapers", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "pk", "Name": "bredbladet persille", "PreparationNote": "skyllet og hakket" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Hvedekerner</h3><p>Skyl hvedekernerne grundigt i koldt vand, kom i en sigte og dryp af. Opløs bouillon i 2½ dl kogende vand i en gryde og kom hvedekernerne i. Kog i 12 min. under låg, sluk og lad det trække under låg i 10 min.</p><h3>Provencal</h3><p>Skræl og hak skalotteløg fint. Varm en stegepande op med lidt olivenolie. Del kyllingebrysterne på langs og steg dem ved middelvarme på begge sider i 3-4 min. Tag kødet af og sæt til side. Steg i samme pande løg og presset hvidløg i 3-4 min. Skyl, pluk og hak timian fint og kom ved resten. Tilsæt hvidvin og lad det koge ind til halvdelen. Tilfør tomater, hakket oliven og kapers og lad det koge i 5 min. Mas tomaterne lidt undervejs. Smag til med salt og peber.</p><p>Kom kyllingen op i saucen og kog sammen i 5 min. under låg.</p><h3>Anretning</h3><p>Skyl og hak persille og tilsæt til retten. Servér med hvedekernerne.</p>",
+    "Note": "Allergener: gluten, hvede, svovldioxid.",
+    "ImageUrl": "images/recipe-images/339. Kylling Provencal med hvedekerner.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Kylling", "Fransk", "Provence", "Hvedekerner", "Oliven", "Tomater", "Timian", "Kapers", "Hverdagsmad"]
+}

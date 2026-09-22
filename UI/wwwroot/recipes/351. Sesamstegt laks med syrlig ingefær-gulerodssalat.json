@@ -1,0 +1,50 @@
+{
+    "Id": 351,
+    "Title": "Sesamstegt laks med syrlig ingefær-gulerodssalat",
+    "SubHeader": "Sprød sesamstegt laks serveret med bulgur, babyspinat og en syrlig ingefær-gulerodssalat med kålmix.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Bulgur",
+            "Ingredients": [
+                { "Quantity": 125, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Sesamstegt laks",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "laksefilet", "PreparationNote": "uden skind, har været frosset" },
+                { "Quantity": 1, "Unit": "pose", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Ingefær-gulerodssalat",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "pose", "Name": "hvidvinseddike", "PreparationNote": "30 ml" },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "ingefær", "PreparationNote": "i tynde skiver" },
+                { "Quantity": 150, "Unit": "g", "Name": "revet gulerod", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "kålmix", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 50, "Unit": "g", "Name": "babyspinat", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><h3>Bulgur</h3><p>Kog bulgur i 2½ dl vand med lidt salt i 10 min. med låg. Sluk og lad trække under låg til resten af retten er færdig.</p><h3>Sesamstegt laks</h3><p>Varm en pande med lidt olie. Krydr laksefileterne med salt og peber og steg dem i 3-4 min. på hver side. Drys sesamfrø på laksen og steg yderligere et par min.</p><h3>Ingefær-gulerodssalat</h3><p>Kom hvidvinseddike, ½ dl vand og 2 spsk sukker i en lille gryde og kog op. Skær ingefær i tynde skiver, tilsæt i lagen og lad det trække i 5 min. Bland imens revet gulerod og kålmix i en skål. Hæld ingefærlagen over.</p><h3>Servering</h3><p>Skyl og tør spinaten. Servér den sesamstegte laks med gulerodssalat og bulgur toppet med spinat.</p>",
+    "Note": "Allergener: gluten, fisk, sesamfrø, svovldioxid, hvede.",
+    "ImageUrl": "images/recipe-images/351. Sesamstegt laks med syrlig ingefær-gulerodssalat.jpg",
+    "Source": "Retnemt",
+    "Keywords": ["Fisk", "Laks", "Sesam", "Bulgur", "Ingefær", "Gulerod", "Salat", "Hverdagsmad"]
+}
