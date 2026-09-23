@@ -1,0 +1,110 @@
+{
+    "Id": 412,
+    "Title": "Kylling Kiev",
+    "SubHeader": "Retten gemmer på en overraskelse i form af kryddersmør, der åbenbarer sig, når man skærer i den panerede kyllingebrystfilet.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 50,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "stk",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 100,
+                    "Unit": "g",
+                    "Name": "hvedemel",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "æg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 150,
+                    "Unit": "g",
+                    "Name": "pankorasp",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 50,
+                    "Unit": "g",
+                    "Name": "parmesan",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "kg",
+                    "Name": "kartofler",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Kryddersmør",
+            "Ingredients": [
+                {
+                    "Quantity": 0.5,
+                    "Unit": "bundt",
+                    "Name": "bredbladet persille",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 100,
+                    "Unit": "g",
+                    "Name": "smør",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Tilbehør</h3><p>Tænd ovnen på 200°. Skræl kartoflerne, skær dem i mindre stykker, og bland dem med olie og salt i en bradepande. Bag dem gyldne og sprøde i ovnen i ca. 45 minutter.</p><p>Skyl og tør salaten, og læg den i en skål.</p><h3>Kryddersmør</h3><p>Skyl persillen, og hak den fint. Pil hvidløgene, og hak dem fint. Rør persille, hvidløg og smør sammen i en skål.</p><p>Læg blandingen på et stykke husholdningsfilm, og rul den til en pølse. Frys den i mindst 30 minutter. Del den i 4 stykker.</p><h3>Kylling</h3><p>Skær en lomme i hver kyllingebrystfilet med en skarp kniv, og pres kryddersmørret ind i lommen.</p><p>Bland mel, salt og peber i en dyb tallerken. Hæld æg i en anden tallerken, og pisk dem let sammen. Bland rasp og revet parmesan i en tredje tallerken.</p><p>Vend kyllingebrystfileterne i først mel, derefter æg og til sidst panko/parmesan-blandingen.</p><p>Varm en pande op med 2 cm olie til cirka 170°. Steg de panerede kyllingestykker i 4-5 minutter på hver side. Læg dem på fedtsugende papir, og lad dem trække i 4-5 minutter før servering.</p><h3>Servering</h3><p>Servér kylling Kiev med ovnkartofler og salat.</p>",
+    "Note": "Allergener: gluten, æg, laktose.",
+    "ImageUrl": "images/recipe-images/412. Kylling Kiev.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Kiev",
+        "Paneret",
+        "Kryddersmør",
+        "Ovnkartofler",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

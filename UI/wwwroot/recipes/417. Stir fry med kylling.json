@@ -1,0 +1,29 @@
+{
+    "Id": 417,
+    "Title": "Stir fry med kylling",
+    "SubHeader": "Denne wokret tager ingen tid at lave! Granatæblekernerne giver dit immunsystem et boost og tilføjer med det egyptiske krydderi dukkah lidt ekstra på en almindelig hverdag.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Stir fry med kylling",
+            "Ingredients": [
+                { "Quantity": 150, "Unit": "g", "Name": "kylling i strimler", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "dukkah", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "spsk", "Name": "smagsneutral olie", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "æble", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "frisk spinat", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "granatæblekerner", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Vend kyllingestrimlerne i krydderierne, og lynsteg dem i olie ved kraftig varme.</p><p>Tilsæt skyllede, afdryppede kikærter, og steg i ca. 3 minutter.</p><p>Skær æblet i tynde både, og kom det ved sammen med spinaten.</p><p>Lynsteg i endnu 1-2 minutter, og smag til.</p><p>Servér drysset med granatæblekerner og de friske korianderblade.</p>",
+    "Note": "Dukkah består af stødte (dukkah betyder \"at støde\") urter, nødder og krydderier. Man spiste det traditionelt som dip til brød og olie, men det er et alsidigt krydderi, du kan bruge til alt fra gryderetter, fisk og kød til drys på salater og oven på et hjemmebagt brød. Allergener: nødder.",
+    "ImageUrl": "images/recipe-images/417. Stir fry med kylling.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Kylling", "Wok", "Stir fry", "Asiatisk", "Hurtig", "Kikærter", "Hovedret", "Hverdagsmad"]
+}

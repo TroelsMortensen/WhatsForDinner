@@ -1,0 +1,107 @@
+{
+    "Id": 390,
+    "Title": "Kylling-cashew med grøntsager",
+    "SubHeader": "Det asiatiske køkken byder på mange skønne og velsmagende retter, og denne klassiker med kylling og cashewnødder er ingen undtagelse.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling-cashew",
+            "Ingredients": [
+                {
+                    "Quantity": 650,
+                    "Unit": "g",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "peberfrugt",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "tsk",
+                    "Name": "tørrede chiliflager",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "spsk",
+                    "Name": "østerssauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "spsk",
+                    "Name": "sojasauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "vand",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "limesaft",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 75,
+                    "Unit": "g",
+                    "Name": "cashewnødder",
+                    "PreparationNote": "ristede og letsaltede"
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "dl",
+                    "Name": "jasminris",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "forårsløg",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Skær kyllingebrystfileterne i strimler.</p><p>Bring en gryde med letsaltet vand i kog, og tilsæt kyllingen. Kog kødet i vandet i 3-4 minutter. Tag kyllingestrimlerne op, og kassér kogevandet.</p><p>Pil løg, skyl peberfrugter, og skær begge dele i strimler.</p><p>Opvarm en wok (eller dyb pande) med olie, og steg kyllingestrimlerne i ca. 1 minut.</p><p>Tilsæt løg, peberfrugt og chiliflager, og steg videre i ca. 2 minutter. Tilsæt østerssauce, soja og vand, varm retten igennem, og smag til med limesaft. Vend cashewnødder i retten til sidst.</p><h3>Til servering</h3><p>Kog ris efter anvisningen på emballagen. Rens og snit forårsløg fint. Drys forårsløg over retten, og servér med ris.</p>",
+    "Note": "Allergener: gluten, skaldyr, soja, nødder.",
+    "ImageUrl": "images/recipe-images/390. Kylling-cashew med grøntsager.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Asiatisk",
+        "Cashew",
+        "Wok",
+        "Peberfrugt",
+        "Ris",
+        "Hurtig",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

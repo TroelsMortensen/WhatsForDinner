@@ -1,0 +1,159 @@
+{
+    "Id": 396,
+    "Title": "Høvdingegryde med kartoffelmos",
+    "SubHeader": "Ugh! Husker du den fantastiske gryderet, hvor alle fisker efter cocktailpølserne? Erstat evt. nogle af okseternene med de små pølser, hvis du ikke kan få nok.",
+    "TotalMinutes": 140,
+    "MinutesOfPreparation": 50,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Høvdingegryde",
+            "Ingredients": [
+                {
+                    "Quantity": 600,
+                    "Unit": "g",
+                    "Name": "oksekød i tern",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "spsk",
+                    "Name": "hvedemel",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "gulerod",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "peberfrugt",
+                    "PreparationNote": "rød"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 150,
+                    "Unit": "g",
+                    "Name": "bacon i tern",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 5,
+                    "Unit": "stk",
+                    "Name": "laurbærblad",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "paprika",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 8,
+                    "Unit": "dl",
+                    "Name": "kalvefond",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "cocktailpølser",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1.5,
+                    "Unit": "dl",
+                    "Name": "piskefløde",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 100,
+                    "Unit": "g",
+                    "Name": "perleløg",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Kartoffelmos",
+            "Ingredients": [
+                {
+                    "Quantity": 1.5,
+                    "Unit": "kg",
+                    "Name": "kartofler",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "mælk",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 100,
+                    "Unit": "g",
+                    "Name": "smør",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "bredbladet persille",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Høvdingegryde</h3><p>Vend okseternene i mel krydret med salt og peber i en skål. Brun kødet godt af i olie i en gryde.</p><p>Pil løgene, og skær dem i små tern. Skræl gulerødderne, og skær dem i små tern. Skyl peberfrugten, og skær den i små tern. Pil og pres hvidløgene. Steg det hele i gryden med kød i et par minutter.</p><p>Hæld bacon, laurbærblade og paprika i gryden, og steg, til baconen får lidt farve. Tilsæt fond, og lad det hele simre i 1 time og 15 minutter.</p><h3>Kartoffelmos</h3><p>Skræl kartoflerne, og kog dem møre i en gryde med vand uden salt i ca. 20 minutter.</p><p>Afdryp, og mos kartoflerne sammen med mælk og smør med et piskeris. Smag mosen med salt og peber.</p><h3>Høvdingegryde, fortsat</h3><p>Hæld cocktailpølser, fløde og perleløg i gryden, og lad det simre i yderligere 15 minutter. Smag høvdingegryden til med salt, peber og lidt eddike. Top med persille.</p><h3>Servering</h3><p>Skyl og hak persillen fint. Servér høvdingegryden med kartoffelmos og et godt drys persille.</p>",
+    "Note": "Simretid: 1½ time. Allergener: gluten, laktose.",
+    "ImageUrl": "images/recipe-images/396. Høvdingegryde med kartoffelmos.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Oksekød",
+        "Gryderet",
+        "Kartoffelmos",
+        "Cocktailpølser",
+        "Bacon",
+        "Hovedret",
+        "Hverdagsmad",
+        "Simreret"
+    ]
+}

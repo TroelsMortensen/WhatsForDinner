@@ -1,0 +1,52 @@
+{
+    "Id": 381,
+    "Title": "Vegetarisk gullasch med spidskommen-yoghurt",
+    "SubHeader": "Gullasch plejer at være en kødfyldt omgang, men her er en grøn og velsmagende version med grove grøntsager og kidneybønner.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Vegetarisk gullasch",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "gulerødder", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "koncentreret tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "peberfrugter", "PreparationNote": "rød og gul" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Spidskommen-yoghurt",
+            "Ingredients": [
+                { "Quantity": 2.5, "Unit": "dl", "Name": "græsk yoghurt 10 %", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "brød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Vegetarisk gullasch</h3><p>Skræl kartofler og gulerødder, og skær dem i mindre tern. Pil og hak løg og hvidløg.</p><p>Steg kartofler, gulerødder, løg og hvidløg i olie i en gryde ved middel varme i 2 minutter. Krydr med spidskommen, oregano og 2 slags paprika, og steg videre i ½ minut.</p><p>Tilsæt tomatpuré, hakkede tomater og bouillon, læg låg på gryden, og lad det simre i 15 minutter.</p><p>Skyl peberfrugterne, og skær dem i tern. Skyl og afdryp kidneybønnerne. Vend peberfrugt og bønner i gullaschen, krydr med sukker, salt og peber, og varm retten igennem i ca. 5 minutter.</p><h3>Spidskommen-yoghurt</h3><p>Rør græsk yoghurt sammen med olie og spidskommen i en skål, og smag til med salt og peber.</p><h3>Servering</h3><p>Servér gullaschen med spidskommen-yoghurt og brød, og top med plukket persille.</p>",
+    "Note": "Allergener: laktose, gluten.",
+    "ImageUrl": "images/recipe-images/381. Vegetarisk gullasch med spidskommen-yoghurt.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Vegetarisk", "Gullasch", "Gryderet", "Kidneybønner", "Yoghurt", "Spidskommen", "Peberfrugt", "Hverdagsmad", "Hovedret"]
+}

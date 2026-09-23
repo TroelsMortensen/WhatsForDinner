@@ -1,0 +1,61 @@
+{
+    "Id": 380,
+    "Title": "Cremet tandoorikylling med mynteyoghurt",
+    "SubHeader": "Tandoorikylling i en lækker, cremet sauce. Her er brugt fløde til saucen, men du kan også vælge kokosmælk, hvis du foretrækker det.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Cremet tandoorikylling",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "store løg", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "stk", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "tomat", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "tandoorikrydderi", "PreparationNote": "eller efter smag" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tabbouleh",
+            "Ingredients": [
+                { "Quantity": 100, "Unit": "g", "Name": "couscous", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "kogende vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "bredbladet persille", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "citron", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Mynteyoghurt",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "græsk yoghurt 10 %", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "håndfuld", "Name": "frisk mynte", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørrede chiliflager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "mangochutney", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Cremet tandoorikylling</h3><p>Pil løg og hvidløg. Skær løgene i både, og hak hvidløgene fint. Sautér begge dele i olie i en gryde i 4-5 minutter.</p><p>Skær kyllingefileterne i mundrette tern. Hæld dem i gryden sammen med løg og hvidløg, og steg i ca. 5 minutter, til de er gennemstegte, men uden at de tager for meget farve.</p><p>Skær tomaterne i tern, og hæld dem i gryden sammen med fintrevet ingefær. Sautér kort. Tilsæt tandoorikrydderi, og smag til med salt. Tilsæt hakkede tomater fra dåse, smør og fløde, og lad retten småkoge i 25-45 minutter, til den er cremet og lækker. Smag til.</p><h3>Tabbouleh</h3><p>Hæld imens couscous i en skål og kogende vand i en skål (sørg for, at vandet dækker). Dæk skålen med film, og lad den trække i 10 minutter.</p><p>Skær agurken i tern. Snit forårsløg og persille fint.</p><p>Løsn couscoussen med en gaffel, og krydr med salt. Vend agurk, forårsløg og persille i, og smag til med citronsaft og olie.</p><h3>Mynteyoghurt</h3><p>Rør yoghurten med spidskommen, salt og hakket mynte. Smag til med chiliflager og olie.</p><h3>Servering</h3><p>Servér tandoorikylling med tabbouleh, mynteyoghurt og en spicy chutney.</p>",
+    "Note": "Tip: Retten kan simre kort eller længe. Begge dele er lækkert, så længe kyllingen er gennemtilberedt. Så det afhænger af, hvor sulten du er. Allergener: laktose, gluten.",
+    "ImageUrl": "images/recipe-images/380. Cremet tandoorikylling med mynteyoghurt.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Kylling", "Tandoori", "Indisk", "Asiatisk", "Mynte", "Yoghurt", "Tabbouleh", "Fløde", "Hverdagsmad", "Hovedret"]
+}

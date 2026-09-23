@@ -1,0 +1,137 @@
+{
+    "Id": 414,
+    "Title": "Karrygryde med kikærter og blomkål",
+    "SubHeader": "En fyldig og mættende karrygryde er et skønt vegetarisk måltid, der både mætter og smager godt. Servér med lune naanbrød eller ris.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Bagt blomkål",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "blomkål",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Karrygryde",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "cm",
+                    "Name": "frisk ingefær",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "smør",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "karry",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "garam masala",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dåser",
+                    "Name": "kokosmælk",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "græsk yoghurt 10 %",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 70,
+                    "Unit": "g",
+                    "Name": "koncentreret tomatpuré",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dåser",
+                    "Name": "kikærter",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "stk",
+                    "Name": "naanbrød",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "håndfuld",
+                    "Name": "frisk koriander",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Bagt blomkål</h3><p>Tænd ovnen på 200°. Skær blomkålen i buketter, og fordel dem på en bageplade med bagepapir. Vend dem med olie, drys med salt, og bag buketterne i ovnen i ca. 20 minutter, til de er gyldne og sprøde.</p><h3>Karrygryde</h3><p>Pil og hak løg, og riv hvidløg og ingefær fint. Svits løg, hvidløg og ingefær i smør i en gryde. Tilsæt karry, garam masala, salt og peber, og lad det stege med et par minutter. Hæld kokosmælk, yoghurt og tomatpuré i gryden, og rør godt rundt.</p><p>Dræn væden fra kikærterne, og bland dem i gryderetten. Lad gryden simre i 10 minutter, og vend så de bagte blomkålsbuketter i retten. Smag til med salt og peber.</p><h3>Servering</h3><p>Lun naanbrødene, og skyl, og tør korianderen.</p><p>Servér karrygryden med naanbrød og korianderblade.</p>",
+    "Note": "Tip: Variér med andre grøntsager eller bælgfrugter, og servér med ris, quinoa eller bulgur i stedet for naan, hvis du vil. Allergener: laktose, gluten.",
+    "ImageUrl": "images/recipe-images/414. Karrygryde med kikærter og blomkål.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Vegetarisk",
+        "Karry",
+        "Kikærter",
+        "Blomkål",
+        "Gryderet",
+        "Indisk",
+        "Kokosmælk",
+        "Hurtig",
+        "Hverdagsmad",
+        "Hovedret"
+    ]
+}

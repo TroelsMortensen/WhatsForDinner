@@ -1,0 +1,159 @@
+{
+    "Id": 402,
+    "Title": "Laks i paprikasauce med ris og broccolisalat",
+    "SubHeader": "Fisk på menuen bliver ekstra lækkert med denne laks i en smagfuld sauce.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Laks i paprikasauce",
+            "Ingredients": [
+                {
+                    "Quantity": 500,
+                    "Unit": "g",
+                    "Name": "fersk laksefilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "stk",
+                    "Name": "bananskalotteløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "smør",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "paprika",
+                    "PreparationNote": "sød"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "koncentreret tomatpuré",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "grov sennep",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "majsstivelse",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "dl",
+                    "Name": "grøntsagsbouillon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "cremefraiche 18 %",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "sukker",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Broccolisalat",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "broccoli",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "edamamebønner uden bælg, fra frost",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "pære",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "citronsaft",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "flydende honning",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "dl",
+                    "Name": "ris",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "håndfuld",
+                    "Name": "kruspersille",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Tilbehør</h3><p>Kog risene efter anvisningen på emballagen. Skyl og hak persillen.</p><h3>Broccolisalat</h3><p>Skyl broccolien, og skær den i små buketter. Kog broccolibuketterne i en gryde med letsaltet vand i 2-3 minutter. Tilsæt de frosne edamamebønner det sidste minut af kogetiden. Afdryp godt.</p><p>Skyl pærerne, fjern kernehuset, og skær pærerne i små tern. Vend broccoli, bønner og pærer sammen med olie og citronsaft i en skål, og krydr med salt og peber. Drys med hakkede cashewnødder.</p><h3>Laks i paprikasauce</h3><p>Skær laksefileten i mundrette tern. Pil skalotteløgene, og hak dem fint. Steg skalotteløgene i smør i en gryde i 2 minutter. Tilsæt paprika, tomatpuré og sennep, og steg videre i 2 minutter.</p><p>Rør majsstivelse ud i bouillonen, og hæld den i gryden sammen med cremefraiche. Bring saucen i kog, og lad den småkoge ved middel varme i 5 minutter.</p><p>Læg laksestykkerne ned i saucen, og lad dem simre med i ca. 5 minutter, til de er gennemtilberedte. Smag saucen til med sukker, salt og peber.</p><h3>Servering</h3><p>Drys lakseretten med skyllet og hakket persille, og servér med ris og broccolisalat.</p>",
+    "Note": "Allergener: fisk, laktose.",
+    "ImageUrl": "images/recipe-images/402. Laks i paprikasauce med ris og broccolisalat.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Laks",
+        "Fisk",
+        "Paprika",
+        "Broccoli",
+        "Ris",
+        "Pescetarisk",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

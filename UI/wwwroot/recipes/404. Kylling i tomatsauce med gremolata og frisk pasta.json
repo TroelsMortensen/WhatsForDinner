@@ -1,0 +1,158 @@
+{
+    "Id": 404,
+    "Title": "Kylling i tomatsauce med gremolata og frisk pasta",
+    "SubHeader": "Gremolata er et italiensk urtedrys, som består af persille, hvidløg og citronskal. Det kan bruges som topping på supper, gryderetter og rustikke kødretter, f.eks. ossobuco.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 40,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling i tomatsauce",
+            "Ingredients": [
+                {
+                    "Quantity": 500,
+                    "Unit": "g",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "rødløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "gulerod",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "squash",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1.5,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "herbes de Provence",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.25,
+                    "Unit": "tsk",
+                    "Name": "chilipulver",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 70,
+                    "Unit": "g",
+                    "Name": "koncentreret tomatpuré",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "hakkede tomater",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "dl",
+                    "Name": "hønsebouillon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "piskefløde",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "sukker",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "æbleeddike",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Gremolata",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "potte",
+                    "Name": "kruspersille",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "citron",
+                    "PreparationNote": "usprøjtet"
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 400,
+                    "Unit": "g",
+                    "Name": "frisk pasta",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Kylling i tomatsauce</h3><p>Skær kyllingefileterne i små tern. Pil løg, rødløg og hvidløg, og hak dem groft. Skræl gulerødderne, skyl squashen, og skær begge dele i små tern.</p><p>Brun kyllingekødet på alle sider i en gryde med olie. Tilsæt de tre slags løg, gulerødder og squash, og steg videre i 2-3 minutter. Krydr med Herbes de Provence og chili, og steg videre i 1 minuts tid. Hæld tomatpuré, hakkede tomater, bouillon og fløde i gryden, og bring saucen i kog. Skru ned til middel varme, og lad saucen småkoge i 10-15 minutter.</p><p>Smag saucen til med sukker, eddike, salt og peber, og hold den varm til servering.</p><h3>Gremolata</h3><p>Skyl persillen, nip bladene af stilkene, pil hvidløget, og hak det hele fint. Riv citronskallen fint, og undlad at få den hvide, bitre hinde med. Bland persille, hvidløg og citronskal sammen i en skål.</p><h3>Servering</h3><p>Kog pastaen efter anvisningen på emballagen. Afdryp.</p><p>Servér kylling i tomatsauce med friskkogt pasta, og drys med gremolata.</p>",
+    "Note": "Allergener: laktose, gluten, æg.",
+    "ImageUrl": "images/recipe-images/404. Kylling i tomatsauce med gremolata og frisk pasta.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Tomatsauce",
+        "Gremolata",
+        "Pasta",
+        "Italiensk",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

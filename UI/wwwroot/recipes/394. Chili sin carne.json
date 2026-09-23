@@ -1,0 +1,177 @@
+{
+    "Id": 394,
+    "Title": "Chili sin carne",
+    "SubHeader": "Chili sin carne er den vegetariske version af chili con carne, og den smager supergodt! Det bedste af det hele er, at du kan tilføje lige de grøntsager, du bedst kan lide.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Chili sin carne",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "frisk rød chili",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "gulerod",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "peberfrugt",
+                    "PreparationNote": "røde"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "stødt koriander",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "stødt spidskommen",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "røget paprika",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt kanel",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dåse",
+                    "Name": "hakkede tomater",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 140,
+                    "Unit": "g",
+                    "Name": "koncentreret tomatpuré",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "l",
+                    "Name": "grøntsagsbouillon",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Bønnefyld",
+            "Ingredients": [
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "quinoa",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "chiafrø",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 50,
+                    "Unit": "g",
+                    "Name": "mørk chokolade",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "rødvinseddike",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dåse",
+                    "Name": "kidneybønner",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "cremefraiche 18 %",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 180,
+                    "Unit": "g",
+                    "Name": "tortillachips",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "frisk koriander",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Chili sin carne</h3><p>Pil og hak løget. Pil og pres hvidløg. Rens chilien, og hak den fint. Svits løg, hvidløg og chili i olie i en stor gryde.</p><p>Skræl gulerødder, og rens peberfrugter. Skær begge dele i små tern, og tilsæt dem sammen med koriander, spidskommen, paprika, kanel, salt og peber.</p><p>Lad det hele svitse et par minutter. Hæld hakkede tomater, tomatpuré og bouillon i gryden, og bring det i kog.</p><h3>Bønnefyld</h3><p>Skyl quinoa i koldt vand i en sigte, og hæld i gryden med chili sin carne. Tilsæt chiafrø. Lad retten simre i 20 minutter.</p><p>Tilsæt chokolade, rødvinseddike og afdryppede kidneybønner. Lad retten simre, til chokoladen smelter. Smag til.</p><h3>Servering</h3><p>Anret cremefraiche, tortillachips og frisk koriander i små skåle, og servér som tilbehør til chili sin carne.</p>",
+    "Note": "Allergener: laktose.",
+    "ImageUrl": "images/recipe-images/394. Chili sin carne.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Vegetarisk",
+        "Mexicansk",
+        "Chili",
+        "Gryderet",
+        "Bønner",
+        "Quinoa",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

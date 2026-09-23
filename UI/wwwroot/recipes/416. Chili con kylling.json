@@ -1,0 +1,153 @@
+{
+    "Id": 416,
+    "Title": "Chili con kylling",
+    "SubHeader": "Prøv en ny version af den klassiske chili con carne, som her er lavet med hakket kyllingekød.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Chili con kylling",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": "stort"
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "frisk rød chili",
+                    "PreparationNote": "lille"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 400,
+                    "Unit": "g",
+                    "Name": "hakket kyllingekød",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "paprika",
+                    "PreparationNote": "gerne røget"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt kanel",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "spsk",
+                    "Name": "stødt spidskommen",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "hakkede tomater",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 140,
+                    "Unit": "g",
+                    "Name": "koncentreret tomatpuré",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "grøntsagsbouillonterning",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dåse",
+                    "Name": "kidneybønner",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 30,
+                    "Unit": "g",
+                    "Name": "mørk chokolade",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "spsk",
+                    "Name": "rødvinseddike",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "spidskål",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "avocado",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 125,
+                    "Unit": "g",
+                    "Name": "tortillachips",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "cremefraiche 18 %",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "håndfuld",
+                    "Name": "frisk koriander",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Chili con kylling</h3><p>Pil og hak løg og hvidløg. Rens chilien, og hak den fint. Steg løg, hvidløg og chili i olie i en gryde.</p><p>Tilsæt hakket kylling og krydderier, og steg, til kødet er brunet. Tilsæt hakkede tomater, tomatpuré og evt. en bouillonterning. Lad gryden simre i mindst 15 minutter.</p><p>Dræn og skyl bønnerne, og rør dem i chilien. Smag retten til med chokolade, rødvinseddike, salt og peber.</p><h3>Tilbehør</h3><p>Snit spidskål fint. Halvér avocadoen, fjern stenen, og skær kødet i skiver. Servér chili con kylling med spidskål, avocado, tortillachips, cremefraiche og koriander.</p>",
+    "Note": "Allergener: laktose.",
+    "ImageUrl": "images/recipe-images/416. Chili con kylling.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Mexicansk",
+        "Chili",
+        "Gryderet",
+        "Bønner",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

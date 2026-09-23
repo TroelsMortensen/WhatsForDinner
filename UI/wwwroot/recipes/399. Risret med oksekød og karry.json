@@ -1,0 +1,124 @@
+{
+    "Id": 399,
+    "Title": "Risret med oksekød og karry",
+    "SubHeader": "En orientalsk risret med hakket okse og bacon går lige ind hos både børn og voksne.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Risret med oksekød og karry",
+            "Ingredients": [
+                {
+                    "Quantity": 225,
+                    "Unit": "g",
+                    "Name": "ris",
+                    "PreparationNote": "(f.eks. basmati)"
+                },
+                {
+                    "Quantity": 8,
+                    "Unit": "dl",
+                    "Name": "hønsebouillon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "karry",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt gurkemeje",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 140,
+                    "Unit": "g",
+                    "Name": "bacon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "porre",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "gulerod",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 150,
+                    "Unit": "g",
+                    "Name": "ærter fra frost",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 500,
+                    "Unit": "g",
+                    "Name": "hakket oksekød",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "garam masala",
+                    "PreparationNote": "(krydderiblanding)"
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "håndfuld",
+                    "Name": "bredbladet persille",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "mangochutney",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Risret med oksekød og karry</h3><p>Bring ris, bouillon, 1 spsk. karry og gurkemeje i kog i en gryde. Skru ned til lav varme, læg låg på, og kog risene efter anvisningen på emballagen. Hæld overskydende væske fra, og afdryp risene.</p><p>Skær bacon i tern. Pil og hak løget fint. Rens porren, og skær den i tynde skiver. Skræl gulerødderne, og skær dem i små tern. Tag ærterne ud fra frost.</p><p>Steg baconternene gyldne i lidt olie i en gryde. Tilsæt oksekød, og brun det godt. Tilsæt den sidste 1 spsk. karry, garam masala, løg, porre og gulerødder, og steg i ca. 5 minutter.</p><p>Vend kogte ris og ærter i retten, og varm den godt igennem. Smag til med salt og peber.</p><h3>Servering</h3><p>Skyl og hak persillen, og drys den over risretten. Servér med mangochutney.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/399. Risret med oksekød og karry.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Oksekød",
+        "Ris",
+        "Karry",
+        "Orientalsk",
+        "Bacon",
+        "Gryderet",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

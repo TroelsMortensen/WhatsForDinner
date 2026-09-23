@@ -1,0 +1,141 @@
+{
+    "Id": 413,
+    "Title": "Pasta med linsesauce",
+    "SubHeader": "Giv kødsaucen kamp til stregen med denne krydrede linsesauce fyldt med velsmag.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Linsesauce",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "squash",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "gulerod",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "tørret basilikum",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "tørret oregano",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dåser",
+                    "Name": "hakkede tomater",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 140,
+                    "Unit": "g",
+                    "Name": "koncentreret tomatpuré",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "l",
+                    "Name": "grøntsagsbouillon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "tørrede røde linser",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "chiafrø",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "rødvinseddike",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 400,
+                    "Unit": "g",
+                    "Name": "pastaskruer",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 50,
+                    "Unit": "g",
+                    "Name": "parmesan",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "håndfuld",
+                    "Name": "frisk basilikum",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Linsesauce</h3><p>Pil og hak løg. Pil og pres hvidløg. Svits begge dele i olivenolie i en gryde.</p><p>Skyl og riv squash. Skræl og riv gulerødderne. Vend begge dele i gryden med løg. Krydr godt med salt, peber, basilikum og oregano, og lad det stege, indtil grøntsagerne falder sammen, og væden er fordampet.</p><p>Hæld hakkede tomater, tomatpuré, bouillon, røde linser og chiafrø i gryden. Rør grundigt rundt, og lad saucen simre i 30 minutter. Smag til med rødvinseddike.</p><h3>Tilbehør</h3><p>Kog pastaskruerne efter anvisning på pakken.</p><h3>Servering</h3><p>Servér pasta i dybe tallerkener med linsesauce, friskrevet parmesan og basilikumblade.</p>",
+    "Note": "Allergener: gluten, laktose.",
+    "ImageUrl": "images/recipe-images/413. Pasta med linsesauce.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Pasta",
+        "Linser",
+        "Vegetarisk",
+        "Tomat",
+        "Squash",
+        "Hverdagsmad",
+        "Hovedret",
+        "Italiensk"
+    ]
+}

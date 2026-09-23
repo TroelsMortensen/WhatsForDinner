@@ -1,0 +1,138 @@
+{
+    "Id": 410,
+    "Title": "Kylling stroganoff med ris",
+    "SubHeader": "En klassisk stroganoff er med strimler af oksekød, men her er en lettere version med kylling og svampe. Servér den cremede gryderet med ris og frisk persille.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling stroganoff",
+            "Ingredients": [
+                {
+                    "Quantity": 500,
+                    "Unit": "g",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 100,
+                    "Unit": "g",
+                    "Name": "bacon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "rødløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 250,
+                    "Unit": "g",
+                    "Name": "champignoner",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "sød paprika",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "tsk",
+                    "Name": "røget paprika",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "tørret timian",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "grov sennep",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "hønsebouillon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "piskefløde",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "cremefraiche 18 %",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "tsk",
+                    "Name": "sukker",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "dl",
+                    "Name": "ris",
+                    "PreparationNote": "f.eks. fuldkornsris"
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 0.5,
+                    "Unit": "bundt",
+                    "Name": "kruspersille",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Tilbehør</h3><p>Kog risene efter pakkens anvisninger.</p><h3>Kylling stroganoff</h3><p>Skær kyllingebrystfilet og bacon i tern. Pil rødløgene, og skær dem i tynde både. Rens champignonerne, og skær dem i halve.</p><p>Steg baconen let sprød i en gryde med olie. Tilsæt kylling, og brun det. Tilsæt rødløg og champignoner, og steg videre i 2 minutter. Krydr med paprika og timian, og steg i yderligere 1 minut. Hæld sennep, bouillon og fløde i gryden, rør rundt. Skru ned, og lad retten småkoge under låg i 15 minutter.</p><p>Rør cremefraiche i saucen, og smag til med sukker, salt og peber.</p><h3>Servering</h3><p>Skyl og hak persillen. Servér kylling stroganoff med ris, og drys med persille.</p>",
+    "Note": "Tip: Jævn evt. saucen med lidt maizena rørt ud i mælk, hvis du gerne vil have en tykkere sauce. Allergener: laktose.",
+    "ImageUrl": "images/recipe-images/410. Kylling stroganoff med ris.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Stroganoff",
+        "Svampe",
+        "Champignon",
+        "Bacon",
+        "Ris",
+        "Gryderet",
+        "Fløde",
+        "Cremefraiche",
+        "Hverdagsmad",
+        "Hovedret"
+    ]
+}

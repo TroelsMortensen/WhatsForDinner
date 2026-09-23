@@ -1,0 +1,141 @@
+{
+    "Id": 392,
+    "Title": "Quinoa bowl med krydret kylling",
+    "SubHeader": "Fyld en skål eller dyb tallerken med fajita-krydret kylling, spidskål og friske krydderurter, der mætter både øjet og maven.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Quinoa og krydret kylling",
+            "Ingredients": [
+                {
+                    "Quantity": 300,
+                    "Unit": "g",
+                    "Name": "quinoa",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "stk",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1.5,
+                    "Unit": "tsk",
+                    "Name": "fajitakrydderi",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Lynstegt grønt",
+            "Ingredients": [
+                {
+                    "Quantity": 0.5,
+                    "Unit": "stk",
+                    "Name": "spidskål",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "peberfrugt",
+                    "PreparationNote": "røde"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "forårsløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "cm",
+                    "Name": "frisk ingefær",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": null,
+                    "Unit": "spsk",
+                    "Name": "sojasauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "limefrugt",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "potte",
+                    "Name": "frisk basilikum",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "sojasauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "limefrugt",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Quinoa og krydret kylling</h3><p>Skyl og kog quinoaen efter anvisningen på emballagen.</p><p>Skær kyllingefileterne i små tern. Læg dem i en skål, og vend dem med fajita-krydderi. Pil og hak hvidløgene fint.</p><p>Steg kyllingeternene i olie på en pande i 5-6 minutter, til de er gennemstegte. Krydr med hvidløg, salt og peber og evt. lidt mere fajita-krydderi i det sidste minut af stegetiden.</p><h3>Lynstegt grønt</h3><p>Skyl spidskålen, og skær den i strimler. Skyl peberfrugterne, og skær dem i grove stykker. Skyl forårsløgene, og skær dem i tynde skiver på skrå. Skræl ingefæren, og riv den fint.</p><p>Steg kål og peberfrugt i olie på en pande i 2-3 minutter. Tilsæt forårsløg og ingefær, og steg i yderligere 2 minutter. Smag til med soja, limesaft, salt og peber.</p><h3>Servering</h3><p>Vend den kogte quinoa med lidt olie, salt og fajita-krydderi i en skål.</p><p>Anret quinoaen i dybe tallerkener, og top med stegt kylling, lynstegt grønt og basilikum. Dryp retten med lidt soja og limesaft.</p>",
+    "Note": "Allergener: gluten, soja.",
+    "ImageUrl": "images/recipe-images/392. Quinoa bowl med krydret kylling.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Quinoa",
+        "Bowl",
+        "Fajita",
+        "Spidskål",
+        "Hurtig",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

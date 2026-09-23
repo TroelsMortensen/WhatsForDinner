@@ -1,0 +1,43 @@
+{
+    "Id": 384,
+    "Title": "Glasnudler med krydret gris, pak choy og peanuts",
+    "SubHeader": "De gennemsigtige nudler er lavet af mungbønner og bruges ofte i det asiatiske køkken.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Glasnudler med krydret gris",
+            "Ingredients": [
+                { "Quantity": 125, "Unit": "g", "Name": "brede glasnudler", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "hakket svinekød", "PreparationNote": "4-7%" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gochugaru (koreansk chilipulver)", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "små pak choy", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sprød chiliolie", "PreparationNote": "f.eks. fra Lao Gan Ma" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "saltede peanuts", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Kog nudlerne som anvist på pakken.</p><p>Svits kødet i olie på en pande sammen med knuste hvidløg og chilipulver. Tilsæt farin og soja, svits kort, og smag til.</p><p>Skyl og halvér pak choy, og damp dem i en gryde med letsaltet vand i 2-3 minutter.</p><p>Anret nudlerne på tallerkner, og læg pak choi ovenpå. Fordel kødet over, og drys med koriander, sprød chiliolie og hakkede peanuts. Servér straks.</p>",
+    "Note": "Allergener: gluten, soja, jordnødder.",
+    "ImageUrl": "images/recipe-images/384. Glasnudler med krydret gris, pak choy og peanuts.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Glasnudler",
+        "Svinekød",
+        "Pak choy",
+        "Asiatisk",
+        "Peanuts",
+        "Koreansk",
+        "Chili",
+        "Koriander",
+        "Hverdagsmad",
+        "Hovedret",
+        "Hurtig"
+    ]
+}

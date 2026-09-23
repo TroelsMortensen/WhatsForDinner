@@ -1,0 +1,154 @@
+{
+    "Id": 391,
+    "Title": "Vegetarfrikadeller med quinoa og søde kartofler",
+    "SubHeader": "Når quinoa steges, bliver de små frø lækre og knasende. Dellerne her får derfor en dejlig sprød overflade, som omkranser det søde og bløde fyld af søde kartofler.",
+    "TotalMinutes": 65,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Søde kartoffel-deller",
+            "Ingredients": [
+                {
+                    "Quantity": 300,
+                    "Unit": "g",
+                    "Name": "søde kartofler",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1.5,
+                    "Unit": "dl",
+                    "Name": "quinoa",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "æg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt koriander",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "havregryn",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "tsk",
+                    "Name": "salt",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "knivspids",
+                    "Name": "peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "smør",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                }
+            ]
+        },
+        {
+            "Title": "Spinatdressing",
+            "Ingredients": [
+                {
+                    "Quantity": 300,
+                    "Unit": "g",
+                    "Name": "spinat fra frost",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "rødløg",
+                    "PreparationNote": "lille"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3.5,
+                    "Unit": "dl",
+                    "Name": "skyr",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "mayonnaise",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.25,
+                    "Unit": "tsk",
+                    "Name": "salt",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.25,
+                    "Unit": "tsk",
+                    "Name": "sukker",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "citron",
+                    "PreparationNote": "usprøjtet"
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Søde kartoffel-deller</h3><p>Tænd ovnen på 220° varmluft. Halvér kartoflerne på langs, og læg dem på en bageplade med skindsiden opad.</p><p>Dryp lidt olie over kartoflerne, og bag dem møre i ovnen i 25-30 minutter.</p><p>Kog quinoa efter pakkens anvisning.</p><p>Kassér skindet fra de bagte kartofler, og skær resten i mindre stykker. Mos kartoffelkødet med en gaffel.</p><p>Bland quinoa, æg, revet løg og hvidløg, koriander, havregryn, salt og peber i, og rør det hele sammen til en fars.</p><p>Sæt farsen i klatter på en varm pande, og steg dellerne ved middel varme i en blanding af smør og olie, til alle siderne er sprøde og gyldne.</p><h3>Spinatdressing</h3><p>Optø langsomt spinaten. Bland den med finthakket løg og presset hvidløg. Rør skyr, mayonnaise, salt og sukker sammen. Vend dressingen med spinatblandingen, og smag til med salt, sukker, revet citronskal og citronsaft.</p>",
+    "Note": "Spis dem f.eks. med spinatdip som her, eller brug dem i en salat, som tilbehør i en kødret eller som fyld i pitabrød. Allergener: æg, gluten, laktose.",
+    "ImageUrl": "images/recipe-images/391. Vegetarfrikadeller med quinoa og søde kartofler.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Vegetarisk",
+        "Frikadeller",
+        "Quinoa",
+        "Søde kartofler",
+        "Spinat",
+        "Plantebaseret",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

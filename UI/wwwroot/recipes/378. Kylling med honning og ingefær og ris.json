@@ -1,0 +1,51 @@
+{
+    "Id": 378,
+    "Title": "Kylling med honning og ingefær og ris",
+    "SubHeader": "Vaskeægte comfort food: snasket, sprød, syrlig, lidt stærk og superlækker! Giv gerne dampet broccoli eller pakchoy til, eller steg lidt spinat som grønt tilbehør.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 45,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ris og kylling",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "jasminris", "PreparationNote": null },
+                { "Quantity": 800, "Unit": "g", "Name": "kyllingelår", "PreparationNote": "udbenede, uden skind" },
+                { "Quantity": 1, "Unit": "stk", "Name": "æggehvide", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "kartoffelmel", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sesamolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "majsmel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "smagsneutral olie", "PreparationNote": "rigeligt, til fritering" }
+            ]
+        },
+        {
+            "Title": "Sauce",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "frisk ingefær", "PreparationNote": "fintrevet" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "smagsneutral olie", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "koncentreret tomatpuré", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "tørrede chiliflager", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "honning", "PreparationNote": "flydende" },
+                { "Quantity": 2, "Unit": "dl", "Name": "sojasauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "srirachasauce", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "risvinseddike", "PreparationNote": "efter smag" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "vand", "PreparationNote": "koldt" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Ris og kylling</h3><p>Kog risene efter anvisningen på pakken.</p><p>Skær kyllingelårene i mundrette stykker. Pisk æggehvide og kartoffelmel sammen med soja og sesamolie i en skål.</p><p>Vend kyllingestykkerne i blandingen, og lad dem trække indtil brug.</p><p>Bland majsmel og mel sammen i en frysepose.</p><p>Varm olien op i en gryde. Hæld kyllingestykkerne i posen med mel, ryst grundigt, så de er helt dækkede, og steg dem i hold i den varme olie i ca. 8 minutter. Afdryp dem på en bagerist.</p><h3>Sauce</h3><p>Pil hvidløgene, og hak dem fint. Sautér hvidløg og ingefær i olie i en dyb pande i et par minutter. Det skal ikke tage farve. Tilsæt tomatpuré, og steg ganske kort. Tilsæt chiliflager, honning, soja og sriracha, og smag til med eddike. Lad saucen koge op.</p><p>Rør majsstivelse sammen med vand i en skål, og rør blandingen i saucen. Kog i yderligere et par minutter. Kog saucen op lige inden brug.</p><h3>Servering</h3><p>Snit forårsløgene fint. Vend den sprøde kylling i den varme sauce, og servér straks med kogte ris og et drys forårsløg.</p>",
+    "Note": "Tip: Du kan også lave retten med kyllingebryst. Det smager af lidt mindre, og stegetiden er en smule kortere. Tjek altid, at kødet er gennemtilberedt, når du arbejder med kylling. Allergener: æg, gluten, soja.",
+    "ImageUrl": "images/recipe-images/378. Kylling med honning og ingefær og ris.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Kylling", "Asiatisk", "Honning", "Ingefær", "Ris", "Comfort food", "Hovedret", "Friture", "Sriracha"]
+}

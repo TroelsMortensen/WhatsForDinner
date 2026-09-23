@@ -1,0 +1,41 @@
+{
+    "Id": 418,
+    "Title": "Sød kartoffelcurry med kikærter",
+    "SubHeader": "Det tager ikke lang tid at koge en gedigen grøntsagscurry, og de søde kartofler sørger for, at du bliver mæt. Alt efter, hvor store naanbrødene er, skal du måske lige justere mængden, så alle får lov at smage.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Sød kartoffelcurry",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "frisk grøn chili", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "revet" },
+                { "Quantity": 500, "Unit": "g", "Name": "søde kartofler", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "garam masala-pasta", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "flåede tomater", "PreparationNote": "hakkede" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "eddike", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "dl", "Name": "yoghurt naturel 3,5 %", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "frisk mynte", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "frisk koriander", "PreparationNote": "finthakket" },
+                { "Quantity": 2, "Unit": "stk", "Name": "naanbrød", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Sød kartoffelcurry</h3><p>Pil løgene, og skær dem i grove ringe. Rens chili, og skær den i tynde ringe. Pil hvidløg, og riv det sammen med ingefær. Skrub eller skræl de søde kartofler, og skær dem i grove stykker.</p><p>Svits løgene i en smule olie, tilsæt chili, hvidløg og ingefær, og steg det sammen i 2 minutter. Rør garam masala-pasta i, og steg, til det begynder at afgive duft. Tilsæt søde kartofler og flåede tomater, og lad det simre i 10 minutter.</p><p>Hæld kokosmælk og drænede kikærter i, og lad det simre med i endnu 10 minutter. Smag til med salt, peber og en smule eddike.</p><h3>Servering</h3><p>Rør yoghurt med finthakket mynte og koriander. Krydr med salt og peber, og servér til curryen sammen med naanbrød.</p>",
+    "Note": "Allergener: laktose, gluten.",
+    "ImageUrl": "images/recipe-images/418. Sød kartoffelcurry med kikærter.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Vegetarisk", "Curry", "Søde kartofler", "Kikærter", "Indisk", "Kokosmælk", "Gryderet", "Hverdagsmad", "Hovedret"]
+}

@@ -1,0 +1,124 @@
+{
+    "Id": 397,
+    "Title": "One pot-risret med kylling",
+    "SubHeader": "Når hverdagen drøner derudad, skal aftensmaden gerne være både hurtig, nem at lave og smage skønt. Kan den passe sig selv, er det endnu bedre. Denne kylling med ris lever op til alle kriterierne, så det er bare med at komme i gang!",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "stk",
+                    "Name": "kyllingelår",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "citron",
+                    "PreparationNote": "usprøjtet"
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "smagsneutral olie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "tørret oregano",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "One pot-risret",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "smagsneutral olie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "tørret dild",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 180,
+                    "Unit": "g",
+                    "Name": "ris",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 6,
+                    "Unit": "dl",
+                    "Name": "hønsebouillon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "citron",
+                    "PreparationNote": "usprøjtet"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "bredbladet persille",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "tørrede chiliflager",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Kylling</h3><p>Læg kyllingen i en pose. Skyl citronen. Riv skallen fint, og pres saften.</p><p>Pil hvidløget, og pres feddene. Rør citronskal, citronsaft, hvidløg, olie, oregano, salt og peber sammen til en marinade, og vend den med kyllingen. Lad kyllingen marinere i mindst 1 time.</p><h3>One pot-risret</h3><p>Tænd ovnen på 180°. Varm en dyb pande op, som må bruges i ovnen, og steg hurtigt kyllingen på begge sider, så den får god farve. Gem marinaden, hvis der er mere tilbage i posen, hvor kyllingen opbevaredes.</p><p>Fisk kyllingen op, og læg den på en tallerken. Tør panden af, hvis den er blevet beskidt.</p><p>Pil løget, og skær det i skiver. Steg løget i olie på panden i 2 minutter.</p><p>Hæld dild og ris på panden, og rør rundt. Hæld bouillon, salt og peber på panden. Har du marinade tilovers fra kyllingeposen, kan du også hælde den på panden. Lad risene simre i 1 minut.</p><p>Placér kyllingen over risene på panden, og sæt et låg på. Alternativt kan du dække panden til med alufolie. Sæt panden i ovnen i 30 minutter.</p><p>Fjern låget på panden, og lad kylling og ris tilberedes i ovnen i yderligere 10 minutter, så al væske absorberes. Rør lidt rundt i risene.</p><p>Skyl citronen, og riv skallen. Drys citronskal over risene.</p><p>Skyl persillen, og hak den. Drys persille og chiliflager over panden, og servér straks.</p>",
+    "Note": "Marineringstid: Mindst 1 time. Tip: Har du ikke en pande, som kan bruges i ovnen, kan du stege kylling, løg og ris på en almindelig stegepande og derefter flytte det over i et ovnfast fad. Tilbered resten af retten i fadet, og sæt det i ovnen.",
+    "ImageUrl": "images/recipe-images/397. One pot-risret med kylling.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Ris",
+        "One pot",
+        "Citron",
+        "Persille",
+        "Ovnstegt",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

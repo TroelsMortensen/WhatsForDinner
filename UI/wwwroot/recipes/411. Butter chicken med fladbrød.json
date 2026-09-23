@@ -1,0 +1,154 @@
+{
+    "Id": 411,
+    "Title": "Butter chicken med fladbrød",
+    "SubHeader": "Butter chicken er en cremet og krydret indisk gryderet. Tilberedningstiden er lang, men det gør kyllingen ekstra mør. Servér med kogte ris og lune fladbrød.",
+    "TotalMinutes": 195,
+    "MinutesOfPreparation": 45,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Butter chicken",
+            "Ingredients": [
+                {
+                    "Quantity": 100,
+                    "Unit": "g",
+                    "Name": "yoghurt naturel 1,5 %",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "hakkede tomater",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "garam masala",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "stødt spidskommen",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt gurkemeje",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "salt",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "tsk",
+                    "Name": "chilipulver",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "cm",
+                    "Name": "frisk ingefær",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 500,
+                    "Unit": "g",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "stort løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 50,
+                    "Unit": "g",
+                    "Name": "smør",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "piskefløde",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "dl",
+                    "Name": "basmatiris",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 30,
+                    "Unit": "g",
+                    "Name": "mandler",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 4,
+                    "Unit": "stk",
+                    "Name": "fladbrød",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "frisk koriander",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Butter chicken</h3><p>Rør yoghurt, hakkede tomater, krydderier, presset hvidløg og revet ingefær sammen i en skål. Skær kyllingebrystfilet i tern, og vend dem rundt i marinaden. Lad kyllingen marinere i mindst 2 timer på køl – men meget gerne til næste dag.</p><p>Pil løget, og skær det i skiver. Opvarm smør og olie i en gryde, og steg løgene ved middel varme i et par minutter, til de er bløde og blanke. Tilsæt kylling, al marinaden samt piskefløde, og bring det hele forsigtigt i kog.</p><p>Skru ned til lav varme, og lad retten småkoge i 30 minutter, til kyllingen er helt mør. Smag til med salt og peber.</p><h3>Tilbehør</h3><p>Kog risene efter anvisning på emballagen.</p><h3>Servering</h3><p>Hak mandlerne, og drys dem over retten. Servér med kogte ris, lune fladbrød og frisk koriander.</p>",
+    "Note": "Marinering: Mindst 2 timer, gerne natten over. Allergener: laktose, nødder, gluten.",
+    "ImageUrl": "images/recipe-images/411. Butter chicken med fladbrød.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Butter chicken",
+        "Indisk",
+        "Asiatisk",
+        "Gryderet",
+        "Fløde",
+        "Fladbrød",
+        "Ris",
+        "Hovedret"
+    ]
+}

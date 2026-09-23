@@ -1,0 +1,40 @@
+{
+    "Id": 379,
+    "Title": "Lynstegt kylling med nudler og broccolini",
+    "SubHeader": "Den klassiske hoisinsauce giver en nem og dejlig sauce til det stegte kyllingekød.",
+    "TotalMinutes": 15,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Nudler",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "brede risnudler", "PreparationNote": "gerne fuldkorns, f.eks. fra Clearspring" }
+            ]
+        },
+        {
+            "Title": "Lynstegt kylling",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "smagsneutral olie", "PreparationNote": "til stegning" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 10, "Unit": "g", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "aspargesbroccoli", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "hoisinsauce", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "limesaft", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "cashewnødder", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Nudler</h3><p>Læg nudlerne i en skål med halvt kogende og halvt koldt vand, og lad dem trække ind til brug (ca. 10 minutter).</p><h3>Lynstegt kylling</h3><p>Skær kyllingefileterne i strimler, og steg dem i olie i en stor wok ved super høj varme i 3-4 minutter.</p><p>Pil imens hvidløgene, og skær dem i tynde skiver. Hak ingefæren fint, og flæk evt. broccolinierne. Hæld det hele i wokken, og steg i 2-3 minutter.</p><p>Tilsæt hoisinsauce, varm i 1-2 minutter, og smag til med limesaft.</p><p>Afdryp nudlerne, vend dem rundt i retten, og steg ganske kort, til nudlerne er møre. Tjek også, at kødet er gennemtilberedt.</p><h3>Servering</h3><p>Snit forårsløgene, og hak cashewnødderne groft. Anret retten i dybe tallerkner. Top med forårsløg og nødder, og servér straks.</p>",
+    "Note": "Tip: Du kan lave retten med pak choi, broccolibuketter, spidskål eller noget helt andet, hvis du vil erstatte broccolini. Allergener: gluten, nødder.",
+    "ImageUrl": "images/recipe-images/379. Lynstegt kylling med nudler og broccolini.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Kylling", "Asiatisk", "Nudler", "Broccolini", "Hoisin", "Wok", "Hurtig", "Hverdagsmad", "Cashew"]
+}
