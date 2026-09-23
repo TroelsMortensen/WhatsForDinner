@@ -1,0 +1,50 @@
+{
+    "Id": 375,
+    "Title": "Black Bean Chili",
+    "SubHeader": "Krydret vegetarisk chili med sorte bønner – cremet, mættende og god at fryse ned.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 8,
+    "RecipeGroups": [
+        {
+            "Title": "Chili",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": "store" },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "store" },
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerødder", "PreparationNote": "mindre; valgfrit" },
+                { "Quantity": 2, "Unit": "dåser", "Name": "hakket tomat", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": "til at skylle tomatdåserne" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "fond", "PreparationNote": "eller 1 bouillonterning" },
+                { "Quantity": 3, "Unit": "dåser", "Name": "sorte bønner", "PreparationNote": null },
+                { "Quantity": 20, "Unit": "g", "Name": "mørk chokolade", "PreparationNote": "valgfrit" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "æblecidereddike", "PreparationNote": "1-2 spsk" },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Krydderier",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": "eller hel, ristet og stødt" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "stødt spidskommen", "PreparationNote": "eller hel, ristet og stødt" },
+                { "Quantity": 1.25, "Unit": "tsk", "Name": "stødt chipotle", "PreparationNote": "1-1,5 tsk; kan erstattes med 2-3 tsk røget paprika, hvis den ikke skal være stærk" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "kanel", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": "eller tortilla" },
+                { "Quantity": null, "Unit": null, "Name": "guacamole", "PreparationNote": "valgfrit" },
+                { "Quantity": null, "Unit": null, "Name": "syltede rødløg", "PreparationNote": "valgfrit" },
+                { "Quantity": null, "Unit": null, "Name": "coleslaw med lime og koriander", "PreparationNote": "valgfrit" }
+            ]
+        }
+    ],
+    "Instructions": "<p>Svits finthakkede løg i en stor gryde i 5 min. Tilsæt fintrevet gulerod (valgfrit), krydderier og finthakket hvidløg og svits i 2-3 min.</p><p>Tilsæt tomat (skyl dåserne med den ene dl vand og tilsæt) og bouillonterning/fond og lad simre i mindst 15 min. Den bliver dog ikke dårligere af at koge længere.</p><p>Skyl dåsebønnerne og tilsæt sammen med mørk chokolade og kog op. Smag til med sukker, æblecidereddike, salt og peber, samt evt. mere chipotle efter smag.</p><p>Server med ris eller i en tortilla med f.eks. guacamole, syltede rødløg og coleslaw med lime og koriander.</p>",
+    "Note": "Opskriften er til ca. 8 portioner og tager ca. 45 min. Kan laves i store portioner og fryses. Jo længere den simrer (uden bønnerne), jo bedre smag. Hel spidskommen og koriander kan ristes og stødes i stedet for stødt. Opskriften findes også i bogen \"Vegetarisk i aften?\".",
+    "ImageUrl": "images/recipe-images/375. Black Bean Chili.jpg",
+    "Source": "Vegetarisk Hverdag",
+    "Keywords": ["Vegetar", "Vegan", "Mexicansk", "Chili", "Bønner", "Gryderet", "Hverdagsmad"]
+}

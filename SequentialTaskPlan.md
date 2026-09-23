@@ -24,21 +24,12 @@ read @ConvertRecipePrompt.md on instructions. The recipe to convert is attached 
 
 ### Task data
 
-1. https://sundpaabudget.dk/chicken-keema/
-2. https://sundpaabudget.dk/roed-risret-med-kylling-og-peberfrugt/
-3. https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/
-4. https://sundpaabudget.dk/syrlig-rispilaf-med-kylling-og-blomkaal/
-5. https://sundpaabudget.dk/one-pot-pasta-med-kyllingekebab/
-6. https://sundpaabudget.dk/syrlig-rispilaf-med-kylling-og-blomkaal/
-7. https://sundpaabudget.dk/one-pot-pasta-med-krydret-kylling-og-peberfrugt/
-8. https://sundpaabudget.dk/one-pot-risret-med-chimichurri-og-kylling/
-9. https://sundpaabudget.dk/pikant-kylling-i-fad/
-10.https://sundpaabudget.dk/one-pot-pasta-med-kylling-tomat-og-squash/
-11. https://sundpaabudget.dk/roed-pastasalat-med-kylling/
-12. https://sundpaabudget.dk/one-pot-taco-risret/
-13. https://sundpaabudget.dk/boennekoedboller-i-tomatsauce/
-14. https://sundpaabudget.dk/tomatrisotto-med-sorte-boenner/
-15. https://sundpaabudget.dk/quinoadeller-med-broccoli/
+1. https://vegetariskhverdag.dk/2024/03/kua-kling-sydoestasiatisk-biksemad/
+2. https://vegetariskhverdag.dk/2021/02/de-10-mest-populaere-opskrifter-paa-instagram-i-2020/
+3. https://vegetariskhverdag.dk/2019/02/indisk-curry-med-kikaerter/
+4. https://vegetariskhverdag.dk/2020/02/chipotlegryde-med-boenner-groenkaal/
+5. https://vegetariskhverdag.dk/2018/12/beluga-bolognese/
+6. https://vegetariskhverdag.dk/2018/09/black-bean-chili/
 
 
 ## Orchestrator rules
