@@ -25,12 +25,7 @@ Sund på budget
 
 
 Vegetarisk hverdag
-https://vegetariskhverdag.dk/2024/03/kua-kling-sydoestasiatisk-biksemad/
-https://vegetariskhverdag.dk/2021/02/de-10-mest-populaere-opskrifter-paa-instagram-i-2020/
-https://vegetariskhverdag.dk/2019/02/indisk-curry-med-kikaerter/
-https://vegetariskhverdag.dk/2020/02/chipotlegryde-med-boenner-groenkaal/
-https://vegetariskhverdag.dk/2018/12/beluga-bolognese/
-https://vegetariskhverdag.dk/2018/09/black-bean-chili/
+
 
 Spis bedre
 https://spisbedre.dk/opskrifter/hurtig-kylling-korma

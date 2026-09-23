@@ -24,12 +24,6 @@ read @ConvertRecipePrompt.md on instructions. The recipe to convert is attached 
 
 ### Task data
 
-1. https://vegetariskhverdag.dk/2024/03/kua-kling-sydoestasiatisk-biksemad/
-2. https://vegetariskhverdag.dk/2021/02/de-10-mest-populaere-opskrifter-paa-instagram-i-2020/
-3. https://vegetariskhverdag.dk/2019/02/indisk-curry-med-kikaerter/
-4. https://vegetariskhverdag.dk/2020/02/chipotlegryde-med-boenner-groenkaal/
-5. https://vegetariskhverdag.dk/2018/12/beluga-bolognese/
-6. https://vegetariskhverdag.dk/2018/09/black-bean-chili/
 
 
 ## Orchestrator rules
