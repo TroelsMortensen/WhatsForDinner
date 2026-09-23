@@ -1,0 +1,36 @@
+{
+    "Id": 377,
+    "Title": "Fried chicken med kærnemælk",
+    "SubHeader": "Knasende sprød og greasy comfort food! Marinér kødet i kærnemælk, da syren fra kærnemælken gør kødet ekstra mørt og lækkert.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Fried chicken",
+            "Ingredients": [
+                { "Quantity": 800, "Unit": "g", "Name": "kyllingelår", "PreparationNote": "udbenede, gerne med skind" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "flagesalt", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "dl", "Name": "kærnemælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "hvidløgspulver", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "gochugaru (koreansk chilipulver)", "PreparationNote": "eller anden mild chilipulver" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "l", "Name": "smagsneutral olie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "citron", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "blandet grøn salat", "PreparationNote": "evt., eller coleslaw" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Fried chicken</h3><p>Krydr kyllingelårene med salt. Pisk kærnemælk med æg og 200 g mel. Læg kyllingelårene i marinaden, og lad den trække i 15-20 minutter.</p><p>Bland de resterende 400 g mel sammen med hvidløgspulver, løgpulver, chili og peber i en skål. Varm olien op i en gryde.</p><p>Tag kyllingelårene op af marinaden, og vend dem i melblandingen. Steg dem i olien i ca. 10 minutter, til de er gyldne og gennemstegte. Afdryp på en bagerist.</p><h3>Servering</h3><p>Servér kyllingelårene med citronbåde og evt. en stor skål salat.</p>",
+    "Note": "Tip: Er du til den slags snask, så er det også vindunderligt at spise kyllingen med flydende honning og syltede jalapenos. Nogle spiser det sådan ovenpå en vaffel! Allergener: laktose, æg, gluten.",
+    "ImageUrl": "images/recipe-images/377. Fried chicken med kærnemælk.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Kylling", "Amerikansk", "Fastfood", "Fried chicken", "Kærnemælk", "Comfort food", "Hovedret", "Friture"]
+}

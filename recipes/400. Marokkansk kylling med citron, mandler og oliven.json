@@ -1,0 +1,130 @@
+{
+    "Id": 400,
+    "Title": "Marokkansk kylling med citron, mandler og oliven",
+    "SubHeader": "Ras el hanout er en marokkansk krydderiblanding, der bl.a. består af spidskommen, koriander, ingefær og allehånde. Køb den i velassorterede supermarkeder eller på nettet.",
+    "TotalMinutes": 70,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Marokkansk kylling",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "hel kylling",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "spsk",
+                    "Name": "ras el hanout",
+                    "PreparationNote": "(krydderiblandning)"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "smør",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 100,
+                    "Unit": "g",
+                    "Name": "oliven",
+                    "PreparationNote": "grønne"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "citron",
+                    "PreparationNote": "usprøjtet"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "hønsebouillon",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Couscous",
+            "Ingredients": [
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "couscous",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "dl",
+                    "Name": "vand",
+                    "PreparationNote": "kogende"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "citronsaft",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 50,
+                    "Unit": "g",
+                    "Name": "mandler",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "håndfuld",
+                    "Name": "bredbladet persille",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Marokkansk kylling</h3><p>Partér kyllingen i 6-8 stykker. Læg kyllingestykkerne i et fad, drys krydderiblandingen over, og vend kødet godt rundt i krydderierne. Dæk fadet med husholdningsfilm, og lad kyllingen marinere på køl i mindst 1 time (gerne længere).</p><p>Tænd ovnen på 200°. Brun kyllingestykkerne i smør og olie på en stor pande, til skindet er gyldent. Læg kyllingestykkerne i et ovnfad.</p><p>Pil løgene, skær dem i både, og fordel dem i fadet med kyllingen. Hæld oliven over. Riv citronskal over retten, og hæld bouillon i bunden af fadet.</p><p>Sæt fadet i ovnen, og steg i ca. 40 minutter, til kyllingen er mør og gennemstegt.</p><h3>Couscous</h3><p>Hæld kogende vand over couscoussen i en skål. Dæk skålen med husholdningsfilm, og lad den stå i 10 minutter. Løsn couscoussen med en gaffel, og rør den sammen med citronsaft, olie og salt.</p><h3>Servering</h3><p>Rist mandlerne let gyldne på en tør pande. Hak mandlerne groft, og drys dem over retten sammen med skyllet og hakket persille. Servér med couscous.</p>",
+    "Note": "Marinering: Mindst 1 time. Allergener: gluten, nødder, laktose.",
+    "ImageUrl": "images/recipe-images/400. Marokkansk kylling med citron, mandler og oliven.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Marokkansk",
+        "Citron",
+        "Mandler",
+        "Oliven",
+        "Couscous",
+        "Gryderet",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

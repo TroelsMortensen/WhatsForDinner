@@ -1,0 +1,136 @@
+{
+    "Id": 406,
+    "Title": "Chicken chowder",
+    "SubHeader": "En cremet suppe med masser af fyld og fløde – uhm!",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Chicken chowder",
+            "Ingredients": [
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 4,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "peberfrugt",
+                    "PreparationNote": "gul"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 150,
+                    "Unit": "g",
+                    "Name": "bacon i tern",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 500,
+                    "Unit": "g",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "hvedemel",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 10,
+                    "Unit": "dl",
+                    "Name": "kyllingefond",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "stk",
+                    "Name": "bagekartoffel",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 4,
+                    "Unit": "stk",
+                    "Name": "laurbærblad",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 6,
+                    "Unit": "stilk",
+                    "Name": "frisk timian",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 300,
+                    "Unit": "g",
+                    "Name": "majs",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "butterbeans",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2.5,
+                    "Unit": "dl",
+                    "Name": "piskefløde",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "æbleeddike",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "purløg",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Chicken chowder</h3><p>Pil og hak løg og hvidløg. Skyl peberfrugten, og skær den i tern. Svits det hele i olie i en gryde sammen med baconternene i et par minutter.</p><p>Skær kyllingekødet i grove tern, og brun dem let i gryden med grøntsager. Drys mel over, og lad det stege i et par minutter. Tilsæt fond, og kog op.</p><p>Skræl kartoflerne, skær dem i små tern, og hæld dem i gryden sammen med laurbær og timian. Lad det simre i cirka 30 minutter.</p><p>Afdryp majs og butterbeans, og hæld dem i gryden sammen med fløde. Lad det simre i 10 minutter. Smag til med salt, peber og eddike.</p><h3>Servering</h3><p>Servér chowderen med masser af klippet purløg på toppen.</p>",
+    "Note": "Allergener: gluten, laktose.",
+    "ImageUrl": "images/recipe-images/406. Chicken chowder.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Suppe",
+        "Chowder",
+        "Bacon",
+        "Fløde",
+        "Cremet",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

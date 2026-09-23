@@ -1,0 +1,170 @@
+{
+    "Id": 395,
+    "Title": "Orientalsk risret med kylling og karry",
+    "SubHeader": "Denne eksotiske ret er både en fryd for øjet og ganen, og med sine varme varme krydderier sender den tankerne til Østen.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Gule ris",
+            "Ingredients": [
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "ris",
+                    "PreparationNote": "(f.eks. basmati)"
+                },
+                {
+                    "Quantity": 6,
+                    "Unit": "dl",
+                    "Name": "hønsebouillon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "karry",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt gurkemeje",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "tsk",
+                    "Name": "salt",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Kylling og grønt",
+            "Ingredients": [
+                {
+                    "Quantity": 500,
+                    "Unit": "g",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "gulerod",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "stk",
+                    "Name": "broccoli",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "peberfrugt",
+                    "PreparationNote": "rød"
+                },
+                {
+                    "Quantity": 1.5,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "karry",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "garam masala",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "sojasauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Limecreme",
+            "Ingredients": [
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "cremefraiche 18 %",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "limefrugt",
+                    "PreparationNote": "usprøjtet"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "flydende honning",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "tsk",
+                    "Name": "stødt spidskommen",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "håndfuld",
+                    "Name": "bredbladet persille",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Gule ris</h3><p>Bring ris, bouillon, karry, gurkemeje og salt i kog i en gryde. Skru ned til lav varme, læg låg på, og kog risene efter anvisningen på emballagen. Afdryp.</p><h3>Kylling og grønt</h3><p>Skær kyllingebrysterne i små tern. Pil løget, og hak det fint. Skræl gulerødderne, og skær dem i små tern. Skyl broccolien, og skær den i små buketter. Rens peberfrugten, og skær den i små tern.</p><p>Brun kyllingestykkerne godt i en gryde med olie. Tilsæt karry, garam masala, løg og alle grøntsagerne, og steg det hele i 5-6 minutter, til grøntsagerne er møre, men stadig har lidt bid.</p><p>Vend de kogte gule ris i retten, og varm retten igennem. Smag til med soja, salt og peber.</p><h3>Limecreme</h3><p>Rør cremefraiche sammen med fintrevet limeskal, limesaft, honning og spidskommen, og smag cremen til med salt og peber.</p><h3>Servering</h3><p>Skyl og hak persillen, og drys den over retten. Servér med limecreme.</p>",
+    "Note": "Allergener: gluten, soja, laktose.",
+    "ImageUrl": "images/recipe-images/395. Orientalsk risret med kylling og karry.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Ris",
+        "Karry",
+        "Orientalsk",
+        "Asiatisk",
+        "One-pot",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

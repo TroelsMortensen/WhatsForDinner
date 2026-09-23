@@ -1,0 +1,142 @@
+{
+    "Id": 415,
+    "Title": "Ghormeh sabzi — persisk gryderet",
+    "SubHeader": "Servér en klassisk gryderet fra det persiske køkken fyldt med saft og kraft. Lad endelig gryden få rigelig tid over blusset, så kødet bliver helt mørt og lækkert.",
+    "TotalMinutes": 150,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Stegt grønt",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "bredbladet persille",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "frisk koriander",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "porrer",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 250,
+                    "Unit": "g",
+                    "Name": "frisk spinat",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                }
+            ]
+        },
+        {
+            "Title": "Ghormeh sabzi",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "kg",
+                    "Name": "oksetykkam",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "bukkehornsfrø",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "stødt gurkemeje",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 4,
+                    "Unit": "spsk",
+                    "Name": "citronsaft",
+                    "PreparationNote": "eller 3 tørrede limefrugter"
+                },
+                {
+                    "Quantity": 8,
+                    "Unit": "dl",
+                    "Name": "kalvebouillon",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dåser",
+                    "Name": "kidneybønner",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 4,
+                    "Unit": "dl",
+                    "Name": "ris",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 0.25,
+                    "Unit": "tsk",
+                    "Name": "safrantråde",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "rosiner",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Stegt grønt</h3><p>Skyl urter (gem lidt persilleblade til pynt), porre og spinat grundigt. Tør, og hak det fint.</p><p>Svits det hele i lidt olie i en pande, til det falder sammen. Lad det småstege i 10 minutter, til det meste af væsken er fordampet.</p><h3>Ghormeh sabzi</h3><p>Skær kødet i tern, og brun dem i lidt olie i en gryde. Hak løg og hvidløg fint, og steg det gyldent i gryden sammen med oksekødet.</p><p>Tilsæt bukkehornsfrø, gurkemeje og citronsaft. Hæld bouillon på, og lad det simre i 1½ time.</p><p>Afdryp bønnerne, og lad bønner og stegt grønt simre med i gryden i yderligere en time.</p><p>Kog risene efter pakkens anvisninger.</p><h3>Servering</h3><p>Servér ghormeh sabzi med kogte ris drysset med safran. Drys persilleblade over gryderetten, og spis rosiner til.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/415. Ghormeh sabzi — persisk gryderet.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Oksekød",
+        "Persisk",
+        "Mellemøstlig",
+        "Gryderet",
+        "Kidneybønner",
+        "Urter",
+        "Ris",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

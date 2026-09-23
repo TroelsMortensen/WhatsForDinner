@@ -1,0 +1,30 @@
+{
+    "Id": 383,
+    "Title": "Grønne frikadeller med edamamebønner",
+    "SubHeader": "Edamamebønner er rige på protein og fungerer fint i en plantebaseret frikadellefars. Persille giver bønnedellerne en endnu mere kraftig grøn farve og dejlig frisk smag.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Grønne frikadeller",
+            "Ingredients": [
+                { "Quantity": 300, "Unit": "g", "Name": "edamamebønner", "PreparationNote": "uden bælg, fra frost" },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "bredbladet persille", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "revet mozzarella", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "hvedemel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Læg edamamebønnerne i en skål, og overhæld dem med kogende vand, så de tør op. Lad dem stå i ca. 5 minutter. Afdryp i en sigte.</p><p>Pil og hak løget groft. Blend edamamebønner, løg, æg og persille sammen i en foodprocessor til en ensartet masse.</p><p>Hæld bønnemassen over i en skål, og tilsæt mozzarella, hvedemel og krydderier. Rør massen sammen, til den er så fast, at den kan formes til små deller.</p><p>Form den grønne fars til ca. 14 små deller. Opvarm en pande med rigeligt olie, og steg dellerne på panden, til de er gyldne på begge sider. De grønne bønnedeller kan serveres både varme og kolde.</p>",
+    "Note": "Giver ca. 14 små deller. Kan serveres som aftensmad med en fyldig salat, eller som pålæg på rugbrød / fyld i sandwich og pitabrød. Allergener: æg, laktose, gluten.",
+    "ImageUrl": "images/recipe-images/383. Grønne frikadeller med edamamebønner.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Vegetarisk", "Frikadeller", "Edamame", "Bønnedeller", "Plantebaseret", "Spidskommen", "Hverdagsmad", "Hovedret"]
+}

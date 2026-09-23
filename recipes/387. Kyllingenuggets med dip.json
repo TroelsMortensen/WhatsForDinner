@@ -1,0 +1,38 @@
+{
+    "Id": 387,
+    "Title": "Kyllingenuggets med dip",
+    "SubHeader": "Intet slår en portion hjemmelavede nuggets! Servér evt. en blandet grøn salat samt sprøde ovnkartofler til retten.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kyllingenuggets",
+            "Ingredients": [
+                { "Quantity": 650, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "kærnemælk", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": "til marinade" },
+                { "Quantity": 3, "Unit": "dl", "Name": "rasp", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "æg", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Honning-dijon-dip",
+            "Ingredients": [
+                { "Quantity": 150, "Unit": "g", "Name": "mayonnaise", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "dijonsennep", "PreparationNote": null },
+                { "Quantity": 25, "Unit": "g", "Name": "flydende honning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bakke", "Name": "karse", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Kyllingenuggets</h3><p>Skær kyllingebrystfileterne i store mundrette tern. Bland kærnemælk og salt i en skål, og vend kyllingestykkerne i marinaden. Dæk skålen til, og sæt den på køl i mindst 2 timer (gerne længere).</p><p>Tag skålen med kylling ud fra køl. Bland rasp, spidskommen, paprika, salt og peber i en dyb tallerken. Pisk æg sammen i en anden dyb tallerken.</p><p>Afdryp kyllingestykkerne, og vend dem først i æg og dernæst i rasp. Læg dem på et fad, og dæk fadet med husholdningsfilm. Sæt fadet på køl i 1 time.</p><p>Tænd ovnen på 200°. Fordel de panerede kyllingestykker på en bageplade med bagepapir, og steg dem i ovnen i ca. 25 minutter, til de er gyldne, sprøde og gennemstegte – vend dem undervejs.</p><h3>Honning-dijon-dip</h3><p>Rør mayonnaise, sennep og honning sammen i en skål, og smag til med salt og peber. Top med klippet karse, og servér som dip til dine kyllingenuggets.</p>",
+    "Note": "Marinering: Mindst 3 timer. Allergener: laktose, gluten, æg.",
+    "ImageUrl": "images/recipe-images/387. Kyllingenuggets med dip.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Kylling", "Nuggets", "Amerikansk", "Fastfood", "Dip", "Honning", "Ovnstegt", "Hovedret", "Kærnemælk"]
+}

@@ -1,0 +1,111 @@
+{
+    "Id": 407,
+    "Title": "Paprikagryde med svinekød",
+    "SubHeader": "Paprikagryde med svinekød og røde peberfrugter er en nem gryderet, som serveres med bulgur. Top retten med grillede padron-peberfrugter, som er små grønne chililignende peberfrugter, der fås i velassorterede supermarkeder og hos mange grønthandlere.",
+    "TotalMinutes": 65,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Paprikagryde med svinekød",
+            "Ingredients": [
+                {
+                    "Quantity": 400,
+                    "Unit": "g",
+                    "Name": "svinekød i tern",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "peberfrugt",
+                    "PreparationNote": "røde"
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "paprika",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 4,
+                    "Unit": "dl",
+                    "Name": "vand",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "hvedemel",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "piskefløde",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "dl",
+                    "Name": "bulgur",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "bredbladet persille",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "padronpeber",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Paprikagryde med svinekød</h3><p>Brun kødet på alle sider i olie i en stor gryde. Hak løg, skær peberfrugter i tern, og svits begge dele sammen med kødet i 5 minutter.</p><p>Tilsæt paprika og vand. Rør mel ud i fløde, og rør det i gryden. Kog op under omrøring, og lad retten simre i 30 minutter med låg på.</p><p>Fortynd evt. saucen med lidt vand, hvis den er blevet meget tyk, og smag til med salt og evt. mere paprika.</p><h3>Tilbehør</h3><p>Tilbered bulgur efter pakkens anvisning. Hak persillen groft. Varm olie op på en pande, og steg padronpebrene hurtigt ved kraftig varme i 3-4 minutter.</p><p>Drys persille og padronpeber på toppen af paprikagryden, og servér med kogt bulgur.</p>",
+    "Note": "De grillede padronpeberfrugter er en spansk tapasklassiker, og de kan også serveres for sig selv på en tallerken drysset med flagesalt. Selv om de spises hele, må man gerne efterlade kerner og stilk på tallerkenen. Allergener: gluten, laktose.",
+    "ImageUrl": "images/recipe-images/407. Paprikagryde med svinekød.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Svinekød",
+        "Gryderet",
+        "Paprika",
+        "Bulgur",
+        "Peberfrugt",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

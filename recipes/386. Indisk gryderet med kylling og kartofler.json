@@ -1,0 +1,40 @@
+{
+    "Id": 386,
+    "Title": "Indisk gryderet med kylling og kartofler",
+    "SubHeader": "En cremet og krydret gryderet, som mætter godt og sender tankerne til Indien med sine varme krydderier. Servér den med nanbrød og gerne med en salat til.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 40,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Indisk gryderet",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "smør", "PreparationNote": "til stegning" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "koncentreret tomatpuré", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "grøntsagsbouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "frisk babyspinat", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "stk", "Name": "nanbrød", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Skræl kartoflerne, og skær dem i små tern. Skær kyllingebrystfileterne i strimler eller tern. Pil og hak løg. Skræl ingefæren, og hak den fint.</p><p>Smelt smør i en gryde, og steg kartofler, kylling, løg og ingefær ved middel varme i ca. 3 minutter. Tilsæt krydderier, og lad det stege videre ved høj varme i 1 minut.</p><p>Tilsæt tomatpuré, grøntsagsbouillon og kokosmælk, og bring saucen i kog. Skru ned for varmen, og lad saucen småkoge i ca. 20 minutter, til den tykner let, og kartoflerne er møre.</p><p>Skyl og afdryp spinaten, og vend den i retten. Smag til med salt og peber. Servér med lune nanbrød.</p>",
+    "Note": "Allergener: gluten, laktose.",
+    "ImageUrl": "images/recipe-images/386. Indisk gryderet med kylling og kartofler.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Indisk", "Gryderet", "Kylling", "Kartofler", "Kokosmælk", "Asiatisk", "Spinat", "Hverdagsmad", "Hovedret"]
+}

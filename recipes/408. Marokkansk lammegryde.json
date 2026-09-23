@@ -1,0 +1,137 @@
+{
+    "Id": 408,
+    "Title": "Marokkansk lammegryde",
+    "SubHeader": "Sød, krydret og varmende efterårsret med lam, aubergine, søde kartofler og masser af gode krydderier. Gryderetten får sin cremethed fra kokosmælk, der kan erstattes af fløde.",
+    "TotalMinutes": 55,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Marokkansk lammegryde",
+            "Ingredients": [
+                {
+                    "Quantity": 300,
+                    "Unit": "g",
+                    "Name": "lammekød i tern",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "aubergine",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 250,
+                    "Unit": "g",
+                    "Name": "søde kartofler",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "+ til stegning"
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "cm",
+                    "Name": "frisk ingefær",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "spsk",
+                    "Name": "karry",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt koriander",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt gurkemeje",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 50,
+                    "Unit": "g",
+                    "Name": "tørrede abrikoser",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "flåede tomater",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "kokosmælk",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 30,
+                    "Unit": "g",
+                    "Name": "mandler",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "håndfuld",
+                    "Name": "frisk koriander",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "pandebrød eller nanbrød",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Marokkansk lammegryde</h3><p>Tænd ovnen på 200°. Skær lammekød i tern, hvis ikke kødet allerede er udskåret, og sæt dem til side.</p><p>Skær aubergine og søde kartofler i grove tern. Snit hvidløg i tynde skiver.</p><p>Vend dem med olie og salt på en bageplade med bagepapir, og bag i 20 minutter, imens du går videre med resten af retten.</p><p>Svits hakkede løg og revet ingefær i olivenolie i en stor gryde. Lad karry, koriander og gurkemeje riste med i 1 minut, når løgene er blevet bløde.</p><p>Læg kødet i gryden, og brun det. Skær abrikoserne i strimler, og vend dem i sammen med flåede tomater og kokosmælk.</p><p>Bring saucen i kog, og lad den simre under låg i 10 minutter.</p><p>Tilsæt ovnbagte grøntsager, når de er møre, og varm retten igennem. Smag til med salt, peber og evt. lidt sukker.</p><h3>Servering</h3><p>Top retten med koriander og grofthakkede mandler. Servér med lune brød.</p>",
+    "Note": "Allergener: nødder, gluten.",
+    "ImageUrl": "images/recipe-images/408. Marokkansk lammegryde.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Lam",
+        "Lammekød",
+        "Marokkansk",
+        "Gryderet",
+        "Kokosmælk",
+        "Aubergine",
+        "Sød kartoffel",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

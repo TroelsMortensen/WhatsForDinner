@@ -1,0 +1,165 @@
+{
+    "Id": 405,
+    "Title": "Chili sin carne med bønner",
+    "SubHeader": "Chili con carne uden kød bliver til chili sin carne. Erstatter du kødet med ekstra grøntsager og bønner, så er der ikke nogen, der tænker over, at der ikke er kød i.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Chili sin carne",
+            "Ingredients": [
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "frisk rød chili",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "squash",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "aubergine",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "smagsneutral olie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "knivspids",
+                    "Name": "chilipulver",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "knivspids",
+                    "Name": "cayennepeber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "røget paprika",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "tsk",
+                    "Name": "stødt spidskommen",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "flåede tomater",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "chilibønner",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "kidneybønner",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "friskbrygget kaffe",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 25,
+                    "Unit": "g",
+                    "Name": "mørk chokolade",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 250,
+                    "Unit": "g",
+                    "Name": "ris",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "frisk koriander",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "frisk rød chili",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "limefrugt",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 100,
+                    "Unit": "g",
+                    "Name": "tortillachips",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "cremefraiche 18 %",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Chili sin carne</h3><p>Pil og hak løg og hvidløg fint. Skyl chilien, og hak den fint.</p><p>Skyl squash, og riv den groft. Skyl aubergine, og hak den i små tern.</p><p>Varm olie og krydderier på en dyb pande i 2 minutter.</p><p>Tilsæt løg, hvidløg og chili, og steg det i 2 minutter. Tilsæt squash og aubergine, og steg det i 2 minutter.</p><p>Rør tomater, chilibønner, kidneybønner, kaffe og hakket chokolade i gryden, og lad indholdet simre i 20 minutter under låg. Smag chili sin carnen til med salt og peber.</p><h3>Tilbehør</h3><p>Kog risene efter anvisning på pakken.</p><p>Skyl korianderen og chilien, og skær chilien i skiver.</p><p>Servér chili sin carne sammen med ris, koriander, chili, friskpresset limesaft, tortillachips og cremefraiche.</p>",
+    "Note": "Allergener: laktose.",
+    "ImageUrl": "images/recipe-images/405. Chili sin carne med bønner.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Vegetarisk",
+        "Mexicansk",
+        "Chili",
+        "Gryderet",
+        "Bønner",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

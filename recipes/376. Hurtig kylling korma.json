@@ -1,0 +1,43 @@
+{
+    "Id": 376,
+    "Title": "Hurtig kylling korma",
+    "SubHeader": "Hurtig, mild indisk korma med kylling, tomater og fløde. Serveret med ris, yoghurt og friske urter.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kylling korma",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingebrystfilet", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 20, "Unit": "g", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "knsp", "Name": "chilipulver", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "smør", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåser", "Name": "hakket tomat", "PreparationNote": "a 400 g" },
+                { "Quantity": 1, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "spidskål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk mynte", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": "kan undlades" },
+                { "Quantity": null, "Unit": null, "Name": "basmatiris", "PreparationNote": "kogte" },
+                { "Quantity": null, "Unit": null, "Name": "yoghurt naturel 3,5 %", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "mangochutney", "PreparationNote": "evt." }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Kylling korma</h3><p>Skær kyllingefileterne i tern. Steg dem i olie i en dyb pande i 8-10 minutter, til de er gyldne og gennemstegte.</p><p>Pil løg og hvidløg, og hak begge dele fint. Skræl evt. ingefæren, og hak den fint.</p><p>Sautér det hele i olie i panden med kylling i 3-4 minutter. Det skal ikke tage farve, men blot mørne.</p><p>Tilsæt garam masala, gurkemeje og chili, og lad krydderierne få varmen.</p><p>Tilsæt smør, hakkede tomater og fløde, og lad retten koge igennem. Smag til med salt og peber.</p><h3>Servering</h3><p>Snit kålen. Pluk mynte og koriander groft.</p><p>Anret risene i dybe tallerkner. Top med kylling korma, kål, yoghurt, mynte og koriander, og servér straks, evt. med chutney.</p>",
+    "Note": "Tip: Fyld kikærter i retten, hvis du vil have mere fylde og spise mere bælgfrugt. En korma skal ikke være stærk, så hold igen med chilipulveret – det skal blot forstærke de andre smage. Allergener: laktose.",
+    "ImageUrl": "images/recipe-images/376. Hurtig kylling korma.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Kylling", "Indisk", "Korma", "Asiatisk", "Hurtig", "Fløde", "Tomat", "Ris", "Hverdagsmad"]
+}

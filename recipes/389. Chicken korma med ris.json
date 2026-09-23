@@ -1,0 +1,153 @@
+{
+    "Id": 389,
+    "Title": "Chicken korma med ris",
+    "SubHeader": "En indisk klassiker lavet med kylling, varme krydderier og kokosmælk. Skru op for mængden af hvidløg og chili, hvis du ønsker retten ekstra spicy.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Chicken korma",
+            "Ingredients": [
+                {
+                    "Quantity": 3,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "karry",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "tsk",
+                    "Name": "garam masala",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 650,
+                    "Unit": "g",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "løg",
+                    "PreparationNote": "stort"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "fed",
+                    "Name": "hvidløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "frisk rød chili",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 15,
+                    "Unit": "g",
+                    "Name": "frisk ingefær",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "vand",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": "til stegning"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "spsk",
+                    "Name": "garam masala",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "koncentreret tomatpuré",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dåse",
+                    "Name": "kokosmælk",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "stk",
+                    "Name": "hønsebouillonterning",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                {
+                    "Quantity": 4,
+                    "Unit": "dl",
+                    "Name": "basmatiris",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 40,
+                    "Unit": "g",
+                    "Name": "mandelflager",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "bundt",
+                    "Name": "frisk mynte",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 1.5,
+                    "Unit": "dl",
+                    "Name": "yoghurt naturel 3,5 %",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Chicken korma</h3><p>Rør 3 spsk. olie, karry, 2 tsk. garam masala, salt og peber sammen i en stor skål. Skær kyllingekødet i tern, og vend dem sammen med marinaden. Lad kyllingen marinere på køl i mindst 1 time.</p><p>Pil løg og hvidløg. Flæk chilien, og skrab kernerne ud. Skræl ingefæren. Blend løg, hvidløg, chili, ingefær og vand sammen i en blender eller minihakker til en fin puré.</p><p>Svits puréen i olie i en dyb pande i et par minutter. Tilsæt 1 spsk. garam masala, og steg videre i 1 minut. Tilsæt tomatpuré, kokosmælk og bouillonterning, og bring saucen i kog.</p><p>Læg kyllingeternene ned i saucen, skru ned til middel varme, og lad saucen småkoge i 15 minutter, til kyllingen er gennemtilberedt. Smag saucen til med salt og peber.</p><h3>Tilbehør</h3><p>Kog risene efter anvisningen på emballagen. Rist mandelflagerne let gyldne på en varm og tør pande. Skyl og hak mynten groft.</p><h3>Servering</h3><p>Servér chicken korma med kogte ris, og drys med mandelflager og mynte. Servér yoghurten i en skål til at dryppe over retten.</p>",
+    "Note": "Marinering: 1 time. Allergener: nødder, laktose.",
+    "ImageUrl": "images/recipe-images/389. Chicken korma med ris.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Indisk",
+        "Korma",
+        "Asiatisk",
+        "Kokosmælk",
+        "Ris",
+        "Hovedret",
+        "Hverdagsmad"
+    ]
+}

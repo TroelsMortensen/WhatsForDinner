@@ -1,0 +1,142 @@
+{
+    "Id": 403,
+    "Title": "Honningmarinerede kyllingespyd med nudelsalat",
+    "SubHeader": "Asiatiskinspireret ret med masser af smag og knasende grøntsager.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 35,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Honningmarinerede kyllingespyd",
+            "Ingredients": [
+                {
+                    "Quantity": 650,
+                    "Unit": "g",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "dl",
+                    "Name": "flydende honning",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "dl",
+                    "Name": "sojasauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 0.5,
+                    "Unit": "dl",
+                    "Name": "vand",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Nudelsalat",
+            "Ingredients": [
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "nudler",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 200,
+                    "Unit": "g",
+                    "Name": "edamamebønner uden bælg, fra frost",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 300,
+                    "Unit": "g",
+                    "Name": "gulerødder",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "bundt",
+                    "Name": "forårsløg",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "frisk rød chili",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Dressing",
+            "Ingredients": [
+                {
+                    "Quantity": 20,
+                    "Unit": "g",
+                    "Name": "frisk ingefær",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "sojasauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "sød chilisauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "olivenolie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "limefrugt",
+                    "PreparationNote": null
+                }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                {
+                    "Quantity": 50,
+                    "Unit": "g",
+                    "Name": "cashewnødder",
+                    "PreparationNote": "ristede og saltede"
+                },
+                {
+                    "Quantity": 1,
+                    "Unit": "potte",
+                    "Name": "frisk koriander",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Honningmarinerede kyllingespyd</h3><p>Skær kyllingebrystfileterne i tern, og sæt dem på 6-8 spyd. Hæld honning, soja og vand på en pande, og bring det i kog. Skru ned til lav varme, og lad marinaden simre i 10 minutter.</p><p>Læg kyllingespyddene på panden, og steg dem i honningmarinaden i 6-8 minutter, til de er gennemstegte. Vend dem rundt undervejs, så de bliver jævnt marinerede. Honningmarinaden bliver til sidst gylden og klistret.</p><h3>Nudelsalat</h3><p>Kog nudlerne efter anvisning på emballagen. Hæld de frosne edamamebønner i kogevandet, så snart nudlerne er færdige, og afdryp straks.</p><p>Skræl gulerødderne, og riv dem i lange strimler. Skyl og hak forårsløgene fint. Rens chilien, og skær den i tynde skiver. Vend nudler, bønner, gulerod og forårsløg sammen i en skål.</p><h3>Lime-ingefær-dressing</h3><p>Skræl og riv ingefæren fint. Rør soja, sød chilisauce, olie, friskpresset limesaft og fintrevet limeskal sammen i en skål med ingefæren.</p><h3>Servering</h3><p>Vend dressingen sammen med nudelsalaten, og top med chili, grofthakkede cashewnødder og frisk koriander. Servér salaten til kyllingespyddene, og dryp gerne resten af honningmarinaden fra panden over kyllingespyddene ved servering.</p>",
+    "Note": "Udstyr: 6-8 træspyd. Allergener: gluten, soja, æg, nødder.",
+    "ImageUrl": "images/recipe-images/403. Honningmarinerede kyllingespyd med nudelsalat.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Honning",
+        "Spyd",
+        "Nudler",
+        "Nudelsalat",
+        "Asiatisk",
+        "Edamame",
+        "Cashew",
+        "Hverdagsmad",
+        "Hovedret"
+    ]
+}

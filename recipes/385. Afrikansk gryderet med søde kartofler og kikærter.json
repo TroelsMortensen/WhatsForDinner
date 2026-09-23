@@ -1,0 +1,41 @@
+{
+    "Id": 385,
+    "Title": "Afrikansk gryderet med søde kartofler og kikærter",
+    "SubHeader": "Man bliver glad af at se på gryderettens kraftige farve, og kombinationen af peanutbutter og sambal oelek smager virkelig godt til grøntsagerne, der får lov til at beholde et let bid.",
+    "TotalMinutes": 20,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Afrikansk gryderet",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "g", "Name": "søde kartofler", "PreparationNote": "ca. 2 stk." },
+                { "Quantity": 4, "Unit": "stk", "Name": "gulerod", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "blomkål", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olivenolie", "PreparationNote": "til stegning" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "peanutbutter", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "sambal oelek", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "fladbrød", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><p>Skær søde kartofler og gulerødder i små, mundrette tern. Del blomkål i buketter.</p><p>Hæld kikærterne i en sigte, skyl dem i koldt vand, og lad dem afdryppe.</p><p>Hak løg og hvidløg fint. Sautér dem i en stor gryde i olie sammen med karry og paprika, til løgene er klare.</p><p>Steg kartofler, gulerødder, blomkål og kikærter med i et par minutter, og hæld kokosmælk, hakkede tomater, peanutbutter og sambal oelek i gryden. Lad retten simre under låg ved svag varme i 15 minutter.</p><p>Tjek, at de søde kartofler er møre, og smag til med salt og peber. Top med koriander, og spis retten ved at skovle den op på stykker af fladbrød.</p>",
+    "Note": "Når løg sauteres klare, giver de en afrundet sødme til gryderetter som denne. Tager de derimod farve, bliver smagen mere brændt. Allergener: jordnødder, gluten, laktose.",
+    "ImageUrl": "images/recipe-images/385. Afrikansk gryderet med søde kartofler og kikærter.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Vegetarisk", "Afrikansk", "Gryderet", "Kikærter", "Søde kartofler", "Peanutbutter", "Kokosmælk", "Hverdagsmad", "Hovedret"]
+}

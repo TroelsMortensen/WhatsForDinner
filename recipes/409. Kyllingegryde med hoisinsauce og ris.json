@@ -1,0 +1,72 @@
+{
+    "Id": 409,
+    "Title": "Kyllingegryde med hoisinsauce og ris",
+    "SubHeader": "Er du vild med asiatisk mad, har hoisinsauce potentiale til at blive din nye bedste ven i køkkenet. Kombiner den med grøntsager, kylling og ris, så er aftensmaden færdig på et øjeblik.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Kyllingegryde med hoisinsauce og ris",
+            "Ingredients": [
+                {
+                    "Quantity": 1,
+                    "Unit": "stk",
+                    "Name": "blomkål",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "spsk",
+                    "Name": "smagsneutral olie",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "kyllingebrystfilet",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 3,
+                    "Unit": "dl",
+                    "Name": "ris",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "dl",
+                    "Name": "hoisinsauce",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": null,
+                    "Unit": null,
+                    "Name": "salt og peber",
+                    "PreparationNote": null
+                },
+                {
+                    "Quantity": 2,
+                    "Unit": "stk",
+                    "Name": "forårsløg",
+                    "PreparationNote": null
+                }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Kyllingegryde med hoisinsauce og ris</h3><p>Skyl blomkålen, og skær den i små buketter. Steg blomkålen i en pande med 1 spsk. olie i ca. 12 minutter, så blomkålen stadigvæk har bid. Læg blomkålen til side.</p><p>Skær kyllingen i mindre stykker. Steg kyllingen i en pande med 1 spsk. olie i ca. 10 minutter, eller til den er gennemstegt.</p><p>Kog ris i en gryde efter anvisning på pakken.</p><p>Hæld blomkål og hoisinsauce i panden med kylling, og smag saucen til med salt og peber.</p><p>Skyl forårsløg, og fjern toppen og bunden. Skær forårsløg i skiver på skrå, og drys over retten. Servér kyllingen med ris.</p>",
+    "Note": "Allergener: gluten.",
+    "ImageUrl": "images/recipe-images/409. Kyllingegryde med hoisinsauce og ris.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": [
+        "Kylling",
+        "Asiatisk",
+        "Hoisinsauce",
+        "Gryderet",
+        "Ris",
+        "Blomkål",
+        "Hurtig",
+        "Hverdagsmad",
+        "Hovedret"
+    ]
+}

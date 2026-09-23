@@ -1,0 +1,49 @@
+{
+    "Id": 388,
+    "Title": "Verdens bedste chili con carne",
+    "SubHeader": "Denne chili con carne tager ikke lang tid at bikse sammen, men den må gerne stå og simre en times tid, så den bliver ekstra smagfuld.",
+    "TotalMinutes": 75,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Chili con carne",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "frisk rød chili", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rapsolie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt kanel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørrede chiliflager", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "oksebouillon", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Yoghurtcreme",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "dl", "Name": "yoghurt naturel 1,5 %", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "dl", "Name": "jasminris", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "frisk rød chili", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "frisk mynte", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Chili con carne</h3><p>Pil og hak løg og hvidløg fint. Rens chilierne, og hak dem fint. Varm olien op i en stor gryde, og steg løg og chili sammen med krydderierne.</p><p>Tilsæt kødet lidt ad gangen, og lad det blive brunt sammen med løgblandingen, før du tilsætter mere kød. Krydr med chiliflager, salt og peber.</p><p>Tilsæt hakkede tomater og bouillon, og lad retten simre i 30 minutter. Rør jævnligt.</p><p>Skyl bønnerne i en sigte, og vend dem i gryden. Lad retten småsimre i yderligere 25 minutter. Smag til med chiliflager, salt, kanel og spidskommen.</p><h3>Tilbehør</h3><p>Kog ris efter anvisningen på pakken.</p><h3>Yoghurtcreme</h3><p>Rør ingredienserne sammen i en skål.</p><h3>Servering</h3><p>Drys de kogte ris med finthakket chili og mynte, og servér som tilbehør til chili con carne sammen med den kølige yoghurtcreme.</p>",
+    "Note": "Kogetid: 55 minutter. Allergener: laktose.",
+    "ImageUrl": "images/recipe-images/388. Verdens bedste chili con carne.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Mexicansk", "Chili", "Oksekød", "Gryderet", "Bønner", "Yoghurt", "Ris", "Hovedret", "Hverdagsmad"]
+}

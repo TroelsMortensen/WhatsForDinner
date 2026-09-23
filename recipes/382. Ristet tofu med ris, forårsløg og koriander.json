@@ -1,0 +1,41 @@
+{
+    "Id": 382,
+    "Title": "Ristet tofu med ris, forårsløg og koriander",
+    "SubHeader": "Tofu smager i sig selv ikke af meget, så det er altid en god idé enten at krydre eller marinere den, så den får lige den smag, du ønsker.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ristet tofu",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "dl", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "tofu", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "til stegning" }
+            ]
+        },
+        {
+            "Title": "Marinade",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sambal oelek", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 30, "Unit": "g", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "dl", "Name": "sojasauce", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "potte", "Name": "frisk koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Sådan gør du</h2><h3>Ristet tofu</h3><p>Kog ris efter anvisningen på emballagen.</p><p>Læg tofuen i et rent viskestykke (eller pak den ind i køkkenrulle), og pres den fri for væske. Skær tofuen i mundrette tern.</p><p>Opvarm en pande med olie, og steg tofuternene i 5-6 minutter, til de er let gyldne på alle sider.</p><h3>Ingefærmarinade</h3><p>Skræl og riv ingefær, og rør det sammen med chilisauce, limesaft, sukker og sojasauce i en skål.</p><p>Hæld marinaden over tofuen på panden, og steg videre i et par minutter, til marinaden er tyknet og har sat sig fast på tofuen.</p><h3>Servering</h3><p>Anret den ristede tofu oven på risene, og top med finthakkede forårsløg, sesamfrø og frisk koriander.</p>",
+    "Note": "Allergener: soja, gluten.",
+    "ImageUrl": "images/recipe-images/382. Ristet tofu med ris, forårsløg og koriander.jpg",
+    "Source": "Spis Bedre",
+    "Keywords": ["Tofu", "Vegetarisk", "Vegansk", "Asiatisk", "Ris", "Ingefær", "Koriander", "Forårsløg", "Hverdagsmad", "Hovedret"]
+}
