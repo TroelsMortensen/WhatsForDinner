@@ -1,0 +1,44 @@
+{
+    "Id": 374,
+    "Title": "Beluga Bolognese",
+    "SubHeader": "Vegetarisk linse-bolognese med belugalinser, rødvin og masser af fedme – tæt på den klassiske.",
+    "TotalMinutes": 90,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 6,
+    "RecipeGroups": [
+        {
+            "Title": "Bolognese",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": "stort" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "ca. 3 spsk / masser af" },
+                { "Quantity": 1, "Unit": "stk", "Name": "gulerod", "PreparationNote": "fint revet" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "store" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": "valgfrit" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "frisk hakket timian", "PreparationNote": "eller 1 tsk tørret" },
+                { "Quantity": 25, "Unit": "g", "Name": "smør eller smørbar", "PreparationNote": "en god klat" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "rødvin", "PreparationNote": "kan erstattes med rødvinseddike" },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "fløde", "PreparationNote": "eller 1 dl sødmælk; valgfrit; brug vegansk fløde for vegansk version" },
+                { "Quantity": 400, "Unit": "g", "Name": "mosede tomater", "PreparationNote": "passata eller hakket tomat" },
+                { "Quantity": 2, "Unit": "stk", "Name": "laurbærblade", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "konc. grøntsagsfond", "PreparationNote": "eller 1 bouillonterning" },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 130, "Unit": "g", "Name": "tørrede belugalinser", "PreparationNote": "ca. 1,5 dl; puy- eller delikatesselinser kan bruges" }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "spaghetti eller anden pasta", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "parmesan", "PreparationNote": "brug vegansk alternativ for vegansk version" },
+                { "Quantity": null, "Unit": null, "Name": "bredbladet persille", "PreparationNote": "finthakket; kan udelades" },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Snit løget fint og svits ved lav varme med masser af olivenolie i 5-10 min.</p><p>Knus hvidløgsfeddene og hak fint. Tilsæt med fint revet gulerod, chiliflager, timian og en god klat smør og svits videre i et par minutter. Skub grøntsagerne til den ene side i gryden og svits tomatpuré godt i den anden side i lidt ekstra olie.</p><p>Tilsæt rødvin og lad koge op, så alkoholen fordamper. Tilsæt fløde eller sødmælk (valgfrit), passata, laurbærblade, koncentreret grøntsagsfond og vand.</p><p>Lad tomatsaucen simre i 10-30 minutter under låg. Jo længere, jo bedre!</p><p>Skyl belugalinserne og tilsæt. Lad simre i 25-45 minutter. Tilsæt eventuelt ekstra vand undervejs, hvis det behøves. Belugalinser skal ikke være helt møre ved servering, men stadig have lidt bid. Hvis du foretrækker linser der koger mere ud, kan du bruge røde linser, eller simre længere.</p><p>Smag saucen til med masser af peber og salt og eventuelt sukker, chili, god eddike og ekstra smør/olivenolie, hvis det behøves.</p><p>Server med pasta, parmesan, friskkværnet peber og måske lidt frisk persille.</p>",
+    "Note": "Opskriften er til ca. 6 portioner og tager 45-90 min. Belugalinser beholder bid; puy-, delikatesse- eller røde linser kan bruges i stedet. Rødvin er vigtig for smagen, men rødvinseddike kan erstatte. Sovsen egner sig godt til lasagne og kan fryses. Til vegansk version: brug smørbar, vegansk fløde og vegansk parmesan.",
+    "ImageUrl": "images/recipe-images/374. Beluga Bolognese.jpg",
+    "Source": "Vegetarisk Hverdag",
+    "Keywords": ["Vegetar", "Vegan", "Italiensk", "Pasta", "Linser", "Bolognese", "Hverdagsmad"]
+}

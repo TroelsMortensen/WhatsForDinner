@@ -1,0 +1,40 @@
+{
+    "Id": 372,
+    "Title": "Indisk curry med kikærter",
+    "SubHeader": "Fyldig søndagsgryde med hjemmelavet garam masala, kokosmælk og kikærter – perfekt til rester og fryseren.",
+    "TotalMinutes": 180,
+    "MinutesOfPreparation": 30,
+    "NumberOfPersons": 10,
+    "RecipeGroups": [
+        {
+            "Title": "Curry",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "grønne chili", "PreparationNote": "2-3 efter smag" },
+                { "Quantity": 45, "Unit": "g", "Name": "ingefær", "PreparationNote": "ca. 6 cm" },
+                { "Quantity": 75, "Unit": "g", "Name": "smør", "PreparationNote": "kan erstattes med olie/smørbar til vegansk version" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "olie", "PreparationNote": "2-4 spsk" },
+                { "Quantity": 7, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "6-8 fed" },
+                { "Quantity": 4, "Unit": "spsk", "Name": "garam masala", "PreparationNote": "helst hjemmelavet" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": "2-3 spsk" },
+                { "Quantity": 2, "Unit": "dåse", "Name": "kokosmælk", "PreparationNote": "gerne Chaokoh" },
+                { "Quantity": 2, "Unit": "dåse", "Name": "flåede tomater", "PreparationNote": "eller passata" },
+                { "Quantity": 1, "Unit": "stk", "Name": "kanelstang", "PreparationNote": null },
+                { "Quantity": 10, "Unit": "stk", "Name": "karryblade", "PreparationNote": "8-12 stk" },
+                { "Quantity": 2, "Unit": "stk", "Name": "laurbærblade", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "grøntsagsfond", "PreparationNote": "koncentreret til 1 liter, ikke fortyndet" },
+                { "Quantity": null, "Unit": null, "Name": "korianderstilke", "PreparationNote": "en god håndfuld, finthakkede" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "lime", "PreparationNote": "saft fra 0,5-1 lime" },
+                { "Quantity": 1250, "Unit": "g", "Name": "kogte kikærter", "PreparationNote": "svarer til ca. 500 g tørrede" }
+            ]
+        }
+    ],
+    "Instructions": "<p>Blend løg, chili og ingefær til en puré. Tilsæt olie, hvis der er brug for lidt væske.</p><p>Smelt smør i en stor gryde. Tilsæt puréen og lad stege forsigtigt ved lav varme, til den er gylden – ca. 10 minutter.</p><p>Tilsæt hvidløg og garam masala og lad stege med i 3-4 minutter. Tilsæt tomatpuré og steg med. Tilsæt kokosmælk og skru godt op for varmen. Lad det hele koge godt igennem. Blend tomaterne fint og tilsæt.</p><p>Tilsæt kanelstang, karryblade, laurbærblade og fond. Lad simre i 2-3 timer uden låg, til 20-30 % er kogt væk. Tilsæt finthakkede korianderstilke og kog i 5 minutter. Tilsæt de kogte kikærter og smag til med sukker, salt, peber og limesaft.</p><p>Server med basmatiris, naan, en frisk salat, yoghurt, gyldne rosiner og koriander.</p>",
+    "Note": "Retten er svær at lave rigtig god med købt garam masala – brug gerne hjemmelavet. Skift smør ud med olie/smørbar for en vegansk version. Vil du have den stærkere, tilsæt scotch bonnet eller anden chili. Opskriften er til ca. 10-12 portioner.",
+    "ImageUrl": "images/recipe-images/372. Indisk curry med kikærter.jpg",
+    "Source": "Vegetarisk Hverdag",
+    "Keywords": ["Vegetar", "Vegan", "Indisk", "Curry", "Kikærter", "Kokosmælk", "Gryderet"]
+}

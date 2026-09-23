@@ -1,0 +1,41 @@
+{
+    "Id": 373,
+    "Title": "Chipotlegryde med bønner og grønkål",
+    "SubHeader": "Comfy gryderet med chipotle, bønner og grønkål – røget dybde og masser af citronsyre.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 5,
+    "RecipeGroups": [
+        {
+            "Title": "Gryde",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3.5, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": "3-4 spsk" },
+                { "Quantity": 5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": "4-6 fed" },
+                { "Quantity": 1, "Unit": "spsk", "Name": "chipotle in adobo paste", "PreparationNote": "eller 0,5 tsk chipotlepulver" },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": "2-3 spsk" },
+                { "Quantity": 720, "Unit": "g", "Name": "kogte bønner", "PreparationNote": "3 dåser; borlotti, butter beans eller små hvide bønner" },
+                { "Quantity": 7.5, "Unit": "dl", "Name": "grøntsagsfond", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "grønkål", "PreparationNote": "et lille bundt" },
+                { "Quantity": 0.75, "Unit": "stk", "Name": "citron", "PreparationNote": "saft fra 0,5-1 citron" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sirup", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "bredbladet persille eller koriander", "PreparationNote": "et par håndfulde" },
+                { "Quantity": null, "Unit": null, "Name": "creme fraiche", "PreparationNote": "brug vegansk alternativ for vegansk version" },
+                { "Quantity": null, "Unit": null, "Name": "chili flakes", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "revet citronskal", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Pil løgene og skær i halve, tynde skiver. Steg ved middel til høj varme i rigeligt olivenolie med et godt drys salt, til de er gyldne.</p><p>Tilsæt hvidløg skåret i skiver til gryden og steg med i et minuts tid. Tilsæt chipotle og tomatpuré og svits i yderligere et minuts tid. Tilsæt mere olie efter behov. Dræn imens bønnerne og lad dem dryppe af.</p><p>Tilsæt bønnerne og steg videre. Giv det hele et godt drys peber og lidt mere salt. Knus bønnerne let. Smag på bønnerne for at se, om du har brug for mere styrke. Tilsæt eventuelt mere chipotle efter smag.</p><p>Tilsæt grøntsagsfond og lad gryden simre i 15 minutters tid uden låg. Skyl imens kålen og skær i mindre stykker. Det øverste af stilkene skæres i fine skiver.</p><p>Stivelsen i bønnerne jævner gryden, men hvis den bliver for tyk, tilsættes mere vand. Den skal være tykkere end en suppe.</p><p>Tilsæt grønkål de sidste par minutter, til kålen falder sammen, og smag så til med masser af citronsaft, lidt sirup og evt. mere salt og peber.</p><p>Server med grofthakket persille eller koriander, creme fraiche, ekstra chili flakes, revet citronskal og en ekstra citronbåd til.</p>",
+    "Note": "Opskriften er til 4-6 portioner. Er man ikke til det røgede, brug mere tomatpuré og chili flakes i stedet. Skal det ikke være stærkt, kan du bruge røget paprika og tilsætte chili flakes eller hot sauce ved bordet. Chipotlepulver kan erstatte chipotle in adobo. Det er vigtigt med god syre fra citronsaft.",
+    "ImageUrl": "images/recipe-images/373. Chipotlegryde med bønner og grønkål.jpg",
+    "Source": "Vegetarisk Hverdag",
+    "Keywords": ["Vegetar", "Vegan", "Mexicansk", "Gryderet", "Bønner", "Grønkål", "Hverdagsmad"]
+}

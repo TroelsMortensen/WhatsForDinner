@@ -1,0 +1,63 @@
+{
+    "Id": 370,
+    "Title": "Kua Kling - sydøstasiatisk biksemad",
+    "SubHeader": "Plademad med tofu og svamp i aromatisk rød currydressing, serveret med ristet-kokos-ris.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ris",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "dl", "Name": "jasminris", "PreparationNote": null },
+                { "Quantity": 5.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "ristet kokos", "PreparationNote": "kan udelades" }
+            ]
+        },
+        {
+            "Title": "Bagepladen, trin 1",
+            "Ingredients": [
+                { "Quantity": 400, "Unit": "g", "Name": "fast tofu", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "svamp", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sort peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Currydressing",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "citrongræs", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "stk", "Name": "rød eller gul chilli", "PreparationNote": "1-2" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "rød currypaste", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "sirup", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "lys soya", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Bagepladen, trin 2",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "bundt", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "hakket limeblad", "PreparationNote": "5-6 stk, gerne fra frost" },
+                { "Quantity": 2, "Unit": "stk", "Name": "lime", "PreparationNote": "skal og saft" },
+                { "Quantity": 1, "Unit": "bundt", "Name": "koriander", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Tilbehør",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "grøntsager efter eget valg", "PreparationNote": "f.eks. stangbønner, squash, grønne bønner, grønkål, palmekål, broccoli eller broccolini" },
+                { "Quantity": null, "Unit": null, "Name": "lime", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "korianderblade", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Tænd ovnen på 225 grader varmluft.</p><h3>Ris</h3><p>Rist kokos på en stegepande, til det er gyldent.</p><p>Skyl risene godt i koldt vand. Kom i en mellemstor gryde sammen med vand, salt og ristet kokos. Kog op. Når vandet koger, lader du risene simre ved lav varme under låg i 10 min. Læg et par stykker køkkenrulle (eller et rent viskestykke) mellem gryde og låg, og lad risene hvile i 10-15 minutter.</p><h3>Bagepladen, trin 1</h3><p>Smuldr tofuen til en slags fars og hak svampene fint. Kom på en bagepapirsbeklædt bageplade sammen med neutral olie, salt og sort peber. Bag i ovnen i 15 minutter.</p><h3>Currydressing</h3><p>Hak imens hvidløg, chilli og citrongræs fint. Bland i en mindre skål med currypaste, vand, sirup og soya.</p><h3>Bagepladen, trin 2</h3><p>Når bagepladen har fået de første 15 minutter, hældes currydressingen over (den lille skål bruges igen om lidt, så spar opvasken). Bland godt sammen. Sæt i ovnen i yderligere 10-15 minutter.</p><p>Bland hakket forårsløg, fintsnittet limeblad, limeskal og saft i curryskålen. Hak korianderstilkene fint og kom op i skålen. Hak bladene groft og gem til servering.</p><p>Når bagepladen har fået de sidste 10-15 minutter, blandes forårsløg-lime-blandingen godt sammen med indholdet på bagepladen. Anret i en serveringsskål, hvis du har lyst.</p><h3>Servering</h3><p>Steg dine tilbehørs-grøntsager på en brandvarm pande, til de har godt med farve, men stadig er sprøde.</p><p>Server med kokosrisene, korianderbladene og grøntsagerne.</p>",
+    "Note": "Plantefars eller grøntsager som kål, gulerødder, broccoli eller grønne bønner kan erstatte tofu og svamp.",
+    "ImageUrl": "images/recipe-images/370. Kua Kling - sydøstasiatisk biksemad.jpg",
+    "Source": "Vegetarisk Hverdag",
+    "Keywords": ["Vegetar", "Asiatisk", "Tofu", "Ris", "Curry", "Ovnmad", "Hverdagsmad"]
+}

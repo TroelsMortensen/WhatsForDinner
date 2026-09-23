@@ -1,0 +1,47 @@
+{
+    "Id": 371,
+    "Title": "Halloumi tikka masala",
+    "SubHeader": "Cremet vegetarisk tikka masala med stegt halloumi, serveret med basmatiris.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": null,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Krydderibase",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "stort løg", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "revet ingefær", "PreparationNote": "ca. 2-3 cm" },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": "0,25-0,5 tsk, stærke, valgfrit" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "korianderfrø", "PreparationNote": "stødt" },
+                { "Quantity": 2, "Unit": "tsk", "Name": "spidskommen", "PreparationNote": "stødt" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "salt", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Desuden",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "yoghurt", "PreparationNote": "3,5 %" },
+                { "Quantity": 400, "Unit": "g", "Name": "halloumi", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "smør eller ghee", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": "koncentreret" },
+                { "Quantity": 400, "Unit": "g", "Name": "passata", "PreparationNote": "mosede tomater" },
+                { "Quantity": 2, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "koncentreret grøntsagsfond", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "bundt", "Name": "frisk koriander", "PreparationNote": null },
+                { "Quantity": 240, "Unit": "g", "Name": "sorte bønner", "PreparationNote": "1 dåse, valgfrit" },
+                { "Quantity": 4, "Unit": "dl", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "olie", "PreparationNote": "til stegning af halloumi" }
+            ]
+        }
+    ],
+    "Instructions": "<h3>Krydderibase</h3><p>Pil løget og skær i grove stykker. Kom op i en blender/foodprocessor med hvidløg, ingefær, chili og krydderierne og blend helt fint sammen. Tilsæt evt. lidt vand eller olie efter behov.</p><p>Bland 1/3 af krydderibasen med 1 dl yoghurt. Riv halloumien i passende stykker på ca. 2×3 cm. Bland med yoghurtblandingen og lad stå.</p><h3>Sauce</h3><p>Smelt smør i en mellemstor gryde. Tilsæt resten af krydderibasen og steg ved lav varme i 10-15 minutter, til den er gyldenbrun og ikke virker vandet. Tilsæt tomatpuré og steg videre i ca. 5 minutter.</p><p>Tilsæt passata, vand, koncentreret fond og fløde. Lad simre i 20-30 minutter, til sovsen er blevet tykkere.</p><p>Skyl imens korianderen, pil bladene af og hak stænglerne fint. Tilsæt stænglerne til sovsen.</p><h3>Ris</h3><p>Skyl basmatirisene godt og kom i en gryde med 6 dl vand og 1 tsk salt. Kog op, lad simre i 10 minutter, og sluk så for varmen. Læg køkkenrulle/viskestykke mellem gryde og låg, og lad risene hvile i 10-15 minutter.</p><h3>Halloumi</h3><p>Varm en pande op til høj varme. Fisk halloumistykkerne op af marinaden og steg i olie, til de har godt med farve på alle sider. Der må gerne komme lidt marinade med over på panden, men de skal helst ikke svømme i det. Den marinade, der er tilbage i skålen, hældes op i sovsen sammen med de stegte halloumistykker.</p><p>Hvis du tilsætter bønner, sis væden fra, og bønnerne skylles og tilsættes sovsen. Kog op og smag til.</p><p>Server med ris og koriander på toppen.</p>",
+    "Note": "Sorte bønner er valgfrie. Fløden kan erstattes med kokosmælk. Vegetarisk kyllingeerstatning kan bruges i stedet for halloumi.",
+    "ImageUrl": "images/recipe-images/371. Halloumi tikka masala.jpg",
+    "Source": "Vegetarisk Hverdag",
+    "Keywords": ["Vegetar", "Indisk", "Halloumi", "Curry", "Ris", "Hverdagsmad"]
+}

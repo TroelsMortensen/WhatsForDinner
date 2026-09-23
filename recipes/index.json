@@ -4034,5 +4034,88 @@
             "Hverdagsmad"
         ],
         "TotalMinutes": 45
+    },
+    {
+        "Id": 370,
+        "Title": "Kua Kling - sydøstasiatisk biksemad",
+        "Keywords": [
+            "Vegetar",
+            "Asiatisk",
+            "Tofu",
+            "Ris",
+            "Curry",
+            "Ovnmad",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 371,
+        "Title": "Halloumi tikka masala",
+        "Keywords": [
+            "Vegetar",
+            "Indisk",
+            "Halloumi",
+            "Curry",
+            "Ris",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 60
+    },
+    {
+        "Id": 372,
+        "Title": "Indisk curry med kikærter",
+        "Keywords": [
+            "Vegetar",
+            "Vegan",
+            "Indisk",
+            "Curry",
+            "Kikærter",
+            "Kokosmælk",
+            "Gryderet"
+        ],
+        "TotalMinutes": 180
+    },
+    {
+        "Id": 373,
+        "Title": "Chipotlegryde med bønner og grønkål",
+        "Keywords": [
+            "Vegetar",
+            "Vegan",
+            "Mexicansk",
+            "Gryderet",
+            "Bønner",
+            "Grønkål",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 374,
+        "Title": "Beluga Bolognese",
+        "Keywords": [
+            "Vegetar",
+            "Vegan",
+            "Italiensk",
+            "Pasta",
+            "Linser",
+            "Bolognese",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 90
+    },
+    {
+        "Id": 375,
+        "Title": "Black Bean Chili",
+        "Keywords": [
+            "Vegetar",
+            "Vegan",
+            "Mexicansk",
+            "Chili",
+            "Bønner",
+            "Gryderet",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 45
     }
 ]
