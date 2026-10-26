@@ -1,0 +1,47 @@
+{
+    "Id": 444,
+    "Title": "Marokkansk onepot med quinoa, spinat, svampe og kikærter",
+    "SubHeader": "Har du en rest quinoa stående bagerst i skabet? Ligesom chiafrø rækker lidt langt – og i stedet for endnu en salat kan du lave denne hurtige vegetariske onepot.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "g", "Name": "champignoner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "søde kartofler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kikærter", "PreparationNote": "400 g / 240 g drænet" },
+                { "Quantity": 200, "Unit": "g", "Name": "hvid quinoa", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "frisk babyspinat", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 50, "Unit": "g", "Name": "mandler", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "citron", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Rens champignonerne grundigt, og skær dem i halvdele (eller kvarte, hvis de er store). Hak løget i tern, og hak hvidløgene fint. Skær de søde kartofler i tern á 1½ cm. Dræn og skyl kikærterne, og skyl quinoaen i koldt vand.</p><p>Varm 2 spsk. olie op i en gryde, og svits champignonerne ved høj varme i 1 minut. Skru ned til medium varme, og steg dem, til de begynder at blive møre. Krydr med salt og peber. Tag champignonerne op af gryden, og læg dem til side på en tallerken.</p><p>Kom 2 spsk. olie i gryden. Kom løg og hvidløg i, og svits dem i ca. 2 minutter, til løgene begynder at blive bløde – de skal ikke tage farve, blot blive klare.</p><p>Tilsæt de søde kartofler, og svits dem med i 1 minut. Kom kikærter, spidskommen, paprika, chiliflager, salt og quinoa i gryden, og svits dem i 30 sekunder.</p><p>Tilsæt vand og bouillonterning, og rør i gryden, så quinoaen fordeles. Kog det hele op, skru ned til svag varme, og lad det simre under låg i ca. 15 minutter, til quinoaen er tilberedt.</p><p>Hvis quinoaen suger meget væske, kan du tilsætte ½–1 dl kogende vand lidt ad gangen.</p><p>Vend champignoner og spinat i retten, og varm det hele igennem i 1–2 minutter, til spinaten falder sammen. Smag til med salt og peber.</p><p>Drys med grofthakkede mandler, og server med både af citron til.</p>",
+    "Note": "Hvilken farve quinoa skal jeg bruge?\nJeg har brugt hvid quinoa. Rød eller sort quinoa skal koge længere og får mere \"bid\".\n\nKan jeg udelade kikærter?\nJa, du kan lade dem blive i dåsen. Erstat gerne med tofu for protein og mæthed.\n\nKan jeg lave den ikke-vegetarisk?\nTilsæt 300 g kyllingefilet i tern. Brun dem først, tag dem op, og tilsæt dem igen, når quinoaen kommer i.",
+    "ImageUrl": "images/recipe-images/444. Marokkansk onepot med quinoa, spinat, svampe og kikærter.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Marokkansk", "Onepot", "One Pot", "Gryde", "Quinoa", "Spinat", "Svampe", "Kikærter", "Vegetar", "Hverdagsmad", "Hovedret"]
+}

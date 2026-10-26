@@ -1,0 +1,54 @@
+{
+    "Id": 424,
+    "Title": "Asiatisk kylling, grøntsager og nudler",
+    "SubHeader": "Får du svunget wokken? Jeg er vild med det. Ikke wokken, for den står allernederst i skuffen og er for bøvlet at hive op. Men altså wokmad i pande. Kylling, svinekød, nudler, soja – masser af smag på rekordtid. Det dur, og nu gør vi det endnu nemmere med det hele i ovnen.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 2,
+    "RecipeGroups": [
+        {
+            "Title": "Marinade",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 4.5, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "4–5 cm" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "sesamolie", "PreparationNote": "kan udelades" },
+                { "Quantity": 5, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "soja", "PreparationNote": "ca. 10 spsk." },
+                { "Quantity": 4, "Unit": "spsk", "Name": "honning", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "limesaft", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": "1/4–1/2 tsk." },
+                { "Quantity": 2, "Unit": "tsk", "Name": "majsstivelse", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "koldt vand", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "mini-pak choy", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "sukkerærter", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "nudler", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sesamfrø", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "cashewnødder", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Pres eller hak hvidløget fint. Riv ingefæren fint, så du har ca. 1 spsk. ingefær.</p><p>Bland hvidløg, ingefær, sesamolie, olie, soja, honning, limesaft og chiliflager i en skål. Bland majsstivelsen med koldt vand, og rør det i marinaden.</p><p>Skær kyllingefileterne i strimler, og kom dem i en frysepose. Tag 1/4 af marinaden fra, og gem den til sidst. Hæld resten i posen med kylling, og vend det hele godt rundt. Har du tid, så læg den gerne på køl og trække i 1 time eller længere.</p><p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Del broccoli i små buketter. Skær bunden af stilken på pak choy, vask dem grundigt, og del dem i blade.</p><p>Fordel broccoli, sukkerærter og den marinerede kylling i en bradepande. Hæld den eventuelle resterende marinade fra fryseposen ud over grøntsagerne, og vend det hele godt rundt.</p><p>Sæt bradepanden i ovnen, og bag det hele i ca. 10 minutter.</p><p>Tag bradepanden ud, og fordel pak choy i den. Sæt bradepanden tilbage i ovnen i yderligere 5 minutter, eller til kyllingen er gennemstegt, og grøntsagerne er møre.</p><p>Kog nudlerne efter anvisningen på pakken, og gem lidt af kogevandet.</p><p>Vend nudlerne med grøntsager, kylling og den sidste del af marinaden. Tilsæt 2–3 spsk. af nudelvandet, hvis det virker for tørt.</p><p>Top med fintsnittede forårsløg, sesamfrø og cashewnødder, og server med limebåde til.</p>",
+    "Note": "Kan jeg bruge andet end sesamolie? Udskift med almindelig olie (fx rapsolie). Vil du gerne have sesamsmagen, kan du tilsætte 1 spsk. sesamfrø til marinaden, men den smager også forrygende uden.\n\nHvad, hvis jeg ikke kan finde pak choy? Pak choy kan udskiftes med 1/2 spidskål.\n\nHvilke nudler skal jeg bruge? Du kan bruge dine favoritnudler – uanset om det er risnudler, ægnudler eller durumhvedenudler.",
+    "ImageUrl": "images/recipe-images/424. Asiatisk kylling, grøntsager og nudler.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Asiatisk", "Kylling", "Nudler", "Pak choy", "Ovn", "Hverdagsmad", "Hovedret"]
+}

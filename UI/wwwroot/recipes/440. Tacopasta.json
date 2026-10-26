@@ -1,0 +1,46 @@
+{
+    "Id": 440,
+    "Title": "Tacopasta",
+    "SubHeader": "Alt i en gryde, og så er det bare frem med sombreroen, de dybe tallerkener og gaflen. Kniven lader du bare ligge i skuffen. Haps, og så en ekstra skefuld til den hule mave. Du behøver slet ikke at bekymre dig om hverken rester, eller hvordan du får plads til endnu en Ikea-bøtte i fryseren, for der bliver spist op. Det største problem er kun kampen om den gode plads i sofaen efterfølgende, når der skal slås mave.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "tacokrydderi", "PreparationNote": "2–3 spsk / se opskrift s. 35" },
+                { "Quantity": 7, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "tørret pasta", "PreparationNote": "her conchiglie rigate" },
+                { "Quantity": 1, "Unit": "stk", "Name": "oksebouillonterning", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "dl", "Name": "tacosauce", "PreparationNote": "300 g" },
+                { "Quantity": 150, "Unit": "g", "Name": "revet cheddarost", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "cherrytomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "creme fraiche", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "pose", "Name": "tortillachips", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Hak løg og hvidløg fint. Varm en gryde op med olie, og svits løg og hvidløg i 1–2 minutter – de skal ikke tage farve, blot blive klare.</p><p>Tilsæt hakket oksekød, og brun det af, til det er gennemstegt. Krydr med salt og peber. Er der meget fedt fra oksekødet, så hæld det fra.</p><p>Tilsæt tacokrydderi, og svits det med i 30 sekunder. Kom vand, pasta, bouillonterning og tacosauce i gryden, og kog det hele op. Skru ned for varmen, og lad det simre ved medium varme i ca. 12 minutter, eller til pastaen er al dente. Rør jævnligt. Tilberedningstiden kan variere alt efter pastatype og mærke. Hvis pastaen suger meget væske, kan du tilsætte ½–1 dl kogende vand lidt ad gangen.</p><p>Tag gryden af varmen, tilsæt revet cheddarost, og rør det i. Smag til med salt og peber.</p><p>Top gryden med friskhakket koriander, og server med tomater i kvarte, limebåde, creme fraiche og tortillachips til.</p>",
+    "Note": "Hvordan får jeg mere grønt i retten?\nTilsæt revet squash, peberfrugt i tern, majs eller friske tomater.\n\nHvilken tacosauce skal jeg bruge?\nLige den styrke og konsistens, som du bedst kan lide. Jeg har brugt en med medium styrke i min gryde, men snup en mildere eller stærkere tacosauce, hvis det passer dig bedre.\n\nHvad, hvis der er ikke mere oksekød i fryseren?\nIntet problem, så bruger du blot hakket kylling, skifter oksebouillon ud med hønsebouillon og tilsætter ½ spsk. ekstra tacokrydderi.",
+    "ImageUrl": "images/recipe-images/440. Tacopasta.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Pasta", "Taco", "Mexicansk", "Oksekød", "Gryde", "Onepan", "One Pot", "Cheddar", "Hurtig", "Hverdagsmad", "Hovedret"]
+}

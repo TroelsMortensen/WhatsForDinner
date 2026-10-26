@@ -1,0 +1,64 @@
+{
+    "Id": 427,
+    "Title": "Kofta i fladbrød",
+    "SubHeader": "Nem og hurtig ret, der er social at lave – hak peberfrugt, tomat og agurk, rul kødboller, og lav en hvidløgsdip af creme fraiche.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 25,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Bagte grøntsager",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "stk", "Name": "peberfrugter", "PreparationNote": "rød, gul, orange" },
+                { "Quantity": 2, "Unit": "stk", "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Kødboller",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk persille", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "rasp", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Yoghurtsauce",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "yoghurt eller creme fraiche", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "olivenolie", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "citronsaft", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "agurk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rødløg", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "fladbrød eller pitabrød", "PreparationNote": "4–8 stk" },
+                { "Quantity": 75, "Unit": "g", "Name": "grøn salat", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "dl", "Name": "bredbladet persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Hak løg, hvidløg og persille fint. Bland dem i en skål med oksekød, æg, rasp, mælk, spidskommen, koriander, paprika, oregano, chiliflager, salt og peber. Form 16 kødboller, og læg dem på den ene halvdel af en bageplade med bagepapir.</p><p>Skær peberfrugter og rødløg i strimler. Vend dem med olie, salt og peber, og fordel dem på den anden halvdel af bagepladen.</p><p>Bag i ca. 15 minutter, til kødbollerne er gennemstegte, og grøntsagerne er møre. Læg fladbrødene i ovnen de sidste 2 minutter, så de bliver lune.</p><p>Hak hvidløg fint, og rør det sammen med yoghurt eller creme fraiche i en skål. Tilsæt olivenolie, citronsaft, spidskommen, salt og peber, og smag til.</p><p>Skær tomaterne i skiver. Brug en peeler til at lave lange strimler af agurken, eller skær den tyndt. Skær rødløg i tynde skiver, og hak persillen groft.</p><p>Fyld fladbrødene med kødboller, bagte grøntsager, friske grøntsager og top med yoghurtsauce.</p>",
+    "Note": "Kan jeg bruge andet end oksekød til kødbollerne? Sagtens. Du kan bruge lam, kylling eller en blanding af oksekød og svinekød. Kylling kan blive en anelse tørt, så tilsæt lidt ekstra mælk for mere saftighed.\n\nHvad kan jeg bruge i stedet for rasp? Du kan bruge finvalsede havregryn eller panko, som er en japansk rasp, der er mere grov end almindelig rasp.\n\nKan farsen laves på forhånd? Ja, farsen kan sagtens laves og opbevares tildækket i køleskabet i op til 24 timer.",
+    "ImageUrl": "images/recipe-images/427. Kofta i fladbrød.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Kofta", "Fladbrød", "Oksekød", "Kødboller", "Yoghurt", "Mellemøstlig", "Ovn", "Hverdagsmad", "Hovedret"]
+}

@@ -1,0 +1,54 @@
+{
+    "Id": 434,
+    "Title": "Mexicansk gryde med ris og kylling",
+    "SubHeader": "En hurtig aftensmad, der koger sig selv i én gryde. Server med avocadosalsa, creme fraiche, lime, tortillachips og frisk koriander.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "tacokrydderi", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "majs", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "kidneybønner", "PreparationNote": "400 g / 240 g drænet" },
+                { "Quantity": 2, "Unit": "dl", "Name": "tacosauce", "PreparationNote": null },
+                { "Quantity": 5.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Avocadosalsa",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "avocadoer", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk koriander eller persille", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "tomater", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk koriander eller persille", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "salsa", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "creme fraiche", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Hak løg og hvidløg fint, og skær peberfrugten i tern. Skær kyllingen i ca. 2 cm tern. Skyl risen i et sigte under koldt vand.</p><p>Varm olien op i en gryde, og brun kyllingen med 1 spsk. tacokrydderi. Tilsæt løg, hvidløg og peberfrugt, og svits i 2 minutter. Tilsæt de resterende 3 spsk. tacokrydderi, salt, majs, kidneybønner og tacosauce, og bring det i kog.</p><p>Tilsæt ris, vand og bouillonterning, og rør rundt, så risen er jævnt fordelt. Bring det i kog, skru ned til lav varme, og lad det simre under låg i ca. 15 minutter, eller til risen er mør, og væsken er absorberet. Løft ikke låget de første 8 minutter, så dampen holdes inde. Hvis risen suger for meget væske, tilsættes ½–1 dl kogende vand lidt efter lidt.</p><p>Skær avocadoerne i tern. Snit forårsløget fint, og hak korianderen. Bland avocado, forårsløg og koriander i en skål, og smag til med limesaft, salt og peber.</p><p>Tag gryden af varmen, og lad retten trække under låg i yderligere 5 minutter. Løsn risene med en gaffel, smag til med salt og peber, og server med kvarte tomater, friskhakket koriander, limebåde, avocadosalsa, salsa og creme fraiche til.</p>",
+    "Note": "Vil hakket oksekød eller hakket kylling kunne bruges?\nJep, ca. 400 g, og så bruner du det bare godt af ligesom kyllingeternene.\n\nHvad, hvis jeg ikke er vild med bønner?\nUdelad dem (og sig ikke noget til mig, der overvejede 2 dåser mere i retten).\n\nHvilken tacosauce skal jeg bruge?\nJeg har brugt en med medium styrke, men du kan også bruge en mild eller en stærk udgave.",
+    "ImageUrl": "images/recipe-images/434. Mexicansk gryde med ris og kylling.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Mexicansk", "Gryde", "Onepan", "Kylling", "Ris", "Kidneybønner", "Avocado", "Hverdagsmad", "Hovedret"]
+}

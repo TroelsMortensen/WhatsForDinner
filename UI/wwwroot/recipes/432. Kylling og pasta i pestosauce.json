@@ -1,0 +1,39 @@
+{
+    "Id": 432,
+    "Title": "Kylling og pasta i pestosauce",
+    "SubHeader": "Hvis du kan holde en basilikumplante i live, kan du lave din egen pesto – ellers gør købt grøn eller rød pesto fint til denne nye favorit i madplanen.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "kyllingebryster", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "l", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "tørret pasta", "PreparationNote": "her pappardelle" },
+                { "Quantity": 200, "Unit": "g", "Name": "små tomater", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "spsk", "Name": "grøn pesto", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "flødeost", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "frisk babyspinat", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "spsk", "Name": "grøn pesto", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk basilikum", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Varm olie op i en stor pande, og kom kyllingebrysterne i. Krydr med paprika, oregano, salt og peber. Steg dem, til de er gennemstegte – ca. 7 minutter på hver side afhængigt af tykkelsen.</p><p>Tag kyllingen op af panden, og tør overskydende olie og krydderier af med et stykke køkkenrulle – du behøver ikke at gøre panden helt ren.</p><p>Kom vand og bouillonterning i panden, tilsæt pastaen, og bring det i kog. Skru ned til medium varme, og lad det simre (rør et par gange) i ca. 12 minutter, eller til pastaen er al dente. Tilberedningstiden kan variere alt efter pastatype og mærke. Hvis pastaen suger for meget væske, tilsæt ½–1 dl kogende vand ad gangen.</p><p>Halvér tomaterne. Når pastaen er al dente, tilsæt pesto, flødeost, spinat og tomater, og vend det rundt i pastaen. Hvis pastaen er for tør, tilsæt 1 dl vand sammen med flødeosten. Varm det igennem i 30 sekunder ved medium varme, så spinaten falder lidt sammen.</p><p>Læg kyllingebrysterne ovenpå pastaen i panden, dryp med pesto, drys med friskhakket basilikum, og server med det samme.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/432. Kylling og pasta i pestosauce.jpg",
+    "Source": null,
+    "Keywords": ["Kylling", "Pasta", "Pesto", "Pande", "Onepan", "Spinat", "Flødeost", "Hverdagsmad", "Hovedret"]
+}

@@ -1,0 +1,30 @@
+{
+    "Id": 431,
+    "Title": "Onepan-laks og cremet citronpasta med spinat",
+    "SubHeader": "Når du har brug for en pause fra tomatsaucen eller kyllingen – eller bare har noget spinat og citroner, der skal bruges – er denne ret perfekt.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "laksefileter", "PreparationNote": "500 g" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "l", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "usprøjtet citron", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "tørret pasta", "PreparationNote": "her linguine" },
+                { "Quantity": 1.5, "Unit": "dl", "Name": "madlavningsfløde", "PreparationNote": "15 %" },
+                { "Quantity": 100, "Unit": "g", "Name": "babyspinat", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Varm olie op i en pande, kom laksen i, og krydr med salt og peber. Steg den, til den lige er gennemstegt, men stadig saftig indeni – 2–4 minutter på hver side. Tag laksen op, og læg den på en tallerken.</p><p>Tør panden af med et stykke køkkenrulle. Knus hvidløgsfeddet med siden af en kniv (hak det ikke – det er bare for smagens skyld og skal tages op igen).</p><p>Kom hvidløg, vand, smuldret bouillonterning og reven skal af ½ citron (½ tsk.) i panden, og bring det i kog.</p><p>Tilsæt pasta, skru ned til middelvarme, og lad det småkoge (rør et par gange undervejs) i ca. 12 minutter, eller til pastaen er al dente. Tilberedningstiden kan variere alt efter pastatype og mærke. Hvis pastaen suger meget væske, kan du tilsætte ½–1 dl kogende vand lidt ad gangen.</p><p>Tag hvidløget op, og vend pastaen med saft fra 1 citron (1½ spsk.), madlavningsfløde og babyspinat, og krydr med salt og peber.</p><p>Varm det hele igennem i 1–2 minutter, til spinaten falder sammen, og saucen er cremet. Smag eventuelt pastaen til med mere citronsaft, salt og peber. Læg laksen på toppen af pastaen, og server.</p>",
+    "Note": "Kan madlavningsfløde erstattes?\nJa, du kan bruge flødeost til en lækker cremet sauce.\n\nHvilke grøntsager kan jeg tilsætte?\nAsparges eller grønne ærter er perfekte. Skær asparges i 3–4 cm stykker, og kog dem med pastaen. Ærter tilsættes med spinaten og varmes i 2 minutter.\n\nVille kylling virke?\nAbsolut. Brug 4 kyllingebryster i stedet for laks, og krydr med 1 tsk. tørret timian (eller oregano), 1 tsk. paprika, ½ tsk. hvidløgspulver, salt og peber.",
+    "ImageUrl": "images/recipe-images/431. Onepan-laks og cremet citronpasta med spinat.jpg",
+    "Source": null,
+    "Keywords": ["Laks", "Fisk", "Pasta", "Onepan", "Citron", "Spinat", "Fløde", "Pande", "Hurtig", "Hverdagsmad", "Hovedret"]
+}

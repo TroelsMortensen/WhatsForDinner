@@ -1,50 +1,82 @@
 # WhatsForDinner – add a new recipe
+
+## Agent checklist (do in order, then stop)
+1. Read the photo(s) / URL with built-in vision only — no OCR tools.
+2. Get next Id: `max(Id)` in `UI/wwwroot/recipes/index.json` (+1), unless user gave an Id.
+3. Optionally open **one** recent similar recipe JSON for shape/conventions.
+4. Write `UI/wwwroot/recipes/{Id}. {Title}.json`.
+5. Append one object to `UI/wwwroot/recipes/index.json`.
+6. If `UI/wwwroot/images/recipe-images/{Id}.jpg` exists: rename to `{Id}. {Title}.jpg`.
+7. Stop. Do not polish further.
+
+**Done when:** recipe JSON + index entry exist, image renamed (or `ImageUrl: null`), and you have not installed tools or searched the web.
+
 ## Your task
-You are helping with the **WhatsForDinner** project . When I provide **a photo of a recipe** (and/or a **URL**), you must:
-1. **Extract** all relevant data (title, times, servings, ingredients, steps, notes, source).
-2. **Create** a new recipe JSON file with the **next available Id** (I may specify it, or you determine it by reading `UI/wwwroot/recipes/index.json` and using `max(Id) + 1`).
-3. **Update** `UI/wwwroot/recipes/index.json` with a new entry for this recipe.
-4. **Rename the image file** (if there is an image) to match the convention below. Image files are by default named with just an Id, of type jpg, located in the `UI/wwwroot/images/recipe-images` folder. You must rename the file to match the convention below.
+When I provide a **photo** of a recipe (and/or a **URL**):
+1. **Extract** title, times, servings, ingredients, steps, notes, source.
+2. **Create** the recipe JSON with the next Id (or the Id I specify).
+3. **Update** `index.json`.
+4. **Rename** the dish photo `{Id}.jpg` → `{Id}. {Title}.jpg` when present.
+
+Prefer Agent mode. Aim for **few tool rounds**. Parallelize independent reads; then write.
+
+## Accuracy policy
+| Field | Bar |
+|-------|-----|
+| Title, quantities, units, steps, times, servings, ingredient groups | Match the source closely |
+| Instructions | Faithful Danish HTML (`<p>`, optional `<h2>`/`<h3>`) |
+| Keywords | Normalized tags; match style of recent recipes |
+| Source | Exact site/book if known; else infer from recent same-book conversions |
+| SubHeader, Note | Faithful meaning. If text is blurry: **one** best-effort Danish paraphrase is OK |
+
+Do **not** spend extra turns perfecting SubHeader wording, punctuation, or OCR.
+
+## Do not
+- Install or run OCR (tesseract, EasyOCR, Windows OCR, etc.)
+- Enhance/crop images for re-reading unless the first vision pass cannot read **ingredients or steps**
+- Web-search the book/recipe unless Source cannot be inferred
+- Read more than **one** example recipe unless the JSON shape is unclear
+- Re-open Ask mode mid-task or explore the whole recipes folder
+- Re-convert or edit unrelated recipes
 
 ## Language
-- Recipe text in JSON must be in **Danish** (titles may follow the source, e.g. English book titles, when that fits better).
-- If the source is in English/German, **translate** into natural Danish.
+- Recipe JSON text in **Danish** (titles may follow the source when that fits).
+- Translate EN/DE sources into natural Danish.
+
 ## Filenames and paths
 | What | Path / pattern |
 |------|----------------|
-| Recipe JSON | `UI/wwwroot/recipes/{Id}. {Title}.json` (space after the dot, same as existing files) |
+| Recipe JSON | `UI/wwwroot/recipes/{Id}. {Title}.json` (space after the dot) |
 | Image | `UI/wwwroot/images/recipe-images/{Id}. {Title}.jpg` |
 | Index | `UI/wwwroot/recipes/index.json` |
-- **ImageUrl** in JSON must be **relative with no leading `/`**, e.g. `images/recipe-images/155. Chillied Beef with Chocolate.jpg`.
-- If there is **no** image: set `"ImageUrl": null` and **do not** rename any `*.jpg`.
-## JSON structure (must match `UI/Models/Models.cs`)
-`Recipe` has:
-- `Id` (int)
-- `Title` (string)
-- `SubHeader` (string or `null`)
-- `TotalMinutes` (int or `null`) – total time if known
-- `MinutesOfPreparation` (int or `null`)
-- `NumberOfPersons` (int or `null`)
-- `RecipeGroups` – list of `{ "Title": "...", "Ingredients": [ ... ] }`
-- `Instructions` – **HTML string** in one or more `<p>`, optionally `<h2>` / `<h3>` for sections (the app uses `MarkupString`)
-- `Note` (string – can be `""` if nothing)
-- `ImageUrl` (string or `null`)
-- `Source` (string or `null`) – e.g. website or book title
-- `Keywords` – list of strings
-`Ingredient`:
-- `Quantity` – number or `null` (use a dot as decimal separator in JSON, e.g. `0.5`)
-- `Unit` – string or `null` (e.g. `"g"`, `"spsk"`, `"dl"`, `"fed"`)
-- `Name` – ingredient name
-- `PreparationNote` – string or `null` (prep / comment)
-Use **valid JSON** (escape quotes in HTML where needed).
+
+- `ImageUrl`: relative, **no** leading `/`, e.g. `images/recipe-images/155. Chillied Beef with Chocolate.jpg`
+- No dish image: `"ImageUrl": null` — do **not** rename any `*.jpg`
+- Book-page photos in chat are for extraction only; the file to rename is `{Id}.jpg` in `recipe-images` (the food photo), not the chat attachment
+
+## JSON structure (match `UI/Models/Models.cs`)
+`Recipe`: `Id`, `Title`, `SubHeader`, `TotalMinutes`, `MinutesOfPreparation`, `NumberOfPersons`, `RecipeGroups`, `Instructions` (HTML string), `Note`, `ImageUrl`, `Source`, `Keywords`
+
+`Ingredient`: `Quantity` (number/`null`, dot decimals), `Unit`, `Name`, `PreparationNote`
+
+Valid JSON only; escape quotes in HTML as needed.
+
+## Project conventions (Loui & Bearnaisen and similar)
+- Footer like **Gryde** / **Pande** / **Fad** + FAQ box → `Source`: `"Loui & Bearnaisen"` (unless another source is clear)
+- FAQ Q&A → `Note`: questions/answers separated by blank lines (`\n\n`)
+- `TotalMinutes` = prep + cook when both are given
+- Ranges (`2–3 spsk`) → mid quantity (e.g. `2.5`) + original range in `PreparationNote`
+- Extra groups (**Topping**, **Servering**, etc.) → separate `RecipeGroups` entries
+- Multi-page photos → one JSON merging all groups and instruction `<p>`s
+- Keywords: short Danish tags (cuisine, protein, method, dish type) like recent index entries
+
 ## index.json
-Append **one** object to the array (before the closing `]`), using the same shape as existing entries:
+Append one object before `]`:
 ```json
 {
   "Id": <same as recipe>,
   "Title": "<same as recipe Title>",
-  "Keywords": [ "...", "..." ],
+  "Keywords": [ "..." ],
   "TotalMinutes": <same as recipe TotalMinutes or null>
 }
 ```
-

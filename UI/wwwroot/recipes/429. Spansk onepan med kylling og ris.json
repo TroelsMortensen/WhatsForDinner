@@ -1,0 +1,50 @@
+{
+    "Id": 429,
+    "Title": "Spansk onepan med kylling og ris",
+    "SubHeader": "Onepan-retter er det bedste – både for dig og din opvaskebalje. Denne spanske one-pan med kylling, peberfrugt og ris er krydret, fyldig og i øvrigt lækker. Den er også en af de mere geniale måder at bruge chorizo på, hvis du spørger os. Men chorizoen kan også udelades, hvis du ikke er til den.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "kyllingebryster", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "røde peberfrugter", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 100, "Unit": "g", "Name": "chorizo", "PreparationNote": "kan udelades" },
+                { "Quantity": 1, "Unit": "dåse", "Name": "hakkede tomater", "PreparationNote": "400 g" },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "frisk persille", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 2.5, "Unit": "dl", "Name": "creme fraiche", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "citron", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Bland alle krydderierne i en skål, og del blandingen i to. Bland den ene halvdel med 4 spsk. olie. Vend kyllingebrysterne i krydderiblandingen, og lad dem stå, mens du gør grøntsager og chorizo klar.</p><p>Hak løg og hvidløg fint. Skær peberfrugterne i mellemstore tern. Skyl risen i koldt vand. Fjern skindet fra chorizoen, og skær den i skiver.</p><p>Varm 2 spsk. olie op i panden, og kom chorizoskiverne i. Steg dem ved middelvarme i 3 minutter, til de har taget lidt farve – de må ikke blive sprøde/mørke. Tag dem op, og læg dem til side på en tallerken.</p><p>Efterlad 2–3 spsk. fedt i panden (tilsæt mere olie, hvis panden er tør), og kom kyllingebrysterne i. Brun dem godt, 3 minutter på hver side. De skal ikke være gennemstegte, da de skal færdigtilberedes med risen, men de skal have en god skorpe. Tag kyllingebrysterne op, og læg dem til side på en tallerken.</p><p>Kom 2 spsk. olie i panden, og svits løg og hvidløg i 1–2 minutter, til løgene er klare – de skal ikke tage farve. Kom peberfrugttern i panden, tilsæt den anden halvdel af krydderiblandingen, og svits i 20 sekunder.</p><p>Kom ris, hakkede tomater, vand og bouillonterning i panden, og krydr med salt og peber. Kog det hele op, og kom chorizoskiverne og kyllingebrysterne i panden.</p><p>Læg låg på (eller dæk panden helt til med et dobbelt stykke alufolie), skru ned til svag varme, og lad det småkoge i 15 minutter.</p><p>Tag panden af varmen, og lad retten trække med låg på i 10 minutter, til væsken er absorberet. Tag låget af, og brug en gaffel til at løsne risene lidt.</p><p>Drys med friskhakket persille, og server med creme fraiche og citronskiver til.</p>",
+    "Note": "Skal det være røde peberfrugter?\nRøde peberfrugter giver lækker sødme til retten, men du kan sagtens bruge både gule og orange peberfrugter. Den grønne peberfrugt bliver for bitter.\n\nKan jeg bruge kyllingestykker med skind og ben?\nNej, kylling på ben når ikke at blive tilberedt. Men udbenede kyllingelår smager forrygende i retten, hvis du kan finde dem i køledisken.\n\nHvor krydret er retten?\nRetten er medium krydret. Du kan gøre den mere krydret ved at øge mængden af krydderier – eller gøre den mildere ved at halvere mængden. Chiliflager kan variere i styrke, så er du i tvivl, så udelad dem, og brug blot chilipulver.",
+    "ImageUrl": "images/recipe-images/429. Spansk onepan med kylling og ris.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Spansk", "Onepan", "Kylling", "Ris", "Chorizo", "Peberfrugt", "Pande", "Hverdagsmad", "Hovedret"]
+}

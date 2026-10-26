@@ -1,0 +1,56 @@
+{
+    "Id": 419,
+    "Title": "Asiatisk kålsalat med sesamkylling",
+    "SubHeader": "Sprød, knasende, blød, syrlig, sød, stærk, salt, bitter, frisk – en salat der svøber sig i alle de gode gloser.",
+    "TotalMinutes": 65,
+    "MinutesOfPreparation": 40,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Salat",
+            "Ingredients": [
+                { "Quantity": 4, "Unit": "stk", "Name": "kyllingebryster", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerødder", "PreparationNote": "ca. 150 g" },
+                { "Quantity": 150, "Unit": "g", "Name": "sukkerærter", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 300, "Unit": "g", "Name": "kålmix", "PreparationNote": "gulerødder, hvidkål, rødkål, grønkål" }
+            ]
+        },
+        {
+            "Title": "Marinade",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "frisk ingefær", "PreparationNote": "3-4 cm" },
+                { "Quantity": 5, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "neutral olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "limesaft", "PreparationNote": "2-3 spsk" },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sesamfrø", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Dressing",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "neutral olie", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "honning", "PreparationNote": "1-2 tsk" },
+                { "Quantity": 2.5, "Unit": "spsk", "Name": "limesaft", "PreparationNote": "2-3 spsk" },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": "valgfrit" }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 100, "Unit": "g", "Name": "cashewnødder eller peanuts", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "frisk koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Hak hvidløget fint, og riv ingefæren fint. Kom hvidløg, ingefær, soja, olie, brun farin, saft af ½-1 lime, chiliflager og sesamfrø i en stor skål, og pisk det sammen. Smag marinaden til.</p><p>Kom kyllingebrysterne i skålen med marinaden, vend dem godt rundt, og stil skålen i køleskabet i 30 minutter (eller op til 12 timer).</p><p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Tag kyllingebrysterne ud, og læg dem i et fad. Hæld resten af marinaden over kyllingen, og sæt fadet i ovnen i 20-30 minutter afhængigt af kyllingebrysternes tykkelse.</p><p>Tag dem ud, og lad dem trække i 10 minutter, imens du laver salaten og dressingen.</p><p>Skær gulerødder i fine stave og sukkerærter i fine strimler. Snit forårsløgene fint. Bland gulerødder, sukkerærter og kålmix sammen, og fordel det hele på et stort fad.</p><p>Pres hvidløget i en hvidløgspresser, eller riv det fint. Kom hvidløg, olie, soja, honning, saft af ½-1 lime og evt. chiliflager i en skål, og pisk det sammen. Smag dressingen til.</p><p>Fordel dressingen ud over salaten, og vend den godt rundt. Skær kyllingebrysterne i skiver, og læg dem oven på salaten. Drys med cashewnødder og friskhakket koriander.</p>",
+    "Note": "Skal det være ekstra nemt, kan du bruge rester fra lørdagskyllingen (eller rotisserikylling). Skær den i grove strimler, og vend den i salaten. Bland gerne 1 tsk. sesamolie i dressingen, så du får sesamsmagen med.\n\nVegetarisk: Udskift kylling med kogte, afkølede nudler (almindelige eller risnudler). Vend nudlerne med salat og dressing, og top med 2 spsk. ristede sesamfrø.\n\nCremet dressing: 1-2 spsk. peanutbutter i dressingen smager forrygende.\n\nMangler du kålmix: Snit dine favoritkål fint med kniv eller på mandolinjern – især spidskål (grøn og lilla) er et hit her.",
+    "ImageUrl": "images/recipe-images/419. Asiatisk kålsalat med sesamkylling.jpg",
+    "Source": null,
+    "Keywords": ["Asiatisk", "Kylling", "Salat", "Sesam", "Hverdagsmad"]
+}

@@ -1,0 +1,51 @@
+{
+    "Id": 426,
+    "Title": "Cubansk mojo-kylling med kartofler og avocadocreme",
+    "SubHeader": "Appelsiner er perfekte i en omgang mojo (udtalt \"MOH-hoh\") – en traditionel citrusmarinade i det cubanske køkken, som gør kyllingen ekstra saftig. Stik til Cuba med kartofler, gulerødder og cremet avocadocreme på siden.",
+    "TotalMinutes": 65,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "appelsiner", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "honning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret oregano", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "stk", "Name": "kyllingeoverlår og -underlår", "PreparationNote": "6–8 stk. med ben og skind" },
+                { "Quantity": 500, "Unit": "g", "Name": "kartofler", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "gulerødder", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Avocadocreme",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "avocadoer", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "jalapeno", "PreparationNote": "uden kerner (kan udskiftes med ¼ tsk. chiliflager eller 1 spsk. syltet jalapeno)" },
+                { "Quantity": 1, "Unit": "dl", "Name": "frisk koriander eller bredbladet persille", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": "saften" },
+                { "Quantity": 2, "Unit": "dl", "Name": "græsk yoghurt", "PreparationNote": "2% eller 10%" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "appelsin", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk koriander eller persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Pres hvidløget, eller hak det fint. Bland det med 4 spsk. olie, saften fra 1 appelsin, saften fra 1 lime, honning, spidskommen, oregano, chiliflager, salt og peber i en skål.</p><p>Kom kyllingestykkerne i skålen, og bland dem godt med marinaden. Har du tid, så lad det gerne marinere i 30 minutter.</p><p>Skær kartoflerne i både, og skær gulerødderne i grove stykker. Skær 1 appelsin i tynde skiver. Fordel kartofler og gulerødder i en bradepande. Vend dem med de resterende 2 spsk. olie, salt og peber.</p><p>Lav lidt plads mellem grøntsagerne, og læg kyllingestykkerne i bradepanden. Hæld den resterende marinade ud over kyllingen. Læg appelsinskiverne på toppen af fyldet i bradepanden.</p><p>Sæt bradepanden i ovnen, og bag det hele i ca. 45 minutter, eller indtil kyllingen er tilberedt og grøntsagerne møre.</p><p>Kom alle ingredienserne til avocadocremen i en blender eller minihakker, og blend, til cremen har den ønskede konsistens – skrab ned langs siderne efter behov. Smag til med salt, peber og eventuelt lidt mere limesaft.</p><p>Tag bradepanden ud, og pres saft fra ½ appelsin og 1 lime udover. Drys med friskhakket koriander, og server med avocadocreme til.</p>",
+    "Note": "Kan kartofler udskiftes med søde kartofler? Det ville være lækkert! Dog skal de have noget kortere tid end almindelige kartofler, så bag først kylling i 15 minutter, og bag de søde kartofler (i både) og gulerødder med de sidste 30 minutter.\n\nHvilken konsistens skal avocadocremen have? Jeg kan godt lide, den er lidt grov med stykker af avocado, men du kan også blende den helt glat.\n\nKan jeg forberede retten på forhånd? Jep, marinér kyllingen, og skær grøntsagerne ud, og kom begge dele i køleskabet, så skal det bare samles og bages, når det er tid til aftensmad.",
+    "ImageUrl": "images/recipe-images/426. Cubansk mojo-kylling med kartofler og avocadocreme.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Cubansk", "Mojo", "Kylling", "Kartofler", "Avocado", "Ovn", "Bradepande", "Hverdagsmad", "Hovedret"]
+}
