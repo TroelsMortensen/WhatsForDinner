@@ -1,0 +1,53 @@
+{
+    "Id": 442,
+    "Title": "Tunesisk gryde med kylling og couscous",
+    "SubHeader": "Oprindeligt tænkt med lam, men kylling er nemmere i hverdagen – og gryden er stadig fyldt med smag. Krydderier, abrikoser og bulgur gør den både sødmefuld og mættende.",
+    "TotalMinutes": 40,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "gulerødder", "PreparationNote": "350 g" },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3.5, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "3–4 cm" },
+                { "Quantity": 100, "Unit": "g", "Name": "tørrede abrikoser", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 0.75, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": "½–1 tsk" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "kanel", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dåse", "Name": "cherrytomater med tomatjuice", "PreparationNote": "400 g" },
+                { "Quantity": 4, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk persille, mynte eller koriander", "PreparationNote": null },
+                { "Quantity": 30, "Unit": "g", "Name": "mandelsplitter", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 2.5, "Unit": "dl", "Name": "yoghurt eller creme fraiche", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "fladbrød", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Skær kyllingen i tern på ca. 2 cm. Skær løg i både og gulerødder i skiver på ca. 1 cm. Hak hvidløg fint, og riv ingefæren fint (ca. 1 spsk). Skær abrikoserne i strimler. Kom bulgur i et sigte, og skyl den i koldt vand.</p><p>Kom 2 spsk olie i en stor gryde, og svits kyllingen ved høj varme i 2–3 minutter. Krydr med salt og peber undervejs. Kyllingen skal ikke være gennemstegt, blot brunet på alle sider.</p><p>Tag kyllingestykkerne op af gryden, læg dem til side på en tallerken, og kom de resterende 2 spsk olie i gryden.</p><p>Kom løg og gulerødder i gryden, og svits dem i 2–3 minutter ved medium varme. Tilsæt hvidløg, ingefær og alle krydderierne, og svits det hele i 1 minut.</p><p>Hæld cherrytomater med juice og vand i gryden. Tilsæt abrikoser og hønsebouillonterning, og bring det hele i kog.</p><p>Tilsæt bulgur og kylling, og rør i gryden, så bulguren er jævnt fordelt. Skru ned til svag varme, og lad retten simre under låg i 10–15 minutter. Rør undervejs, så bulguren ikke brænder fast i bunden af gryden.</p><p>Tilsæt ½–1 dl kogende vand, hvis retten bliver for tør. Der kan være forskel på, hvor meget vand bulgur suger, så hold øje undervejs.</p><p>Smag til med salt og peber. Fordel den tunesiske gryderet på et stort fad, og drys med hakkede krydderurter og mandler. Server med yoghurt og fladbrød til.</p>",
+    "Note": "Kan retten laves vegetarisk?\nIntet problem. Tag kyllingen ud, og snup en dåse kikærter i stedet. Dræn og skyl dem godt, og svits dem sammen med løg og gulerødder. Hvis du bare gerne vil have endnu mere mæthed, dur det også ret godt med både kikærter og kylling i retten.\n\nKan jeg bruge andet end cherrytomater med tomatjuice?\nSnup en dåse flåede tomater, og tilsæt eventuelt 1 tsk. sukker, hvis de er meget syrlige.\n\nHvad, hvis abrikoser ikke lige er mig?\nUdskift med tørrede dadler, figner eller rosiner. Eller er du mere til frisk frugt? Så dur æbletern også ret godt.",
+    "ImageUrl": "images/recipe-images/442. Tunesisk gryde med kylling og couscous.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Tunesisk", "Gryde", "Kylling", "Bulgur", "Couscous", "Abrikoser", "Onepan", "One Pot", "Nordafrikansk", "Hverdagsmad", "Hovedret"]
+}

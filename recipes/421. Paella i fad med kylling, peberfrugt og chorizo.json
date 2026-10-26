@@ -1,0 +1,41 @@
+{
+    "Id": 421,
+    "Title": "Paella i fad med kylling, peberfrugt og chorizo",
+    "SubHeader": "Når du laver paella i fad, bliver det til en afslappet, rustik ret, som du kan sætte midt på bordet. Det er nemt, og der er minimal opvask. En rigtig win-win.",
+    "TotalMinutes": 55,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "røde peberfrugter", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "chorizo", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "stk", "Name": "kyllingeoverlår og -underlår", "PreparationNote": "6–8 stk, med skind og ben" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "røget paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 240, "Unit": "g", "Name": "risottoris", "PreparationNote": null },
+                { "Quantity": 7.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "frosne grønne ærter", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk persille", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "citron", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm ovnen til 200 grader (alm. ovn) eller 180 grader (varmluft).</p><p>Hak løget i tern, og hak hvidløgene fint. Skær peberfrugterne i store tern. Fjern skindet fra chorizoen, og skær den i skiver.</p><p>Læg løg, hvidløg, peberfrugt og chorizo i et ovnfast fad.</p><p>Vend kyllingestykkerne med 2 spsk. olie, paprika, røget paprika, salt og peber i en skål, og læg dem i fadet. Bag i 15 minutter.</p><p>Skyl risen i koldt vand. Tag fadet ud af ovnen, og tilsæt vand, smuldrede bouillonterninger, gurkemeje og ris.</p><p>Bag i ca. 30 minutter, til kyllingen er gennemstegt, og risen er mør (al dente). Hold øje med risen; tilsæt ½–1 dl kogende vand, hvis den suger for meget væske.</p><p>Drys ærterne ud over fadet 2 minutter før retten er færdig, så de bliver varmet igennem.</p><p>Tag fadet ud af ovnen, drys med friskhakket persille, og servér med citronbåde.</p>",
+    "Note": "",
+    "ImageUrl": "images/recipe-images/421. Paella i fad med kylling, peberfrugt og chorizo.jpg",
+    "Source": null,
+    "Keywords": ["Spansk", "Paella", "Kylling", "Chorizo", "Peberfrugt", "Ris", "Ovnfad", "Hverdagsmad", "Hovedret"]
+}

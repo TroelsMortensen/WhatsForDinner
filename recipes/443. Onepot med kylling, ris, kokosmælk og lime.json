@@ -1,0 +1,43 @@
+{
+    "Id": 443,
+    "Title": "Onepot med kylling, ris, kokosmælk og lime",
+    "SubHeader": "Der er de små irritationer i hverdagen – indkøbskurvene, der altid er for små, og kokosmælken, der skiller i dåsen. Til gengæld er der den her gryde: kylling, ris, kokosmælk og lime. Det er den slags mad, der får det hele til at være det værd.",
+    "TotalMinutes": 60,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3.5, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "3–4 cm" },
+                { "Quantity": 250, "Unit": "g", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "stk", "Name": "kyllingeoverlår og -underlår med ben og skind", "PreparationNote": "6–8 stk" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "gurkemeje", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "limesaft", "PreparationNote": "ca. 1½ lime" },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "revet limeskal", "PreparationNote": "ca. 1 lime" },
+                { "Quantity": 1, "Unit": "ds", "Name": "kokosmælk", "PreparationNote": "400 ml" },
+                { "Quantity": 4, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "frosne grønne bønner", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk koriander eller persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Hak løg og hvidløg fint, og riv ingefæren fint. Skyl risene i en sigte i koldt vand.</p><p>Varm olien op i en ovnfast gryde, og brun kyllingestykkerne godt på alle sider – 6–8 minutter. Krydr dem med salt og peber. Tag dem op af gryden, og læg dem til side på en tallerken.</p><p>Kom løg og hvidløg i gryden, og svits i ca. 2 minutter, til løgene er klare – de skal ikke tage farve, blot blive klare. Tilsæt revet ingefær, gurkemeje og chiliflager, og svits det hele i 20 sekunder.</p><p>Kom ris, limesaft, limeskal, kokosmælk, vand, bouillonterning og salt i gryden. Rør i gryden, og kog det hele op. Læg de brunede kyllingestykker med skindsiden opad i gryden.</p><p>Læg låg på gryden, og sæt den i ovnen i ca. 25 minutter. Tjek, om risene er møre – hvis de stadig er hårde, så tilsæt ½–1 dl ekstra kogende vand, og giv retten 5–10 minutter mere.</p><p>Tag låget af gryden, fordel bønnerne på toppen, og bag retten i yderligere 5–7 minutter, til bønnerne er møre og væsken næsten absorberet – retten skal være lidt cremet.</p><p>Tag gryden ud, og brug en gaffel til at løsne risene lidt. Top retten med fintsnittede forårsløg og friskhakket koriander eller persille.</p>",
+    "Note": "Kan jeg bruge en pande i stedet?\nJa, retten er lige så genial at lave i pande med låg som i en gryde.\n\nHvad, hvis jeg ikke er vild med grønne bønner?\nBrug frosne ærter i stedet, eller top retten med friske sukkerærter, når du serverer. Sukkerærter er faktisk også geniale sammen med de grønne bønner for ekstra knas og friskhed.\n\nVil kyllingebryst kunne fungere?\nJa, i en snæver vending, men du mister noget smag fra kyllingen med ben og skind. Bruger du kyllingebryster, så vælg gerne nogle ret tykke, så de ikke bliver tørre.",
+    "ImageUrl": "images/recipe-images/443. Onepot med kylling, ris, kokosmælk og lime.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Onepot", "One Pot", "Gryde", "Kylling", "Ris", "Kokosmælk", "Lime", "Asiatisk", "Hverdagsmad", "Hovedret"]
+}

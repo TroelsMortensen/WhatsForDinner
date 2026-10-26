@@ -1,0 +1,49 @@
+{
+    "Id": 435,
+    "Title": "Indisk risret med oksekød",
+    "SubHeader": "En nem måde at få et skud glitter, glam og Bollywood på en hverdag. Vi har et ambivalent forhold til rosiner, og derfor er de også valgfrie i denne opskrift.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerødder", "PreparationNote": "175 g" },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 250, "Unit": "g", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "karry", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 6.75, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "oksebouillonterninger", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "rosiner", "PreparationNote": "valgfri" },
+                { "Quantity": 150, "Unit": "g", "Name": "frosne ærter", "PreparationNote": "3 dl" }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk persille eller koriander", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 2.5, "Unit": "dl", "Name": "creme fraiche", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "glas", "Name": "mangochutney", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "naanbrød", "PreparationNote": "4–8 stk." }
+            ]
+        }
+    ],
+    "Instructions": "<p>Skær løg, gulerødder og peberfrugt i fine tern. Læg risen i et sigte, og skyl den i koldt vand.</p><p>Varm olien op i en gryde, tilsæt det hakkede oksekød, og brun det godt af. Smag til med salt og peber.</p><p>Tilsæt løg, gulerødder og peberfrugt, og svits i 1 minut – de skal ikke tage farve. Tilsæt karry, gurkemeje, spidskommen og koriander, og svits det hele i 30 sekunder.</p><p>Tilsæt ris, vand, bouillonterninger og rosiner, og rør i gryden, så risene er jævnt fordelt. Kog det hele op. Skru ned til lav varme, og lad retten simre under låg i ca. 12 minutter, eller indtil risene er kogt, og væsken er næsten absorberet. Undgå at løfte låget i de første 8 minutter, så dampen bliver i gryden. Hvis risene suger meget væske, kan du tilsætte ½–1 dl kogende vand lidt ad gangen.</p><p>Tag gryden af varmen, bland ærterne i, og lad gryden trække med låg i 5 minutter, til den sidste væske er absorberet, og risene er helt møre. Smag til med salt og peber.</p><p>Top med friskhakket persille, og server med creme fraiche, mangochutney og naanbrød til.</p>",
+    "Note": "Kan det være andet end hakket oksekød?\nJa, hakket kylling fungerer også rigtig godt. Jeg vil dog anbefale, at du bruger en hønsebouillonterning, hvis du går med kyllingen.\n\nKan det blive lækkert med endnu flere grøntsager?\nJa, det er en god måde at tømme grøntsagsskuffen på. Bare husk at skrue op for krydderierne, for grøntsager suger smag.\n\nHar du andre ideer end rosiner?\nHvis du ikke er til rosiner, men stadig gerne vil have sødme, kan du bruge tørrede abrikoser, friske æblestykker eller mango.",
+    "ImageUrl": "images/recipe-images/435. Indisk risret med oksekød.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Indisk", "Gryde", "Onepan", "Oksekød", "Ris", "Karry", "Hverdagsmad", "Hovedret"]
+}

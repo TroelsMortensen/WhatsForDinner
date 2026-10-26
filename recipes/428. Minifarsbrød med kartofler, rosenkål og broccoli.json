@@ -1,0 +1,48 @@
+{
+    "Id": 428,
+    "Title": "Minifarsbrød med kartofler, rosenkål og broccoli",
+    "SubHeader": "Ind på Spotify, søg efter Meat Loaf, tryk play på I'd Do Anything for Love, og så har du soundtracket til den her opskrift. Du ved, både meatloaf (høhø) og sangen. For hvad mener han egentlig med \"I would do anything for love, but I won't do that\"? Kunne det være de rosenkål? Måske har du også en bedre halvdel, som er skeptisk, hvis du sætter en bradepande med rigelig rosenkål på bordet. Intet problem, så dobler du bare op på broccoli i stedet.",
+    "TotalMinutes": 65,
+    "MinutesOfPreparation": 20,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 650, "Unit": "g", "Name": "små kartofler", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 350, "Unit": "g", "Name": "rosenkål", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "broccoli", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Farsbrød",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "hakket svinekød", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "æg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "mælk", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "dl", "Name": "rasp", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "tørret timian", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "BBQ-sauce",
+            "Ingredients": [
+                { "Quantity": 8, "Unit": "spsk", "Name": "ketchup", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "brun farin", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "tsk", "Name": "worcestershiresauce", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Hak eller riv løg og hvidløg fint, og kom det i en skål. Tilsæt svinekød, æg, mælk, rasp, timian, paprika, salt og peber, og bland farsen godt sammen. Sæt farsen i køleskabet, og lad den hvile mens du laver kartoflerne.</p><p>Halver kartoflerne, og fordel dem på en bradepande. Bland dem med 2 spsk. olie, salt og peber. Sæt bradepanden i ovnen i 15 minutter.</p><p>Skær bunden af rosenkålene, fjern yderbladene, og halver dem. Del broccolien i mellemstore buketter. Vend grøntsagerne med 2 spsk. olie, salt og peber.</p><p>Bland ketchup, farin, worcestershiresauce og chiliflager sammen til en BBQ-sauce, og smag den til. Mængden kan fordobles, hvis du ønsker ekstra til servering.</p><p>Tag bradepanden ud, og skub kartoflerne lidt til side, så der er plads til farsbrødene. Form/læg med en ske 6–8 små rustikke farsbrød på bradepanden. De skal ikke trykkes for meget sammen. Kom BBQ-saucen på toppen af farsbrødene med en ske.</p><p>Fordel rosenkål og broccoli rundt om og mellem kartoflerne.</p><p>Sæt bradepanden tilbage i ovnen i 25–30 minutter, eller indtil farsbrødene er bagt, og kartofler og grøntsager er møre.</p>",
+    "Note": "Hvad, hvis der allerede står en flaske BBQ-sauce i køleskabet? Hiv den ud, tjek datoen, og brug den, hvis den er fin.\n\nKan jeg lave ét stort farsbrød i stedet? Det kan du sagtens. Kom det i ovnen sammen med kartoflerne, så det får 45 minutter. Vent stadig med at komme rosenkål og broccoli ved indtil de sidste 25 minutter.\n\nRosenkål, kan vi gøre noget andet? Ud med rosenkålen og dobbelt op på broccoli.",
+    "ImageUrl": "images/recipe-images/428. Minifarsbrød med kartofler, rosenkål og broccoli.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Farsbrød", "Svinekød", "Kartofler", "Rosenkål", "Broccoli", "BBQ", "Ovn", "Bradepande", "Hverdagsmad", "Hovedret"]
+}

@@ -1,0 +1,46 @@
+{
+    "Id": 441,
+    "Title": "Afrikansk gryde med kylling, søde kartofler og peanuts",
+    "SubHeader": "15 minutters arbejde, 25 minutters hyggen under låg, og du er for en stund landet i Afrika. Løven daser på savannen, næsehornet lurer på dig bag busken, og giraffen guffer et halvt træ. Du sidder ved bålet i fuldt safari-outfit, selvfølgelig. Med skålen fuld af afrikansk gryde og en røverhistorie gemt i ærmet. Jeg siger det bare, stemningen er i top med den her grydefuld.",
+    "TotalMinutes": 45,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 600, "Unit": "g", "Name": "søde kartofler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": null },
+                { "Quantity": 5, "Unit": "dl", "Name": "vand", "PreparationNote": "½ liter" },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 175, "Unit": "g", "Name": "cremet peanutbutter", "PreparationNote": "ca. 10 spsk." },
+                { "Quantity": 1, "Unit": "ds", "Name": "flåede tomater", "PreparationNote": "400 g" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 200, "Unit": "g", "Name": "saltede peanuts", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk persille eller koriander", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "fladbrød eller ris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Skær kylling i tern på 2 cm. Skær de søde kartofler i tern på 3 cm. Hak løg og hvidløg fint, og riv ingefæren.</p><p>Varm olien i en stor gryde, tilsæt kyllingetern, og brun dem i 2–3 minutter, så de får farve. De behøver ikke at være gennemstegt, da de tilbereder videre i gryden.</p><p>Kom løg og hvidløg i gryden, og svits ved medium varme i ca. 1 minut – de skal ikke tage for meget farve.</p><p>Tilsæt søde kartofler, ingefær, stødt koriander og chilipulver. Svits krydderierne med i 30 sekunder. Kom vand, hønsebouillonterning, peanutbutter og flåede tomater i gryden.</p><p>Kog det hele op. Skru derefter ned til lav varme, og lad det hele simre under låg i ca. 25 minutter, til de søde kartofler er møre. Rør et par gange undervejs, så det ikke brænder fast i bunden.</p><p>Hak de saltede peanuts groft, og kom halvdelen i retten. Kog det hele igennem i 1 minut, og smag til med salt og peber.</p><p>Top gryden med hakkede peanuts og friskhakket persille eller koriander. Server med fladbrød eller ris til.</p>",
+    "Note": null,
+    "ImageUrl": "images/recipe-images/441. Afrikansk gryde med kylling, søde kartofler og peanuts.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Afrikansk", "Gryde", "Kylling", "Søde kartofler", "Peanuts", "Peanutbutter", "Tomat", "Hverdagsmad", "Hovedret"]
+}

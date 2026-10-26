@@ -1,0 +1,41 @@
+{
+    "Id": 433,
+    "Title": "Kylling og kartofler i spinat-parmesan-sauce",
+    "SubHeader": "Jeg garanterer dig, den er nem, den her. Alt godt i én pande med kylling, kartofler og drøngod parmesansauce. 40 minutter, og der er serveret. Gider du ikke pilleriet med ben og skind, så hiv kyllingebryst op af fryseren. Jo, der er mere smag i kylling på ben, men på en ganske almindelig torsdag fungerer den benløse plan fint i panden.",
+    "TotalMinutes": 55,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 0.5, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 650, "Unit": "g", "Name": "små kartofler", "PreparationNote": null },
+                { "Quantity": 10, "Unit": "stk", "Name": "cocktailtomater", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 7, "Unit": "stk", "Name": "kyllingelår", "PreparationNote": "6–8 stk. under- eller overlår med skind og ben" },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "spsk", "Name": "herbes de Provence", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "madlavningsfløde", "PreparationNote": "15 %" },
+                { "Quantity": 70, "Unit": "g", "Name": "parmesan", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "babyspinat", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "brød", "PreparationNote": "evt. hvidløgsbrød" }
+            ]
+        }
+    ],
+    "Instructions": "<p>Hak løg og hvidløg fint. Halver kartoflerne (eller skær dem i kvarte, hvis de er større). Halver tomaterne.</p><p>Kom 2 spsk. olie i en stor, dyb pande, og brun kyllingestykkerne på alle sider – 6–7 minutter. Krydr med salt og peber. Tag kyllingestykkerne af panden igen, og læg dem på en tallerken.</p><p>Kom 2 spsk. olie i panden, og kom hvidløg, løg, paprika, herbes de Provence og chiliflager på, og svits det hele i 1 minut. Tilsæt kartoflerne, og svits 2–3 minutter. Kom tomater i panden, og varm det i yderligere 1 minut.</p><p>Hæld vand og smuldret bouillonterning i panden, skru ned til jævn varme, og kom kyllingestykkerne tilbage i panden. Lad retten simre under låg ved lav varme i ca. 35 minutter, til kyllingen og kartoflerne er møre.</p><p>Har du ikke et låg, kan du i stedet dække panden med alufolie eller sætte den i ovnen ved 200 grader (180 grader varmluft) i 30 minutter – så skal du ikke bruge låg eller alufolie.</p><p>Når kartofler og kylling er tilberedt, tilsættes madlavningsfløde, revet parmesan og babyspinat. Varm det hele igennem i 2 minutter, smag til med salt og peber, og server med brød til.</p>",
+    "Note": "Kan frisk spinat udskiftes med frossen spinat?\nJeps, det kan det sagtens. Vælg en frossen spinat, som ikke er hakket. Jeg ville komme 100–150 g frossen spinat i retten.\n\nHvad, hvis jeg ikke kan finde herbes de Provence?\nDu kan bruge 1 tsk. tørret timian, 1 tsk. tørret rosmarin og 1 tsk. tørret oregano i stedet.\n\nKan retten laves mere fedtfattig?\nDu bestemmer fuldstændig, om du hellere vil bruge en endnu mere fedtfattig madlavningsfløde. Du kan også gå i den anden grøft med fuldfed piskefløde for ekstra smag.",
+    "ImageUrl": "images/recipe-images/433. Kylling og kartofler i spinat-parmesan-sauce.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Kylling", "Kartofler", "Spinat", "Parmesan", "Fløde", "Onepan", "Pande", "Hverdagsmad", "Hovedret"]
+}

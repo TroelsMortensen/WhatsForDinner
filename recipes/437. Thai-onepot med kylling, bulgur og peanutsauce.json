@@ -1,0 +1,46 @@
+{
+    "Id": 437,
+    "Title": "Thai-onepot med kylling, bulgur og peanutsauce",
+    "SubHeader": "1, 2, 3, 4, 5 … De blev linet op på køkkenbordet, smurt med rigelig peanutbutter og toppet med den lyse pålægschokolade. Jeps, ruller af mariekiks blev hevet med hjem af min roomie i studietiden sammen med peanutbutter, og jeg er stadig forundret og endnu ikke overbevist her 15 år efter. Altså om den lidt tørre peanutbutter som topping. Til gengæld er den genial i gryderetter, så har du ikke skrabet glasset med peanutbutter og smurt den på kiks, så tag det ud af skabet, og brug det i den her cremede, krydrede thaigryde.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 600, "Unit": "g", "Name": "kyllingefilet", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 4.5, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "4–5 cm" },
+                { "Quantity": 2, "Unit": "stk", "Name": "gulerødder", "PreparationNote": "175 g" },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "stk", "Name": "broccoli", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "bulgur", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1.5, "Unit": "tsk", "Name": "rød karrypasta", "PreparationNote": "1–2 tsk. efter smag" },
+                { "Quantity": 1, "Unit": "ds", "Name": "kokosmælk", "PreparationNote": "400 ml" },
+                { "Quantity": 3, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "hønsebouillonterning", "PreparationNote": null },
+                { "Quantity": 6.5, "Unit": "spsk", "Name": "cremet peanutbutter", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "soja", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "sukker", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "frisk koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "saltede peanuts", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Skær kyllingen i tern på 3 cm. Skær løget i små tern, og hak hvidløget fint. Riv ingefæren fint. Skær gulerødder og peberfrugt i små tern, og del broccolien i små buketter. Skyl bulguren i en sigte i koldt vand.</p><p>Varm olien op i en gryde, og brun kyllingeternene godt på alle sider – 4–5 minutter. Krydr med salt og peber. Tag dem op af gryden, og læg dem til side på en tallerken.</p><p>Kom løg og hvidløg i gryden, og svits dem ved medium varme i 1–2 minutter – de skal ikke tage farve, blot blive klare. Kom gulerødder, peberfrugt og broccoli i gryden, og steg dem ved medium varme i 2 minutter.</p><p>Tilsæt ingefær og rød karrypasta (1 tsk., hvis du ikke er til stærk mad, og 2 tsk., hvis du kan lide det lidt stærkt), og svits det hele i 20 sekunder.</p><p>Tilsæt bulgur, kokosmælk, vand, bouillonterning, peanutbutter, soja og sukker. Rør grundigt, til peanutbutteren er opløst. Kog det hele op, og skru derefter ned til lav varme. Lad det simre under låg i 10–12 minutter, eller til bulguren er tilberedt. Rør nogle gange undervejs, så det ikke brænder fast – det vil peanutbutter nemlig gerne.</p><p>Tilsæt ½–1 dl kogende vand, hvis retten begynder at koge tør. Der kan være forskel på, hvor meget væske bulgur suger.</p><p>Top med friskhakket koriander, fintsnittede forårsløg og grofthakkede peanuts, og server med limebåde til.</p>",
+    "Note": "Hvor finder jeg rød karrypasta?\nDet er oftest gemt på de asiatiske hylder sammen med nudler, kokosmælk og soja.\n\n1 eller 2 tsk. karrypasta?\nDer kan være forskel på, hvor stærk rød karrypasta er, så start med 1 tsk., og spæd til, hvis du gerne vil have retten stærkere.\n\nKan jeg bruge en grov peanutbutter?\nNej, det skal være den cremede slags. Ellers får retten en grynet konsistens.",
+    "ImageUrl": "images/recipe-images/437. Thai-onepot med kylling, bulgur og peanutsauce.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Thai", "Gryde", "Onepan", "Kylling", "Bulgur", "Peanutbutter", "Kokosmælk", "Asiatisk", "Hverdagsmad", "Hovedret"]
+}

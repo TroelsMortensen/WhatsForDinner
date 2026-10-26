@@ -1,0 +1,47 @@
+{
+    "Id": 422,
+    "Title": "Butter Chicken",
+    "SubHeader": "Det er lidt snyd at kalde det her for en all-in-one-ret, for du skal stadig koge ris eller servere naanbrød til. Men den dufter så godt, at naboerne kommer forbi – og den smager endnu bedre dagen efter. Lav gerne dobbelt portion; den egner sig godt til fryseren.",
+    "TotalMinutes": 55,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 7, "Unit": "stk", "Name": "kylling med skind og ben", "PreparationNote": "6–8 stk" },
+                { "Quantity": 3, "Unit": "dl", "Name": "tomatpassata", "PreparationNote": null },
+                { "Quantity": 2.5, "Unit": "dl", "Name": "piskefløde", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Marinade",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 4.5, "Unit": "cm", "Name": "frisk ingefær", "PreparationNote": "4–5 cm" },
+                { "Quantity": 3, "Unit": "dl", "Name": "yoghurt 10 %", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt gurkemeje", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "garam masala", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "ris", "PreparationNote": "efter behov" },
+                { "Quantity": 4, "Unit": "stk", "Name": "naanbrød", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk koriander", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Fjern skindet fra kyllingestykkerne, så saucen ikke bliver for fedtet. Riv hvidløg og ingefær fint.</p><p>Kom yoghurt, hvidløg, ingefær, gurkemeje, spidskommen, koriander, paprika, garam masala, chilipulver, salt og peber i en stor skål, og rør det sammen til en marinade.</p><p>Vend kyllingestykkerne i marinaden, og lad dem trække i 10–15 minutter, hvis du har tid.</p><p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Hæld tomatpassata og piskefløde i et ovnfast fad, og pisk det godt sammen. Tag 2–3 spsk. af marinaden fra kyllingen, og rør den i tomat-flødeblandingen i fadet.</p><p>Læg de marinerede kyllingestykker i saucen, og fordel den resterende marinade over kyllingen.</p><p>Dæk fadet med sølvpapir, og sæt det i ovnen i 25 minutter. Tag fadet ud, og øs lidt af saucen over kyllingestykkerne med en ske.</p><p>Sæt fadet tilbage i ovnen, og bag videre i 15 minutter, til kyllingen er gennemstegt og let gylden på toppen.</p><p>Lad retten hvile i 5 minutter inden servering. Server med ris, naanbrød, lime og friskhakket koriander.</p>",
+    "Note": "Garam masala findes i de fleste supermarkeder – vælg gerne en fintmalet variant. Brug fuldfed yoghurt (10 %), ellers skiller saucen. Du kan bruge udbenede lår i stedet; giv dem så 25–30 minutter i ovnen afhængigt af tykkelsen.",
+    "ImageUrl": "images/recipe-images/422. Butter Chicken.jpg",
+    "Source": null,
+    "Keywords": ["Kylling", "Indisk", "Butter chicken", "Ovnfad", "Fløde", "Garam masala", "Naan", "Ris", "Hverdagsmad", "Hovedret"]
+}

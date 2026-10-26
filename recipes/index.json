@@ -4780,5 +4780,430 @@
             "Hovedret"
         ],
         "TotalMinutes": 35
+    },
+    {
+        "Id": 419,
+        "Title": "Asiatisk kålsalat med sesamkylling",
+        "Keywords": [
+            "Asiatisk",
+            "Kylling",
+            "Salat",
+            "Sesam",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 65
+    },
+    {
+        "Id": 420,
+        "Title": "Laks i grøn karry og kokosmælk",
+        "Keywords": [
+            "Laks",
+            "Fisk",
+            "Grøn karry",
+            "Kokosmælk",
+            "Thai",
+            "Ovnfad",
+            "Hurtig",
+            "Hverdagsmad",
+            "Naan"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 421,
+        "Title": "Paella i fad med kylling, peberfrugt og chorizo",
+        "Keywords": [
+            "Spansk",
+            "Paella",
+            "Kylling",
+            "Chorizo",
+            "Peberfrugt",
+            "Ris",
+            "Ovnfad",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 55
+    },
+    {
+        "Id": 422,
+        "Title": "Butter Chicken",
+        "Keywords": [
+            "Kylling",
+            "Indisk",
+            "Butter chicken",
+            "Ovnfad",
+            "Fløde",
+            "Garam masala",
+            "Naan",
+            "Ris",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 55
+    },
+    {
+        "Id": 423,
+        "Title": "Sprøde tacos med pulled tacokylling",
+        "Keywords": [
+            "Mexicansk",
+            "Tacos",
+            "Kylling",
+            "Tortilla",
+            "Ovn",
+            "Avocado",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 50
+    },
+    {
+        "Id": 424,
+        "Title": "Asiatisk kylling, grøntsager og nudler",
+        "Keywords": [
+            "Asiatisk",
+            "Kylling",
+            "Nudler",
+            "Pak choy",
+            "Ovn",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 425,
+        "Title": "Bagte, krydrede søde kartofler, blomkål og kikærter",
+        "Keywords": [
+            "Vegetar",
+            "Ovn",
+            "Blomkål",
+            "Søde kartofler",
+            "Kikærter",
+            "Bradepande",
+            "Basisopskrift",
+            "Hverdagsmad"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 426,
+        "Title": "Cubansk mojo-kylling med kartofler og avocadocreme",
+        "Keywords": [
+            "Cubansk",
+            "Mojo",
+            "Kylling",
+            "Kartofler",
+            "Avocado",
+            "Ovn",
+            "Bradepande",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 65
+    },
+    {
+        "Id": 427,
+        "Title": "Kofta i fladbrød",
+        "Keywords": [
+            "Kofta",
+            "Fladbrød",
+            "Oksekød",
+            "Kødboller",
+            "Yoghurt",
+            "Mellemøstlig",
+            "Ovn",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 428,
+        "Title": "Minifarsbrød med kartofler, rosenkål og broccoli",
+        "Keywords": [
+            "Farsbrød",
+            "Svinekød",
+            "Kartofler",
+            "Rosenkål",
+            "Broccoli",
+            "BBQ",
+            "Ovn",
+            "Bradepande",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 65
+    },
+    {
+        "Id": 429,
+        "Title": "Spansk onepan med kylling og ris",
+        "Keywords": [
+            "Spansk",
+            "Onepan",
+            "Kylling",
+            "Ris",
+            "Chorizo",
+            "Peberfrugt",
+            "Pande",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 50
+    },
+    {
+        "Id": 430,
+        "Title": "Curry med kylling, søde kartofler og kikærter",
+        "Keywords": [
+            "Curry",
+            "Kylling",
+            "Søde kartofler",
+            "Kikærter",
+            "Kokosmælk",
+            "Pande",
+            "Asiatisk",
+            "Hverdagsmad",
+            "Hovedret",
+            "Spinat"
+        ],
+        "TotalMinutes": 50
+    },
+    {
+        "Id": 431,
+        "Title": "Onepan-laks og cremet citronpasta med spinat",
+        "Keywords": [
+            "Laks",
+            "Fisk",
+            "Pasta",
+            "Onepan",
+            "Citron",
+            "Spinat",
+            "Fløde",
+            "Pande",
+            "Hurtig",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 432,
+        "Title": "Kylling og pasta i pestosauce",
+        "Keywords": [
+            "Kylling",
+            "Pasta",
+            "Pesto",
+            "Pande",
+            "Onepan",
+            "Spinat",
+            "Flødeost",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 433,
+        "Title": "Kylling og kartofler i spinat-parmesan-sauce",
+        "Keywords": [
+            "Kylling",
+            "Kartofler",
+            "Spinat",
+            "Parmesan",
+            "Fløde",
+            "Onepan",
+            "Pande",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 55
+    },
+    {
+        "Id": 434,
+        "Title": "Mexicansk gryde med ris og kylling",
+        "Keywords": [
+            "Mexicansk",
+            "Gryde",
+            "Onepan",
+            "Kylling",
+            "Ris",
+            "Kidneybønner",
+            "Avocado",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 435,
+        "Title": "Indisk risret med oksekød",
+        "Keywords": [
+            "Indisk",
+            "Gryde",
+            "Onepan",
+            "Oksekød",
+            "Ris",
+            "Karry",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 436,
+        "Title": "Onepot-moussaka",
+        "Keywords": [
+            "Græsk",
+            "Gryde",
+            "Onepan",
+            "Oksekød",
+            "Ris",
+            "Aubergine",
+            "Kikærter",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 30
+    },
+    {
+        "Id": 437,
+        "Title": "Thai-onepot med kylling, bulgur og peanutsauce",
+        "Keywords": [
+            "Thai",
+            "Gryde",
+            "Onepan",
+            "Kylling",
+            "Bulgur",
+            "Peanutbutter",
+            "Kokosmælk",
+            "Asiatisk",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 35
+    },
+    {
+        "Id": 438,
+        "Title": "Onepot-pasta med laks, asparges og ærter",
+        "Keywords": [
+            "Laks",
+            "Fisk",
+            "Pasta",
+            "Asparges",
+            "Ærter",
+            "Spinat",
+            "Gryde",
+            "Onepan",
+            "One Pot",
+            "Hurtig",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 25
+    },
+    {
+        "Id": 439,
+        "Title": "Onepot-pasta Alfredo med kylling og broccoli",
+        "Keywords": [
+            "Pasta",
+            "Alfredo",
+            "Kylling",
+            "Broccoli",
+            "Gryde",
+            "Onepan",
+            "One Pot",
+            "Parmesan",
+            "Italiensk",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 28
+    },
+    {
+        "Id": 440,
+        "Title": "Tacopasta",
+        "Keywords": [
+            "Pasta",
+            "Taco",
+            "Mexicansk",
+            "Oksekød",
+            "Gryde",
+            "Onepan",
+            "One Pot",
+            "Cheddar",
+            "Hurtig",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 25
+    },
+    {
+        "Id": 441,
+        "Title": "Afrikansk gryde med kylling, søde kartofler og peanuts",
+        "Keywords": [
+            "Afrikansk",
+            "Gryde",
+            "Kylling",
+            "Søde kartofler",
+            "Peanuts",
+            "Peanutbutter",
+            "Tomat",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 45
+    },
+    {
+        "Id": 442,
+        "Title": "Tunesisk gryde med kylling og couscous",
+        "Keywords": [
+            "Tunesisk",
+            "Gryde",
+            "Kylling",
+            "Bulgur",
+            "Couscous",
+            "Abrikoser",
+            "Onepan",
+            "One Pot",
+            "Nordafrikansk",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 40
+    },
+    {
+        "Id": 443,
+        "Title": "Onepot med kylling, ris, kokosmælk og lime",
+        "Keywords": [
+            "Onepot",
+            "One Pot",
+            "Gryde",
+            "Kylling",
+            "Ris",
+            "Kokosmælk",
+            "Lime",
+            "Asiatisk",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 60
+    },
+    {
+        "Id": 444,
+        "Title": "Marokkansk onepot med quinoa, spinat, svampe og kikærter",
+        "Keywords": [
+            "Marokkansk",
+            "Onepot",
+            "One Pot",
+            "Gryde",
+            "Quinoa",
+            "Spinat",
+            "Svampe",
+            "Kikærter",
+            "Vegetar",
+            "Hverdagsmad",
+            "Hovedret"
+        ],
+        "TotalMinutes": 30
     }
 ]

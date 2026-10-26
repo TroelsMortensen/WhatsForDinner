@@ -1,0 +1,44 @@
+{
+    "Id": 420,
+    "Title": "Laks i grøn karry og kokosmælk",
+    "SubHeader": "15 minutter i ovnen, og så kan du stille det her fad på bordet – toppet med grønt og sesamfrø ligner det en halv million og smager som en hel.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "små squash", "PreparationNote": "ca. 350–400 g" },
+                { "Quantity": 2, "Unit": "stk", "Name": "grønne peberfrugter", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "sukkerærter", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dåser", "Name": "kokosmælk", "PreparationNote": "800 ml" },
+                { "Quantity": 2.5, "Unit": "tsk", "Name": "grøn karrypasta", "PreparationNote": "2–3 tsk." },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "stk", "Name": "laksestykker", "PreparationNote": "uden skind" },
+                { "Quantity": 1, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 2, "Unit": "stk", "Name": "forårsløg", "PreparationNote": null },
+                { "Quantity": 50, "Unit": "g", "Name": "sukkerærter", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "frisk persille eller koriander", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "sorte sesamfrø", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Til servering",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "naanbrød eller ris", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Skræl tynde skiver af squashen med en tyndskræller eller et mandolinjern. Skær peberfrugt og sukkerærter i strimler.</p><p>Hæld kokosmælk i et fad, og rør grøn karry sammen med den. Tilsæt limesaft, og krydr med salt og peber. Fordel grøntsagerne i saucen.</p><p>Dup laksestykkerne tørre med køkkenrulle. Krydr med salt, peber og chiliflager, og fordel dem i saucen i fadet. Sæt fadet i ovnen i 15 minutter, til laksen er tilberedt, og grøntsagerne er møre, men har bid.</p><p>Snit forårsløgene fint, og skær sukkerærterne i tynde strimler. Drys fadet med forårsløg, sukkerærter, persille eller koriander og sesamfrø. Server med naanbrød eller ris.</p>",
+    "Note": "Grøn karrypasta findes typisk nær nudler og kokosmælk; start med 2 tsk. og smag til, da styrken varierer. Du kan erstatte laksen med kyllingebryst – halver tykke stykker på langs. Brug gul eller orange peberfrugt, hvis du ikke er til den grønne.",
+    "ImageUrl": "images/recipe-images/420. Laks i grøn karry og kokosmælk.jpg",
+    "Source": null,
+    "Keywords": ["Laks", "Fisk", "Grøn karry", "Kokosmælk", "Thai", "Ovnfad", "Hurtig", "Hverdagsmad", "Naan"]
+}

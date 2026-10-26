@@ -1,0 +1,54 @@
+{
+    "Id": 423,
+    "Title": "Sprøde tacos med pulled tacokylling",
+    "SubHeader": "Knasende sprøde, krydrede, fedtede og helt igennem vanedannende hverdagstacos – quesadillaens 2.0-version i ovnen.",
+    "TotalMinutes": 50,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 3, "Unit": "stk", "Name": "kyllingebryster", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "spsk", "Name": "tacokrydderi", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "rød peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "gul peberfrugt", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "glas", "Name": "tacosauce", "PreparationNote": "ca. 200 g" },
+                { "Quantity": 16, "Unit": "stk", "Name": "små tortillaer", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "spsk", "Name": "olie", "PreparationNote": "til at pensle tortillaerne" },
+                { "Quantity": 300, "Unit": "g", "Name": "revet cheddar eller mozzarella", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Avocadodip",
+            "Ingredients": [
+                { "Quantity": 0.25, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "håndfuld", "Name": "frisk koriander eller persille", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "avocadoer", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "lime", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "dl", "Name": "frisk koriander eller persille", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 2.5, "Unit": "dl", "Name": "creme fraiche", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "dl", "Name": "salsa", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "stk", "Name": "lime", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Læg kyllingebrysterne på en bageplade med bagepapir, og vend dem med olie og tacokrydderi.</p><p>Halver peberfrugterne, og fjern midten og kernerne. Fordel peberfrugterne på bagepladen, og vend dem i olien sammen med kyllingestykkerne.</p><p>Kom bagepladen i ovnen i 20-25 minutter – afhængigt af tykkelsen – til kyllingebrysterne er tilberedte.</p><p>Tag bagepladen ud, og læg kyllingebrysterne på et spækbræt. Brug to gafler til at trække kyllingebrysterne fra hinanden i strimler.</p><p>Skær peberfrugterne i små tern. Kom kyllingestrimler og peberfrugt i en skål, og vend dem med tacosauce.</p><p>Tag en tortilla, og pensl indersiden med lidt olie. Fordel 2 spsk. ost på den ene halvdel af tortillaen, dernæst ca. 3 spsk. kyllingefyld, og slut af med 2 spsk. ost. Fold den anden halvdel af tortillaen ind over fyldet, og læg den på bagepladen på et nyt stykke bagepapir. Fortsæt med resten af tortillaerne.</p><p>Drys ost på toppen af hver foldet tortilla, og sæt dem i ovnen i ca. 12 minutter, til osten er smeltet, og dine tacos er gyldne og let sprøde.</p><p>Skær løget i meget små tern, hak koriander eller persille groft, og kom begge dele i en skål sammen med avocadoerne. Mos det hele sammen til en grov mos – der må gerne være en del stykker af avocado. Smag til med limesaft, chili, salt og peber.</p><p>Tag bagepladen ud, og drys med friskhakket koriander eller persille. Server med creme fraiche, salsa, limebåde og avocadodip til.</p>",
+    "Note": "Hvilken tacosauce skal jeg bruge? Brug den type, du bedst kan lide – mild, medium eller stærk. En chunky salsa kan også bruges, men undgå for tynd sauce, da det kan gøre fyldet vådt.\n\nKan de laves endnu hurtigere? Har du en rest kylling eller kødsauce i køleskabet, så snup den. Bland den med tacosauce, fyld tortillaerne, og så har du lynhurtige tacos.\n\nJeg kan kun finde tortillaer i medium størrelse? Dem kan du sagtens bruge. Spred fyldet godt ud til kanterne, så laget er jævnt og ikke er for tykt på midten.",
+    "ImageUrl": "images/recipe-images/423. Sprøde tacos med pulled tacokylling.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Mexicansk", "Tacos", "Kylling", "Tortilla", "Ovn", "Avocado", "Hverdagsmad", "Hovedret"]
+}

@@ -1,0 +1,31 @@
+{
+    "Id": 425,
+    "Title": "Bagte, krydrede søde kartofler, blomkål og kikærter",
+    "SubHeader": "Ikke 1, ikke 2, men 7 dage på madplanen kan den her bradepande med bagte, krydrede grøntsager klare. Og jeg garanterer, at det ikke bliver kedeligt, for vi spiffer op med både tilbehør, dip og dressing, så du får suverænt god aftensmad uanset udgaven. Det er bare at vælge, vrage, mixe og matche de næste 7 opskrifter.",
+    "TotalMinutes": 35,
+    "MinutesOfPreparation": 15,
+    "NumberOfPersons": null,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "blomkål", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "søde kartofler", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kikærter", "PreparationNote": "400 g / 240 g drænet" },
+                { "Quantity": 4, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "hvidløgspulver", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "løgpulver", "PreparationNote": null },
+                { "Quantity": 4, "Unit": "tsk", "Name": "paprika", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "tsk", "Name": "stødt spidskommen", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "tsk", "Name": "stødt koriander", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chilipulver", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<h2>Fremgangsmåde</h2><p>Forvarm ovnen til 200 grader alm. ovn eller 180 grader varmluft.</p><p>Del blomkålen i små buketter. Skræl de søde kartofler, og skær dem i små tern. Dræn og skyl kikærterne, og dup dem let tørre med køkkenrulle, så får du sprødere kikærter.</p><p>Fordel blomkål, søde kartofler og kikærter i et jævnt lag på en bageplade med bagepapir.</p><p>Hæld olien udover, og drys med hvidløgspulver, løgpulver, paprika, spidskommen, koriander, chilipulver, salt og peber. Vend det hele godt sammen.</p><p>Sæt bagepladen i ovnen, og bag det hele ved 200 grader i ca. 15–20 minutter, til blomkålen og de søde kartofler er møre.</p>",
+    "Note": "Kan jeg tilsætte kylling? Sagtens. Skær kyllingefilet i tern på 3 cm, og bag dem med.\n\nDet er ret mange krydderier? Ja, både søde kartofler og kikærter bliver bedst med noget smag, men du kan fint halvere mængden, hvis du ikke er til krydret mad.\n\nKan jeg forberede grøntsagerne i forvejen? Jep, du kan sagtens skære dem ud og opbevare dem i køleskabet i en skål eller pose. Så er det bare at krydre og bage, når du skal lave retten.",
+    "ImageUrl": "images/recipe-images/425. Bagte, krydrede søde kartofler, blomkål og kikærter.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Vegetar", "Ovn", "Blomkål", "Søde kartofler", "Kikærter", "Bradepande", "Basisopskrift", "Hverdagsmad"]
+}

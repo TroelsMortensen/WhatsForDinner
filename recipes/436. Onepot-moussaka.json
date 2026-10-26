@@ -1,0 +1,53 @@
+{
+    "Id": 436,
+    "Title": "Onepot-moussaka",
+    "SubHeader": "En hurtig hverdagsversion af den græske klassiker – med aubergine, hakket oksekød, kikærter og ris i én gryde.",
+    "TotalMinutes": 30,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "stk", "Name": "løg", "PreparationNote": null },
+                { "Quantity": 3, "Unit": "fed", "Name": "hvidløg", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "aubergine", "PreparationNote": "300–350 g" },
+                { "Quantity": 250, "Unit": "g", "Name": "basmatiris", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "olie", "PreparationNote": null },
+                { "Quantity": 500, "Unit": "g", "Name": "hakket oksekød", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "salt og peber", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "kikærter", "PreparationNote": "400 g / 240 g drænet" },
+                { "Quantity": 3, "Unit": "spsk", "Name": "tomatpuré", "PreparationNote": "100 g" },
+                { "Quantity": 2, "Unit": "spsk", "Name": "rødvinseddike", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "oregano", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "chiliflager", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "stødt kanel", "PreparationNote": "kan udelades" },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "stødt allehånde", "PreparationNote": "kan udelades" },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": 0.25, "Unit": "tsk", "Name": "sukker", "PreparationNote": null },
+                { "Quantity": 6, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "oksebouillonterning", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "ds", "Name": "hakkede tomater", "PreparationNote": "400 g" }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": 1, "Unit": "håndfuld", "Name": "frisk persille", "PreparationNote": null },
+                { "Quantity": 200, "Unit": "g", "Name": "friske tomater", "PreparationNote": "valgfri" }
+            ]
+        },
+        {
+            "Title": "Servering",
+            "Ingredients": [
+                { "Quantity": 2.5, "Unit": "dl", "Name": "græsk yoghurt eller creme fraiche", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "citron", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Skær løget i fine tern, og hak hvidløget fint. Skær auberginen i tern på 1½–2 cm. Kom risene i en sigte, og skyl dem i koldt vand.</p><p>Varm olien op i en gryde, kom løg og hvidløg i, og svits dem i ca. 2 minutter, til løgene er klare – de skal ikke tage farve.</p><p>Tilsæt hakket oksekød, og brun det. Kom aubergineternene i gryden, og krydr med salt og peber. Steg det hele igennem i 2–4 minutter, til aubergineternene begynder at blive lidt bløde. Dræn og skyl kikærterne, og varm dem med i 30 sekunder.</p><p>Tilsæt tomatpuré og rødvinseddike, og svits det hele i 1 minut. Tilsæt oregano, chiliflager, kanel, allehånde, salt og sukker, og lad det hele varme igennem i 1 minut.</p><p>Kom ris, vand, bouillonterning og hakkede tomater i, og rør i gryden, så risene er jævnt fordelt. Kog det hele op, og skru derefter ned til lav varme. Lad retten simre under låg i 15 minutter, eller indtil risene er kogt, og væsken er næsten absorberet. Undgå at løfte låget i de første 8 minutter, så dampen bliver i gryden. Hvis risene suger meget væske, kan du tilsætte ½–1 dl kogende vand lidt ad gangen.</p><p>Tag gryden af varmen, og lad den hvile med låg på i 10 minutter. Top med friskhakket persille, og server med græsk yoghurt og citronbåde til.</p>",
+    "Note": "Kanel og allehånde, bliver det ikke for julet?\nDe kan sagtens udelades, hvis du ikke er pjattet med de krydderier i det salte køkken. Vil du gerne have lidt krydderi ind, så er 1–2 tsk. stødt spidskommen også ret lækkert heri.\n\nLouise, er der ikke kartofler i en klassisk moussaka?\nJo jo, og bechamelsauce, vil grækere nok også påstå. Men med aubergine og en klat græsk yoghurt på toppen er der ren moussaka-vibe i den her risret.\n\nKan kikærterne blive i dåsen?\nJep, er du ikke til kikærter, lader du blot være at komme dem i.",
+    "ImageUrl": "images/recipe-images/436. Onepot-moussaka.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Græsk", "Gryde", "Onepan", "Oksekød", "Ris", "Aubergine", "Kikærter", "Hverdagsmad", "Hovedret"]
+}

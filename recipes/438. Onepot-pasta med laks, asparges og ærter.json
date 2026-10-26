@@ -1,0 +1,37 @@
+{
+    "Id": 438,
+    "Title": "Onepot-pasta med laks, asparges og ærter",
+    "SubHeader": "Når naboerne begynder at luge terrasserne, er aspargessæsonen i gang. Her mødes laks, asparges og ærter i en simpel onepot-pasta med cremet sauce – alt i én gryde.",
+    "TotalMinutes": 25,
+    "MinutesOfPreparation": 10,
+    "NumberOfPersons": 4,
+    "RecipeGroups": [
+        {
+            "Title": "Ingredienser",
+            "Ingredients": [
+                { "Quantity": 500, "Unit": "g", "Name": "laksefilet", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "grønne asparges", "PreparationNote": null },
+                { "Quantity": 400, "Unit": "g", "Name": "tørret pasta", "PreparationNote": "her casarecce" },
+                { "Quantity": 8, "Unit": "dl", "Name": "vand", "PreparationNote": null },
+                { "Quantity": 1, "Unit": "stk", "Name": "grøntsagsbouillonterning", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "grøn pikantflødeost", "PreparationNote": null },
+                { "Quantity": 2, "Unit": "spsk", "Name": "citronsaft", "PreparationNote": null },
+                { "Quantity": 0.5, "Unit": "tsk", "Name": "salt", "PreparationNote": null },
+                { "Quantity": null, "Unit": null, "Name": "peber", "PreparationNote": null },
+                { "Quantity": 75, "Unit": "g", "Name": "frisk babyspinat", "PreparationNote": null },
+                { "Quantity": 150, "Unit": "g", "Name": "ærter", "PreparationNote": null }
+            ]
+        },
+        {
+            "Title": "Topping",
+            "Ingredients": [
+                { "Quantity": null, "Unit": null, "Name": "frisk dild eller persille", "PreparationNote": null }
+            ]
+        }
+    ],
+    "Instructions": "<p>Skær skindet fra laksefileterne, og skær dem i store tern.</p><p>Knæk den nederste del af aspargesene, og skær resten i mindre stykker på 4–5 cm.</p><p>Kom asparges, pasta, vand, bouillonterning, flødeost, citronsaft, salt og peber i en gryde med låg. Rør rundt, til flødeosten er rørt ud. Læg lakseternene ovenpå – rør dem ikke ned; de skal dampes, så de forbliver saftige.</p><p>Bring gryden i kog, og skru ned til middel/lav varme. Lad det simre under låg i ca. 12 minutter, eller til pastaen er al dente. Tilberedningstiden kan variere alt efter pastatype og mærke. Hvis pastaen suger meget væske, kan du tilsætte ½–1 dl kogende vand lidt ad gangen.</p><p>Tag låget af, og rør forsigtigt rundt. Tilsæt spinat og ærter, og lad dem varme igennem i 1 minut. Smag til med citronsaft, salt og peber. Top med friskhakket dild eller persille, og server.</p>",
+    "Note": "Jeg kan ikke finde grøn pikantflødeost?\nBrug almindelig flødeost, madlavningsfløde eller mascarpone i stedet.\n\nFrosne eller friske ærter?\nBegge dele fungerer – friske ærter smager fantastisk, når de er i sæson.\n\nHvad, hvis det ikke er aspargessæson?\nBroccoli i små buketter eller sukkerærter fungerer perfekt som alternativ.",
+    "ImageUrl": "images/recipe-images/438. Onepot-pasta med laks, asparges og ærter.jpg",
+    "Source": "Loui & Bearnaisen",
+    "Keywords": ["Laks", "Fisk", "Pasta", "Asparges", "Ærter", "Spinat", "Gryde", "Onepan", "One Pot", "Hurtig", "Hverdagsmad", "Hovedret"]
+}
